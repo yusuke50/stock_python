@@ -1,8 +1,8 @@
-from cgi import print_directory
 import requests
 import re
 from bs4 import BeautifulSoup
 
+""" LIST START """
 todays_list = []
 
 res_FATCA = requests.get("https://fubon-ebrokerdj.fbs.com.tw/Z/ZG/ZG_DD.djhtm")
@@ -10,7 +10,7 @@ items_FATCA = BeautifulSoup(res_FATCA.text, "html.parser").select("tr .t3t1 a")
 
 for item in items_FATCA:
     re_inner = re.match(r"^(\w+)", item.decode_contents()[0:6]).group()
-    todays_list.append('{}.TW'.format(re_inner))
+    todays_list.append("{}.TW".format(re_inner))
 
 res_main = requests.get("https://fubon-ebrokerdj.fbs.com.tw/Z/ZG/ZG_F.djhtm")
 items_main = BeautifulSoup(res_main.text, "html.parser").select("tr .t3t1 a")
@@ -19,7 +19,7 @@ for item in items_main:
 
     for l in todays_list:
         if (l != temp):
-            todays_list.append('{}.TW'.format(temp))
+            todays_list.append("{}.TW".format(temp))
             break
 
 res_foreign = requests.get(
@@ -31,7 +31,7 @@ for item in items_foreign:
 
     for l in todays_list:
         if (l != temp):
-            todays_list.append('{}.TW'.format(temp))
+            todays_list.append("{}.TW".format(temp))
             break
 
 ori_file = open("stock-list.txt", "r", encoding="utf-8")
@@ -49,7 +49,8 @@ for item in todays_list:
     if (not flag):
         lines.append(item)
 
-with open('stock-list.txt', "w", encoding="utf-8") as list_file:
+with open("stock-list.txt", "w", encoding="utf-8") as list_file:
     for line in lines:
-        list_file.write('{}\n'.format(line))
+        list_file.write("{}\n".format(line))
 list_file.close()
+""" LIST END """
