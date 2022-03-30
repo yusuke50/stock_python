@@ -17,3 +17,5 @@ fifty_two_week_low = tsmc.info["fiftyTwoWeekLow"]  # 52週低點 """
 historical = tsmc.history(start=that_day, end=today)
 df = pd.DataFrame(historical)
 one_hundred_fifty_day_average = df["Close"].mean()
+last_3_row = df.tail(3)
+three_day_average = last_3_row["Close"].mean()
