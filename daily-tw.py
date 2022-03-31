@@ -115,7 +115,8 @@ for line in first_lines:
     if (flag):
         final_list.append(line)
 
-with open("final-list.txt", "w", encoding="utf-8") as final_file:
+final_file_name = ("final-list-{}.txt").format(today)
+with open(final_file_name, "w", encoding="utf-8") as final_file:
     for line in final_list:
         final_file.write("{}\n".format(line))
 final_file.close()
