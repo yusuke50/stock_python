@@ -83,31 +83,25 @@ for line in first_lines:
     df = pd.DataFrame(historical)
     one_hundred_fifty_day_average = df["Close"].mean()
 
-    last_3_row = df.tail(3)
-    last_5_row = df.tail(5)
-
-    three_day_average = last_3_row["Close"].mean()
-    five_day_average = last_5_row["Close"].mean()
-
-    if current_price <= one_hundred_fifty_day_average:
+    if current_price < one_hundred_fifty_day_average:
         flag = False
         break
-    elif current_price <= two_hundred_day_average:
+    elif current_price < two_hundred_day_average:
         flag = False
         break
-    elif one_hundred_fifty_day_average <= two_hundred_day_average:
+    elif one_hundred_fifty_day_average < two_hundred_day_average:
         flag = False
         break
-    elif fifty_day_average <= one_hundred_fifty_day_average:
+    elif fifty_day_average < one_hundred_fifty_day_average:
         flag = False
         break
-    elif fifty_day_average <= two_hundred_day_average:
+    elif fifty_day_average < two_hundred_day_average:
         flag = False
         break
-    elif current_price <= fifty_two_week_low * 1.25:
+    elif current_price < fifty_two_week_low * 1.25:
         flag = False
         break
-    elif current_price <= fifty_two_week_high * 0.75:
+    elif current_price < fifty_two_week_high * 0.75:
         flag = False
         break
 
