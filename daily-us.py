@@ -29,27 +29,20 @@ for line in first_lines:
 
     if current_price < one_hundred_fifty_day_average:
         flag = False
-        break
     elif current_price < two_hundred_day_average:
         flag = False
-        break
     elif one_hundred_fifty_day_average < two_hundred_day_average:
         flag = False
-        break
     elif fifty_day_average < one_hundred_fifty_day_average:
         flag = False
-        break
     elif fifty_day_average < two_hundred_day_average:
         flag = False
-        break
     elif current_price < fifty_two_week_low * 1.25:
         flag = False
-        break
     elif current_price < fifty_two_week_high * 0.75:
         flag = False
-        break
 
-    if (flag):
+    if flag:
         final_list.append(line)
 
 final_file_name = ("final-list-us-{}.txt").format(today)
