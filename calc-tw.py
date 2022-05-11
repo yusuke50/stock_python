@@ -1,6 +1,7 @@
 import yfinance as yf
 from datetime import date, timedelta
 import pandas as pd
+import os.path
 
 """ CHECK START """
 today = date.today()
@@ -49,7 +50,8 @@ with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
             final_list.append(stock_name)
 ori_list.close()
 
-final_file_name = ("final-list-{}.txt").format(today)
+path = os.path.join(os.path.dirname(__file__), ".\list")
+final_file_name = os.path.join(path, "final-list-{}.txt".format(today))
 with open(final_file_name, "w", encoding="utf-8") as final_file:
     final_file.write("\n".join(final_list))
 final_file.close()
