@@ -1,8 +1,11 @@
-from locale import windows_locale
 import yfinance as yf
+from datetime import date, timedelta
 import talib
 
-data = yf.download("AAPL", start="2022-03-01", end="2022-04-07")
+today = date.today()
+start_day = today - timedelta(60)
+
+data = yf.download("MRK", start=start_day, end=today)
 windows_length = 14
 
 
@@ -24,3 +27,4 @@ def RSI(data, window=windows_length, adjust=False):
 
 
 data["RSI"] = talib.RSI(data["Close"], 14)
+print(data)
