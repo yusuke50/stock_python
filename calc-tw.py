@@ -2,13 +2,14 @@ import yfinance as yf
 from datetime import date, timedelta
 import pandas as pd
 import os.path
+import time
 
 """ CHECK START """
 today = date.today()
 one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
 
-with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
+with open("temp.txt", "r", encoding="utf-8") as ori_list:
     final_list = []
 
     for line in ori_list:
@@ -48,6 +49,10 @@ with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
 
         if flagCheck:
             final_list.append(stock_name)
+        else:
+            print("{} failure of checking".format(stock_name))
+
+        time.sleep(1)
 ori_list.close()
 
 path = os.path.join(os.path.dirname(__file__), ".\list")
