@@ -50,7 +50,7 @@ with open("temp.txt", "r", encoding="utf-8") as ori_list:
         if flagCheck:
             final_list.append(stock_name)
         else:
-            print("{} failure of checking".format(stock_name))
+            print("{} X".format(stock_name))
 
         time.sleep(1)
 ori_list.close()
