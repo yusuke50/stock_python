@@ -48,9 +48,10 @@ with open("temp.txt", "r", encoding="utf-8") as ori_list:
             flagCheck = False
 
         if flagCheck:
+            print("{} O".format(stock_name))
             final_list.append(stock_name)
-        else:
-            print("{} X".format(stock_name))
+        # else:
+        # print("{} X".format(stock_name))
 
         time.sleep(1)
 ori_list.close()
