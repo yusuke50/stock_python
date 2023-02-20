@@ -1,5 +1,4 @@
-import requests
-from bs4 import BeautifulSoup
+from requests_html import HTMLSession
 
 today_list = []
 
@@ -13,13 +12,15 @@ def getStock(type):
     elif type == "foreign":
         url = "https://fubon-ebrokerdj.fbs.com.tw/Z/ZG/ZG_D.djhtm"
 
-    items = BeautifulSoup(requests.get(url).text,
-                          "html.parser").select("tr .t3t1 a")
+    session = HTMLSession()
+    datahtml = session.get(url)
+    items = datahtml.html.find("tr .t3t1 a")
+
     itemSummary = []
     for item in items:
-        item = item.decode_contents().split(" ")[0]
-        if len(item) == 4:
-            itemSummary.append(item)
+        txt = item.text.split(" ")[0]
+        if len(txt) == 4:
+            itemSummary.append(txt)
     return itemSummary
 
 
@@ -54,7 +55,7 @@ check_list_len(foreign_list)
 
 def check_count(item):
     f = False
-    stock = ''
+    stock = ""
     count = 0
 
     for sl in new_file_lines:
@@ -66,8 +67,8 @@ def check_count(item):
             break
 
     d = dict()
-    d['flag'] = f
-    d['count'] = count
+    d["flag"] = f
+    d["count"] = count
 
     return d
 
