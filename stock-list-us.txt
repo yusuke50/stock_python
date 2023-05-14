@@ -132,3 +132,4 @@ VZ
 WFC
 WMT
 XOM
+CL
