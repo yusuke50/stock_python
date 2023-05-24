@@ -117,7 +117,7 @@ with open("stock-list-us.txt", "r") as ori_list:
 
 ori_list.close()
 
-path = os.path.join(os.path.dirname(__file__), ".\list")
+path = os.path.join(os.path.dirname(__file__), ".\\us-list")
 final_file_name = os.path.join(path, "us-final-list-{}.txt".format(today))
 with open(final_file_name, "w", encoding="utf-8") as final_file:
     final_file.write("\n".join(final_list))
