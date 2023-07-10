@@ -1,0 +1,18 @@
+AAPL, RSI(talib): 68.38000822488769
+NVDA, RSI(talib): 61.39430284100097
+META, RSI(talib): 66.83233011693038
+NFLX, RSI(talib): 65.03922592341509
+PANW, RSI(talib): 67.14043838447873
+FTNT, RSI(talib): 63.00268332128136
+NXPI, RSI(talib): 64.64386088872892
+VRSK, RSI(talib): 60.871353901562046
+PCAR, RSI(talib): 65.03596326776095
+BRK-B, RSI(talib): 64.80370424036417
+DAL, RSI(talib): 77.66191690639748
+MA, RSI(talib): 62.669506211852564
+NOW, RSI(talib): 60.08359913584837
+--------------
+ADBE failed ('NoneType' object has no attribute 'text').
+FISV failed (index 0 is out of bounds for axis 0 with size 0).
+ASML failed ('NoneType' object has no attribute 'text').
+JPM failed ('NoneType' object has no attribute 'text').
