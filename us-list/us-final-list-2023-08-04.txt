@@ -1,0 +1,17 @@
+CMCSA, RSI(talib): 72.93716619445217
+LRCX, RSI(talib): 60.24950909108541
+MELI, RSI(talib): 62.22098417502443
+ATVI, RSI(talib): 63.23793304576786
+MAR, RSI(talib): 65.50998823831652
+CTSH, RSI(talib): 68.08949101526846
+ODFL, RSI(talib): 64.7023203796365
+BRK-B, RSI(talib): 69.74339094417667
+BA, RSI(talib): 62.585486642895425
+JPM, RSI(talib): 64.2427243465905
+ROKU, RSI(talib): 63.22377422222254
+WMT, RSI(talib): 63.598731208318924
+BKR, RSI(talib): 66.11536157070486
+ODFL, RSI(talib): 64.7023203796365
+--------------
+ZM failed (index 0 is out of bounds for axis 0 with size 0).
+NTES failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
