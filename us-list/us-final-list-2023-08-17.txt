@@ -1,0 +1,6 @@
+CMCSA, RSI(talib): 68.86596948854525
+BKNG, RSI(talib): 65.80200674903102
+MAR, RSI(talib): 68.69145185395202
+LLY, RSI(talib): 80.78316988691783
+--------------
+CHTR failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).

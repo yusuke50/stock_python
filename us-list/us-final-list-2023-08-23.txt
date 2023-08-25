@@ -1,0 +1,7 @@
+CSCO, RSI(talib): 69.9004165713156
+ATVI, RSI(talib): 61.84753648345694
+MAR, RSI(talib): 60.84531032642724
+LLY, RSI(talib): 77.3777060565009
+--------------
+MCHP failed (index 0 is out of bounds for axis 0 with size 0).
+WFC failed (index 0 is out of bounds for axis 0 with size 0).
