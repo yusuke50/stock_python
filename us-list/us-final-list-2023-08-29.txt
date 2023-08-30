@@ -1,0 +1,13 @@
+CSCO, RSI(talib): 67.77730738049218
+CMCSA, RSI(talib): 61.17331108491093
+INTU, RSI(talib): 66.53274318297593
+ATVI, RSI(talib): 62.78731443589744
+CTSH, RSI(talib): 60.12454217157157
+VRSK, RSI(talib): 60.797231064960336
+SGEN, RSI(talib): 83.11967576333736
+SPLK, RSI(talib): 75.66990250785915
+LLY, RSI(talib): 73.20318338865734
+MA, RSI(talib): 63.8044297641309
+BKR, RSI(talib): 64.61347125116991
+--------------
+NTES failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
