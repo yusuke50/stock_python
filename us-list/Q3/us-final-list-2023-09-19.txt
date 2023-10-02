@@ -1,0 +1,14 @@
+GOOG, RSI(talib): 66.77663259686294
+GOOGL, RSI(talib): 67.1149817009284
+INTC, RSI(talib): 63.23009428515755
+CTAS, RSI(talib): 60.0796655725314
+VRSK, RSI(talib): 62.54312219107471
+SGEN, RSI(talib): 63.18190734430475
+CEG, RSI(talib): 62.72435355372041
+BRK-B, RSI(talib): 72.38577976278108
+LLY, RSI(talib): 60.14341190142738
+MA, RSI(talib): 63.81712149552523
+GE, RSI(talib): 60.73751289933347
+--------------
+META failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).
+NXPI failed (inputs are all NaN).

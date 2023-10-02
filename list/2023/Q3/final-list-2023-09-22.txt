@@ -1,0 +1,26 @@
+9958.TW, RSI(talib): 65.1255925198038
+2408.TW, RSI(talib): 64.41657771021553
+6531.TW, RSI(talib): 66.49814697647312
+2006.TW, RSI(talib): 70.28235591134975
+1319.TW, RSI(talib): 76.78252772695267
+1808.TW, RSI(talib): 62.79277731665505
+2105.TW, RSI(talib): 64.23677106528636
+2363.TW, RSI(talib): 61.38755447630216
+1522.TW, RSI(talib): 80.32049154959712
+8081.TW, RSI(talib): 62.38870711609531
+8112.TW, RSI(talib): 60.0916036956729
+6605.TW, RSI(talib): 63.03297729811278
+2385.TW, RSI(talib): 67.94905761899798
+2539.TW, RSI(talib): 67.66926409372532
+1809.TW, RSI(talib): 62.27442709587162
+3014.TW, RSI(talib): 61.08312229498323
+1310.TW, RSI(talib): 60.15135032725
+6451.TW, RSI(talib): 72.10856287766948  !
+2816.TW, RSI(talib): 60.82562437245929
+2025.TW, RSI(talib): 71.66255855948839
+3450.TW, RSI(talib): 74.62628769083985  !
+2543.TW, RSI(talib): 72.78350393460767  ! 券回補 10/4
+--------------
+9945.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3443.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+2547.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).

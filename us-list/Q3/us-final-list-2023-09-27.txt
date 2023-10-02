@@ -1,0 +1,5 @@
+ATVI, RSI(talib): 72.59779327627552
+SGEN, RSI(talib): 76.0450115343933
+SPLK, RSI(talib): 83.46776780978477
+--------------
+CSCO failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).

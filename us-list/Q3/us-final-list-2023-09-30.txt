@@ -1,0 +1,6 @@
+ATVI, RSI(talib): 65.88265000742662
+SGEN, RSI(talib): 63.1744224142721
+SPLK, RSI(talib): 83.10466562235295
+--------------
+HON failed (inputs are all NaN).
+MDLZ failed (inputs are all NaN).
