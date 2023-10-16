@@ -1,0 +1,5 @@
+ATVI, RSI(talib): 68.12085827136431
+SGEN, RSI(talib): 63.162170085844636
+SPLK, RSI(talib): 83.65981465564857
+--------------
+PFE failed (inputs are all NaN).

@@ -1,0 +1,50 @@
+2886.TW, Close: 38.95000076293945, RSI(talib): 63.38
+2368.TW, Close: 223.5, RSI(talib): 60.27
+2812.TW, Close: 15.0, RSI(talib): 60.33
+2344.TW, Close: 28.899999618530273, RSI(talib): 63.72
+1477.TW, Close: 357.0, RSI(talib): 67.78
+1319.TW, Close: 86.69999694824219, RSI(talib): 66.79
+1560.TW, Close: 165.5, RSI(talib): 69.58
+1514.TW, Close: 54.79999923706055, RSI(talib): 60.84
+3661.TW, Close: 2800.0, RSI(talib): 69.21
+2345.TW, Close: 530.0, RSI(talib): 68.98
+2449.TW, Close: 81.0, RSI(talib): 60.52
+3443.TW, Close: 1695.0, RSI(talib): 68.10
+2105.TW, Close: 44.95000076293945, RSI(talib): 73.16
+2363.TW, Close: 44.95000076293945, RSI(talib): 68.38
+1522.TW, Close: 41.79999923706055, RSI(talib): 62.17
+6591.TW, Close: 54.79999923706055, RSI(talib): 62.22
+8112.TW, Close: 55.599998474121094, RSI(talib): 60.34
+1568.TW, Close: 30.350000381469727, RSI(talib): 64.31
+2385.TW, Close: 122.0, RSI(talib): 74.96
+2486.TW, Close: 52.5, RSI(talib): 60.02
+6117.TW, Close: 47.650001525878906, RSI(talib): 69.00
+3029.TW, Close: 65.5, RSI(talib): 67.72
+6197.TW, Close: 78.80000305175781, RSI(talib): 61.32
+5225.TW, Close: 65.80000305175781, RSI(talib): 63.93
+1519.TW, Close: 282.0, RSI(talib): 64.06
+4763.TW, Close: 1180.0, RSI(talib): 63.20
+2530.TW, Close: 26.75, RSI(talib): 62.23
+8210.TW, Close: 233.0, RSI(talib): 60.36
+9917.TW, Close: 115.0, RSI(talib): 70.25
+3051.TW, Close: 32.599998474121094, RSI(talib): 62.29
+2427.TW, Close: 28.549999237060547, RSI(talib): 65.11
+3715.TW, Close: 99.69999694824219, RSI(talib): 75.27
+6112.TW, Close: 67.0999984741211, RSI(talib): 62.29
+3014.TW, Close: 166.5, RSI(talib): 61.13
+4581.TW, Close: 73.30000305175781, RSI(talib): 61.37
+8271.TW, Close: 60.5, RSI(talib): 63.53
+1603.TW, Close: 42.45000076293945, RSI(talib): 68.25
+2480.TW, Close: 119.0, RSI(talib): 62.27
+1604.TW, Close: 29.899999618530273, RSI(talib): 74.83
+2516.TW, Close: 7.800000190734863, RSI(talib): 61.90
+2025.TW, Close: 8.020000457763672, RSI(talib): 66.10
+3450.TW, Close: 61.599998474121094, RSI(talib): 71.28
+2543.TW, Close: nan, RSI(talib): 66.03
+1324.TW, Close: 16.5, RSI(talib): 64.42
+2365.TW, Close: 12.300000190734863, RSI(talib): 76.17
+--------------
+6278.TW failed ('NoneType' object has no attribute 'text').
+2101.TW failed (inputs are all NaN).
+3376.TW failed (inputs are all NaN).
+4766.TW failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).

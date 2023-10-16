@@ -1,0 +1,5 @@
+ATVI, RSI(talib): 66.10608065022596
+SGEN, RSI(talib): 62.89395909208684
+SPLK, RSI(talib): 83.88269150232074
+--------------
+AVGO failed (inputs are all NaN).
