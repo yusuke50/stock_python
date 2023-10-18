@@ -1,0 +1,52 @@
+2885.TW, Close: 25.30, RSI(talib): 60.38
+2455.TW, Close: 152.00, RSI(talib): 67.50
+2886.TW, Close: 38.75, RSI(talib): 65.14
+3035.TW, Close: 352.50, RSI(talib): 61.62
+2809.TW, Close: 38.15, RSI(talib): 67.54
+2812.TW, Close: 14.90, RSI(talib): 61.02
+2515.TW, Close: 11.85, RSI(talib): 73.25    !
+1477.TW, Close: 365.00, RSI(talib): 73.98
+1319.TW, Close: 82.50, RSI(talib): 68.05
+2492.TW, Close: 107.00, RSI(talib): 64.64
+1560.TW, Close: 163.50, RSI(talib): 69.26
+3661.TW, Close: 2630.00, RSI(talib): 64.63
+2345.TW, Close: 526.00, RSI(talib): 64.31
+2449.TW, Close: 82.80, RSI(talib): 62.81
+3443.TW, Close: 1685.00, RSI(talib): 74.69
+2105.TW, Close: 43.20, RSI(talib): 66.52
+2363.TW, Close: 54.10, RSI(talib): 81.95    !
+6591.TW, Close: 53.40, RSI(talib): 63.47
+2425.TW, Close: 47.45, RSI(talib): 63.70
+9941.TW, Close: 183.50, RSI(talib): 60.42
+6605.TW, Close: 144.00, RSI(talib): 70.59
+1568.TW, Close: 32.45, RSI(talib): 72.47    !
+2385.TW, Close: 122.50, RSI(talib): 77.63
+6117.TW, Close: 46.50, RSI(talib): 66.26
+3029.TW, Close: 62.90, RSI(talib): 70.19
+6197.TW, Close: 75.00, RSI(talib): 64.08
+3346.TW, Close: 53.30, RSI(talib): 66.38
+4967.TW, Close: 74.10, RSI(talib): 64.26
+5225.TW, Close: 62.90, RSI(talib): 63.92
+3025.TW, Close: 45.30, RSI(talib): 66.94
+4763.TW, Close: 1165.00, RSI(talib): 73.89
+2530.TW, Close: 27.70, RSI(talib): 66.39    !
+9917.TW, Close: 115.50, RSI(talib): 71.53
+6139.TW, Close: 112.00, RSI(talib): 65.72
+6691.TW, Close: 284.00, RSI(talib): 69.23
+2427.TW, Close: 27.25, RSI(talib): 60.20
+5521.TW, Close: 8.29, RSI(talib): 82.28
+3715.TW, Close: 95.50, RSI(talib): 80.79
+8271.TW, Close: 60.30, RSI(talib): 60.86
+2247.TW, Close: 319.00, RSI(talib): 65.74
+1603.TW, Close: 38.80, RSI(talib): 62.05
+2369.TW, Close: 18.85, RSI(talib): 60.09
+1604.TW, Close: 29.35, RSI(talib): 67.91
+2516.TW, Close: 8.72, RSI(talib): 76.41
+2025.TW, Close: 7.72, RSI(talib): 64.00
+3450.TW, Close: 58.80, RSI(talib): 61.87
+2543.TW, Close: 16.35, RSI(talib): 73.26
+1324.TW, Close: 16.00, RSI(talib): 66.29
+2365.TW, Close: 11.95, RSI(talib): 60.30
+--------------
+2368.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3149.TW failed (index 0 is out of bounds for axis 0 with size 0).
