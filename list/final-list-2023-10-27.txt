@@ -1,0 +1,34 @@
+6176.TW, Close: 126.00, RSI(talib): 60.11
+2390.TW, Close: 15.85, RSI(talib): 60.04
+2515.TW, Close: 11.70, RSI(talib): 64.54
+3704.TW, Close: 54.20, RSI(talib): 61.49
+5258.TW, Close: 133.00, RSI(talib): 68.30
+1560.TW, Close: 163.50, RSI(talib): 61.82
+2105.TW, Close: 43.95, RSI(talib): 61.43
+2363.TW, Close: 50.00, RSI(talib): 65.41
+2385.TW, Close: 124.00, RSI(talib): 67.00
+6117.TW, Close: 55.30, RSI(talib): 63.33
+6197.TW, Close: 83.30, RSI(talib): 65.83
+4967.TW, Close: 74.10, RSI(talib): 61.81
+6442.TW, Close: 80.30, RSI(talib): 66.58
+2364.TW, Close: 138.00, RSI(talib): 68.07
+9917.TW, Close: 115.50, RSI(talib): 60.79
+6139.TW, Close: 132.00, RSI(talib): 76.46
+2539.TW, Close: 43.20, RSI(talib): 61.39
+3051.TW, Close: 31.80, RSI(talib): 60.87
+8110.TW, Close: 16.15, RSI(talib): 72.43
+5521.TW, Close: 9.36, RSI(talib): 79.80
+4581.TW, Close: 73.80, RSI(talib): 62.78
+3055.TW, Close: 38.30, RSI(talib): 64.00
+2369.TW, Close: 21.70, RSI(talib): 65.29
+2460.TW, Close: 28.20, RSI(talib): 62.22
+2516.TW, Close: 9.20, RSI(talib): 63.00
+2816.TW, Close: 36.85, RSI(talib): 68.48
+2543.TW, Close: 18.55, RSI(talib): 76.02
+1324.TW, Close: 19.95, RSI(talib): 69.65
+--------------
+1589.TW failed ('NoneType' object has no attribute 'text').
+2017.TW failed (inputs are all NaN).
+3494.TW failed (inputs are all NaN).
+1616.TW failed (inputs are all NaN).
+2535.TW failed (index 0 is out of bounds for axis 0 with size 0).

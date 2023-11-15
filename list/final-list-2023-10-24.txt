@@ -1,0 +1,28 @@
+3006.TW, Close: 92.80, RSI(talib): 62.01
+2515.TW, Close: 11.65, RSI(talib): 66.73
+1560.TW, Close: 167.00, RSI(talib): 66.51
+2363.TW, Close: 51.90, RSI(talib): 73.90
+2458.TW, Close: 144.00, RSI(talib): 63.64
+1568.TW, Close: 36.90, RSI(talib): 74.97
+2385.TW, Close: 127.00, RSI(talib): 71.99
+6197.TW, Close: 82.90, RSI(talib): 62.60
+4967.TW, Close: 76.20, RSI(talib): 66.40
+4763.TW, Close: 1200.00, RSI(talib): 60.67
+2530.TW, Close: 27.35, RSI(talib): 63.35
+2364.TW, Close: 144.00, RSI(talib): 70.79
+9917.TW, Close: 115.50, RSI(talib): 61.35
+6139.TW, Close: 129.00, RSI(talib): 64.59
+2539.TW, Close: 43.05, RSI(talib): 64.33
+3051.TW, Close: 32.90, RSI(talib): 64.44
+6168.TW, Close: 26.85, RSI(talib): 65.23
+8110.TW, Close: 16.35, RSI(talib): 68.79
+5521.TW, Close: 8.97, RSI(talib): 81.43
+2369.TW, Close: 23.55, RSI(talib): 75.96
+2460.TW, Close: 28.70, RSI(talib): 60.08
+2516.TW, Close: 9.14, RSI(talib): 68.63
+2816.TW, Close: 34.60, RSI(talib): 68.17
+2543.TW, Close: 18.05, RSI(talib): 73.49
+1324.TW, Close: 20.05, RSI(talib): 71.60
+--------------
+3535.TW failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).
+2535.TW failed (index 0 is out of bounds for axis 0 with size 0).

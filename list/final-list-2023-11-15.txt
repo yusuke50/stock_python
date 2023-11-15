@@ -1,0 +1,47 @@
+2891.TW, Close: 26.80, RSI(talib): 68.81    !
+2313.TW, Close: 57.10, RSI(talib): 61.42
+2357.TW, Close: 391.50, RSI(talib): 72.90
+3545.TW, Close: 101.00, RSI(talib): 73.34   !
+2417.TW, Close: 39.35, RSI(talib): 62.68    !
+6531.TW, Close: 444.00, RSI(talib): 66.25
+2329.TW, Close: 48.90, RSI(talib): 66.19
+2359.TW, Close: 37.25, RSI(talib): 60.14
+4938.TW, Close: 80.00, RSI(talib): 64.08
+2368.TW, Close: 229.00, RSI(talib): 70.03
+2006.TW, Close: 69.30, RSI(talib): 67.71    !
+3044.TW, Close: 196.50, RSI(talib): 64.68
+5258.TW, Close: 140.00, RSI(talib): 66.47
+1560.TW, Close: 178.00, RSI(talib): 67.62
+2388.TW, Close: 158.50, RSI(talib): 64.39
+3661.TW, Close: 3105.00, RSI(talib): 70.82
+1313.TW, Close: 16.20, RSI(talib): 65.66    !
+2449.TW, Close: 83.80, RSI(talib): 62.77
+3443.TW, Close: 1675.00, RSI(talib): 67.62
+2105.TW, Close: 46.55, RSI(talib): 64.68    !
+1476.TW, Close: 584.00, RSI(talib): 67.25
+5269.TW, Close: 1500.00, RSI(talib): 69.48
+6669.TW, Close: 1870.00, RSI(talib): 67.56
+3015.TW, Close: 51.50, RSI(talib): 67.57
+6412.TW, Close: 140.00, RSI(talib): 81.05
+2385.TW, Close: 155.00, RSI(talib): 86.65   !
+3005.TW, Close: 80.70, RSI(talib): 61.36
+6117.TW, Close: 52.20, RSI(talib): 62.35
+3029.TW, Close: 64.20, RSI(talib): 60.76
+4967.TW, Close: 92.70, RSI(talib): 70.49
+2355.TW, Close: 39.00, RSI(talib): 62.14
+8210.TW, Close: 239.50, RSI(talib): 65.82
+9917.TW, Close: 121.50, RSI(talib): 67.59   !
+6139.TW, Close: 129.00, RSI(talib): 62.58
+2539.TW, Close: 47.05, RSI(talib): 78.44    !
+6691.TW, Close: 308.50, RSI(talib): 66.20   !
+1229.TW, Close: 64.90, RSI(talib): 66.20    !
+6243.TW, Close: 55.80, RSI(talib): 60.58
+1515.TW, Close: 58.10, RSI(talib): 79.29    !
+2461.TW, Close: 24.55, RSI(talib): 64.31
+4766.TW, Close: 275.00, RSI(talib): 80.42   !
+9927.TW, Close: 68.80, RSI(talib): 71.28    !
+1307.TW, Close: 26.75, RSI(talib): 61.65
+2543.TW, Close: 27.65, RSI(talib): 81.58    !
+6585.TW, Close: 133.50, RSI(talib): 64.82
+--------------
+2476.TW failed (inputs are all NaN).

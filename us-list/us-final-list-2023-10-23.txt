@@ -1,0 +1,5 @@
+SGEN, RSI(talib): 68.03355395537872
+SPLK, RSI(talib): 79.39035270693776
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+OKTA failed ('NoneType' object has no attribute 'text').

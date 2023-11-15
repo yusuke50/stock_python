@@ -1,0 +1,41 @@
+6176.TW, Close: 126.00, RSI(talib): 60.11
+2401.TW, Close: 32.10, RSI(talib): 62.54
+2515.TW, Close: 11.70, RSI(talib): 71.14
+1477.TW, Close: 360.50, RSI(talib): 67.57
+3704.TW, Close: 53.20, RSI(talib): 63.77
+3036.TW, Close: 110.50, RSI(talib): 62.73
+5258.TW, Close: 131.00, RSI(talib): 67.93
+2492.TW, Close: 103.50, RSI(talib): 60.27
+1560.TW, Close: 163.50, RSI(talib): 66.38
+2105.TW, Close: 43.85, RSI(talib): 62.97
+2363.TW, Close: 51.70, RSI(talib): 69.19
+2458.TW, Close: 139.50, RSI(talib): 67.21
+5269.TW, Close: 1240.00, RSI(talib): 65.39
+2405.TW, Close: 16.25, RSI(talib): 61.34
+1568.TW, Close: 34.00, RSI(talib): 66.28
+2385.TW, Close: 124.50, RSI(talib): 67.00
+6197.TW, Close: 83.90, RSI(talib): 73.11
+4967.TW, Close: 74.80, RSI(talib): 61.33
+5225.TW, Close: 61.10, RSI(talib): 62.51
+2530.TW, Close: 27.00, RSI(talib): 62.41
+2364.TW, Close: 139.50, RSI(talib): 70.55
+6139.TW, Close: 133.50, RSI(talib): 76.46
+2539.TW, Close: 42.90, RSI(talib): 61.39
+3051.TW, Close: 32.80, RSI(talib): 65.67
+8110.TW, Close: 16.25, RSI(talib): 80.47
+2427.TW, Close: 28.70, RSI(talib): 69.54
+6243.TW, Close: 50.50, RSI(talib): 66.31
+5521.TW, Close: 9.02, RSI(talib): 82.88
+3014.TW, Close: 165.50, RSI(talib): 63.91
+4581.TW, Close: 75.30, RSI(talib): 63.80
+2369.TW, Close: 22.40, RSI(talib): 72.26
+2460.TW, Close: 28.15, RSI(talib): 67.16
+2516.TW, Close: 9.01, RSI(talib): 66.24
+2816.TW, Close: 36.85, RSI(talib): 73.32
+3450.TW, Close: 59.80, RSI(talib): 64.61
+2543.TW, Close: 19.00, RSI(talib): 79.94
+6585.TW, Close: 120.00, RSI(talib): 61.53
+1324.TW, Close: 19.55, RSI(talib): 74.21
+--------------
+3443.TW failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).
+2535.TW failed (index 0 is out of bounds for axis 0 with size 0).

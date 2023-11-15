@@ -1,0 +1,8 @@
+MSFT, RSI(talib): 64.91387801424521
+NFLX, RSI(talib): 61.535029388383535
+SGEN, RSI(talib): 64.88333539345005
+SPLK, RSI(talib): 75.11445708715657
+--------------
+GOOGL failed (index 0 is out of bounds for axis 0 with size 0).
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+WMT failed (index 0 is out of bounds for axis 0 with size 0).

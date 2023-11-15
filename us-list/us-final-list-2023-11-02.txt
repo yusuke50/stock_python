@@ -1,0 +1,9 @@
+MSFT, RSI(talib): 63.11403062441835
+NFLX, RSI(talib): 60.490118720221695
+FAST, RSI(talib): 60.94635931799287
+SPLK, RSI(talib): 66.92603549926469
+NTES, RSI(talib): 61.266440585584945
+NOW, RSI(talib): 61.31418341202022
+--------------
+SIG failed (inputs are all NaN).
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).

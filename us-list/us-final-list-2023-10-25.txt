@@ -1,0 +1,8 @@
+NFLX, RSI(talib): 62.945854837092995
+VRTX, RSI(talib): 60.025747685822495
+CRWD, RSI(talib): 62.52941994249554
+LULU, RSI(talib): 61.27989817172662
+SGEN, RSI(talib): 69.9104662486318
+SPLK, RSI(talib): 76.43073849915633
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).

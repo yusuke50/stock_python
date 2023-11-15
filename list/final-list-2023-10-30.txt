@@ -1,0 +1,26 @@
+6176.TW, Close: 124.50, RSI(talib): 60.02
+2390.TW, Close: 15.25, RSI(talib): 68.64
+2515.TW, Close: 11.75, RSI(talib): 64.29
+3704.TW, Close: 54.50, RSI(talib): 63.41
+3036.TW, Close: 117.50, RSI(talib): 60.77
+5258.TW, Close: 132.50, RSI(talib): 69.39
+1560.TW, Close: 163.50, RSI(talib): 62.08
+2105.TW, Close: 43.75, RSI(talib): 60.89
+2363.TW, Close: 51.60, RSI(talib): 60.17
+2385.TW, Close: 124.00, RSI(talib): 65.91
+6117.TW, Close: 49.80, RSI(talib): 68.01
+6197.TW, Close: 85.00, RSI(talib): 64.31
+2364.TW, Close: 144.00, RSI(talib): 65.50
+9917.TW, Close: 118.00, RSI(talib): 64.00
+6139.TW, Close: 133.00, RSI(talib): 73.35
+2539.TW, Close: 43.20, RSI(talib): 64.61
+8110.TW, Close: 15.50, RSI(talib): 70.77
+5521.TW, Close: 9.47, RSI(talib): 83.79
+2460.TW, Close: 28.80, RSI(talib): 62.15
+2516.TW, Close: 9.62, RSI(talib): 65.89   !
+2816.TW, Close: 37.40, RSI(talib): 68.76
+2543.TW, Close: 19.05, RSI(talib): 71.06
+1324.TW, Close: 20.15, RSI(talib): 70.77
+--------------
+1514.TW failed ('NoneType' object has no attribute 'text').
+6196.TW failed (index 0 is out of bounds for axis 0 with size 0).

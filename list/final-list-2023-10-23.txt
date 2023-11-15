@@ -1,0 +1,31 @@
+3006.TW, Close: 93.20, RSI(talib): 63.49
+2401.TW, Close: 31.80, RSI(talib): 61.44
+2515.TW, Close: 11.60, RSI(talib): 63.23
+1477.TW, Close: 356.50, RSI(talib): 63.95
+6239.TW, Close: 106.50, RSI(talib): 60.70
+1560.TW, Close: 165.00, RSI(talib): 70.30
+2449.TW, Close: 82.70, RSI(talib): 64.72
+2363.TW, Close: 54.00, RSI(talib): 73.38    !
+2458.TW, Close: 142.00, RSI(talib): 63.24
+1568.TW, Close: 36.90, RSI(talib): 87.08
+2385.TW, Close: 124.00, RSI(talib): 62.20
+4967.TW, Close: 76.20, RSI(talib): 64.17
+4763.TW, Close: 1165.00, RSI(talib): 66.87
+2530.TW, Close: 27.30, RSI(talib): 65.51
+2364.TW, Close: 139.00, RSI(talib): 79.47
+9917.TW, Close: 114.00, RSI(talib): 60.83
+6139.TW, Close: 117.50, RSI(talib): 63.19
+2539.TW, Close: 43.20, RSI(talib): 60.36
+3094.TW, Close: 37.30, RSI(talib): 60.02
+5521.TW, Close: 8.93, RSI(talib): 79.85
+2369.TW, Close: 23.65, RSI(talib): 69.85    !
+2516.TW, Close: 9.25, RSI(talib): 68.11
+2816.TW, Close: 34.75, RSI(talib): 66.95
+2543.TW, Close: 17.60, RSI(talib): 67.66    !
+1324.TW, Close: 19.25, RSI(talib): 69.71
+--------------
+1308.TW failed (inputs are all NaN).
+2906.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6282.TW failed (inputs are all NaN).
+2392.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2535.TW failed (index 0 is out of bounds for axis 0 with size 0).

@@ -1,0 +1,8 @@
+NFLX, RSI(talib): 60.90714951695703
+LULU, RSI(talib): 60.79633888778816
+SGEN, RSI(talib): 70.86173353034911
+SPLK, RSI(talib): 79.44429371403274
+FANG, RSI(talib): 61.93982178054972
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+CRWD failed (index 0 is out of bounds for axis 0 with size 0).

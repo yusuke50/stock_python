@@ -1,0 +1,8 @@
+ADBE, RSI(talib): 61.090948213229076
+CRWD, RSI(talib): 64.06499243010872
+ZS, RSI(talib): 60.15138826643499
+SGEN, RSI(talib): 67.73888932727036
+SPLK, RSI(talib): 83.71752330359668
+--------------
+CHTR failed (inputs are all NaN).
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
