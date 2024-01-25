@@ -8,7 +8,8 @@ SET MM=%TIME:~3,2%
 SET SS=%TIME:~6,2%
 ECHO Now: %Y%/%M%/%D% %HH%:%mm%:%SS%
 
+ECHO Daily US
 python .\us-daily-v2.py
 ECHO Daily TW
 python .\daily-tw-edit.py
-python .\calc-tw-v4.py
+python .\calc-tw-v5.py

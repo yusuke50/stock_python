@@ -1,0 +1,26 @@
+2330.TW, Close: 626.00, RSI(talib): 75.10
+3035.TW, Close: 448.00, RSI(talib): 68.98   !
+6531.TW, Close: 526.00, RSI(talib): 61.83
+2329.TW, Close: 64.40, RSI(talib): 69.91    !
+3036.TW, Close: 156.00, RSI(talib): 70.49   !
+8150.TW, Close: 43.95, RSI(talib): 62.23
+2906.TW, Close: 19.60, RSI(talib): 61.12
+3661.TW, Close: 3815.00, RSI(talib): 62.10
+3706.TW, Close: 46.40, RSI(talib): 61.94    !
+3702.TW, Close: 89.60, RSI(talib): 68.99    !
+2059.TW, Close: 1075.00, RSI(talib): 68.74
+5269.TW, Close: 1925.00, RSI(talib): 62.08
+6669.TW, Close: 2185.00, RSI(talib): 66.11
+4746.TW, Close: 114.00, RSI(talib): 70.54
+3029.TW, Close: 71.70, RSI(talib): 64.51
+5225.TW, Close: 71.50, RSI(talib): 64.74
+3025.TW, Close: 67.50, RSI(talib): 71.86
+2530.TW, Close: 36.80, RSI(talib): 60.40
+8210.TW, Close: 312.50, RSI(talib): 70.54
+2211.TW, Close: 104.00, RSI(talib): 60.22
+3055.TW, Close: 46.20, RSI(talib): 67.66
+6451.TW, Close: 183.00, RSI(talib): 62.34
+3622.TW, Close: 51.70, RSI(talib): 69.41
+2528.TW, Close: 35.35, RSI(talib): 61.53
+--------------
+3308.TW failed (inputs are all NaN).

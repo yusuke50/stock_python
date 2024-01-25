@@ -1,0 +1,17 @@
+HII, RSI(talib): 60.52790428696453
+AMGN, RSI(talib): 75.95680228844596
+CSX, RSI(talib): 68.5915295962718
+REGN, RSI(talib): 75.17984533747797
+VRTX, RSI(talib): 66.59360438644508
+LULU, RSI(talib): 60.457905631475995
+SPLK, RSI(talib): 63.30197973099065
+PDD, RSI(talib): 69.04554255867174
+BRK-B, RSI(talib): 68.04662534051407
+BAC, RSI(talib): 66.39448268472552
+JPM, RSI(talib): 81.49468817826421
+LLY, RSI(talib): 66.51515660336456
+WFC, RSI(talib): 61.239788416098875
+FANG, RSI(talib): 60.74201051881811
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).

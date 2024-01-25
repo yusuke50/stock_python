@@ -1,0 +1,30 @@
+9958.TW, Close: 203.50, RSI(talib): 61.94
+3035.TW, Close: 411.50, RSI(talib): 71.98
+6531.TW, Close: 539.00, RSI(talib): 69.29
+2329.TW, Close: 57.90, RSI(talib): 60.54
+2476.TW, Close: 73.60, RSI(talib): 60.22
+3017.TW, Close: 334.00, RSI(talib): 63.80
+2812.TW, Close: 16.10, RSI(talib): 61.22
+1477.TW, Close: 377.50, RSI(talib): 67.70
+3036.TW, Close: 127.00, RSI(talib): 65.19
+3661.TW, Close: 3700.00, RSI(talib): 65.12
+6669.TW, Close: 1865.00, RSI(talib): 62.49
+9939.TW, Close: 127.00, RSI(talib): 60.69
+5225.TW, Close: 68.70, RSI(talib): 62.63
+3025.TW, Close: 68.00, RSI(talib): 71.04
+1519.TW, Close: 376.50, RSI(talib): 61.87
+2530.TW, Close: 37.85, RSI(talib): 62.11
+3032.TW, Close: 79.00, RSI(talib): 61.13
+1535.TW, Close: 59.60, RSI(talib): 72.78
+2211.TW, Close: 104.50, RSI(talib): 65.62
+3055.TW, Close: 45.20, RSI(talib): 73.79
+6451.TW, Close: 197.50, RSI(talib): 78.80
+3622.TW, Close: 52.50, RSI(talib): 73.44
+6695.TW, Close: 91.70, RSI(talib): 68.70
+2467.TW, Close: 71.70, RSI(talib): 63.62
+2362.TW, Close: 42.65, RSI(talib): 60.19
+8467.TW, Close: 169.50, RSI(talib): 65.76
+2528.TW, Close: 36.50, RSI(talib): 62.05
+--------------
+1451.TW failed (inputs are all NaN).
+1417.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).

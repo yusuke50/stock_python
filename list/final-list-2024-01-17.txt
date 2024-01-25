@@ -1,0 +1,44 @@
+9958.TW, Close: 205.00, RSI(talib): 73.72
+2347.TW, Close: 69.90, RSI(talib): 60.84
+4960.TW, Close: 14.55, RSI(talib): 61.89
+3035.TW, Close: 428.00, RSI(talib): 73.06
+6531.TW, Close: 534.00, RSI(talib): 75.30
+2329.TW, Close: 59.80, RSI(talib): 68.04
+2476.TW, Close: 73.10, RSI(talib): 71.04
+2404.TW, Close: 275.50, RSI(talib): 64.92
+3036.TW, Close: 147.00, RSI(talib): 72.17   !
+1560.TW, Close: 196.00, RSI(talib): 62.36
+1514.TW, Close: 81.80, RSI(talib): 61.78
+3661.TW, Close: 3565.00, RSI(talib): 60.50
+3034.TW, Close: 511.00, RSI(talib): 67.93
+4906.TW, Close: 35.35, RSI(talib): 62.38
+3702.TW, Close: 86.50, RSI(talib): 63.76
+5269.TW, Close: 1870.00, RSI(talib): 62.35
+6669.TW, Close: 1885.00, RSI(talib): 62.29
+8112.TW, Close: 63.90, RSI(talib): 64.04
+3167.TW, Close: 53.80, RSI(talib): 64.35
+9939.TW, Close: 129.50, RSI(talib): 67.87
+5225.TW, Close: 69.80, RSI(talib): 65.66
+3025.TW, Close: 66.60, RSI(talib): 79.28
+1519.TW, Close: 367.00, RSI(talib): 63.52
+2530.TW, Close: 36.95, RSI(talib): 63.87
+8210.TW, Close: 295.50, RSI(talib): 65.23
+6243.TW, Close: 83.20, RSI(talib): 71.95
+3032.TW, Close: 77.20, RSI(talib): 64.09
+1535.TW, Close: 57.20, RSI(talib): 63.68
+3583.TW, Close: 214.50, RSI(talib): 62.01
+2461.TW, Close: 24.25, RSI(talib): 63.29
+3055.TW, Close: 44.65, RSI(talib): 60.81
+6451.TW, Close: 190.00, RSI(talib): 69.87
+2460.TW, Close: 30.20, RSI(talib): 62.88
+3622.TW, Close: 51.80, RSI(talib): 74.89
+3694.TW, Close: 48.95, RSI(talib): 72.36
+6695.TW, Close: 87.10, RSI(talib): 73.32
+2488.TW, Close: 40.00, RSI(talib): 60.12
+6805.TW, Close: 518.00, RSI(talib): 74.37   !
+2467.TW, Close: 69.50, RSI(talib): 69.85
+8467.TW, Close: 167.50, RSI(talib): 65.31
+2528.TW, Close: 35.30, RSI(talib): 71.38
+--------------
+3481.TW failed (inputs are all NaN).
+1808.TW failed (inputs are all NaN).

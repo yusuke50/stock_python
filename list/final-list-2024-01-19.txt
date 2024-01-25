@@ -1,0 +1,46 @@
+9958.TW, Close: 191.00, RSI(talib): 62.53
+3035.TW, Close: 430.00, RSI(talib): 66.66
+6531.TW, Close: 519.00, RSI(talib): 61.01
+2329.TW, Close: 62.20, RSI(talib): 61.62
+3596.TW, Close: 172.00, RSI(talib): 62.27
+2404.TW, Close: 275.00, RSI(talib): 61.72
+3036.TW, Close: 142.00, RSI(talib): 77.21
+1514.TW, Close: 80.00, RSI(talib): 61.55
+3702.TW, Close: 86.70, RSI(talib): 69.17
+5269.TW, Close: 1920.00, RSI(talib): 60.09
+4746.TW, Close: 116.50, RSI(talib): 68.47
+6117.TW, Close: 77.70, RSI(talib): 63.20
+3029.TW, Close: 69.50, RSI(talib): 74.86
+5225.TW, Close: 70.30, RSI(talib): 63.37
+3025.TW, Close: 67.50, RSI(talib): 71.50
+2530.TW, Close: 37.10, RSI(talib): 60.02
+8210.TW, Close: 310.00, RSI(talib): 65.18
+6214.TW, Close: 113.00, RSI(talib): 60.99
+2211.TW, Close: 102.50, RSI(talib): 61.56
+3055.TW, Close: 45.95, RSI(talib): 62.52
+6451.TW, Close: 183.00, RSI(talib): 66.90
+3622.TW, Close: 51.20, RSI(talib): 72.79
+3530.TW, Close: 107.50, RSI(talib): 62.81
+6695.TW, Close: 82.70, RSI(talib): 64.88
+6805.TW, Close: 475.00, RSI(talib): 64.01
+8467.TW, Close: 163.50, RSI(talib): 61.69
+--------------
+2890.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2002.TW failed (index 0 is out of bounds for axis 0 with size 0).
+4106.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2601.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2383.TW failed (index 0 is out of bounds for axis 0 with size 0).
+8028.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2613.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2049.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3013.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+3346.TW failed (index 0 is out of bounds for axis 0 with size 0).
+4763.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6416.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3419.TW failed (inputs are all NaN).
+3518.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3257.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2460.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2852.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2025.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2423.TW failed (index 0 is out of bounds for axis 0 with size 0).
