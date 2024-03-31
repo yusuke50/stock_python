@@ -1,0 +1,29 @@
+HII, RSI(talib): 61.06741446014521
+META, RSI(talib): 61.79288770756042
+AMD, RSI(talib): 62.99440264639755
+QCOM, RSI(talib): 67.711664288825
+NFLX, RSI(talib): 65.60217994345462
+AMAT, RSI(talib): 60.47742847599872
+MU, RSI(talib): 64.36330989308675
+ABNB, RSI(talib): 67.38285257272217
+MAR, RSI(talib): 62.63189810479922
+NXPI, RSI(talib): 66.18965512545574
+ORLY, RSI(talib): 67.40333869222319
+FAST, RSI(talib): 68.28715289801906
+PCAR, RSI(talib): 73.18259131196288
+CPRT, RSI(talib): 72.43189642958005
+OKTA, RSI(talib): 68.3872713796876
+SPLK, RSI(talib): 82.3353143222181
+CEG, RSI(talib): 69.35178945876697
+DIS, RSI(talib): 65.2959647503826
+CRM, RSI(talib): 60.61337495590639
+JPM, RSI(talib): 76.36004675282625
+MA, RSI(talib): 60.40601252418891
+WFC, RSI(talib): 80.9155031006702
+WMT, RSI(talib): 74.82436795003163
+GE, RSI(talib): 81.54433566479665
+FANG, RSI(talib): 70.54990271271451
+--------------
+NVDA failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).

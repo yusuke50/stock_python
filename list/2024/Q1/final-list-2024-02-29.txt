@@ -1,0 +1,100 @@
+--------------
+Thu Feb 29 21:48:25 2024 TW Stock List
+--------------
+2890.TW, Close: 20.10, RSI(talib): 61.84
+9958.TW, Close: 257.50, RSI(talib): 70.15   !
+2347.TW, Close: 77.80, RSI(talib): 72.09    !
+2881.TW, Close: 68.00, RSI(talib): 68.91    !
+2465.TW, Close: 144.00, RSI(talib): 86.30   !
+6176.TW, Close: 147.50, RSI(talib): 68.53   !
+2476.TW, Close: 84.60, RSI(talib): 67.28
+3017.TW, Close: 532.00, RSI(talib): 67.34
+3708.TW, Close: 115.50, RSI(talib): 65.43
+2605.TW, Close: 27.65, RSI(talib): 62.30
+2617.TW, Close: 35.45, RSI(talib): 60.37
+2809.TW, Close: 44.65, RSI(talib): 82.41
+2006.TW, Close: 77.30, RSI(talib): 75.33    !
+2812.TW, Close: 16.65, RSI(talib): 66.84
+2454.TW, Close: 1140.00, RSI(talib): 76.78  !
+2404.TW, Close: 293.50, RSI(talib): 67.65
+4915.TW, Close: 72.80, RSI(talib): 73.19    !
+2442.TW, Close: 27.30, RSI(talib): 61.23
+1477.TW, Close: 371.50, RSI(talib): 61.17
+2383.TW, Close: 495.00, RSI(talib): 61.25
+3592.TW, Close: 447.00, RSI(talib): 67.81
+3036.TW, Close: 171.50, RSI(talib): 64.60
+1319.TW, Close: 98.90, RSI(talib): 76.03
+5258.TW, Close: 138.00, RSI(talib): 64.00
+6239.TW, Close: 156.00, RSI(talib): 61.41   !
+1560.TW, Close: 258.00, RSI(talib): 76.70
+1514.TW, Close: 100.00, RSI(talib): 62.71   !
+2906.TW, Close: 21.40, RSI(talib): 68.13
+2031.TW, Close: 66.80, RSI(talib): 70.31    !
+3653.TW, Close: 919.00, RSI(talib): 69.67   !
+2379.TW, Close: 569.00, RSI(talib): 83.10   !
+3034.TW, Close: 601.00, RSI(talib): 73.45
+1524.TW, Close: 36.30, RSI(talib): 67.21    !
+2059.TW, Close: 1355.00, RSI(talib): 69.13
+1522.TW, Close: 50.60, RSI(talib): 83.80    !
+2458.TW, Close: 166.00, RSI(talib): 64.92
+5269.TW, Close: 2355.00, RSI(talib): 67.13  !
+2405.TW, Close: 20.45, RSI(talib): 68.44
+4770.TW, Close: 406.00, RSI(talib): 79.99
+6605.TW, Close: 158.50, RSI(talib): 63.64
+1568.TW, Close: 34.55, RSI(talib): 70.10
+6412.TW, Close: 169.50, RSI(talib): 72.51
+6196.TW, Close: 159.00, RSI(talib): 65.85
+2385.TW, Close: 187.50, RSI(talib): 63.33
+1432.TW, Close: 24.75, RSI(talib): 76.41    !
+3005.TW, Close: 119.50, RSI(talib): 66.14
+9939.TW, Close: 145.50, RSI(talib): 69.69
+2439.TW, Close: 118.00, RSI(talib): 67.84   !
+6197.TW, Close: 95.30, RSI(talib): 65.53    !
+9105.TW, Close: 3.76, RSI(talib): 64.03
+5225.TW, Close: 95.20, RSI(talib): 86.02
+1519.TW, Close: 538.00, RSI(talib): 73.14
+2387.TW, Close: 64.30, RSI(talib): 65.07
+6442.TW, Close: 146.50, RSI(talib): 82.80
+1455.TW, Close: 12.60, RSI(talib): 77.06
+8016.TW, Close: 290.00, RSI(talib): 63.31
+3413.TW, Close: 240.00, RSI(talib): 69.04
+2355.TW, Close: 52.30, RSI(talib): 60.86
+3010.TW, Close: 111.50, RSI(talib): 83.02
+1618.TW, Close: 34.90, RSI(talib): 60.54
+2539.TW, Close: 59.30, RSI(talib): 73.21
+6715.TW, Close: 184.50, RSI(talib): 70.40
+1809.TW, Close: 30.75, RSI(talib): 94.64
+6691.TW, Close: 382.00, RSI(talib): 76.27   !
+3583.TW, Close: 267.00, RSI(talib): 63.82
+8271.TW, Close: 75.40, RSI(talib): 85.10    !
+3055.TW, Close: 81.90, RSI(talib): 68.64    !
+6451.TW, Close: 219.50, RSI(talib): 71.05
+4766.TW, Close: 301.00, RSI(talib): 60.92
+9927.TW, Close: 73.40, RSI(talib): 65.58
+2460.TW, Close: 41.60, RSI(talib): 71.16    !
+6189.TW, Close: 79.00, RSI(talib): 67.64
+6165.TW, Close: 50.30, RSI(talib): 80.85
+2025.TW, Close: 10.65, RSI(talib): 75.82    !
+3588.TW, Close: 114.00, RSI(talib): 75.23
+2543.TW, Close: 41.90, RSI(talib): 75.54
+6585.TW, Close: 170.00, RSI(talib): 67.03
+3530.TW, Close: 134.50, RSI(talib): 63.89
+2365.TW, Close: 24.15, RSI(talib): 72.23
+1339.TW, Close: 72.10, RSI(talib): 77.30
+6526.TW, Close: 692.00, RSI(talib): 78.15
+6216.TW, Close: 33.80, RSI(talib): 68.91
+2488.TW, Close: 43.10, RSI(talib): 68.63
+6805.TW, Close: 689.00, RSI(talib): 64.16
+2467.TW, Close: 126.00, RSI(talib): 73.78
+6668.TW, Close: 59.70, RSI(talib): 66.45
+3437.TW, Close: 37.10, RSI(talib): 65.50
+2062.TW, Close: 29.75, RSI(talib): 68.09
+--------------
+2324.TW failed (inputs are all NaN).
+2897.TW failed (('Connection aborted.', ConnectionAbortedError(10053, '連線已被您主機上的軟體中止。', None, 10053, None))).
+6213.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2376.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3041.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3532.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2034.TW failed (inputs are all NaN).
+6799.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).

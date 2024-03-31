@@ -1,0 +1,52 @@
+--------------
+Tue Jan 30 20:57:10 2024 TW Stock List
+--------------
+2891.TW, Close: 28.40, RSI(talib): 60.87
+9958.TW, Close: 222.50, RSI(talib): 72.62
+2347.TW, Close: 71.80, RSI(talib): 68.39
+2330.TW, Close: 642.00, RSI(talib): 81.27
+3711.TW, Close: 136.00, RSI(talib): 69.16
+6176.TW, Close: 138.50, RSI(talib): 61.14
+3017.TW, Close: 429.50, RSI(talib): 70.10   !
+2006.TW, Close: 73.50, RSI(talib): 65.51
+1722.TW, Close: 68.60, RSI(talib): 68.03
+2404.TW, Close: 277.50, RSI(talib): 61.63
+3036.TW, Close: 160.00, RSI(talib): 68.83   !
+1319.TW, Close: 86.00, RSI(talib): 73.14
+6239.TW, Close: 148.50, RSI(talib): 70.58
+1514.TW, Close: 85.00, RSI(talib): 61.91
+2906.TW, Close: 19.60, RSI(talib): 74.14
+3661.TW, Close: 3835.00, RSI(talib): 60.61
+3702.TW, Close: 87.70, RSI(talib): 73.41
+2059.TW, Close: 1065.00, RSI(talib): 61.52
+6669.TW, Close: 2235.00, RSI(talib): 67.95
+2204.TW, Close: 115.00, RSI(talib): 65.20
+1432.TW, Close: 21.00, RSI(talib): 70.29    !
+3607.TW, Close: 17.35, RSI(talib): 60.33
+4746.TW, Close: 114.00, RSI(talib): 63.40
+9939.TW, Close: 137.00, RSI(talib): 68.95
+5225.TW, Close: 73.40, RSI(talib): 68.72
+1519.TW, Close: 420.00, RSI(talib): 65.43   !
+6442.TW, Close: 83.10, RSI(talib): 77.31
+2530.TW, Close: 37.90, RSI(talib): 63.64
+1809.TW, Close: 17.65, RSI(talib): 72.39
+8110.TW, Close: 16.05, RSI(talib): 69.28
+5469.TW, Close: 56.70, RSI(talib): 61.78
+1535.TW, Close: 59.90, RSI(talib): 64.11
+3376.TW, Close: 141.00, RSI(talib): 72.27
+8011.TW, Close: 23.65, RSI(talib): 62.01
+2211.TW, Close: 117.50, RSI(talib): 79.74
+3055.TW, Close: 60.50, RSI(talib): 79.66    !
+4532.TW, Close: 22.10, RSI(talib): 66.17
+1307.TW, Close: 26.30, RSI(talib): 61.43
+3622.TW, Close: 57.00, RSI(talib): 69.54
+6165.TW, Close: 40.40, RSI(talib): 80.23
+2025.TW, Close: 7.61, RSI(talib): 60.77
+3694.TW, Close: 55.30, RSI(talib): 67.43
+2365.TW, Close: 16.25, RSI(talib): 61.40
+6695.TW, Close: 85.50, RSI(talib): 60.77
+6805.TW, Close: 513.00, RSI(talib): 62.49
+2467.TW, Close: 83.90, RSI(talib): 70.32    !
+2528.TW, Close: 37.50, RSI(talib): 66.53    !
+--------------
+2349.TW failed (index 0 is out of bounds for axis 0 with size 0).

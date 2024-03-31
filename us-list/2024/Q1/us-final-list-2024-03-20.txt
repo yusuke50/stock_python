@@ -1,0 +1,26 @@
+HII, RSI(talib): 60.69259089898793
+NVDA, RSI(talib): 65.34060821078225
+GOOG, RSI(talib): 60.15408732206659
+GOOGL, RSI(talib): 60.64279375056697
+NFLX, RSI(talib): 67.08707096213608
+ORLY, RSI(talib): 74.69378293474588
+FAST, RSI(talib): 67.18386153923817
+PCAR, RSI(talib): 80.30353664070347
+CPRT, RSI(talib): 72.75969079019599
+OKTA, RSI(talib): 60.57358654741534
+CEG, RSI(talib): 69.6263709380257
+BRK-B, RSI(talib): 66.8796728198057
+DIS, RSI(talib): 69.70627362986208
+JPM, RSI(talib): 73.39605765873883
+LLY, RSI(talib): 60.160643469669814
+MA, RSI(talib): 66.3867690285372
+WFC, RSI(talib): 67.34876902780611
+WMT, RSI(talib): 67.659514045902
+CL, RSI(talib): 70.67366781143885
+GE, RSI(talib): 79.08998297933168
+FANG, RSI(talib): 77.9158163796433
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+SPLK failed (index 0 is out of bounds for axis 0 with size 0).
+PFE failed (inputs are all NaN).

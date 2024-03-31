@@ -1,0 +1,50 @@
+--------------
+Fri Jan 26 21:11:44 2024 TW Stock List
+--------------
+9958.TW, Close: 219.50, RSI(talib): 69.37
+2347.TW, Close: 72.70, RSI(talib): 68.08
+2330.TW, Close: 644.00, RSI(talib): 80.32
+3711.TW, Close: 137.00, RSI(talib): 69.83
+3035.TW, Close: 422.00, RSI(talib): 66.42
+2465.TW, Close: 66.70, RSI(talib): 62.18
+2329.TW, Close: 60.50, RSI(talib): 68.15
+3017.TW, Close: 386.00, RSI(talib): 71.37
+2006.TW, Close: 73.00, RSI(talib): 61.65
+3036.TW, Close: 149.50, RSI(talib): 72.75
+1319.TW, Close: 86.30, RSI(talib): 74.27
+6239.TW, Close: 145.00, RSI(talib): 67.34
+2906.TW, Close: 20.00, RSI(talib): 73.38
+3661.TW, Close: 3895.00, RSI(talib): 60.04
+3034.TW, Close: 520.00, RSI(talib): 60.40
+6257.TW, Close: 67.20, RSI(talib): 66.88
+3706.TW, Close: 44.50, RSI(talib): 62.57
+3702.TW, Close: 89.00, RSI(talib): 69.89
+6669.TW, Close: 2080.00, RSI(talib): 64.88
+2204.TW, Close: 113.00, RSI(talib): 61.72
+4770.TW, Close: 334.50, RSI(talib): 60.61
+3607.TW, Close: 17.35, RSI(talib): 62.85
+3005.TW, Close: 105.00, RSI(talib): 62.44
+4746.TW, Close: 117.00, RSI(talib): 66.23
+5225.TW, Close: 72.60, RSI(talib): 65.76
+1519.TW, Close: 380.50, RSI(talib): 61.68
+6442.TW, Close: 74.60, RSI(talib): 63.70
+8210.TW, Close: 286.50, RSI(talib): 64.30
+1809.TW, Close: 17.10, RSI(talib): 70.88
+8110.TW, Close: 16.20, RSI(talib): 70.50
+3376.TW, Close: 137.00, RSI(talib): 68.00
+2211.TW, Close: 106.50, RSI(talib): 68.56
+3055.TW, Close: 52.60, RSI(talib): 79.63
+4766.TW, Close: 284.00, RSI(talib): 60.95
+2460.TW, Close: 31.80, RSI(talib): 60.06
+6189.TW, Close: 58.60, RSI(talib): 60.61
+3622.TW, Close: 55.30, RSI(talib): 69.21
+3694.TW, Close: 55.40, RSI(talib): 69.97
+6108.TW, Close: 22.45, RSI(talib): 62.79
+2365.TW, Close: 15.90, RSI(talib): 70.46
+6526.TW, Close: 572.00, RSI(talib): 65.00
+2467.TW, Close: 75.50, RSI(talib): 65.27
+4956.TW, Close: 22.60, RSI(talib): 61.90
+2528.TW, Close: 36.00, RSI(talib): 62.48
+--------------
+2454.TW failed (could not convert string to float: 'N/A').
+3338.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).

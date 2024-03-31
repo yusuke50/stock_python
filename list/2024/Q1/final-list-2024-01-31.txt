@@ -1,0 +1,56 @@
+--------------
+Wed Jan 31 21:02:00 2024 TW Stock List
+--------------
+9958.TW, Close: 219.00, RSI(talib): 69.49
+2347.TW, Close: 72.00, RSI(talib): 60.45
+2330.TW, Close: 628.00, RSI(talib): 75.40
+3711.TW, Close: 136.00, RSI(talib): 64.41
+2465.TW, Close: 78.00, RSI(talib): 63.14
+2368.TW, Close: 229.00, RSI(talib): 61.33
+3017.TW, Close: 425.50, RSI(talib): 78.85
+2006.TW, Close: 73.80, RSI(talib): 67.47
+2442.TW, Close: 26.00, RSI(talib): 62.80
+3036.TW, Close: 158.00, RSI(talib): 74.36
+1319.TW, Close: 85.30, RSI(talib): 69.87
+6239.TW, Close: 145.50, RSI(talib): 68.76
+1560.TW, Close: 219.50, RSI(talib): 67.57   !
+1514.TW, Close: 84.00, RSI(talib): 60.94
+3661.TW, Close: 3900.00, RSI(talib): 61.74
+3706.TW, Close: 45.00, RSI(talib): 63.17
+3702.TW, Close: 87.20, RSI(talib): 62.03
+2059.TW, Close: 1040.00, RSI(talib): 67.20
+6669.TW, Close: 2200.00, RSI(talib): 71.15
+2204.TW, Close: 114.50, RSI(talib): 65.11
+6605.TW, Close: 149.50, RSI(talib): 61.45
+1432.TW, Close: 21.90, RSI(talib): 70.78    !
+3607.TW, Close: 17.25, RSI(talib): 60.47
+9939.TW, Close: 139.50, RSI(talib): 67.23   !
+5225.TW, Close: 72.70, RSI(talib): 69.78
+1519.TW, Close: 444.00, RSI(talib): 70.05   !
+6442.TW, Close: 91.40, RSI(talib): 78.73    !
+2530.TW, Close: 37.90, RSI(talib): 63.04
+6139.TW, Close: 171.00, RSI(talib): 60.25
+1809.TW, Close: 17.25, RSI(talib): 69.18
+8110.TW, Close: 15.80, RSI(talib): 66.51
+1535.TW, Close: 62.10, RSI(talib): 65.77    !
+3376.TW, Close: 149.00, RSI(talib): 66.05   !
+8011.TW, Close: 24.45, RSI(talib): 62.19
+2211.TW, Close: 113.00, RSI(talib): 81.92
+3055.TW, Close: 61.30, RSI(talib): 85.64    !
+4532.TW, Close: 22.10, RSI(talib): 62.05
+2369.TW, Close: 24.35, RSI(talib): 64.42
+1307.TW, Close: 26.30, RSI(talib): 61.73
+3622.TW, Close: 60.50, RSI(talib): 72.57    !
+6165.TW, Close: 40.10, RSI(talib): 74.17
+2025.TW, Close: 7.65, RSI(talib): 64.23
+3694.TW, Close: 58.00, RSI(talib): 64.45
+6585.TW, Close: 154.00, RSI(talib): 61.80   !
+2365.TW, Close: 16.30, RSI(talib): 67.25
+6526.TW, Close: 569.00, RSI(talib): 63.20
+6805.TW, Close: 555.00, RSI(talib): 66.74   !
+2467.TW, Close: 83.90, RSI(talib): 70.66
+2528.TW, Close: 37.80, RSI(talib): 70.17
+--------------
+3016.TW failed ('NoneType' object has no attribute 'text').
+8210.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6451.TW failed (index 0 is out of bounds for axis 0 with size 0).

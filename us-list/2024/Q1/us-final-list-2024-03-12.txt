@@ -1,0 +1,24 @@
+NVDA, RSI(talib): 66.16304071629871
+AMD, RSI(talib): 61.460004264403665
+QCOM, RSI(talib): 66.44322133475634
+NFLX, RSI(talib): 60.96314027381962
+MU, RSI(talib): 60.54882324961278
+ABNB, RSI(talib): 63.32256338068783
+NXPI, RSI(talib): 63.478901411908254
+ORLY, RSI(talib): 66.35769096806392
+FAST, RSI(talib): 65.05637043572344
+PCAR, RSI(talib): 71.43235909731212
+CPRT, RSI(talib): 70.02248857554846
+OKTA, RSI(talib): 69.39968103319288
+SPLK, RSI(talib): 81.36040907610584
+CEG, RSI(talib): 68.72913774784821
+DIS, RSI(talib): 65.82625853139577
+JPM, RSI(talib): 73.02267964590736
+WFC, RSI(talib): 78.62663801993605
+WMT, RSI(talib): 71.64452960789238
+GE, RSI(talib): 80.02663567458457
+FANG, RSI(talib): 69.70225934307622
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+CSGP failed (index 0 is out of bounds for axis 0 with size 0).

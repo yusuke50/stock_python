@@ -1,0 +1,54 @@
+--------------
+Thu Feb  1 20:46:03 2024 TW Stock List
+--------------
+9958.TW, Close: 217.00, RSI(talib): 65.77
+2347.TW, Close: 72.70, RSI(talib): 61.65
+2330.TW, Close: 628.00, RSI(talib): 62.84
+3711.TW, Close: 133.00, RSI(talib): 64.41
+2465.TW, Close: 78.10, RSI(talib): 68.27
+2329.TW, Close: 64.10, RSI(talib): 60.40
+3017.TW, Close: 457.50, RSI(talib): 76.59   !
+2006.TW, Close: 73.50, RSI(talib): 69.13
+2442.TW, Close: 27.20, RSI(talib): 65.78    !
+3036.TW, Close: 173.00, RSI(talib): 71.45   !
+1319.TW, Close: 84.10, RSI(talib): 67.11
+6239.TW, Close: 145.50, RSI(talib): 63.27
+1560.TW, Close: 217.50, RSI(talib): 72.88
+3661.TW, Close: 3960.00, RSI(talib): 64.05
+2105.TW, Close: 44.85, RSI(talib): 60.66
+2059.TW, Close: 1055.00, RSI(talib): 62.28
+6669.TW, Close: 2170.00, RSI(talib): 67.62
+2204.TW, Close: 114.50, RSI(talib): 63.50
+1432.TW, Close: 20.50, RSI(talib): 76.53
+9939.TW, Close: 137.50, RSI(talib): 70.23
+5225.TW, Close: 71.90, RSI(talib): 65.90
+1519.TW, Close: 488.00, RSI(talib): 74.33   !
+6442.TW, Close: 93.30, RSI(talib): 85.32    !
+2530.TW, Close: 37.55, RSI(talib): 63.04
+6139.TW, Close: 165.50, RSI(talib): 61.40
+1809.TW, Close: 17.65, RSI(talib): 62.43
+8110.TW, Close: 15.45, RSI(talib): 61.32
+1535.TW, Close: 60.70, RSI(talib): 73.85
+3376.TW, Close: 163.50, RSI(talib): 71.41   !
+8011.TW, Close: 22.60, RSI(talib): 67.60
+2211.TW, Close: 113.00, RSI(talib): 68.16
+3055.TW, Close: 61.20, RSI(talib): 86.23
+4532.TW, Close: 22.25, RSI(talib): 62.05
+6451.TW, Close: 184.50, RSI(talib): 62.42
+2369.TW, Close: 23.80, RSI(talib): 62.71
+1307.TW, Close: 26.35, RSI(talib): 61.73
+3622.TW, Close: 66.50, RSI(talib): 77.28    !
+6165.TW, Close: 40.10, RSI(talib): 71.89
+2025.TW, Close: 7.85, RSI(talib): 65.83     !
+3694.TW, Close: 57.30, RSI(talib): 68.41
+6585.TW, Close: 159.00, RSI(talib): 72.27   !
+3530.TW, Close: 124.50, RSI(talib): 60.18   !
+6108.TW, Close: 22.85, RSI(talib): 61.01
+2365.TW, Close: 16.45, RSI(talib): 67.58
+5215.TW, Close: 60.20, RSI(talib): 62.71
+6695.TW, Close: 91.50, RSI(talib): 62.14
+1463.TW, Close: 18.10, RSI(talib): 60.37
+2467.TW, Close: 83.20, RSI(talib): 70.66
+2528.TW, Close: 37.70, RSI(talib): 71.62
+--------------
+1220.TW failed (inputs are all NaN).

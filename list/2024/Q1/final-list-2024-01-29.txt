@@ -1,0 +1,42 @@
+--------------
+Mon Jan 29 20:15:37 2024 TW Stock List
+--------------
+9958.TW, Close: 225.00, RSI(talib): 70.41   !
+2347.TW, Close: 72.70, RSI(talib): 67.55
+2330.TW, Close: 648.00, RSI(talib): 80.40
+3711.TW, Close: 137.00, RSI(talib): 69.27
+6176.TW, Close: 140.00, RSI(talib): 60.06
+3017.TW, Close: 390.50, RSI(talib): 68.56
+2006.TW, Close: 73.30, RSI(talib): 63.76
+3036.TW, Close: 151.50, RSI(talib): 67.55
+1319.TW, Close: 86.70, RSI(talib): 73.34
+6239.TW, Close: 149.50, RSI(talib): 66.88
+2906.TW, Close: 20.05, RSI(talib): 73.73
+3661.TW, Close: 3800.00, RSI(talib): 65.95
+3702.TW, Close: 89.80, RSI(talib): 68.39    !
+6669.TW, Close: 2190.00, RSI(talib): 62.85
+2204.TW, Close: 115.00, RSI(talib): 62.53
+1432.TW, Close: 21.00, RSI(talib): 64.23
+3607.TW, Close: 17.35, RSI(talib): 60.86
+4746.TW, Close: 115.50, RSI(talib): 67.25
+9939.TW, Close: 137.50, RSI(talib): 60.78
+5225.TW, Close: 73.40, RSI(talib): 67.30
+1519.TW, Close: 395.50, RSI(talib): 61.53
+6442.TW, Close: 82.00, RSI(talib): 64.99    !
+2530.TW, Close: 37.85, RSI(talib): 60.07
+1809.TW, Close: 17.80, RSI(talib): 67.09
+8110.TW, Close: 16.20, RSI(talib): 69.71
+5469.TW, Close: 57.80, RSI(talib): 60.24
+1535.TW, Close: 59.50, RSI(talib): 62.40
+3376.TW, Close: 145.00, RSI(talib): 66.65   !
+2211.TW, Close: 114.50, RSI(talib): 69.18   !
+3055.TW, Close: 55.00, RSI(talib): 76.38    !
+3622.TW, Close: 55.10, RSI(talib): 70.26
+6165.TW, Close: 41.15, RSI(talib): 69.10
+3694.TW, Close: 56.50, RSI(talib): 65.63
+2365.TW, Close: 15.45, RSI(talib): 68.03
+6526.TW, Close: 568.00, RSI(talib): 60.62
+8467.TW, Close: 171.00, RSI(talib): 60.87
+2528.TW, Close: 36.70, RSI(talib): 62.89
+--------------
+2467.TW failed (inputs are all NaN).

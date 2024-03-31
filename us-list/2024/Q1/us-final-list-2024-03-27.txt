@@ -1,0 +1,24 @@
+NVDA, RSI(talib): 65.59407449368862
+GOOG, RSI(talib): 61.63375528282433
+GOOGL, RSI(talib): 61.61340531727575
+NFLX, RSI(talib): 63.74528024294375
+BKNG, RSI(talib): 60.523843314382994
+MU, RSI(talib): 79.24718878852947
+ABNB, RSI(talib): 60.20652176078737
+ORLY, RSI(talib): 62.767780011978644
+FAST, RSI(talib): 62.90450897133633
+PCAR, RSI(talib): 76.58552320931139
+CPRT, RSI(talib): 75.84922780422771
+CEG, RSI(talib): 74.19688627382548
+DIS, RSI(talib): 77.36294938627434
+BAC, RSI(talib): 66.85365584260236
+JPM, RSI(talib): 66.83698312850434
+LLY, RSI(talib): 61.93594028704379
+CL, RSI(talib): 63.327756576642436
+GE, RSI(talib): 73.05993153431486
+FANG, RSI(talib): 73.21535060875254
+--------------
+PYPL failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+SPLK failed (index 0 is out of bounds for axis 0 with size 0).

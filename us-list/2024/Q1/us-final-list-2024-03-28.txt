@@ -1,0 +1,30 @@
+AMZN, RSI(talib): 60.8085104905727
+NVDA, RSI(talib): 60.082456212219725
+GOOG, RSI(talib): 61.99182327029747
+GOOGL, RSI(talib): 61.90913013348756
+ISRG, RSI(talib): 60.11706015786503
+BKNG, RSI(talib): 61.42209722815759
+MU, RSI(talib): 79.50780807716141
+ORLY, RSI(talib): 62.979972607573345
+CTAS, RSI(talib): 79.48283593711577
+FAST, RSI(talib): 64.99307721767006
+PCAR, RSI(talib): 78.81040398852667
+CPRT, RSI(talib): 75.94147548523222
+CEG, RSI(talib): 73.33984736252248
+BRK-B, RSI(talib): 66.07448380930968
+DIS, RSI(talib): 78.83370770747791
+BAC, RSI(talib): 71.5248767952406
+JPM, RSI(talib): 71.91560550401545
+LLY, RSI(talib): 63.13515065923851
+T, RSI(talib): 60.33169951107775
+VZ, RSI(talib): 62.930593709545704
+WFC, RSI(talib): 63.2663006942723
+WMT, RSI(talib): 60.83405576361929
+CL, RSI(talib): 69.37714538499678
+GE, RSI(talib): 78.91266993280767
+FANG, RSI(talib): 75.660882789949
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+ODFL failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+SPLK failed (index 0 is out of bounds for axis 0 with size 0).
