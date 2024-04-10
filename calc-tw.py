@@ -3,61 +3,140 @@ from datetime import date, timedelta
 import pandas as pd
 import os.path
 import time
+from requests_html import HTMLSession
+import re
+import talib
 
 """ CHECK START """
 today = date.today()
 one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
+sixty_day = today - timedelta(60)
+number_regex = re.compile(",")
 
-with open("temp.txt", "r", encoding="utf-8") as ori_list:
+
+def str_to_number(str):
+    return float(number_regex.sub("", str))
+
+
+with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
     final_list = []
+    err_list = []
 
     for line in ori_list:
         stock_name = line.rstrip("\n").split(" ")[0]
-        flagCheck = True
 
-        tar = yf.Ticker(stock_name)
+        etf_flag = True
+        etf_list = ["0050.TW", "0056.TW", "0052.TW"]
+        for etf in etf_list:
+            if stock_name == etf:
+                etf_flag = False
+                break
 
-        try:
-            current_price = tar.info["currentPrice"]
-            two_hundred_day_average = tar.info["twoHundredDayAverage"]
-            fifty_day_average = tar.info["fiftyDayAverage"]
-            fifty_two_week_high = tar.info["fiftyTwoWeekHigh"]
-            fifty_two_week_low = tar.info["fiftyTwoWeekLow"]
+        if etf_flag:
+            flag_check = True
+            RSI_value_1 = 0
+            RSI_value_2 = 0
 
-            historical = tar.history(start=that_day, end=today)
-            df = pd.DataFrame(historical)
-            one_hundred_fifty_day_average = df["Close"].mean()
+            tar = yf.Ticker(stock_name)
 
-            if current_price < one_hundred_fifty_day_average:
-                flagCheck = False
-            elif current_price < two_hundred_day_average:
-                flagCheck = False
-            elif one_hundred_fifty_day_average < two_hundred_day_average:
-                flagCheck = False
-            elif fifty_day_average < one_hundred_fifty_day_average:
-                flagCheck = False
-            elif fifty_day_average < two_hundred_day_average:
-                flagCheck = False
-            elif current_price < fifty_two_week_low * 1.25:
-                flagCheck = False
-            elif current_price < fifty_two_week_high * 0.75:
-                flagCheck = False
-        except KeyError as err:
-            print("{} failed ({}).".format(stock_name, err))
-            flagCheck = False
+            try:
+                current_price = tar.history(period="1d")["Close"][0]
 
-        if flagCheck:
-            print("{} O".format(stock_name))
-            final_list.append(stock_name)
-        # else:
-        # print("{} X".format(stock_name))
+                session = HTMLSession()
+                url = session.get(
+                    f"https://finance.yahoo.com/quote/{stock_name}/key-statistics?p={stock_name}"
+                )
 
-        time.sleep(1)
+                fifty_two_week_high_text = url.html.find(
+                    'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(4) td:nth-child(2)',
+                    first=True,
+                ).text
+                fifty_two_week_high = str_to_number(fifty_two_week_high_text)
+
+                fifty_two_week_low_text = url.html.find(
+                    'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(5) td:nth-child(2)',
+                    first=True,
+                ).text
+                fifty_two_week_low = str_to_number(fifty_two_week_low_text)
+
+                fifty_day_average_text = url.html.find(
+                    'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(6) td:nth-child(2)',
+                    first=True,
+                ).text
+                fifty_day_average = str_to_number(fifty_day_average_text)
+
+                two_hundred_day_average_text = url.html.find(
+                    'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(7) td:nth-child(2)',
+                    first=True,
+                ).text
+                two_hundred_day_average = str_to_number(two_hundred_day_average_text)
+
+                historical = tar.history(start=that_day, end=today)
+                df = pd.DataFrame(historical)
+                one_hundred_fifty_day_average = df["Close"].mean()
+
+                download_data = yf.download(stock_name, start=sixty_day, end=today)
+                download_data["RSI"] = talib.RSI(download_data["Close"], 14)
+                RSI_value = download_data["RSI"].iloc[-1]
+
+                if current_price < one_hundred_fifty_day_average:
+                    flag_check = False
+                elif current_price < two_hundred_day_average:
+                    flag_check = False
+                elif one_hundred_fifty_day_average < two_hundred_day_average:
+                    flag_check = False
+                elif fifty_day_average < one_hundred_fifty_day_average:
+                    flag_check = False
+                elif fifty_day_average < two_hundred_day_average:
+                    flag_check = False
+                elif current_price < fifty_two_week_low * 1.25:
+                    flag_check = False
+                elif current_price < fifty_two_week_high * 0.75:
+                    flag_check = False
+                elif RSI_value < 60:
+                    flag_check = False
+            except KeyError as err:
+                err_str = "{} failed ({}).".format(stock_name, err)
+                err_list.append(err_str)
+                flag_check = False
+            except IndexError as err:
+                err_str = "{} failed ({}).".format(stock_name, err)
+                err_list.append(err_str)
+                flag_check = False
+            except AttributeError as err:
+                err_str = "{} failed ({}).".format(stock_name, err)
+                err_list.append(err_str)
+                flag_check = False
+            except ValueError as err:
+                err_str = "{} failed ({}).".format(stock_name, err)
+                err_list.append(err_str)
+                flag_check = False
+            except Exception as err:
+                err_str = "{} failed ({}).".format(stock_name, err)
+                err_list.append(err_str)
+                flag_check = False
+
+            if flag_check:
+                p_str = "{}, Close: {:.2f}, RSI(talib): {:.2f}".format(
+                    stock_name, current_price, RSI_value
+                )
+
+                final_list.append(p_str)
+
+            time.sleep(1)
 ori_list.close()
 
 path = os.path.join(os.path.dirname(__file__), ".\list")
 final_file_name = os.path.join(path, "final-list-{}.txt".format(today))
 with open(final_file_name, "w", encoding="utf-8") as final_file:
+    final_file.write("--------------\n")
+    final_file.write("{} TW Stock List\n".format(time.ctime(time.time())))
+    final_file.write("--------------\n")
+
     final_file.write("\n".join(final_list))
+
+    final_file.write("\n")
+    final_file.write("--------------\n")
+    final_file.write("\n".join(err_list))
 final_file.close()
