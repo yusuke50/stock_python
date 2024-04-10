@@ -8,8 +8,20 @@ SET MM=%TIME:~3,2%
 SET SS=%TIME:~6,2%
 ECHO Now: %Y%/%M%/%D% %HH%:%mm%:%SS%
 
-ECHO Daily US
-python .\us-daily-v2.py
-ECHO Daily TW
-python .\daily-tw-edit.py
-python .\calc-tw-v5.py
+IF /I "%~1"=="US" (
+  ECHO Daily US
+  python .\us-daily-v3.py
+) ELSE IF /I "%~1"=="TW" (
+  ECHO Daily TW
+  python .\daily-tw-edit.py
+  python .\calc-tw-v5.py
+) ELSE IF /I "%~1"=="ALL" (
+  ECHO Daily US
+  python .\us-daily-v3.py
+  ECHO Daily TW
+  python .\daily-tw-edit.py
+  python .\calc-tw-v5.py
+) ELSE (
+  ECHO Invalid task: %1
+  EXIT /B 1
+)
