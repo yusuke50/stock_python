@@ -1,0 +1,11 @@
+SIG, RSI(talib): 60.99894574781346
+MU, RSI(talib): 72.31636560961809
+CTAS, RSI(talib): 60.4336852940443
+CEG, RSI(talib): 63.729733918136546
+VZ, RSI(talib): 66.96235709424779
+GE, RSI(talib): 71.53469128586359
+FANG, RSI(talib): 77.16020471635277
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+SPLK failed (index 0 is out of bounds for axis 0 with size 0).

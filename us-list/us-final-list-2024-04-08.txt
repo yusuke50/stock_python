@@ -1,0 +1,19 @@
+AMZN, RSI(talib): 65.48134188734598
+GOOG, RSI(talib): 60.12773400854482
+META, RSI(talib): 65.87619540457943
+NFLX, RSI(talib): 62.2049631968948
+MU, RSI(talib): 71.80225802981303
+CTAS, RSI(talib): 64.1592557751534
+PCAR, RSI(talib): 64.22476239372628
+CEG, RSI(talib): 71.20902306581144
+BRK-B, RSI(talib): 61.34760655948324
+BAC, RSI(talib): 60.22980485961884
+JPM, RSI(talib): 62.59909769715924
+VZ, RSI(talib): 64.24008697189619
+WFC, RSI(talib): 62.161271827446484
+GE, RSI(talib): 78.14591179020324
+FANG, RSI(talib): 79.79503165541803
+--------------
+ATVI failed (index 0 is out of bounds for axis 0 with size 0).
+SGEN failed (index 0 is out of bounds for axis 0 with size 0).
+SPLK failed (index 0 is out of bounds for axis 0 with size 0).
