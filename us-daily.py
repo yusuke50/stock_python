@@ -36,29 +36,29 @@ with open("stock-list-us.txt", "r") as ori_list:
 
             session = HTMLSession()
             url = session.get(
-                f"https://finance.yahoo.com/quote/{stock_name}/key-statistics?p={stock_name}"
+                f"https://finance.yahoo.com/quote/{stock_name}/key-statistics"
             )
 
             fifty_two_week_high_text = url.html.find(
-                'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(4) td:nth-child(2)',
+                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(4) .value",
                 first=True,
             ).text
             fifty_two_week_high = str_to_number(fifty_two_week_high_text)
 
             fifty_two_week_low_text = url.html.find(
-                'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(5) td:nth-child(2)',
+                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(5) .value",
                 first=True,
             ).text
             fifty_two_week_low = str_to_number(fifty_two_week_low_text)
 
             fifty_day_average_text = url.html.find(
-                'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(6) td:nth-child(2)',
+                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(6) .value",
                 first=True,
             ).text
             fifty_day_average = str_to_number(fifty_day_average_text)
 
             two_hundred_day_average_text = url.html.find(
-                'section[data-test="qsp-statistics"] > div:nth-child(2) > div:nth-child(2) > div > div tbody tr:nth-child(7) td:nth-child(2)',
+                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(7) .value",
                 first=True,
             ).text
             two_hundred_day_average = str_to_number(two_hundred_day_average_text)
