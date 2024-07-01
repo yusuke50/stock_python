@@ -1,0 +1,29 @@
+--------------
+Wed Apr 24 21:07:10 2024 US Stock List
+--------------
+GOOG, RSI(talib): 63.84940026420455
+GOOGL, RSI(talib): 63.01706760433839
+CEG, RSI(talib): 61.16180057607152
+BAC, RSI(talib): 64.84357010364651
+GM, RSI(talib): 64.91220691604616
+--------------
+WFC failed ('NoneType' object has no attribute 'text').
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

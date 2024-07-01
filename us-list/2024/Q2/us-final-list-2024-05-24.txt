@@ -1,0 +1,46 @@
+--------------
+Fri May 24 23:51:12 2024 US Stock List
+--------------
+RTX, RSI(talib): 63.490904691117244
+MSFT, RSI(talib): 60.47658849069172
+NVDA, RSI(talib): 70.19194313349577
+GOOG, RSI(talib): 61.28450263066591
+GOOGL, RSI(talib): 61.3513845276391
+COST, RSI(talib): 68.77768071073007
+QCOM, RSI(talib): 76.92728468781476
+NFLX, RSI(talib): 60.78433398290022
+AMAT, RSI(talib): 60.34624015023178
+ADI, RSI(talib): 74.23760437879731
+VRTX, RSI(talib): 76.9706776555933
+MRVL, RSI(talib): 64.14993237891537
+KLAC, RSI(talib): 63.02119408306021
+SNPS, RSI(talib): 65.28628542217491
+NXPI, RSI(talib): 64.22045803462784
+CRWD, RSI(talib): 63.521743370769826
+CTAS, RSI(talib): 62.823547590837336
+MCHP, RSI(talib): 64.23992217091855
+CEG, RSI(talib): 67.08850209300402
+LLY, RSI(talib): 63.03443904955574
+T, RSI(talib): 60.95326184166022
+--------------
+MCD failed ('NoneType' object has no attribute 'text').
+WFC failed ('NoneType' object has no attribute 'text').
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,50 @@
+--------------
+Mon Jun 24 21:00:12 2024 US Stock List
+--------------
+AAPL, RSI(talib): 62.7491906070046
+MSFT, RSI(talib): 72.79752358428743
+AMZN, RSI(talib): 64.3864990299129
+NVDA, RSI(talib): 64.97013777519342
+GOOG, RSI(talib): 62.15915602673302
+GOOGL, RSI(talib): 63.96590270644188
+AVGO, RSI(talib): 62.93455989722999
+COST, RSI(talib): 64.61399047016495
+NFLX, RSI(talib): 73.58822918526124
+TMUS, RSI(talib): 60.193388620763045
+AMGN, RSI(talib): 60.73470066015385
+AMAT, RSI(talib): 60.89888268472294
+ISRG, RSI(talib): 73.15803206403692
+BKNG, RSI(talib): 72.63720883969289
+LRCX, RSI(talib): 63.556615928296544
+REGN, RSI(talib): 77.95134607602563
+MAR, RSI(talib): 60.484876685186975
+SNPS, RSI(talib): 62.76016368134949
+CRWD, RSI(talib): 64.69177216567624
+CDNS, RSI(talib): 67.22753110222189
+CTAS, RSI(talib): 66.32777873554359
+VRSK, RSI(talib): 75.85240836908216
+GM, RSI(talib): 60.06512154248668
+LLY, RSI(talib): 75.89714360010919
+ORCL, RSI(talib): 70.57510191937841
+T, RSI(talib): 67.35252855372435
+WMT, RSI(talib): 70.0066725576716
+--------------
+ASML failed ('NoneType' object has no attribute 'text').
+BRK-B failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

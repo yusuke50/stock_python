@@ -1,0 +1,105 @@
+--------------
+Tue Jun  4 19:14:42 2024 US Stock List
+--------------
+SIG, RSI(talib): 64.65716409086151
+RTX, RSI(talib): 63.144904374405286
+NVDA, RSI(talib): 72.19901285749322
+COST, RSI(talib): 70.33937523261089
+QCOM, RSI(talib): 66.81488832471692
+TMUS, RSI(talib): 73.98476109928838
+ISRG, RSI(talib): 60.10340251125017
+ADI, RSI(talib): 65.08706043788597
+REGN, RSI(talib): 60.33907210325804
+VRTX, RSI(talib): 74.76838081329623
+--------------
+AEP failed ('NoneType' object has no attribute 'text').
+ADSK failed ('NoneType' object has no attribute 'text').
+CTSH failed ('NoneType' object has no attribute 'text').
+WDAY failed ('NoneType' object has no attribute 'text').
+KHC failed ('NoneType' object has no attribute 'text').
+PAYX failed ('NoneType' object has no attribute 'text').
+ORLY failed ('NoneType' object has no attribute 'text').
+IDXX failed ('NoneType' object has no attribute 'text').
+CRWD failed ('NoneType' object has no attribute 'text').
+EXC failed ('NoneType' object has no attribute 'text').
+CDNS failed ('NoneType' object has no attribute 'text').
+LCID failed ('NoneType' object has no attribute 'text').
+CTAS failed ('NoneType' object has no attribute 'text').
+MCHP failed ('NoneType' object has no attribute 'text').
+TEAM failed ('NoneType' object has no attribute 'text').
+MNST failed ('NoneType' object has no attribute 'text').
+LULU failed ('NoneType' object has no attribute 'text').
+WBA failed ('NoneType' object has no attribute 'text').
+DDOG failed ('NoneType' object has no attribute 'text').
+XEL failed ('NoneType' object has no attribute 'text').
+AZN failed ('NoneType' object has no attribute 'text').
+JD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+EA failed ('NoneType' object has no attribute 'text').
+BIDU failed ('NoneType' object has no attribute 'text').
+ALGN failed ('NoneType' object has no attribute 'text').
+DLTR failed ('NoneType' object has no attribute 'text').
+EBAY failed ('NoneType' object has no attribute 'text').
+VRSK failed ('NoneType' object has no attribute 'text').
+ZS failed ('NoneType' object has no attribute 'text').
+FAST failed ('NoneType' object has no attribute 'text').
+ROST failed ('NoneType' object has no attribute 'text').
+MTCH failed ('NoneType' object has no attribute 'text').
+PCAR failed ('NoneType' object has no attribute 'text').
+BIIB failed ('NoneType' object has no attribute 'text').
+CPRT failed ('NoneType' object has no attribute 'text').
+ZM failed ('NoneType' object has no attribute 'text').
+ANSS failed ('NoneType' object has no attribute 'text').
+SIRI failed ('NoneType' object has no attribute 'text').
+VRSN failed ('NoneType' object has no attribute 'text').
+OKTA failed ('NoneType' object has no attribute 'text').
+SWKS failed ('NoneType' object has no attribute 'text').
+DOCU failed ('NoneType' object has no attribute 'text').
+NTES failed ('NoneType' object has no attribute 'text').
+PDD failed ('NoneType' object has no attribute 'text').
+CEG failed ('NoneType' object has no attribute 'text').
+BRK-B failed ('NoneType' object has no attribute 'text').
+DIS failed ('NoneType' object has no attribute 'text').
+JNJ failed ('NoneType' object has no attribute 'text').
+AMT failed ('NoneType' object has no attribute 'text').
+BA failed ('NoneType' object has no attribute 'text').
+BAC failed ('NoneType' object has no attribute 'text').
+BMY failed ('NoneType' object has no attribute 'text').
+CRM failed ('NoneType' object has no attribute 'text').
+CVX failed ('NoneType' object has no attribute 'text').
+DAL failed ('NoneType' object has no attribute 'text').
+GM failed ('NoneType' object has no attribute 'text').
+HD failed ('NoneType' object has no attribute 'text').
+JPM failed ('NoneType' object has no attribute 'text').
+KO failed ('NoneType' object has no attribute 'text').
+LLY failed ('NoneType' object has no attribute 'text').
+MA failed ('NoneType' object has no attribute 'text').
+MCD failed ('NoneType' object has no attribute 'text').
+MRK failed ('NoneType' object has no attribute 'text').
+NKE failed ('NoneType' object has no attribute 'text').
+NOW failed ('NoneType' object has no attribute 'text').
+ORCL failed ('NoneType' object has no attribute 'text').
+PFE failed ('NoneType' object has no attribute 'text').
+PG failed ('NoneType' object has no attribute 'text').
+ROKU failed ('NoneType' object has no attribute 'text').
+T failed ('NoneType' object has no attribute 'text').
+VZ failed ('NoneType' object has no attribute 'text').
+WFC failed ('NoneType' object has no attribute 'text').
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

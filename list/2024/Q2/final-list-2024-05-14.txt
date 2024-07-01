@@ -1,0 +1,106 @@
+--------------
+Tue May 14 23:08:44 2024 TW Stock List
+--------------
+2890.TW, Close: 22.45, RSI(talib): 65.77
+2891.TW, Close: 36.05, RSI(talib): 67.93
+2885.TW, Close: 31.45, RSI(talib): 63.23
+2606.TW, Close: 60.70, RSI(talib): 67.37
+2347.TW, Close: 85.30, RSI(talib): 68.91
+2330.TW, Close: 825.00, RSI(talib): 61.23
+2882.TW, Close: 54.30, RSI(talib): 76.61
+2603.TW, Close: 215.00, RSI(talib): 70.58   !
+2881.TW, Close: 71.20, RSI(talib): 66.06
+2317.TW, Close: 172.00, RSI(talib): 69.00
+2637.TW, Close: 73.90, RSI(talib): 69.74
+2357.TW, Close: 512.00, RSI(talib): 64.69   !
+2880.TW, Close: 26.10, RSI(talib): 75.36
+2834.TW, Close: 16.95, RSI(talib): 61.21
+2374.TW, Close: 46.55, RSI(talib): 70.64
+2359.TW, Close: 114.50, RSI(talib): 62.13
+2605.TW, Close: 29.40, RSI(talib): 68.06    !
+2609.TW, Close: 71.30, RSI(talib): 86.86    !
+2607.TW, Close: 34.25, RSI(talib): 61.44
+2617.TW, Close: 38.30, RSI(talib): 65.56
+2809.TW, Close: 58.40, RSI(talib): 62.64
+2545.TW, Close: 57.90, RSI(talib): 61.05
+8163.TW, Close: 68.40, RSI(talib): 62.58
+2845.TW, Close: 15.50, RSI(talib): 68.72
+9904.TW, Close: 38.30, RSI(talib): 63.97    !
+2812.TW, Close: 17.90, RSI(talib): 62.41
+4958.TW, Close: 120.50, RSI(talib): 64.72
+4915.TW, Close: 95.90, RSI(talib): 62.28
+2406.TW, Close: 22.80, RSI(talib): 67.27
+2611.TW, Close: 28.70, RSI(talib): 64.37
+3669.TW, Close: 51.60, RSI(talib): 61.50
+2906.TW, Close: 21.20, RSI(talib): 65.20
+2474.TW, Close: 230.00, RSI(talib): 68.46
+2367.TW, Close: 33.00, RSI(talib): 65.17    !
+6257.TW, Close: 77.00, RSI(talib): 60.25
+2105.TW, Close: 51.50, RSI(talib): 67.07
+1590.TW, Close: 1175.00, RSI(talib): 61.07
+3535.TW, Close: 23.90, RSI(talib): 60.65
+1522.TW, Close: 63.90, RSI(talib): 78.21
+2489.TW, Close: 15.95, RSI(talib): 71.36
+8070.TW, Close: 48.40, RSI(talib): 71.76    !
+2101.TW, Close: 55.10, RSI(talib): 60.77
+2520.TW, Close: 54.70, RSI(talib): 62.84
+3356.TW, Close: 63.50, RSI(talib): 70.00
+2636.TW, Close: 111.00, RSI(talib): 73.02
+2889.TW, Close: 15.35, RSI(talib): 71.09
+6670.TW, Close: 314.50, RSI(talib): 82.80
+6206.TW, Close: 88.90, RSI(talib): 74.82
+2486.TW, Close: 82.50, RSI(talib): 65.06
+2392.TW, Close: 51.50, RSI(talib): 73.24
+4536.TW, Close: 209.00, RSI(talib): 66.27
+6117.TW, Close: 88.30, RSI(talib): 60.17
+9939.TW, Close: 172.00, RSI(talib): 70.20
+2420.TW, Close: 57.40, RSI(talib): 61.43
+4967.TW, Close: 107.00, RSI(talib): 64.68
+5522.TW, Close: 77.40, RSI(talib): 68.43
+4720.TW, Close: 18.35, RSI(talib): 69.52
+6442.TW, Close: 169.00, RSI(talib): 69.27
+1532.TW, Close: 48.75, RSI(talib): 61.61
+1442.TW, Close: 55.10, RSI(talib): 60.43
+3030.TW, Close: 126.50, RSI(talib): 82.46
+6768.TW, Close: 93.00, RSI(talib): 81.13    !
+2495.TW, Close: 22.90, RSI(talib): 61.32
+8210.TW, Close: 289.50, RSI(talib): 63.71
+3010.TW, Close: 132.00, RSI(talib): 63.69
+2451.TW, Close: 101.50, RSI(talib): 74.16
+9938.TW, Close: 67.40, RSI(talib): 74.65
+2903.TW, Close: 34.20, RSI(talib): 64.16
+2851.TW, Close: 28.05, RSI(talib): 63.99
+2472.TW, Close: 78.40, RSI(talib): 60.69
+2393.TW, Close: 69.80, RSI(talib): 68.35
+5434.TW, Close: 259.50, RSI(talib): 63.12
+6177.TW, Close: 55.50, RSI(talib): 61.27
+6863.TW, Close: 204.00, RSI(talib): 87.37   !
+2548.TW, Close: 155.00, RSI(talib): 62.17
+9934.TW, Close: 19.10, RSI(talib): 69.59
+1702.TW, Close: 64.30, RSI(talib): 68.61
+6215.TW, Close: 47.70, RSI(talib): 61.52
+3090.TW, Close: 66.50, RSI(talib): 69.33
+4766.TW, Close: 364.50, RSI(talib): 64.62
+1307.TW, Close: 33.60, RSI(talib): 72.25
+2852.TW, Close: 24.95, RSI(talib): 86.26
+6585.TW, Close: 220.50, RSI(talib): 64.74
+1463.TW, Close: 19.85, RSI(talib): 68.76
+6216.TW, Close: 38.55, RSI(talib): 69.21
+2362.TW, Close: 52.80, RSI(talib): 72.48    !
+6024.TW, Close: 61.40, RSI(talib): 82.19
+8039.TW, Close: 51.30, RSI(talib): 60.85
+3605.TW, Close: 41.10, RSI(talib): 70.29
+2062.TW, Close: 30.95, RSI(talib): 61.85
+3060.TW, Close: 28.95, RSI(talib): 60.37
+2348.TW, Close: 200.00, RSI(talib): 76.49
+2540.TW, Close: 161.00, RSI(talib): 76.68
+1615.TW, Close: 66.10, RSI(talib): 60.68
+--------------
+2356.TW failed ('NoneType' object has no attribute 'text').
+2476.TW failed ('NoneType' object has no attribute 'text').   !
+2601.TW failed ('NoneType' object has no attribute 'text').
+3673.TW failed ('NoneType' object has no attribute 'text').
+2727.TW failed ('NoneType' object has no attribute 'text').
+2355.TW failed (inputs are all NaN).
+2369.TW failed ('NoneType' object has no attribute 'text').
+5515.TW failed ('NoneType' object has no attribute 'text').

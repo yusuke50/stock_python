@@ -1,0 +1,27 @@
+--------------
+Wed May  1 20:37:11 2024 US Stock List
+--------------
+TMUS, RSI(talib): 61.697508034570724
+NXPI, RSI(talib): 62.4434401301164
+CL, RSI(talib): 73.47758851156544
+GE, RSI(talib): 62.984183194095145
+--------------
+SIG failed (index 0 is out of bounds for axis 0 with size 0).
+HII failed (index 0 is out of bounds for axis 0 with size 0).
+LMT failed (index 0 is out of bounds for axis 0 with size 0).
+RTX failed (index 0 is out of bounds for axis 0 with size 0).
+AAPL failed (index 0 is out of bounds for axis 0 with size 0).
+MSFT failed (index 0 is out of bounds for axis 0 with size 0).
+AMZN failed (index 0 is out of bounds for axis 0 with size 0).
+TSLA failed (index 0 is out of bounds for axis 0 with size 0).
+NVDA failed (index 0 is out of bounds for axis 0 with size 0).
+GOOG failed (index 0 is out of bounds for axis 0 with size 0).
+GOOGL failed (index 0 is out of bounds for axis 0 with size 0).
+META failed (index 0 is out of bounds for axis 0 with size 0).
+AVGO failed (index 0 is out of bounds for axis 0 with size 0).
+MAR failed (index 0 is out of bounds for axis 0 with size 0).
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

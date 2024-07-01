@@ -1,0 +1,138 @@
+--------------
+Thu Jun 27 21:21:16 2024 TW Stock List
+--------------
+2618.TW, Close: 38.90, RSI(talib): 60.95
+2885.TW, Close: nan, RSI(talib): 61.88
+2330.TW, Close: 960.00, RSI(talib): 66.86
+2882.TW, Close: 59.10, RSI(talib): 64.57
+2382.TW, Close: 305.00, RSI(talib): 60.67
+2881.TW, Close: 78.40, RSI(talib): 64.60
+2313.TW, Close: 81.40, RSI(talib): 63.82
+2317.TW, Close: 212.50, RSI(talib): 68.36
+2610.TW, Close: 24.25, RSI(talib): 62.16
+3711.TW, Close: 172.00, RSI(talib): 61.76
+2880.TW, Close: 26.30, RSI(talib): 65.14
+2303.TW, Close: 56.40, RSI(talib): 60.34
+2312.TW, Close: 17.70, RSI(talib): 61.62
+1795.TW, Close: 305.00, RSI(talib): 62.75
+2834.TW, Close: 18.05, RSI(talib): 65.88
+3006.TW, Close: 99.60, RSI(talib): 60.56
+2476.TW, Close: 109.00, RSI(talib): 67.99
+6806.TW, Close: 159.00, RSI(talib): 77.80
+4968.TW, Close: 228.50, RSI(talib): 66.20
+8163.TW, Close: 69.60, RSI(talib): 65.16
+2845.TW, Close: 16.60, RSI(talib): 72.63
+2454.TW, Close: 1395.00, RSI(talib): 61.64
+2406.TW, Close: 27.40, RSI(talib): 67.26
+2542.TW, Close: 53.40, RSI(talib): 69.57
+2383.TW, Close: 479.50, RSI(talib): 63.36
+1560.TW, Close: 324.50, RSI(talib): 69.40
+1731.TW, Close: 26.20, RSI(talib): 68.51
+1514.TW, Close: 148.50, RSI(talib): 60.67
+3712.TW, Close: 56.30, RSI(talib): 76.68
+2327.TW, Close: nan, RSI(talib): 80.83
+3062.TW, Close: 32.80, RSI(talib): 80.87
+3653.TW, Close: 1160.00, RSI(talib): 60.14
+2449.TW, Close: 120.00, RSI(talib): 82.16
+8114.TW, Close: 174.00, RSI(talib): 81.98
+1733.TW, Close: 34.80, RSI(talib): 65.24
+3535.TW, Close: 39.75, RSI(talib): 68.07
+1522.TW, Close: 70.70, RSI(talib): 71.60
+1104.TW, Close: 35.45, RSI(talib): 66.39
+6515.TW, Close: 1065.00, RSI(talib): 74.09
+3406.TW, Close: 663.00, RSI(talib): 81.38
+2428.TW, Close: 177.00, RSI(talib): 61.37
+6196.TW, Close: 168.00, RSI(talib): 71.34
+6164.TW, Close: 16.50, RSI(talib): 66.96
+3167.TW, Close: 65.60, RSI(talib): 62.98
+3607.TW, Close: 18.90, RSI(talib): 66.10
+3047.TW, Close: 28.40, RSI(talib): 70.23
+2486.TW, Close: 138.00, RSI(talib): 75.93
+2392.TW, Close: 77.70, RSI(talib): 63.96
+8105.TW, Close: 16.00, RSI(talib): 66.12
+3686.TW, Close: 23.80, RSI(talib): 64.77
+2439.TW, Close: 137.00, RSI(talib): 68.31
+3029.TW, Close: 92.30, RSI(talib): 80.99
+6197.TW, Close: 192.00, RSI(talib): 68.39
+9105.TW, Close: 6.55, RSI(talib): 86.22
+1519.TW, Close: 925.00, RSI(talib): 62.21
+6442.TW, Close: 340.00, RSI(talib): 78.62
+3305.TW, Close: 79.80, RSI(talib): 68.54
+6768.TW, Close: nan, RSI(talib): 60.08
+3312.TW, Close: 82.90, RSI(talib): 65.03
+2495.TW, Close: 29.60, RSI(talib): 65.87
+6416.TW, Close: 138.00, RSI(talib): 62.18
+6409.TW, Close: 1820.00, RSI(talib): 61.46
+6782.TW, Close: 278.50, RSI(talib): 61.96
+1720.TW, Close: 73.80, RSI(talib): 69.45
+1503.TW, Close: 290.50, RSI(talib): 60.13
+2472.TW, Close: 83.10, RSI(talib): 68.99
+6691.TW, Close: 440.50, RSI(talib): 73.50
+4976.TW, Close: 50.40, RSI(talib): 64.73
+3652.TW, Close: 46.75, RSI(talib): 88.36
+5203.TW, Close: 105.50, RSI(talib): 60.73
+6753.TW, Close: 150.00, RSI(talib): 65.44
+4566.TW, Close: 91.30, RSI(talib): 70.55
+6863.TW, Close: 244.50, RSI(talib): 62.82
+6698.TW, Close: 38.80, RSI(talib): 67.25
+2349.TW, Close: 10.35, RSI(talib): 61.51
+3055.TW, Close: 93.60, RSI(talib): 69.94
+4526.TW, Close: 31.00, RSI(talib): 80.19
+4532.TW, Close: 30.70, RSI(talib): 66.85
+6451.TW, Close: 276.00, RSI(talib): 69.97
+2855.TW, Close: 29.15, RSI(talib): 62.13
+1540.TW, Close: 22.25, RSI(talib): 72.81
+2316.TW, Close: 56.60, RSI(talib): 68.68
+6757.TW, Close: 58.60, RSI(talib): 83.41
+3021.TW, Close: 25.35, RSI(talib): 67.09
+3450.TW, Close: 123.50, RSI(talib): 78.32
+1463.TW, Close: 21.05, RSI(talib): 73.13
+6216.TW, Close: 47.80, RSI(talib): 61.41
+2467.TW, Close: 152.00, RSI(talib): 71.15
+4956.TW, Close: 28.05, RSI(talib): 80.62
+6869.TW, Close: 215.00, RSI(talib): 84.06
+8039.TW, Close: 57.80, RSI(talib): 62.09
+6155.TW, Close: 29.10, RSI(talib): 66.29
+6449.TW, Close: 160.00, RSI(talib): 67.13
+6446.TW, Close: 544.00, RSI(talib): 81.53
+3048.TW, Close: 38.60, RSI(talib): 66.35
+1786.TW, Close: 131.00, RSI(talib): 75.76
+8374.TW, Close: 74.80, RSI(talib): 64.67
+6706.TW, Close: 110.00, RSI(talib): 76.93
+4562.TW, Close: 46.00, RSI(talib): 61.84
+6152.TW, Close: 15.30, RSI(talib): 86.73
+--------------
+2890.TW failed ('NoneType' object has no attribute 'text').
+2354.TW failed ('NoneType' object has no attribute 'text').
+5608.TW failed ('NoneType' object has no attribute 'text').
+1308.TW failed ('NoneType' object has no attribute 'text').
+2404.TW failed ('NoneType' object has no attribute 'text').
+9802.TW failed ('NoneType' object has no attribute 'text').
+4915.TW failed ('NoneType' object has no attribute 'text').
+6285.TW failed ('NoneType' object has no attribute 'text').
+2331.TW failed ('NoneType' object has no attribute 'text').
+5258.TW failed ('NoneType' object has no attribute 'text').
+2492.TW failed ('NoneType' object has no attribute 'text').
+1762.TW failed ('NoneType' object has no attribute 'text').
+2612.TW failed (inputs are all NaN).
+2538.TW failed ('NoneType' object has no attribute 'text').
+1773.TW failed ('NoneType' object has no attribute 'text').
+4551.TW failed ('NoneType' object has no attribute 'text').
+2707.TW failed ('NoneType' object has no attribute 'text').
+1459.TW failed ('NoneType' object has no attribute 'text').
+3008.TW failed ('NoneType' object has no attribute 'text').
+1432.TW failed ('NoneType' object has no attribute 'text').
+3043.TW failed ('NoneType' object has no attribute 'text').
+2375.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3591.TW failed ('NoneType' object has no attribute 'text').
+2420.TW failed ('NoneType' object has no attribute 'text').
+9103.TW failed ('NoneType' object has no attribute 'text').
+1809.TW failed ('NoneType' object has no attribute 'text').
+6243.TW failed ('NoneType' object has no attribute 'text').
+3056.TW failed ('NoneType' object has no attribute 'text').
+9934.TW failed ('NoneType' object has no attribute 'text').
+3014.TW failed ('NoneType' object has no attribute 'text').
+6672.TW failed ('NoneType' object has no attribute 'text').
+3622.TW failed ('NoneType' object has no attribute 'text').
+5534.TW failed ('NoneType' object has no attribute 'text').
+3060.TW failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,52 @@
+--------------
+Tue Jun 18 19:07:24 2024 US Stock List
+--------------
+MSFT, RSI(talib): 73.48783079784664
+NVDA, RSI(talib): 80.58509411751713
+GOOG, RSI(talib): 60.933330247886005
+GOOGL, RSI(talib): 61.27773157467086
+META, RSI(talib): 63.49327146332041
+AVGO, RSI(talib): 86.15289065832818
+COST, RSI(talib): 83.31802447368322
+QCOM, RSI(talib): 73.80194856449671
+NFLX, RSI(talib): 72.63074935023988
+TMUS, RSI(talib): 63.62764269742666
+AMAT, RSI(talib): 77.56465632502206
+ISRG, RSI(talib): 74.8192663483617
+BKNG, RSI(talib): 70.63124717939155
+MU, RSI(talib): 74.14081654269303
+ADI, RSI(talib): 60.257798032670316
+LRCX, RSI(talib): 74.60396528068
+REGN, RSI(talib): 77.63921401108095
+VRTX, RSI(talib): 63.95505467862773
+ASML, RSI(talib): 63.36019835806924
+MAR, RSI(talib): 64.90788765648469
+KLAC, RSI(talib): 74.57352136817703
+KDP, RSI(talib): 61.837253189807925
+SNPS, RSI(talib): 70.84651595455446
+CRWD, RSI(talib): 71.83246120128463
+CDNS, RSI(talib): 74.94333030919786
+CTAS, RSI(talib): 68.12865923625311
+AZN, RSI(talib): 60.53192102485535
+GM, RSI(talib): 60.99667397718782
+LLY, RSI(talib): 80.15100614399148
+ORCL, RSI(talib): 75.54741741621318
+WMT, RSI(talib): 68.52611726435694
+--------------
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

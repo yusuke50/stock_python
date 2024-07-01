@@ -1,0 +1,40 @@
+--------------
+Wed Jun 12 19:59:49 2024 US Stock List
+--------------
+MSFT, RSI(talib): 61.744673734315434
+GOOG, RSI(talib): 61.56687346211711
+GOOGL, RSI(talib): 61.672767757239555
+META, RSI(talib): 64.47413148507243
+AVGO, RSI(talib): 63.682414710078994
+COST, RSI(talib): 80.01657954946131
+QCOM, RSI(talib): 63.30033388961974
+TXN, RSI(talib): 63.76973541208814
+TMUS, RSI(talib): 72.49171532740849
+AMAT, RSI(talib): 66.13022770381683
+ISRG, RSI(talib): 71.21034775213303
+MU, RSI(talib): 61.25848194257838
+ADI, RSI(talib): 66.7022019711128
+LRCX, RSI(talib): 61.398926995199055
+REGN, RSI(talib): 68.33646311266611
+VRTX, RSI(talib): 75.44057926755262
+ASML, RSI(talib): 62.221154628322275
+KLAC, RSI(talib): 63.79241676583886
+NXPI, RSI(talib): 62.582384331293426
+CRWD, RSI(talib): 70.5162226667045
+CDNS, RSI(talib): 60.0734390518586
+AZN, RSI(talib): 61.0148751868947
+GM, RSI(talib): 71.85961049700947
+LLY, RSI(talib): 77.93778416294488
+MRK, RSI(talib): 62.00073723588726
+WMT, RSI(talib): 66.65190255443464
+CL, RSI(talib): 60.26795971887397
+--------------
+WFC failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,49 @@
+--------------
+Wed Jun 19 20:55:35 2024 US Stock List
+--------------
+AAPL, RSI(talib): 75.01213245234287
+MSFT, RSI(talib): 70.23402736947067
+NVDA, RSI(talib): 82.6187729040104
+AVGO, RSI(talib): 81.86498252556142
+COST, RSI(talib): 83.71243534079323
+QCOM, RSI(talib): 76.27988694738433
+TXN, RSI(talib): 60.243145788421145
+NFLX, RSI(talib): 75.2768691007743
+TMUS, RSI(talib): 64.03283273224336
+AMAT, RSI(talib): 79.96376196091161
+ISRG, RSI(talib): 76.95009755796217
+BKNG, RSI(talib): 71.53662616287701
+MU, RSI(talib): 77.30977960472195
+ADI, RSI(talib): 62.87216698878976
+LRCX, RSI(talib): 76.54360366426532
+REGN, RSI(talib): 73.06091319563187
+ASML, RSI(talib): 64.31079101051486
+MAR, RSI(talib): 61.32197442370736
+KLAC, RSI(talib): 76.42086949136953
+SNPS, RSI(talib): 72.70288468397021
+CRWD, RSI(talib): 70.95589954041982
+CDNS, RSI(talib): 76.46234381363287
+CTAS, RSI(talib): 69.66405058156816
+GM, RSI(talib): 60.71007342640464
+LLY, RSI(talib): 80.85078461514577
+ORCL, RSI(talib): 77.99388794571985
+T, RSI(talib): 61.42127253974351
+WMT, RSI(talib): 68.83054647834835
+--------------
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

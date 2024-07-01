@@ -1,0 +1,34 @@
+--------------
+Mon May  6 20:24:29 2024 US Stock List
+--------------
+RTX, RSI(talib): 61.551144252212666
+GOOG, RSI(talib): 65.24388647511586
+GOOGL, RSI(talib): 64.75535708882997
+QCOM, RSI(talib): 62.196782650646796
+REGN, RSI(talib): 63.78702300286161
+NXPI, RSI(talib): 60.93298160657151
+CTAS, RSI(talib): 60.5547168227031
+DOCU, RSI(talib): 62.40923578280879
+CEG, RSI(talib): 61.36694274350655
+--------------
+VZ failed ('NoneType' object has no attribute 'text').
+WFC failed ('NoneType' object has no attribute 'text').
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

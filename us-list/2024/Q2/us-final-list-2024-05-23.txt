@@ -1,0 +1,51 @@
+--------------
+Thu May 23 20:53:54 2024 US Stock List
+--------------
+RTX, RSI(talib): 70.34667121636548
+MSFT, RSI(talib): 64.83385779092127
+GOOG, RSI(talib): 68.65910004717747
+GOOGL, RSI(talib): 68.43012142311835
+COST, RSI(talib): 73.44106149476472
+QCOM, RSI(talib): 79.50613106817256
+NFLX, RSI(talib): 63.30754451214865
+TMUS, RSI(talib): 62.434243808742686
+INTU, RSI(talib): 65.67258460171355
+AMAT, RSI(talib): 60.62472116791602
+ISRG, RSI(talib): 62.3379898288684
+BKNG, RSI(talib): 64.53351108080373
+ADI, RSI(talib): 82.25967844763291
+REGN, RSI(talib): 61.17370762896158
+VRTX, RSI(talib): 75.44810743647169
+MRVL, RSI(talib): 61.64546589711436
+KLAC, RSI(talib): 65.54804938051105
+NXPI, RSI(talib): 72.64646097123965
+AEP, RSI(talib): 63.567909642861764
+CRWD, RSI(talib): 66.55495871126467
+CTAS, RSI(talib): 68.96214641514791
+MCHP, RSI(talib): 68.76530588350275
+CEG, RSI(talib): 66.36511048262929
+BAC, RSI(talib): 67.45208754810508
+LLY, RSI(talib): 61.6008614108109
+NOW, RSI(talib): 60.186249789244826
+ORCL, RSI(talib): 66.14855452694631
+T, RSI(talib): 62.09948162770016
+WMT, RSI(talib): 74.58555794254784
+--------------
+ODFL failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

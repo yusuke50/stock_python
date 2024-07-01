@@ -1,0 +1,47 @@
+--------------
+Sat Jun 22 00:45:19 2024 US Stock List
+--------------
+AAPL, RSI(talib): 66.99392740248689
+MSFT, RSI(talib): 70.97184962947225
+AMZN, RSI(talib): 60.26516973668027
+NVDA, RSI(talib): 68.08107648399668
+GOOG, RSI(talib): 63.97471197849241
+GOOGL, RSI(talib): 64.24944031490179
+AVGO, RSI(talib): 67.50482214958527
+COST, RSI(talib): 72.52534681843365
+NFLX, RSI(talib): 70.85923285918435
+AMGN, RSI(talib): 61.4457682033567
+AMAT, RSI(talib): 63.52224323520499
+ISRG, RSI(talib): 72.23862335958869
+BKNG, RSI(talib): 69.41145909788091
+LRCX, RSI(talib): 65.93736943829043
+REGN, RSI(talib): 76.5692740164206
+MAR, RSI(talib): 60.50766268695852
+KLAC, RSI(talib): 61.66378367262886
+SNPS, RSI(talib): 64.94573451062872
+CRWD, RSI(talib): 60.7935156160015
+CDNS, RSI(talib): 66.40074666494365
+CTAS, RSI(talib): 65.97871426672066
+VRSK, RSI(talib): 75.29148948667928
+LLY, RSI(talib): 76.46842838511007
+ORCL, RSI(talib): 71.05611899030723
+T, RSI(talib): 65.15153034650176
+--------------
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

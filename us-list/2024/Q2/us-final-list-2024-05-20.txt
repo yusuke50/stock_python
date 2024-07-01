@@ -1,0 +1,51 @@
+--------------
+Mon May 20 19:08:33 2024 US Stock List
+--------------
+RTX, RSI(talib): 62.46765199842255
+GOOG, RSI(talib): 70.76932779103107
+GOOGL, RSI(talib): 70.8072374546563
+COST, RSI(talib): 71.94176729637334
+QCOM, RSI(talib): 72.97295618852878
+NFLX, RSI(talib): 60.225056770666306
+INTU, RSI(talib): 62.573422116290075
+AMGN, RSI(talib): 65.2982599123301
+ISRG, RSI(talib): 61.77720561143999
+MU, RSI(talib): 62.1747038613701
+ADI, RSI(talib): 67.17242035937133
+REGN, RSI(talib): 63.366665054645296
+VRTX, RSI(talib): 79.1208441455376
+KLAC, RSI(talib): 61.57959778225215
+NXPI, RSI(talib): 64.96519560166084
+CRWD, RSI(talib): 68.97575407570295
+CTAS, RSI(talib): 62.97670978260882
+OKTA, RSI(talib): 65.34358436348226
+CEG, RSI(talib): 64.67633947032157
+BRK-B, RSI(talib): 65.51978375084025
+BAC, RSI(talib): 66.34139724668219
+DAL, RSI(talib): 64.9370183826915
+GM, RSI(talib): 61.39645082730969
+JPM, RSI(talib): 72.56668486494411
+MRK, RSI(talib): 60.981116966376845
+NOW, RSI(talib): 60.0547005641871
+T, RSI(talib): 64.03610544008646
+--------------
+WFC failed ('NoneType' object has no attribute 'text').
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+EADSY failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').
