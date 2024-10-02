@@ -1,0 +1,42 @@
+--------------
+Fri Aug 23 21:13:31 2024 TW Stock List
+--------------
+2603.TW, Close: 189.50, RSI(talib): 60.71
+2323.TW, Close: 13.45, RSI(talib): 62.19
+3645.TW, Close: 59.40, RSI(talib): 67.31
+1220.TW, Close: 16.90, RSI(talib): 69.16
+8028.TW, Close: 138.50, RSI(talib): 60.68
+2888.TW, Close: 12.45, RSI(talib): 76.11
+3653.TW, Close: 1380.00, RSI(talib): 65.31
+3665.TW, Close: 429.50, RSI(talib): 62.37
+4583.TW, Close: 378.50, RSI(talib): 61.64
+3019.TW, Close: 121.50, RSI(talib): 65.72
+8070.TW, Close: 54.30, RSI(talib): 73.44
+6515.TW, Close: 1105.00, RSI(talib): 60.96
+8464.TW, Close: 451.00, RSI(talib): 62.79
+3003.TW, Close: 84.00, RSI(talib): 60.66
+3167.TW, Close: 93.80, RSI(talib): 64.76
+3607.TW, Close: 21.85, RSI(talib): 62.44
+6133.TW, Close: 23.40, RSI(talib): 69.64
+1736.TW, Close: 128.50, RSI(talib): 64.70
+5225.TW, Close: 150.00, RSI(talib): 64.36
+6409.TW, Close: 2005.00, RSI(talib): 63.40
+6691.TW, Close: 345.00, RSI(talib): 63.80
+3652.TW, Close: 49.80, RSI(talib): 63.34
+3583.TW, Close: 468.50, RSI(talib): 61.59
+8021.TW, Close: 40.60, RSI(talib): 64.36
+8039.TW, Close: 62.20, RSI(talib): 63.09
+2062.TW, Close: 39.00, RSI(talib): 62.64
+5306.TW, Close: 150.00, RSI(talib): 63.35
+1615.TW, Close: 73.00, RSI(talib): 67.64
+1786.TW, Close: 131.00, RSI(talib): 62.40
+2524.TW, Close: 121.00, RSI(talib): 63.26
+4576.TW, Close: 88.30, RSI(talib): 65.13
+8438.TW, Close: 54.10, RSI(talib): 74.20
+--------------
+2881.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+3481.TW failed (index 0 is out of bounds for axis 0 with size 0).
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2545.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+8046.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+6438.TW failed ('NoneType' object has no attribute 'text').

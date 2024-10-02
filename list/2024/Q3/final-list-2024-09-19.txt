@@ -1,0 +1,48 @@
+--------------
+Thu Sep 19 21:42:44 2024 TW Stock List
+--------------
+2504.TW, Close: 53.40, RSI(talib): 63.72
+1711.TW, Close: 27.00, RSI(talib): 63.48
+3062.TW, Close: 38.00, RSI(talib): 63.73
+3653.TW, Close: 1410.00, RSI(talib): 63.66
+1808.TW, Close: 134.00, RSI(talib): 63.86
+4583.TW, Close: 743.00, RSI(talib): 79.37
+8070.TW, Close: 66.10, RSI(talib): 65.28
+6515.TW, Close: 1385.00, RSI(talib): 71.75
+3003.TW, Close: 95.40, RSI(talib): 62.80
+2360.TW, Close: 367.50, RSI(talib): 60.62
+3167.TW, Close: 106.00, RSI(talib): 65.39
+1727.TW, Close: 37.80, RSI(talib): 60.60
+1721.TW, Close: 22.05, RSI(talib): 71.41
+2420.TW, Close: 77.40, RSI(talib): 61.97
+6438.TW, Close: 131.00, RSI(talib): 65.02
+4763.TW, Close: 901.00, RSI(talib): 64.32
+1442.TW, Close: 77.30, RSI(talib): 66.79
+6416.TW, Close: 156.50, RSI(talib): 63.97
+9938.TW, Close: 66.20, RSI(talib): 60.16
+6142.TW, Close: 11.35, RSI(talib): 72.54
+3617.TW, Close: 334.00, RSI(talib): 62.86
+6863.TW, Close: 299.50, RSI(talib): 64.73
+5234.TW, Close: 244.00, RSI(talib): 83.98
+6698.TW, Close: 50.40, RSI(talib): 69.43
+4526.TW, Close: 40.20, RSI(talib): 62.76
+1540.TW, Close: 47.60, RSI(talib): 61.44
+6757.TW, Close: 64.70, RSI(talib): 62.06
+3021.TW, Close: 28.25, RSI(talib): 68.38
+1307.TW, Close: 38.35, RSI(talib): 66.50
+3450.TW, Close: 186.50, RSI(talib): 62.28
+2488.TW, Close: 51.60, RSI(talib): 63.48
+1582.TW, Close: 116.50, RSI(talib): 63.43
+6706.TW, Close: 169.50, RSI(talib): 70.88
+4576.TW, Close: 108.50, RSI(talib): 60.91
+3550.TW, Close: 25.10, RSI(talib): 65.23
+4935.TW, Close: 70.40, RSI(talib): 61.40
+2228.TW, Close: 116.00, RSI(talib): 63.48
+2477.TW, Close: 32.00, RSI(talib): 67.81
+--------------
+2885.TW failed ('NoneType' object has no attribute 'text').
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3645.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+4915.TW failed ('NoneType' object has no attribute 'text').
+4532.TW failed (could not convert string to float: '--').
+8249.TW failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,16 @@
+--------------
+Mon Jul 29 23:36:42 2024 US Stock List
+--------------
+RTX, RSI(talib): 77.44096273851504
+AMGN, RSI(talib): 68.05349586994058
+VRTX, RSI(talib): 67.85170387110027
+AEP, RSI(talib): 77.29585348798835
+EA, RSI(talib): 60.71551566560621
+VRSK, RSI(talib): 64.55826105122732
+SWKS, RSI(talib): 61.24673425947964
+BRK-B, RSI(talib): 65.91662325800682
+KO, RSI(talib): 75.0460341919805
+CL, RSI(talib): 63.66047593147305
+--------------
+CTAS failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

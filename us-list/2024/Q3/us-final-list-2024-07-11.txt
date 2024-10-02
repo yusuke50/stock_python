@@ -1,0 +1,55 @@
+--------------
+Thu Jul 11 21:16:13 2024 US Stock List
+--------------
+AAPL, RSI(talib): 79.01392000323183
+MSFT, RSI(talib): 69.48022699347916
+AMZN, RSI(talib): 64.28246025516108
+NVDA, RSI(talib): 66.98784986637128
+GOOG, RSI(talib): 71.63580969074691
+GOOGL, RSI(talib): 71.77294558112975
+META, RSI(talib): 66.56126751776993
+AVGO, RSI(talib): 65.79507305297206
+COST, RSI(talib): 70.75648283661067
+TXN, RSI(talib): 67.4596617012635
+TMUS, RSI(talib): 64.80242246124759
+AMGN, RSI(talib): 65.56719542685954
+AMAT, RSI(talib): 73.77601518220362
+ISRG, RSI(talib): 67.30460032226279
+BKNG, RSI(talib): 60.935379809495906
+ADI, RSI(talib): 63.88151439112995
+LRCX, RSI(talib): 74.67569438690025
+REGN, RSI(talib): 64.892632662727
+VRTX, RSI(talib): 69.80078169177646
+MRVL, RSI(talib): 60.97627658903715
+PANW, RSI(talib): 62.53322191727174
+ASML, RSI(talib): 65.77323545679783
+KLAC, RSI(talib): 73.39429612247892
+SNPS, RSI(talib): 62.345851247394336
+NXPI, RSI(talib): 61.55154352878222
+CDNS, RSI(talib): 61.684310211406
+CTAS, RSI(talib): 60.90521371442572
+VRSK, RSI(talib): 72.7504940145365
+BAC, RSI(talib): 67.52021199980615
+JPM, RSI(talib): 62.34088569946648
+LLY, RSI(talib): 79.24158408692725
+ORCL, RSI(talib): 62.267389596326474
+T, RSI(talib): 61.438013203916185
+--------------
+WMT failed ('NoneType' object has no attribute 'text').
+XOM failed ('NoneType' object has no attribute 'text').
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

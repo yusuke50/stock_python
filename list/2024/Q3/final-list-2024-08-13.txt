@@ -1,0 +1,24 @@
+--------------
+Tue Aug 13 23:32:41 2024 TW Stock List
+--------------
+4583.TW, Close: 385.50, RSI(talib): 71.06
+3019.TW, Close: 108.00, RSI(talib): 65.35
+3167.TW, Close: 81.10, RSI(talib): 62.79
+2102.TW, Close: 23.55, RSI(talib): 64.93
+2015.TW, Close: 81.00, RSI(talib): 62.41
+1540.TW, Close: 38.00, RSI(talib): 68.86
+1307.TW, Close: 33.30, RSI(talib): 62.22
+2905.TW, Close: 20.70, RSI(talib): 67.25
+1463.TW, Close: 25.90, RSI(talib): 70.09
+6446.TW, Close: 730.00, RSI(talib): 66.09
+2524.TW, Close: 106.50, RSI(talib): 65.55
+2236.TW, Close: 113.00, RSI(talib): 65.93
+--------------
+1506.TW failed ('NoneType' object has no attribute 'text').
+2006.TW failed ('NoneType' object has no attribute 'text').
+3023.TW failed ('NoneType' object has no attribute 'text').
+3504.TW failed ('NoneType' object has no attribute 'text').
+3025.TW failed ('NoneType' object has no attribute 'text').
+2727.TW failed ('NoneType' object has no attribute 'text').
+3605.TW failed (index 0 is out of bounds for axis 0 with size 0).
+8103.TW failed (inputs are all NaN).

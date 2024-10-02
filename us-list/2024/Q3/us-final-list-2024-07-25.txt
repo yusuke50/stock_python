@@ -1,0 +1,21 @@
+--------------
+Thu Jul 25 22:04:24 2024 US Stock List
+--------------
+AMGN, RSI(talib): 69.68787209068475
+ISRG, RSI(talib): 60.60632575323292
+VRTX, RSI(talib): 63.13353307108665
+AEP, RSI(talib): 73.11781380390137
+CTAS, RSI(talib): 66.45928982641406
+BRK-B, RSI(talib): 62.63388385303931
+KO, RSI(talib): 69.04990918707342
+WMT, RSI(talib): 63.55403925194704
+--------------
+ORLY failed (inputs are all NaN).
+PFE failed (could not convert string to float: '--').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

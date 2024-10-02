@@ -1,0 +1,52 @@
+--------------
+Mon Sep 30 21:00:03 2024 TW Stock List
+--------------
+1402.TW, Close: 38.40, RSI(talib): 65.27
+2330.TW, Close: 957.00, RSI(talib): 60.79
+2882.TW, Close: 66.50, RSI(talib): 64.88
+2603.TW, Close: 201.00, RSI(talib): 73.50
+2637.TW, Close: 76.30, RSI(talib): 73.15
+1708.TW, Close: 41.35, RSI(talib): 62.90
+2609.TW, Close: 69.00, RSI(talib): 75.84
+2615.TW, Close: 98.00, RSI(talib): 82.53
+2812.TW, Close: 18.40, RSI(talib): 60.68
+2024.TW, Close: 22.20, RSI(talib): 61.23
+3665.TW, Close: 461.00, RSI(talib): 62.85
+4583.TW, Close: 709.00, RSI(talib): 64.58
+8464.TW, Close: 510.00, RSI(talib): 62.38
+6415.TW, Close: 468.00, RSI(talib): 62.97
+3013.TW, Close: 135.00, RSI(talib): 65.02
+3167.TW, Close: 144.00, RSI(talib): 80.84
+3494.TW, Close: 7.84, RSI(talib): 66.54
+1727.TW, Close: 41.80, RSI(talib): 65.02
+1721.TW, Close: 25.30, RSI(talib): 74.66
+6438.TW, Close: 149.50, RSI(talib): 65.04
+1736.TW, Close: 157.50, RSI(talib): 73.90
+4763.TW, Close: 887.00, RSI(talib): 60.63
+6768.TW, Close: 105.50, RSI(talib): 67.78
+6416.TW, Close: 159.00, RSI(talib): 62.22
+9938.TW, Close: 73.00, RSI(talib): 69.78
+3705.TW, Close: 61.40, RSI(talib): 76.75
+6863.TW, Close: 288.00, RSI(talib): 60.50
+5234.TW, Close: 240.50, RSI(talib): 68.21
+3021.TW, Close: 30.40, RSI(talib): 74.75
+1307.TW, Close: 38.45, RSI(talib): 65.60
+3622.TW, Close: 74.00, RSI(talib): 67.77
+2543.TW, Close: 82.50, RSI(talib): 65.38
+2362.TW, Close: 60.80, RSI(talib): 61.58
+6706.TW, Close: 170.00, RSI(talib): 62.00
+3550.TW, Close: 26.10, RSI(talib): 60.84
+6405.TW, Close: 39.70, RSI(talib): 65.24
+8249.TW, Close: 61.00, RSI(talib): 81.13
+2228.TW, Close: 116.00, RSI(talib): 60.29
+9935.TW, Close: 32.95, RSI(talib): 60.71
+--------------
+1444.TW failed ('NoneType' object has no attribute 'text').
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2897.TW failed ('NoneType' object has no attribute 'text').
+2607.TW failed (could not convert string to float: '--').
+1904.TW failed ('NoneType' object has no attribute 'text').
+3673.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+3356.TW failed (inputs are all NaN).
+1451.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2471.TW failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,40 @@
+--------------
+Mon Jul  1 19:13:57 2024 US Stock List
+--------------
+AAPL, RSI(talib): 63.27796450717989
+MSFT, RSI(talib): 65.48225737560423
+AMZN, RSI(talib): 60.96358746099082
+GOOG, RSI(talib): 61.35349903459446
+GOOGL, RSI(talib): 61.963613507419716
+COST, RSI(talib): 63.22880828882488
+NFLX, RSI(talib): 62.60478196264317
+AMAT, RSI(talib): 60.383868352932346
+ISRG, RSI(talib): 76.06099973857958
+BKNG, RSI(talib): 64.11330203282417
+LRCX, RSI(talib): 65.0084594888238
+REGN, RSI(talib): 66.30988181058218
+CRWD, RSI(talib): 62.51560581626057
+VRSK, RSI(talib): 68.57859607968147
+JPM, RSI(talib): 60.58172508999898
+LLY, RSI(talib): 76.13137912432823
+ORCL, RSI(talib): 67.83101842691381
+T, RSI(talib): 77.05527547385138
+VZ, RSI(talib): 62.135126307512934
+WMT, RSI(talib): 61.36291502105573
+--------------
+MCD failed (inputs are all NaN).
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

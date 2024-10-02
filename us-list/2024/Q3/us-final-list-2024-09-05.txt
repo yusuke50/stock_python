@@ -1,0 +1,25 @@
+--------------
+Thu Sep  5 20:16:41 2024 US Stock List
+--------------
+LMT, RSI(talib): 82.01088893722186
+RTX, RSI(talib): 68.92298556411858
+PYPL, RSI(talib): 66.97945213437043
+ADP, RSI(talib): 76.31975192597466
+REGN, RSI(talib): 60.46303817339075
+AEP, RSI(talib): 75.52378132161355
+ORLY, RSI(talib): 61.48794352874696
+CTAS, RSI(talib): 73.61988904461553
+AZN, RSI(talib): 60.97631148000493
+EBAY, RSI(talib): 63.000011149162496
+BRK-B, RSI(talib): 82.4733325733916
+GM, RSI(talib): 61.007242884184954
+KO, RSI(talib): 77.00062711790184
+T, RSI(talib): 71.62852551872606
+WMT, RSI(talib): 79.16366221017273
+CL, RSI(talib): 77.17376797894272
+--------------
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

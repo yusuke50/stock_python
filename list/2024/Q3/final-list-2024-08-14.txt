@@ -1,0 +1,25 @@
+--------------
+Wed Aug 14 20:50:08 2024 TW Stock List
+--------------
+4583.TW, Close: 388.00, RSI(talib): 71.41
+3019.TW, Close: 111.50, RSI(talib): 72.44
+9921.TW, Close: 235.00, RSI(talib): 60.98
+3167.TW, Close: 82.20, RSI(talib): 63.68
+6215.TW, Close: 67.40, RSI(talib): 60.04
+1540.TW, Close: 37.70, RSI(talib): 61.06
+2905.TW, Close: 20.65, RSI(talib): 69.42
+2543.TW, Close: 66.10, RSI(talib): 60.94
+2365.TW, Close: 64.30, RSI(talib): 60.95
+1463.TW, Close: 26.95, RSI(talib): 64.03
+2109.TW, Close: 19.70, RSI(talib): 61.10
+6446.TW, Close: 661.00, RSI(talib): 68.59
+4562.TW, Close: 79.40, RSI(talib): 63.23
+2524.TW, Close: 110.00, RSI(talib): 65.98
+2236.TW, Close: 107.00, RSI(talib): 66.03
+4576.TW, Close: 94.70, RSI(talib): 67.25
+4540.TW, Close: 49.70, RSI(talib): 72.38
+--------------
+1440.TW failed ('NoneType' object has no attribute 'text').
+6669.TW failed ('NoneType' object has no attribute 'text').
+2439.TW failed (inputs are all NaN).
+1810.TW failed (inputs are all NaN).

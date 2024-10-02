@@ -1,0 +1,25 @@
+--------------
+Fri Sep 27 20:01:13 2024 US Stock List
+--------------
+LMT, RSI(talib): 63.52167732387305
+META, RSI(talib): 75.12938367775955
+AVGO, RSI(talib): 64.59626091620393
+TMUS, RSI(talib): 60.312729241669736
+PYPL, RSI(talib): 73.76236364855325
+BKNG, RSI(talib): 76.0699022060453
+MELI, RSI(talib): 61.28574269010541
+FTNT, RSI(talib): 64.55604908427934
+KDP, RSI(talib): 63.030647707378506
+ORLY, RSI(talib): 63.14836121781501
+CTAS, RSI(talib): 63.59384795205977
+EBAY, RSI(talib): 64.01627635145127
+ORCL, RSI(talib): 70.72939740944724
+T, RSI(talib): 64.43493187323857
+WMT, RSI(talib): 61.274134598572
+GE, RSI(talib): 61.371242214230946
+TTD, RSI(talib): 62.42262423298987
+TDG, RSI(talib): 62.347889744433374
+--------------
+ASML failed (index 0 is out of bounds for axis 0 with size 0).
+AEP failed (index 0 is out of bounds for axis 0 with size 0).
+AMT failed (index 0 is out of bounds for axis 0 with size 0).

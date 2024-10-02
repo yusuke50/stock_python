@@ -1,0 +1,19 @@
+--------------
+Mon Sep  9 19:22:43 2024 US Stock List
+--------------
+LMT, RSI(talib): 70.3510493478084
+ADP, RSI(talib): 60.53220910234762
+FTNT, RSI(talib): 66.17877787778752
+KDP, RSI(talib): 72.98438254360059
+AEP, RSI(talib): 68.63725233754582
+EBAY, RSI(talib): 63.28911321707306
+KO, RSI(talib): 62.54223482831793
+T, RSI(talib): 75.34411328048466
+WMT, RSI(talib): 72.22104825236367
+CL, RSI(talib): 70.20246314807656
+--------------
+NVDA failed ('NoneType' object has no attribute 'text').
+GOOG failed (could not convert string to float: '--').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

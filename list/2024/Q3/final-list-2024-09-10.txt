@@ -1,0 +1,45 @@
+--------------
+Wed Sep 11 07:42:24 2024 TW Stock List
+--------------
+6176.TW, Close: 195.00, RSI(talib): 63.49
+2504.TW, Close: 56.40, RSI(talib): 66.54
+2474.TW, Close: 237.00, RSI(talib): 60.14
+2888.TW, Close: 13.00, RSI(talib): 69.77
+4583.TW, Close: 568.00, RSI(talib): 85.93
+8070.TW, Close: 59.40, RSI(talib): 65.66
+6515.TW, Close: 1230.00, RSI(talib): 66.89
+3003.TW, Close: 95.40, RSI(talib): 74.70
+6605.TW, Close: 269.50, RSI(talib): 65.23
+6416.TW, Close: 152.00, RSI(talib): 65.45
+2393.TW, Close: 82.20, RSI(talib): 62.77
+3617.TW, Close: 306.50, RSI(talib): 66.28
+6863.TW, Close: 245.00, RSI(talib): 62.73
+5234.TW, Close: 177.00, RSI(talib): 64.75
+4526.TW, Close: 35.00, RSI(talib): 62.08
+1540.TW, Close: 44.05, RSI(talib): 61.06
+6757.TW, Close: 65.50, RSI(talib): 66.76
+1307.TW, Close: 34.55, RSI(talib): 60.20
+3450.TW, Close: 164.00, RSI(talib): 62.18
+4956.TW, Close: 28.10, RSI(talib): 62.14
+8467.TW, Close: 245.50, RSI(talib): 61.04
+1786.TW, Close: 125.50, RSI(talib): 62.93
+6706.TW, Close: 137.00, RSI(talib): 62.62
+3550.TW, Close: 21.30, RSI(talib): 63.05
+6743.TW, Close: 69.90, RSI(talib): 60.38
+6606.TW, Close: 31.25, RSI(talib): 63.16
+4935.TW, Close: 66.80, RSI(talib): 70.19
+--------------
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+9945.TW failed ('NoneType' object has no attribute 'text').
+2436.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2327.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6235.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6282.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2023.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2457.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3062.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6209.TW failed ('NoneType' object has no attribute 'text').
+2706.TW failed ('NoneType' object has no attribute 'text').
+1324.TW failed (inputs are all NaN).
+3530.TW failed (index 0 is out of bounds for axis 0 with size 0).
+1617.TW failed ('NoneType' object has no attribute 'text').

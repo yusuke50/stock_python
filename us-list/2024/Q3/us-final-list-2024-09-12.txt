@@ -1,0 +1,22 @@
+--------------
+Thu Sep 12 19:49:28 2024 US Stock List
+--------------
+LMT, RSI(talib): 64.09666866757023
+COST, RSI(talib): 60.080307743354425
+ISRG, RSI(talib): 61.48349729475624
+ADP, RSI(talib): 67.53290531752715
+FTNT, RSI(talib): 69.69938331938367
+KDP, RSI(talib): 70.61705200231962
+AEP, RSI(talib): 69.38626306132562
+EBAY, RSI(talib): 70.94579266285378
+NOW, RSI(talib): 65.26455594489258
+ORCL, RSI(talib): 74.54522734713181
+T, RSI(talib): 74.72392229492466
+WMT, RSI(talib): 79.96900346799062
+--------------
+AMAT failed (inputs are all NaN).
+XOM failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

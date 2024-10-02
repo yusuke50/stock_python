@@ -1,0 +1,42 @@
+--------------
+Mon Sep 16 20:35:48 2024 TW Stock List
+--------------
+1711.TW, Close: 26.40, RSI(talib): 60.95
+2888.TW, Close: 13.35, RSI(talib): 69.43
+4583.TW, Close: 764.00, RSI(talib): 83.33
+3019.TW, Close: 118.50, RSI(talib): 60.19
+8070.TW, Close: 61.30, RSI(talib): 66.59
+6515.TW, Close: 1430.00, RSI(talib): 74.58
+8464.TW, Close: 480.00, RSI(talib): 64.31
+3003.TW, Close: 98.60, RSI(talib): 64.49
+2360.TW, Close: 375.50, RSI(talib): 70.20
+6670.TW, Close: 304.00, RSI(talib): 60.44
+2420.TW, Close: 75.80, RSI(talib): 63.17
+6416.TW, Close: 153.00, RSI(talib): 68.89
+6409.TW, Close: 2020.00, RSI(talib): 62.05
+6142.TW, Close: 11.50, RSI(talib): 61.35
+3617.TW, Close: 338.00, RSI(talib): 66.09
+6863.TW, Close: 274.00, RSI(talib): 60.53
+5234.TW, Close: 226.00, RSI(talib): 74.50
+4526.TW, Close: 37.45, RSI(talib): 60.82
+1540.TW, Close: 47.20, RSI(talib): 61.00
+6757.TW, Close: 65.80, RSI(talib): 65.83
+3021.TW, Close: 27.35, RSI(talib): 64.63
+1307.TW, Close: 38.65, RSI(talib): 73.38
+3450.TW, Close: 178.00, RSI(talib): 64.87
+2488.TW, Close: 53.10, RSI(talib): 76.45
+8467.TW, Close: 261.00, RSI(talib): 61.55
+6706.TW, Close: 171.00, RSI(talib): 69.63
+2236.TW, Close: 117.50, RSI(talib): 62.24
+3550.TW, Close: 27.40, RSI(talib): 69.29
+6405.TW, Close: 34.80, RSI(talib): 60.83
+4935.TW, Close: 70.40, RSI(talib): 64.38
+2228.TW, Close: 118.00, RSI(talib): 64.42
+2477.TW, Close: 35.25, RSI(talib): 68.86
+--------------
+1708.TW failed ('NoneType' object has no attribute 'text').
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3016.TW failed ('NoneType' object has no attribute 'text').
+2444.TW failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+2453.TW failed (could not convert string to float: '--').
+5519.TW failed ('NoneType' object has no attribute 'text').

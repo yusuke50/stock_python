@@ -1,0 +1,49 @@
+--------------
+Mon Aug 26 21:03:23 2024 TW Stock List
+--------------
+2603.TW, Close: 189.00, RSI(talib): 61.41
+2323.TW, Close: 13.40, RSI(talib): 60.52
+3645.TW, Close: 56.80, RSI(talib): 71.46
+1220.TW, Close: 16.80, RSI(talib): 70.14
+8028.TW, Close: 133.50, RSI(talib): 66.76
+2474.TW, Close: 235.50, RSI(talib): 61.55
+3062.TW, Close: 32.85, RSI(talib): 60.48
+2888.TW, Close: 13.00, RSI(talib): 76.85
+3653.TW, Close: 1340.00, RSI(talib): 65.41
+3665.TW, Close: 431.50, RSI(talib): 62.97
+4583.TW, Close: 416.00, RSI(talib): 61.49
+3019.TW, Close: 115.00, RSI(talib): 69.78
+8070.TW, Close: 58.40, RSI(talib): 77.79
+6515.TW, Close: 1150.00, RSI(talib): 62.14
+3003.TW, Close: 85.80, RSI(talib): 62.23
+6415.TW, Close: 479.50, RSI(talib): 65.91
+3013.TW, Close: 119.50, RSI(talib): 62.64
+3167.TW, Close: 90.60, RSI(talib): 66.79
+3607.TW, Close: 21.90, RSI(talib): 64.24
+6133.TW, Close: 23.05, RSI(talib): 63.97
+1727.TW, Close: 32.20, RSI(talib): 64.34
+1736.TW, Close: 119.50, RSI(talib): 70.33
+5225.TW, Close: 145.00, RSI(talib): 68.91
+3705.TW, Close: 56.50, RSI(talib): 61.51
+6691.TW, Close: 341.50, RSI(talib): 60.84
+3583.TW, Close: 435.00, RSI(talib): 64.91
+8021.TW, Close: 38.80, RSI(talib): 71.16
+2852.TW, Close: 24.40, RSI(talib): 61.53
+3450.TW, Close: 136.50, RSI(talib): 62.47
+2488.TW, Close: 47.95, RSI(talib): 61.09
+6805.TW, Close: 805.00, RSI(talib): 64.58
+2467.TW, Close: 226.50, RSI(talib): 64.79
+8039.TW, Close: 66.10, RSI(talib): 73.39
+2062.TW, Close: 38.55, RSI(talib): 65.08
+5306.TW, Close: 155.00, RSI(talib): 61.00
+1615.TW, Close: nan, RSI(talib): 63.77
+1786.TW, Close: 131.50, RSI(talib): 61.67
+6706.TW, Close: 126.50, RSI(talib): 61.44
+2524.TW, Close: 116.50, RSI(talib): 61.32
+4540.TW, Close: 43.20, RSI(talib): 60.79
+8438.TW, Close: 49.00, RSI(talib): 79.34
+--------------
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6768.TW failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).
+3032.TW failed ('NoneType' object has no attribute 'text').
+2704.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).

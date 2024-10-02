@@ -1,0 +1,38 @@
+--------------
+Fri Aug 30 20:37:40 2024 US Stock List
+--------------
+LMT, RSI(talib): 77.9053496681702
+RTX, RSI(talib): 81.00370772999361
+AAPL, RSI(talib): 63.84323673499806
+TXN, RSI(talib): 61.1550980744897
+NFLX, RSI(talib): 62.6662834893797
+TMUS, RSI(talib): 65.68593189351934
+PYPL, RSI(talib): 71.46865494390582
+ISRG, RSI(talib): 64.85692086665271
+BKNG, RSI(talib): 63.070229902993546
+ADP, RSI(talib): 74.74354575949778
+REGN, RSI(talib): 62.37549173574332
+VRTX, RSI(talib): 60.929891306558005
+MELI, RSI(talib): 67.17147930921251
+PANW, RSI(talib): 60.717560323512046
+AEP, RSI(talib): 66.26800796454614
+ADSK, RSI(talib): 63.27132692393443
+ORLY, RSI(talib): 62.7107879932421
+CTAS, RSI(talib): 76.37277493605907
+AZN, RSI(talib): 74.21790391552618
+EBAY, RSI(talib): 62.50383937761175
+ROST, RSI(talib): 60.08130083276158
+BRK-B, RSI(talib): 78.55410776189909
+GM, RSI(talib): 70.58849789859737
+JPM, RSI(talib): 70.05435310635339
+KO, RSI(talib): 78.81991073282916
+WMT, RSI(talib): 78.29241897178646
+CL, RSI(talib): 70.46474463819528
+GE, RSI(talib): 62.48584007681175
+TTD, RSI(talib): 60.35922189674905
+--------------
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

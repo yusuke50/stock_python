@@ -1,0 +1,22 @@
+--------------
+Tue Jul 30 21:43:00 2024 US Stock List
+--------------
+RTX, RSI(talib): 77.47791511568046
+AMGN, RSI(talib): 62.643886172770735
+ADP, RSI(talib): 69.53909599287348
+VRTX, RSI(talib): 68.58749464150604
+AEP, RSI(talib): 77.7595605445785
+CTAS, RSI(talib): 70.25366036905609
+EA, RSI(talib): 65.05983826500137
+VRSK, RSI(talib): 68.70402469010365
+SWKS, RSI(talib): 62.57146103105819
+BRK-B, RSI(talib): 65.59569565867847
+KO, RSI(talib): 71.36421120991267
+CL, RSI(talib): 67.55055422872216
+--------------
+CSX failed ('NoneType' object has no attribute 'text').
+GM failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

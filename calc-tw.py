@@ -24,6 +24,7 @@ with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
     err_list = []
 
     for line in ori_list:
+        count = 0
         stock_name = line.rstrip("\n").split(" ")[0]
 
         etf_flag = True
@@ -124,7 +125,11 @@ with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
 
                 final_list.append(p_str)
 
-            time.sleep(1)
+            count += 1
+            if count % 50 == 0:
+                time.sleep(15)
+            else:
+                time.sleep(5)
 ori_list.close()
 
 path = os.path.join(os.path.dirname(__file__), ".\list")

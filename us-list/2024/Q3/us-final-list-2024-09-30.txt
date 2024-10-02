@@ -1,0 +1,22 @@
+--------------
+Mon Sep 30 19:32:23 2024 US Stock List
+--------------
+LMT, RSI(talib): 65.45124397423827
+META, RSI(talib): 73.04696794683699
+TMUS, RSI(talib): 61.79555162126448
+PYPL, RSI(talib): 63.83415816310413
+BKNG, RSI(talib): 73.75766487169267
+FTNT, RSI(talib): 66.88808818111369
+KDP, RSI(talib): 60.064113997301085
+EBAY, RSI(talib): 63.27314282969376
+ORCL, RSI(talib): 71.69660965117328
+T, RSI(talib): 66.45831811383592
+WMT, RSI(talib): 60.83567787259274
+GE, RSI(talib): 62.32232814443509
+TTD, RSI(talib): 64.75400421624317
+TDG, RSI(talib): 62.11851047205633
+NOC, RSI(talib): 60.70389027487878
+--------------
+KLAC failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+DIS failed (index 0 is out of bounds for axis 0 with size 0).
+KO failed ('NoneType' object has no attribute 'text').

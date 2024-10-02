@@ -1,0 +1,34 @@
+--------------
+Wed Aug 14 19:20:59 2024 US Stock List
+--------------
+LMT, RSI(talib): 87.39118369196426
+RTX, RSI(talib): 71.10635053013837
+META, RSI(talib): 62.330248480239604
+TMUS, RSI(talib): 74.33562792104824
+ISRG, RSI(talib): 63.00162085459344
+ADP, RSI(talib): 62.64038634410591
+REGN, RSI(talib): 71.34457946948307
+MELI, RSI(talib): 71.9208230729941
+AEP, RSI(talib): 60.21056997658339
+AZN, RSI(talib): 64.32019074203457
+PDD, RSI(talib): 63.009073311824295
+KO, RSI(talib): 64.51430214259021
+T, RSI(talib): 61.967711887768196
+--------------
+AVGO failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+CL failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

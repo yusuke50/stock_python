@@ -1,0 +1,25 @@
+--------------
+Thu Sep 12 00:21:33 2024 TW Stock List
+--------------
+2888.TW, Close: 13.50, RSI(talib): 66.67
+4583.TW, Close: 624.00, RSI(talib): 72.71
+8070.TW, Close: 59.80, RSI(talib): 63.50
+6515.TW, Close: 1270.00, RSI(talib): 67.09
+8464.TW, Close: 454.00, RSI(talib): 61.70
+3003.TW, Close: 94.10, RSI(talib): 66.50
+2360.TW, Close: 337.00, RSI(talib): 60.70
+6605.TW, Close: 262.00, RSI(talib): 67.51
+6416.TW, Close: 150.50, RSI(talib): 66.40
+5234.TW, Close: 176.00, RSI(talib): 63.99
+6757.TW, Close: 62.60, RSI(talib): 67.68
+1307.TW, Close: 36.15, RSI(talib): 62.87
+--------------
+3711.TW failed (inputs are all NaN).
+5880.TW failed ('NoneType' object has no attribute 'text').
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+1219.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+2504.TW failed (inputs are all NaN).
+6282.TW failed ('NoneType' object has no attribute 'text').
+2355.TW failed ('NoneType' object has no attribute 'text').
+2472.TW failed ('NoneType' object has no attribute 'text').
+5469.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).

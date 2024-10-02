@@ -1,0 +1,34 @@
+--------------
+Wed Aug 28 19:38:29 2024 US Stock List
+--------------
+LMT, RSI(talib): 74.38245292747602
+RTX, RSI(talib): 75.37769268183487
+AAPL, RSI(talib): 62.65812160238957
+COST, RSI(talib): 71.41854516609027
+TXN, RSI(talib): 62.046778074794204
+NFLX, RSI(talib): 66.96055705811375
+TMUS, RSI(talib): 77.73370756624291
+ISRG, RSI(talib): 62.1530544840457
+BKNG, RSI(talib): 62.910925194483134
+ADP, RSI(talib): 80.30073301358588
+REGN, RSI(talib): 74.10083716672953
+MELI, RSI(talib): 72.66735539115268
+AEP, RSI(talib): 61.38769003975092
+ADSK, RSI(talib): 63.46355166163037
+CTAS, RSI(talib): 77.81678391827482
+AZN, RSI(talib): 74.3224174018177
+EBAY, RSI(talib): 71.97486381891757
+ROST, RSI(talib): 65.88372468574819
+BRK-B, RSI(talib): 74.87985741218073
+GM, RSI(talib): 70.67998174401218
+HD, RSI(talib): 63.55480897862373
+JPM, RSI(talib): 67.59404867212862
+KO, RSI(talib): 76.84248026936656
+LLY, RSI(talib): 63.85090734795935
+WMT, RSI(talib): 77.79862414066562
+CL, RSI(talib): 71.29565476600841
+TTD, RSI(talib): 62.497831047016646
+TDG, RSI(talib): 61.25771870901444
+--------------
+VRTX failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+XOM failed (('Connection broken: IncompleteRead(0 bytes read, 2 more expected)', IncompleteRead(0 bytes read, 2 more expected))).

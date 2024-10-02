@@ -1,0 +1,13 @@
+--------------
+Tue Aug  6 21:55:43 2024 US Stock List
+--------------
+RTX, RSI(talib): 69.01435260968452
+TMUS, RSI(talib): 62.635597694922915
+ADP, RSI(talib): 61.335849497067166
+MELI, RSI(talib): 61.57666099353387
+AEP, RSI(talib): 64.41574148964789
+KO, RSI(talib): 64.33710478685867
+CL, RSI(talib): 60.28036971793676
+--------------
+CRM failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+NKE failed ('NoneType' object has no attribute 'text').

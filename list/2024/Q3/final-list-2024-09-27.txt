@@ -1,0 +1,59 @@
+--------------
+Fri Sep 27 23:39:09 2024 TW Stock List
+--------------
+2891.TW, Close: 34.60, RSI(talib): 60.52
+1402.TW, Close: 38.20, RSI(talib): 66.78
+2330.TW, Close: 1000.00, RSI(talib): 66.54
+2882.TW, Close: 67.50, RSI(talib): 70.41
+2603.TW, Close: 212.00, RSI(talib): 71.25
+2881.TW, Close: 91.30, RSI(talib): 67.55
+2637.TW, Close: 76.40, RSI(talib): 63.13
+2351.TW, Close: 147.00, RSI(talib): 63.06
+2609.TW, Close: 72.90, RSI(talib): 74.44
+2615.TW, Close: 107.50, RSI(talib): 80.99
+2613.TW, Close: 38.45, RSI(talib): 79.13
+9955.TW, Close: 37.00, RSI(talib): 60.31
+2327.TW, Close: 635.00, RSI(talib): 61.89
+3665.TW, Close: 463.50, RSI(talib): 64.07
+4583.TW, Close: 707.00, RSI(talib): 69.19
+8464.TW, Close: 505.00, RSI(talib): 62.70
+2360.TW, Close: 373.50, RSI(talib): 60.06
+3013.TW, Close: 137.00, RSI(talib): 70.70
+3167.TW, Close: 140.50, RSI(talib): 76.96
+3494.TW, Close: 7.90, RSI(talib): 66.45
+1727.TW, Close: 40.60, RSI(talib): 61.79
+1721.TW, Close: 25.05, RSI(talib): 73.92
+6197.TW, Close: 168.50, RSI(talib): 61.57
+6438.TW, Close: 141.50, RSI(talib): 69.69
+1736.TW, Close: 149.50, RSI(talib): 72.56
+4763.TW, Close: 892.00, RSI(talib): 63.14
+3033.TW, Close: 34.85, RSI(talib): 60.57
+6768.TW, Close: 107.50, RSI(talib): 68.67
+2495.TW, Close: 34.90, RSI(talib): 61.93
+6416.TW, Close: 158.00, RSI(talib): 64.50
+9938.TW, Close: 73.90, RSI(talib): 67.43
+3705.TW, Close: 62.70, RSI(talib): 72.14
+3617.TW, Close: 327.00, RSI(talib): 62.77
+6863.TW, Close: 287.00, RSI(talib): 63.78
+5234.TW, Close: 236.50, RSI(talib): 70.32
+3021.TW, Close: 30.60, RSI(talib): 75.71
+1307.TW, Close: 39.10, RSI(talib): 60.32
+3622.TW, Close: 72.40, RSI(talib): 75.20
+3450.TW, Close: 182.50, RSI(talib): 72.05
+2543.TW, Close: 80.60, RSI(talib): 68.66
+8467.TW, Close: 272.00, RSI(talib): 65.21
+6706.TW, Close: 166.00, RSI(talib): 61.51
+3550.TW, Close: 26.90, RSI(talib): 65.81
+6405.TW, Close: 41.00, RSI(talib): 66.24
+9935.TW, Close: 33.55, RSI(talib): 61.86
+--------------
+2301.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+2313.TW failed (inputs are all NaN).
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+4934.TW failed (inputs are all NaN).
+1760.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+2489.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2421.TW failed ('NoneType' object has no attribute 'text').
+1707.TW failed ('NoneType' object has no attribute 'text').
+6449.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+8473.TW failed ('NoneType' object has no attribute 'text').

@@ -15,12 +15,6 @@ IF /I "%~1"=="US" (
   ECHO Daily TW
   python .\daily-tw-edit.py
   python .\calc-tw.py
-) ELSE IF /I "%~1"=="ALL" (
-  ECHO Daily US
-  python .\us-daily.py
-  ECHO Daily TW
-  python .\daily-tw-edit.py
-  python .\calc-tw.py
 ) ELSE (
   ECHO Invalid task: %1
   EXIT /B 1

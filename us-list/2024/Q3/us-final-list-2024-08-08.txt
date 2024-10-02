@@ -1,0 +1,12 @@
+--------------
+Thu Aug  8 20:29:30 2024 US Stock List
+--------------
+RTX, RSI(talib): 64.92717349227601
+TMUS, RSI(talib): 67.2632216760113
+ADP, RSI(talib): 63.02362110394392
+MELI, RSI(talib): 67.4590271321168
+AEP, RSI(talib): 68.03466931115726
+KO, RSI(talib): 66.01973793264625
+CL, RSI(talib): 63.711397637113244
+--------------
+BA failed (index 0 is out of bounds for axis 0 with size 0).

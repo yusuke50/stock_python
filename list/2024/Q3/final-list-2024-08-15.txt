@@ -1,0 +1,29 @@
+--------------
+Thu Aug 15 22:43:02 2024 TW Stock List
+--------------
+2881.TW, Close: 89.00, RSI(talib): 60.53
+4583.TW, Close: 393.50, RSI(talib): 71.87
+3019.TW, Close: 117.00, RSI(talib): 74.52
+3167.TW, Close: 80.70, RSI(talib): 64.58
+2102.TW, Close: 22.90, RSI(talib): 60.22
+2539.TW, Close: nan, RSI(talib): 62.49
+2015.TW, Close: 82.20, RSI(talib): 63.85
+1540.TW, Close: 38.10, RSI(talib): 60.06
+2905.TW, Close: 21.10, RSI(talib): 68.75
+2543.TW, Close: 64.70, RSI(talib): 62.37
+2365.TW, Close: 64.00, RSI(talib): 60.58
+1463.TW, Close: 26.85, RSI(talib): 68.75
+2348.TW, Close: 290.00, RSI(talib): 60.60
+2109.TW, Close: 19.55, RSI(talib): 62.63
+8374.TW, Close: 147.00, RSI(talib): 64.08
+4562.TW, Close: 78.50, RSI(talib): 64.47
+2524.TW, Close: 121.00, RSI(talib): 68.06
+4576.TW, Close: 96.40, RSI(talib): 69.91
+4540.TW, Close: 49.85, RSI(talib): 78.08
+--------------
+2601.TW failed (inputs are all NaN).
+2845.TW failed ('NoneType' object has no attribute 'text').
+1220.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+1304.TW failed ('NoneType' object has no attribute 'text').
+2462.TW failed ('NoneType' object has no attribute 'text').
+4532.TW failed (inputs are all NaN).

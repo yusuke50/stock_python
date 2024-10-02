@@ -1,0 +1,58 @@
+--------------
+Thu Aug 29 21:56:39 2024 TW Stock List
+--------------
+2881.TW, Close: 91.30, RSI(talib): 62.17
+2354.TW, Close: 68.50, RSI(talib): 60.05
+2357.TW, Close: 548.00, RSI(talib): 68.59
+3645.TW, Close: 59.00, RSI(talib): 67.23
+1220.TW, Close: 17.00, RSI(talib): 68.92
+8028.TW, Close: 134.50, RSI(talib): 61.25
+2504.TW, Close: 53.90, RSI(talib): 63.32
+2474.TW, Close: 237.00, RSI(talib): 60.86
+1711.TW, Close: 27.00, RSI(talib): 68.67
+2327.TW, Close: 657.00, RSI(talib): 60.11
+2888.TW, Close: 13.00, RSI(talib): 78.45
+3665.TW, Close: 441.50, RSI(talib): 64.06
+4583.TW, Close: 499.00, RSI(talib): 78.23
+3019.TW, Close: 128.00, RSI(talib): 66.33
+8070.TW, Close: 59.20, RSI(talib): 76.30
+6515.TW, Close: 1175.00, RSI(talib): 62.31
+3673.TW, Close: 44.10, RSI(talib): 60.52
+8464.TW, Close: 476.00, RSI(talib): 64.11
+3003.TW, Close: 90.40, RSI(talib): 67.76
+6415.TW, Close: 465.50, RSI(talib): 60.93
+3015.TW, Close: 60.50, RSI(talib): 60.97
+3167.TW, Close: 93.00, RSI(talib): 64.19
+1528.TW, Close: 14.55, RSI(talib): 64.03
+1727.TW, Close: 35.60, RSI(talib): 64.43
+6438.TW, Close: 127.00, RSI(talib): 65.83
+1736.TW, Close: 121.50, RSI(talib): 62.27
+5225.TW, Close: 158.50, RSI(talib): 71.27
+3312.TW, Close: 89.50, RSI(talib): 60.37
+6416.TW, Close: 152.00, RSI(talib): 71.07
+3705.TW, Close: 57.60, RSI(talib): 64.20
+6753.TW, Close: 145.00, RSI(talib): 66.88
+6863.TW, Close: 237.50, RSI(talib): 60.84
+5234.TW, Close: 170.50, RSI(talib): 67.58
+3149.TW, Close: 30.05, RSI(talib): 75.18
+2015.TW, Close: 82.00, RSI(talib): 63.64
+4526.TW, Close: 38.60, RSI(talib): 70.59
+1540.TW, Close: 45.50, RSI(talib): 75.37
+8021.TW, Close: 38.80, RSI(talib): 62.48
+9927.TW, Close: 78.50, RSI(talib): 61.20
+3450.TW, Close: 172.00, RSI(talib): 70.12
+2543.TW, Close: 76.60, RSI(talib): 70.61
+2488.TW, Close: 48.75, RSI(talib): 64.39
+2467.TW, Close: 242.00, RSI(talib): 71.75
+8039.TW, Close: 70.10, RSI(talib): 75.43
+3605.TW, Close: 56.70, RSI(talib): 67.69
+2062.TW, Close: 38.85, RSI(talib): 65.49
+5306.TW, Close: 155.50, RSI(talib): 67.06
+1786.TW, Close: 133.00, RSI(talib): 62.79
+4540.TW, Close: 46.70, RSI(talib): 64.22
+8438.TW, Close: 47.35, RSI(talib): 60.31
+3550.TW, Close: 25.00, RSI(talib): 90.01
+--------------
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2020.TW failed ('NoneType' object has no attribute 'text').
+8374.TW failed ('NoneType' object has no attribute 'text').

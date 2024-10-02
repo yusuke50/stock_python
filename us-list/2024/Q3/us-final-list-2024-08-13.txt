@@ -1,0 +1,29 @@
+--------------
+Tue Aug 13 21:52:02 2024 US Stock List
+--------------
+LMT, RSI(talib): 86.9866210894927
+RTX, RSI(talib): 70.963508369096
+TMUS, RSI(talib): 74.2476885428585
+ISRG, RSI(talib): 61.665022691573924
+REGN, RSI(talib): 64.54816394398057
+MELI, RSI(talib): 70.46153542997483
+CTAS, RSI(talib): 60.303690057107254
+AZN, RSI(talib): 61.65887147095195
+PDD, RSI(talib): 61.32737402140916
+KO, RSI(talib): 63.15057273545101
+T, RSI(talib): 60.48193268773767
+--------------
+ODFL failed (index 0 is out of bounds for axis 0 with size 0).
+GFS failed ('NoneType' object has no attribute 'text').
+CSGP failed ('NoneType' object has no attribute 'text').
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

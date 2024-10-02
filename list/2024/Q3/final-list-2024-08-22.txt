@@ -1,0 +1,52 @@
+--------------
+Thu Aug 22 21:46:23 2024 TW Stock List
+--------------
+2323.TW, Close: 13.55, RSI(talib): 62.19
+2867.TW, Close: 7.91, RSI(talib): 60.87
+2476.TW, Close: 106.00, RSI(talib): 62.17
+3645.TW, Close: 56.00, RSI(talib): 76.33
+1220.TW, Close: 16.80, RSI(talib): 68.66
+8028.TW, Close: 127.50, RSI(talib): 65.28
+3062.TW, Close: 32.70, RSI(talib): 60.24
+2888.TW, Close: 12.45, RSI(talib): 76.11
+3653.TW, Close: 1360.00, RSI(talib): 65.03
+3665.TW, Close: 424.00, RSI(talib): 60.64
+3535.TW, Close: 77.00, RSI(talib): 60.37
+4583.TW, Close: 379.00, RSI(talib): 63.87
+3019.TW, Close: 116.00, RSI(talib): 82.19
+8070.TW, Close: 51.70, RSI(talib): 69.23
+9921.TW, Close: 239.00, RSI(talib): 61.02
+3003.TW, Close: 83.60, RSI(talib): 64.05
+3013.TW, Close: 118.50, RSI(talib): 64.51
+3167.TW, Close: 90.60, RSI(talib): 68.91
+3607.TW, Close: 21.60, RSI(talib): 63.64
+6133.TW, Close: 24.50, RSI(talib): 62.98
+3047.TW, Close: 43.05, RSI(talib): 63.39
+3686.TW, Close: 28.80, RSI(talib): 60.38
+2420.TW, Close: 67.80, RSI(talib): 62.54
+1736.TW, Close: 121.50, RSI(talib): 64.70
+5225.TW, Close: 142.00, RSI(talib): 67.92
+3312.TW, Close: 88.10, RSI(talib): 62.96
+6409.TW, Close: 2050.00, RSI(talib): 63.40
+6691.TW, Close: 348.50, RSI(talib): 62.71
+3583.TW, Close: 453.00, RSI(talib): 62.23
+2349.TW, Close: 17.00, RSI(talib): 67.82
+8021.TW, Close: 38.10, RSI(talib): 62.42
+2905.TW, Close: 20.05, RSI(talib): 61.52
+3450.TW, Close: 137.00, RSI(talib): 62.24
+1463.TW, Close: 26.05, RSI(talib): 61.03
+2467.TW, Close: 202.50, RSI(talib): 63.43
+2062.TW, Close: 37.80, RSI(talib): 67.07
+5306.TW, Close: 151.00, RSI(talib): 63.35
+1615.TW, Close: 73.90, RSI(talib): 64.10
+1786.TW, Close: 131.00, RSI(talib): 70.27
+8103.TW, Close: 73.00, RSI(talib): 63.77
+4576.TW, Close: 92.90, RSI(talib): 64.52
+--------------
+1513.TW failed (index 0 is out of bounds for axis 0 with size 0).
+3481.TW failed (index 0 is out of bounds for axis 0 with size 0).
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2399.TW failed (index 0 is out of bounds for axis 0 with size 0).
+5434.TW failed ('NoneType' object has no attribute 'text').
+4532.TW failed ('NoneType' object has no attribute 'text').
+2852.TW failed (inputs are all NaN).

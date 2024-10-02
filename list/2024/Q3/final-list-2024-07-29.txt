@@ -1,0 +1,49 @@
+--------------
+Tue Jul 30 08:33:58 2024 TW Stock List
+--------------
+1216.TW, Close: 86.40, RSI(talib): 63.62
+2542.TW, Close: 63.00, RSI(talib): 63.15
+8028.TW, Close: 115.00, RSI(talib): 63.83
+2504.TW, Close: 51.60, RSI(talib): 70.32
+9945.TW, Close: 51.00, RSI(talib): 69.64
+1808.TW, Close: 119.50, RSI(talib): 62.56
+3535.TW, Close: 70.30, RSI(talib): 68.04
+9921.TW, Close: 225.00, RSI(talib): 63.83
+2538.TW, Close: 21.55, RSI(talib): 61.08
+9914.TW, Close: 238.50, RSI(talib): 65.72
+2520.TW, Close: 62.30, RSI(talib): 61.79
+3013.TW, Close: 104.50, RSI(talib): 61.95
+6605.TW, Close: 267.50, RSI(talib): 62.89
+2534.TW, Close: 30.00, RSI(talib): 73.25
+3029.TW, Close: 103.00, RSI(talib): 62.25
+1736.TW, Close: 116.00, RSI(talib): 68.05
+2530.TW, Close: 57.50, RSI(talib): 66.43
+6768.TW, Close: 98.00, RSI(talib): 67.56
+1720.TW, Close: 75.50, RSI(talib): 68.90
+9938.TW, Close: 66.00, RSI(talib): 61.53
+2393.TW, Close: 81.20, RSI(talib): 64.30
+2739.TW, Close: 68.20, RSI(talib): 63.90
+3056.TW, Close: 38.05, RSI(talib): 67.66
+2243.TW, Close: 26.30, RSI(talib): 68.79
+6177.TW, Close: 64.62, RSI(talib): 63.88
+2535.TW, Close: 58.90, RSI(talib): 71.27
+2548.TW, Close: 161.50, RSI(talib): 60.91
+1806.TW, Close: 14.05, RSI(talib): 61.41
+1540.TW, Close: 30.05, RSI(talib): 74.44
+2543.TW, Close: 60.20, RSI(talib): 63.75
+2365.TW, Close: 59.20, RSI(talib): 70.90
+1463.TW, Close: 24.10, RSI(talib): 78.12
+2062.TW, Close: 33.60, RSI(talib): 67.08
+5534.TW, Close: 140.00, RSI(talib): 62.70
+5519.TW, Close: 54.50, RSI(talib): 60.31
+6446.TW, Close: 621.00, RSI(talib): 71.59
+3052.TW, Close: 14.00, RSI(talib): 65.79
+8374.TW, Close: 110.50, RSI(talib): 61.74
+2524.TW, Close: 93.20, RSI(talib): 77.96
+1456.TW, Close: 24.10, RSI(talib): 66.69
+--------------
+9802.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2013.TW failed (index 0 is out of bounds for axis 0 with size 0).
+1907.TW failed (inputs are all NaN).
+1526.TW failed (inputs are all NaN).
+8926.TW failed (index 0 is out of bounds for axis 0 with size 0).

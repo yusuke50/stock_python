@@ -1,0 +1,76 @@
+--------------
+Fri Aug  2 21:54:55 2024 TW Stock List
+--------------
+2890.TW, Close: 26.40, RSI(talib): 60.30
+2881.TW, Close: 86.90, RSI(talib): 60.04
+2880.TW, Close: 28.15, RSI(talib): 67.54
+2834.TW, Close: 18.60, RSI(talib): 64.06
+2545.TW, Close: 64.00, RSI(talib): 70.61
+2515.TW, Close: 15.70, RSI(talib): 63.33
+2442.TW, Close: 37.35, RSI(talib): 68.28
+2542.TW, Close: 60.80, RSI(talib): 68.08
+1477.TW, Close: 424.00, RSI(talib): 60.40
+2504.TW, Close: 50.70, RSI(talib): 70.21
+2308.TW, Close: 390.00, RSI(talib): 64.81
+1808.TW, Close: 119.00, RSI(talib): 62.70
+8114.TW, Close: 185.50, RSI(talib): 61.54
+3535.TW, Close: 72.60, RSI(talib): 71.55
+4583.TW, Close: 343.00, RSI(talib): 74.06
+9921.TW, Close: 227.50, RSI(talib): 71.06
+2538.TW, Close: 21.80, RSI(talib): 67.15
+9914.TW, Close: 244.50, RSI(talib): 68.58
+6605.TW, Close: 258.00, RSI(talib): 67.17
+2534.TW, Close: 28.85, RSI(talib): 72.17
+1736.TW, Close: 112.00, RSI(talib): 63.97
+3024.TW, Close: 23.75, RSI(talib): 64.70
+4720.TW, Close: 23.40, RSI(talib): 63.42
+6442.TW, Close: 480.00, RSI(talib): 62.37
+2102.TW, Close: 22.05, RSI(talib): 63.79
+2530.TW, Close: 53.40, RSI(talib): 60.34
+1442.TW, Close: 66.00, RSI(talib): 63.80
+6768.TW, Close: 100.50, RSI(talib): 75.13
+2539.TW, Close: 78.40, RSI(talib): 60.61
+3056.TW, Close: 38.65, RSI(talib): 77.44
+2243.TW, Close: 29.05, RSI(talib): 67.24
+6177.TW, Close: 65.00, RSI(talib): 63.69
+2547.TW, Close: 11.45, RSI(talib): 64.38
+2535.TW, Close: 58.30, RSI(talib): 73.62
+2548.TW, Close: 160.00, RSI(talib): 60.13
+9934.TW, Close: 19.00, RSI(talib): 64.39
+1702.TW, Close: 59.30, RSI(talib): 61.80
+8011.TW, Close: 28.75, RSI(talib): 65.79
+2015.TW, Close: 79.40, RSI(talib): 60.68
+2349.TW, Close: 17.15, RSI(talib): 60.67
+1806.TW, Close: 12.85, RSI(talib): 61.98
+4532.TW, Close: 29.40, RSI(talib): 64.42
+1540.TW, Close: 37.25, RSI(talib): 66.54
+2516.TW, Close: 13.50, RSI(talib): 61.08
+1307.TW, Close: 31.30, RSI(talib): 61.67
+2905.TW, Close: 19.95, RSI(talib): 70.70
+2543.TW, Close: 59.70, RSI(talib): 64.88
+2365.TW, Close: 64.30, RSI(talib): 62.12
+1463.TW, Close: 25.60, RSI(talib): 85.49
+6805.TW, Close: 744.00, RSI(talib): 60.92
+2362.TW, Close: 59.50, RSI(talib): 65.16
+8467.TW, Close: 241.00, RSI(talib): 70.05
+2528.TW, Close: 50.10, RSI(talib): 67.14
+2062.TW, Close: 33.90, RSI(talib): 72.04
+5306.TW, Close: 146.50, RSI(talib): 67.00
+5534.TW, Close: 135.00, RSI(talib): 72.27
+5519.TW, Close: 54.60, RSI(talib): 71.25
+2348.TW, Close: 294.50, RSI(talib): 79.57
+2505.TW, Close: 28.60, RSI(talib): 66.38
+2540.TW, Close: 199.50, RSI(talib): 61.21
+6446.TW, Close: 645.00, RSI(talib): 72.00
+3052.TW, Close: 13.65, RSI(talib): 68.46
+6706.TW, Close: 116.00, RSI(talib): 62.64
+1597.TW, Close: 97.30, RSI(talib): 62.07
+2524.TW, Close: 115.50, RSI(talib): 88.25
+1456.TW, Close: 24.15, RSI(talib): 69.16
+2236.TW, Close: 111.50, RSI(talib): 71.05
+--------------
+2892.TW failed ('NoneType' object has no attribute 'text').
+3037.TW failed (inputs are all NaN).
+9945.TW failed (inputs are all NaN).
+2380.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+6166.TW failed (could not convert string to float: '--').

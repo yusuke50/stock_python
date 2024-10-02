@@ -1,0 +1,8 @@
+--------------
+Wed Aug  7 21:05:42 2024 TW Stock List
+--------------
+1540.TW, Close: 42.90, RSI(talib): 77.89
+2236.TW, Close: 113.50, RSI(talib): 60.49
+--------------
+8105.TW failed ('NoneType' object has no attribute 'text').
+3257.TW failed (inputs are all NaN).

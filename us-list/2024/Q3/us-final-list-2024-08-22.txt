@@ -1,0 +1,45 @@
+--------------
+Thu Aug 22 20:13:24 2024 US Stock List
+--------------
+LMT, RSI(talib): 71.54840562124852
+RTX, RSI(talib): 67.5055768604592
+AAPL, RSI(talib): 62.302459648223916
+NVDA, RSI(talib): 61.445012130309664
+META, RSI(talib): 62.400110819182245
+COST, RSI(talib): 64.59840017558683
+TXN, RSI(talib): 62.70786358639714
+NFLX, RSI(talib): 71.55403552002011
+TMUS, RSI(talib): 66.25663803781812
+INTU, RSI(talib): 63.78140212358077
+ISRG, RSI(talib): 70.41225057574864
+ADP, RSI(talib): 68.16380035479463
+REGN, RSI(talib): 71.0720610794062
+MELI, RSI(talib): 71.63000163736962
+PANW, RSI(talib): 64.47766961517809
+ADSK, RSI(talib): 60.66506822380985
+ORLY, RSI(talib): 61.29656079505666
+CTAS, RSI(talib): 68.9318461782484
+AZN, RSI(talib): 69.04359380877239
+EBAY, RSI(talib): 68.54473944668187
+ROST, RSI(talib): 71.3966560556382
+BRK-B, RSI(talib): 63.53351230590375
+HD, RSI(talib): 62.0886476137446
+JPM, RSI(talib): 61.54201056059547
+KO, RSI(talib): 68.31502905935581
+LLY, RSI(talib): 64.90247780775707
+NOW, RSI(talib): 63.27854879584428
+WMT, RSI(talib): 73.79489833803252
+CL, RSI(talib): 61.23428562674439
+--------------
+ZM failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+BKR failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+FANG failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+RIVN failed ('NoneType' object has no attribute 'text').
+TTD failed ('NoneType' object has no attribute 'text').
+ODFL failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

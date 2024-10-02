@@ -1,0 +1,24 @@
+--------------
+Wed Sep 25 23:06:16 2024 US Stock List
+--------------
+LMT, RSI(talib): 65.15060429566776
+META, RSI(talib): 74.06266978655457
+AVGO, RSI(talib): 62.4408151847875
+NFLX, RSI(talib): 65.97300101287692
+PYPL, RSI(talib): 73.46704717030802
+BKNG, RSI(talib): 72.26870460410885
+MELI, RSI(talib): 64.9013111210997
+FTNT, RSI(talib): 67.33568678758624
+KDP, RSI(talib): 70.14541224377476
+CTAS, RSI(talib): 60.03126207355258
+EBAY, RSI(talib): 73.8730708022632
+NOW, RSI(talib): 68.86342252934881
+ORCL, RSI(talib): 68.55680289902926
+T, RSI(talib): 63.88475999918727
+WMT, RSI(talib): 68.77756334840271
+GE, RSI(talib): 72.15931959607084
+TTD, RSI(talib): 66.95645882863822
+TDG, RSI(talib): 69.60535198666953
+--------------
+CL failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+LHX failed ('NoneType' object has no attribute 'text').

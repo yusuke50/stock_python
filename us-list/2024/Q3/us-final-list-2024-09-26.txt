@@ -1,0 +1,27 @@
+--------------
+Thu Sep 26 21:43:54 2024 US Stock List
+--------------
+LMT, RSI(talib): 64.25642503863317
+META, RSI(talib): 75.57441559297476
+AVGO, RSI(talib): 62.886477279377885
+NFLX, RSI(talib): 65.57928038118361
+TMUS, RSI(talib): 60.43655884338922
+PYPL, RSI(talib): 69.0910066318595
+BKNG, RSI(talib): 72.04347751049217
+FTNT, RSI(talib): 62.70186504333889
+KDP, RSI(talib): 64.18440249374686
+CTAS, RSI(talib): 64.19909721869422
+EBAY, RSI(talib): 65.00450167712441
+ORCL, RSI(talib): 69.0093097571483
+T, RSI(talib): 63.195798539204226
+WMT, RSI(talib): 71.06183498259028
+GE, RSI(talib): 71.39722759403872
+TTD, RSI(talib): 66.73536521882065
+TDG, RSI(talib): 70.11855825548177
+NOC, RSI(talib): 65.58260961594978
+--------------
+MELI failed ('NoneType' object has no attribute 'text').
+ILMN failed (index 0 is out of bounds for axis 0 with size 0).
+XEL failed ('NoneType' object has no attribute 'text').
+ALGN failed (('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))).
+PCAR failed (could not convert string to float: '--').
