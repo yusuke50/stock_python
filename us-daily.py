@@ -6,6 +6,8 @@ import time
 from requests_html import HTMLSession
 import re
 import talib
+from yf_parser_module import get_stock_info
+import asyncio
 
 """ CHECK START """
 today = date.today()
@@ -19,113 +21,125 @@ def str_to_number(str):
     return float(number_regex.sub("", str))
 
 
-with open("stock-list-us.txt", "r") as ori_list:
-    final_list = []
-    err_list = []
-
-    for line in ori_list:
-        stock_name = line.rstrip("\n")
+async def process_stock(stock_name, semaphore):
+    async with semaphore:
         flag_check = True
         RSI_value_1 = 0
         RSI_value_2 = 0
 
-        tar = yf.Ticker(stock_name)
-
         try:
-            current_price = tar.history(period="1d")["Close"][0]
+            tar = yf.Ticker(stock_name)
 
-            session = HTMLSession()
-            url = session.get(
-                f"https://finance.yahoo.com/quote/{stock_name}/key-statistics"
+            def float_convert(value):
+                if value is None:
+                    return None
+
+                try:
+                    if isinstance(value, (int, float)):
+                        return float(value)
+                    elif isinstance(value, str):
+                        return float(value.replace(",", ""))
+                except (ValueError, TypeError):
+                    print(f"Can't convert {value} to float (stock: {stock_name})")
+                    return None
+
+            current_price = float_convert(tar.history(period="1d")["Close"].iloc[0])
+
+            stock_info = await get_stock_info(stock_name)
+            if stock_info is None:
+                raise ValueError("Can't get stock info")
+
+            fifty_two_week_high = float_convert(stock_info["fifty_two_week_high"])
+            fifty_two_week_low = float_convert(stock_info["fifty_two_week_low"])
+            fifty_day_average = float_convert(stock_info["fifty_day_average"])
+            two_hundred_day_average = float_convert(
+                stock_info["two_hundred_day_average"]
             )
-
-            fifty_two_week_high_text = url.html.find(
-                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(4) .value",
-                first=True,
-            ).text
-            fifty_two_week_high = str_to_number(fifty_two_week_high_text)
-
-            fifty_two_week_low_text = url.html.find(
-                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(5) .value",
-                first=True,
-            ).text
-            fifty_two_week_low = str_to_number(fifty_two_week_low_text)
-
-            fifty_day_average_text = url.html.find(
-                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(6) .value",
-                first=True,
-            ).text
-            fifty_day_average = str_to_number(fifty_day_average_text)
-
-            two_hundred_day_average_text = url.html.find(
-                "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(7) .value",
-                first=True,
-            ).text
-            two_hundred_day_average = str_to_number(two_hundred_day_average_text)
 
             historical = tar.history(start=that_day, end=today)
             df = pd.DataFrame(historical)
-            one_hundred_fifty_day_average = df["Close"].mean()
+            one_hundred_fifty_day_average = float_convert(df["Close"].mean())
 
             download_data = yf.download(stock_name, start=sixty_day, end=today)
             download_data["RSI"] = talib.RSI(download_data["Close"], 14)
             RSI_value_1 = download_data["RSI"].iloc[-1]
 
-            if current_price < one_hundred_fifty_day_average:
-                flag_check = False
-            elif current_price < two_hundred_day_average:
-                flag_check = False
-            elif one_hundred_fifty_day_average < two_hundred_day_average:
-                flag_check = False
-            elif fifty_day_average < one_hundred_fifty_day_average:
-                flag_check = False
-            elif fifty_day_average < two_hundred_day_average:
-                flag_check = False
-            elif current_price < fifty_two_week_low * 1.25:
-                flag_check = False
-            elif current_price < fifty_two_week_high * 0.75:
-                flag_check = False
-            elif RSI_value_1 < 60:
-                flag_check = False
+            print(
+                stock_name,
+                current_price,
+                fifty_day_average,
+                one_hundred_fifty_day_average,
+                two_hundred_day_average,
+                fifty_two_week_high,
+                fifty_two_week_low,
+            )
 
-        except KeyError as err:
-            err_str = "{} failed ({}).".format(stock_name, err)
-            err_list.append(err_str)
-            flag_check = False
-        except IndexError as err:
-            err_str = "{} failed ({}).".format(stock_name, err)
-            err_list.append(err_str)
-            flag_check = False
-        except AttributeError as err:
-            err_str = "{} failed ({}).".format(stock_name, err)
-            err_list.append(err_str)
-            flag_check = False
-        except ValueError as err:
-            err_str = "{} failed ({}).".format(stock_name, err)
-            err_list.append(err_str)
-            flag_check = False
+            if (
+                current_price is not None
+                and fifty_day_average is not None
+                and one_hundred_fifty_day_average is not None
+                and two_hundred_day_average is not None
+                and fifty_two_week_high is not None
+                and fifty_two_week_low is not None
+                and RSI_value_1 is not None
+            ):
+                if current_price < one_hundred_fifty_day_average:
+                    flag_check = False
+                elif current_price < two_hundred_day_average:
+                    flag_check = False
+                elif one_hundred_fifty_day_average < two_hundred_day_average:
+                    flag_check = False
+                elif fifty_day_average < one_hundred_fifty_day_average:
+                    flag_check = False
+                elif fifty_day_average < two_hundred_day_average:
+                    flag_check = False
+                elif current_price < fifty_two_week_low * 1.25:
+                    flag_check = False
+                elif current_price < fifty_two_week_high * 0.75:
+                    flag_check = False
+                elif RSI_value_1 < 60:
+                    flag_check = False
+
+            if flag_check:
+                return f"{stock_name}, RSI(talib): {RSI_value_1}", None
+
         except Exception as err:
-            err_str = "{} failed ({}).".format(stock_name, err)
-            err_list.append(err_str)
-            flag_check = False
+            return None, f"{stock_name} failed ({err})."
 
-        if flag_check:
-            p_str = "{}, RSI(talib): {}".format(stock_name, RSI_value_1)
-            final_list.append(p_str)
+        return None, None
 
-        time.sleep(1)
 
-ori_list.close()
+async def main():
+    final_list = []
+    err_list = []
 
-path = os.path.join(os.path.dirname(__file__), ".\\us-list")
-final_file_name = os.path.join(path, "us-final-list-{}.txt".format(today))
-with open(final_file_name, "w", encoding="utf-8") as final_file:
-    final_file.write("--------------\n")
-    final_file.write("{} US Stock List\n".format(time.ctime(time.time())))
-    final_file.write("--------------\n")
+    with open("stock-list-us.txt", "r") as ori_list:
+        stock_names = [line.strip() for line in ori_list]
 
-    final_file.write("\n".join(final_list))
-    final_file.write("\n")
-    final_file.write("--------------\n")
-    final_file.write("\n".join(err_list))
-final_file.close()
+    concurrency_limit = 5
+    semaphore = asyncio.Semaphore(concurrency_limit)
+
+    results = await asyncio.gather(
+        *[process_stock(name, semaphore) for name in stock_names]
+    )
+
+    for result, err in results:
+        if result:
+            final_list.append(result)
+        if err:
+            err_list.append(err)
+
+    path = os.path.join(os.path.dirname(__file__), ".\\us-list")
+    final_file_name = os.path.join(path, f"us-final-list-{date.today()}.txt")
+    with open(final_file_name, "w", encoding="utf-8") as final_file:
+        final_file.write("--------------\n")
+        final_file.write(f"{time.ctime(time.time())} US Stock List\n")
+        final_file.write("--------------\n")
+        final_file.write("\n".join(final_list))
+        final_file.write("\n")
+        final_file.write("--------------\n")
+        final_file.write("\n".join(err_list))
+
+
+if __name__ == "__main__":
+    asyncio.run(main())
