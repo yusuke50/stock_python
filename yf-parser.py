@@ -7,11 +7,13 @@ async def get_stock_info(stock_name):
     url = f"https://finance.yahoo.com/quote/{stock_name}/key-statistics"
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(channel="msedge")
+        browser = await p.chromium.launch(channel="msedge", headless=True)
         page = await browser.new_page()
-        await page.goto(url)
-        content = await page.content()
-        await browser.close()
+        try:
+            await page.goto(url, timeout=60000, wait_until="domcontentloaded")
+            content = await page.content()
+        finally:
+            await browser.close()
 
     html = HTML(html=content)
 
@@ -27,7 +29,7 @@ async def get_stock_info(stock_name):
 
 
 async def main():
-    await get_stock_info("AAPL")
+    await get_stock_info("5876.TW")
 
 
 asyncio.run(main())

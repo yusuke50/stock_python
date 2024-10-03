@@ -3,7 +3,6 @@ from datetime import date, timedelta
 import pandas as pd
 import os.path
 import time
-from requests_html import HTMLSession
 import re
 import talib
 from yf_parser_module import get_stock_info
@@ -15,10 +14,6 @@ one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
 sixty_day = today - timedelta(60)
 number_regex = re.compile(",")
-
-
-def str_to_number(str):
-    return float(number_regex.sub("", str))
 
 
 async def process_stock(stock_name, semaphore):
@@ -43,7 +38,8 @@ async def process_stock(stock_name, semaphore):
                     print(f"Can't convert {value} to float (stock: {stock_name})")
                     return None
 
-            current_price = float_convert(tar.history(period="1d")["Close"].iloc[0])
+            history = tar.history()
+            current_price = float_convert(history["Close"].iloc[0])
 
             stock_info = await get_stock_info(stock_name)
             if stock_info is None:
@@ -63,16 +59,6 @@ async def process_stock(stock_name, semaphore):
             download_data = yf.download(stock_name, start=sixty_day, end=today)
             download_data["RSI"] = talib.RSI(download_data["Close"], 14)
             RSI_value_1 = download_data["RSI"].iloc[-1]
-
-            print(
-                stock_name,
-                current_price,
-                fifty_day_average,
-                one_hundred_fifty_day_average,
-                two_hundred_day_average,
-                fifty_two_week_high,
-                fifty_two_week_low,
-            )
 
             if (
                 current_price is not None
@@ -130,7 +116,7 @@ async def main():
             err_list.append(err)
 
     path = os.path.join(os.path.dirname(__file__), ".\\us-list")
-    final_file_name = os.path.join(path, f"us-final-list-{date.today()}.txt")
+    final_file_name = os.path.join(path, f"us-final-list-{today}.txt")
     with open(final_file_name, "w", encoding="utf-8") as final_file:
         final_file.write("--------------\n")
         final_file.write(f"{time.ctime(time.time())} US Stock List\n")

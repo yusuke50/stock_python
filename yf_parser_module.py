@@ -9,9 +9,11 @@ async def get_stock_info(stock_name):
     async with async_playwright() as p:
         browser = await p.chromium.launch(channel="msedge")
         page = await browser.new_page()
-        await page.goto(url)
-        content = await page.content()
-        await browser.close()
+        try:
+            await page.goto(url, timeout=60000)
+            content = await page.content()
+        finally:
+            await browser.close()
 
     html = HTML(html=content)
 

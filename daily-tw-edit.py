@@ -1,4 +1,5 @@
 from requests_html import HTMLSession
+import re
 
 today_list = []
 
@@ -18,9 +19,9 @@ def getStock(type):
 
     itemSummary = []
     for item in items:
-        txt = item.text.split(" ")[0]
-        if len(txt) == 4:
-            itemSummary.append(txt)
+        regexr = r"([A-Z0-9a-z]{4,})"
+        match = re.match(regexr, item.text)
+        itemSummary.append(match.group(0))
     return itemSummary
 
 
@@ -53,14 +54,12 @@ foreign_list = getStock("foreign")
 check_list_len(foreign_list)
 
 
-def check_count(item):
+def check_list(item):
     f = False
     stock = ""
-    count = 0
 
     for sl in new_file_lines:
-        stock = sl.split(" ")[0][0:4]
-        count = int(sl.split(" ")[1].replace("\n", ""))
+        stock = sl.split(".TW")[0]
 
         if item == stock:
             f = True
@@ -68,7 +67,6 @@ def check_count(item):
 
     d = dict()
     d["flag"] = f
-    d["count"] = count
 
     return d
 
@@ -79,15 +77,11 @@ ipt.close()
 
 while len(today_list) > 0:
     first_item = today_list[0]
+    result = check_list(first_item)
 
-    result = check_count(first_item)
-
-    if result["flag"]:
-        idx = new_file_lines.index(f"{first_item}.TW {result['count']}")
-        new_file_lines[idx] = f"{first_item}.TW {result['count'] + 1}"
-        del today_list[0]
-    else:
-        new_file_lines.append(f"{first_item}.TW 0")
+    if result["flag"] is False:
+        new_file_lines.append(f"{first_item}.TW")
+    del today_list[0]
 
 
 with open("stock-list-tw.txt", "w", encoding="utf-8") as opt:
