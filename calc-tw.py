@@ -3,7 +3,6 @@ from datetime import date, timedelta
 import pandas as pd
 import os.path
 import time
-from requests_html import HTMLSession
 import re
 import talib
 from yf_parser_module import get_stock_info
@@ -14,10 +13,11 @@ today = date.today()
 one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
 sixty_day = today - timedelta(60)
-number_regex = re.compile(",")
+no_data_count = 0
 
 
 async def process_stock(stock_name, semaphore):
+    global no_data_count
     async with semaphore:
         flag_check = False
         RSI_value = 0
@@ -51,6 +51,12 @@ async def process_stock(stock_name, semaphore):
             two_hundred_day_average = float_convert(
                 stock_info["two_hundred_day_average"]
             )
+
+            if fifty_two_week_high is None:
+                no_data_count += 1
+                print(f"No 52 week high data for {stock_name}, count: {no_data_count}")
+            else:
+                no_data_count = 0
 
             historical = tar.history(start=that_day, end=today)
             df = pd.DataFrame(historical)
@@ -106,27 +112,67 @@ async def process_stock(stock_name, semaphore):
 async def main():
     final_list = []
     err_list = []
+    exception_list = []
+    global no_data_count
 
     with open("stock-list-tw.txt", "r", encoding="utf-8") as ori_list:
         stock_names = [line.strip() for line in ori_list]
 
-    concurrency_limit = 5
-    semaphore = asyncio.Semaphore(concurrency_limit)
+    semaphore = asyncio.Semaphore(1)
+    sleep_time = 1
+    long_sleep_time = 150
 
-    results = await asyncio.gather(
-        *[process_stock(name, semaphore) for name in stock_names]
-    )
+    async def process_with_sleep():
+        global no_data_count
+        process_results = []
+        counter = 0
+        no_data_counter = 3
+        divisor = 100
+
+        for stock in stock_names:
+            if re.search(r"^00\w+\.TW$", stock):
+                exception_list.append(f"{stock} (Exception)")
+            else:
+                result = await process_stock(stock, semaphore)
+                await asyncio.sleep(sleep_time)
+                process_results.append(result)
+                counter += 1
+
+                if no_data_count >= no_data_counter:
+                    print(f"No data count: {no_data_count}. Pausing at stock {stock}")
+                    await asyncio.sleep(long_sleep_time)
+                    print(f"Resuming from stock {stock}")
+                    no_data_count = 0
+                    continue
+                else:
+                    if counter % divisor == 0:
+                        print(
+                            f"Processed {counter} stocks. Sleeping for {long_sleep_time} seconds..."
+                        )
+                        await asyncio.sleep(long_sleep_time)
+        return process_results
+
+    start_time = time.time()
+    results = await process_with_sleep()
+    end_time = time.time()
+    print(f"Total time taken: {end_time - start_time:.2f} seconds")
 
     for item in results:
+        if item is None:
+            err_list.append("Received None from process_stock")
+            continue  # Skip to the next item
+
         if isinstance(item, tuple) and len(item) == 2:
             result, err = item
+            if result:
+                final_list.append(result)
+            elif err:
+                if "Exception" in err:
+                    exception_list.append(err)
+                else:
+                    err_list.append(err)
         else:
-            result, err = None, f"Unexpected result: {item}"
-
-        if result:
-            final_list.append(result)
-        if err:
-            err_list.append(err)
+            err_list.append(f"Unexpected result: {item}")
 
     path = os.path.join(os.path.dirname(__file__), ".\\list")
     final_file_name = os.path.join(path, f"final-list-{today}.txt")
@@ -138,6 +184,10 @@ async def main():
         final_file.write("\n")
         final_file.write("--------------\n")
         final_file.write("\n".join(err_list))
+        final_file.write("\n")
+        final_file.write("--------------\n")
+        final_file.write("Exception Stocks:\n")
+        final_file.write("\n".join(exception_list))
 
 
 if __name__ == "__main__":

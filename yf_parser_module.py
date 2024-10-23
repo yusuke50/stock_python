@@ -10,7 +10,7 @@ async def get_stock_info(stock_name):
         browser = await p.chromium.launch(channel="msedge")
         page = await browser.new_page()
         try:
-            await page.goto(url, timeout=60000)
+            await page.goto(url, timeout=60000, wait_until="domcontentloaded")
             content = await page.content()
         finally:
             await browser.close()
