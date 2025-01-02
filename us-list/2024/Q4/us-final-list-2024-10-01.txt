@@ -1,0 +1,41 @@
+--------------
+Tue Oct  1 23:38:23 2024 US Stock List
+--------------
+LMT, RSI(talib): 67.02513964968578
+META, RSI(talib): 76.16949897027759
+AVGO, RSI(talib): 60.25799917786113
+NFLX, RSI(talib): 60.46247624837402
+TMUS, RSI(talib): 63.17475142069501
+PYPL, RSI(talib): 65.98811980743598
+FTNT, RSI(talib): 68.22309774021687
+EBAY, RSI(talib): 67.23308884484157
+ORCL, RSI(talib): 74.58622235325213
+WMT, RSI(talib): 65.76721045180354
+TTD, RSI(talib): 67.7445954713628
+--------------
+AAPL failed ('NoneType' object has no attribute 'text').
+AMD failed ('NoneType' object has no attribute 'text').
+AMAT failed ('NoneType' object has no attribute 'text').
+BKNG failed ('NoneType' object has no attribute 'text').
+ADI failed ('NoneType' object has no attribute 'text').
+NXPI failed ('NoneType' object has no attribute 'text').
+CTSH failed ('NoneType' object has no attribute 'text').
+ORLY failed ('NoneType' object has no attribute 'text').
+LULU failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+DDOG failed ('NoneType' object has no attribute 'text').
+VRSK failed ('NoneType' object has no attribute 'text').
+VRSN failed ('NoneType' object has no attribute 'text').
+SWKS failed ('NoneType' object has no attribute 'text').
+DOCU failed ('NoneType' object has no attribute 'text').
+DAL failed ('NoneType' object has no attribute 'text').
+NOW failed ('NoneType' object has no attribute 'text').
+T failed ('NoneType' object has no attribute 'text').
+WFC failed ('NoneType' object has no attribute 'text').
+ON failed ('NoneType' object has no attribute 'text').
+GE failed ('NoneType' object has no attribute 'text').
+WBD failed ('NoneType' object has no attribute 'text').
+ENPH failed ('NoneType' object has no attribute 'text').
+GD failed ('NoneType' object has no attribute 'text').
+TDG failed ('NoneType' object has no attribute 'text').
+NOC failed ('NoneType' object has no attribute 'text').
+LHX failed ('NoneType' object has no attribute 'text').

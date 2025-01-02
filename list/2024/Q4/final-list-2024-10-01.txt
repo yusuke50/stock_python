@@ -1,0 +1,147 @@
+--------------
+Wed Oct  2 01:22:47 2024 TW Stock List
+--------------
+1402.TW, Close: 39.00, RSI(talib): 66.70
+2603.TW, Close: 204.50, RSI(talib): 60.20
+2637.TW, Close: 79.00, RSI(talib): 74.05
+1708.TW, Close: 40.90, RSI(talib): 60.04
+2609.TW, Close: 70.50, RSI(talib): 60.73
+2615.TW, Close: 99.20, RSI(talib): 64.79
+9904.TW, Close: 36.80, RSI(talib): 60.55
+2812.TW, Close: 18.30, RSI(talib): 60.06
+2838.TW, Close: 15.45, RSI(talib): 61.38
+2613.TW, Close: 38.55, RSI(talib): 65.66
+3665.TW, Close: 479.00, RSI(talib): 64.18
+4583.TW, Close: 694.00, RSI(talib): 64.68
+8464.TW, Close: 510.00, RSI(talib): 64.88
+2360.TW, Close: 378.00, RSI(talib): 61.16
+3013.TW, Close: 130.50, RSI(talib): 64.19
+3167.TW, Close: 150.00, RSI(talib): 82.30
+3494.TW, Close: 7.79, RSI(talib): 66.87
+1727.TW, Close: 40.85, RSI(talib): 68.35
+1721.TW, Close: 25.60, RSI(talib): 75.78
+6438.TW, Close: 164.00, RSI(talib): 70.78
+6768.TW, Close: 106.00, RSI(talib): 64.48
+6416.TW, Close: 161.50, RSI(talib): 64.31
+9938.TW, Close: 75.80, RSI(talib): 67.03
+3705.TW, Close: 60.40, RSI(talib): 68.20
+6863.TW, Close: 298.50, RSI(talib): 61.96
+5234.TW, Close: 241.00, RSI(talib): 70.08
+2015.TW, Close: 83.30, RSI(talib): 61.45
+2316.TW, Close: 49.50, RSI(talib): 63.83
+3021.TW, Close: 29.75, RSI(talib): 73.49
+1307.TW, Close: 39.95, RSI(talib): 62.50
+3622.TW, Close: 71.20, RSI(talib): 70.81
+3450.TW, Close: 191.50, RSI(talib): 61.10
+2543.TW, Close: 90.00, RSI(talib): 68.91
+8467.TW, Close: 258.50, RSI(talib): 61.45
+6706.TW, Close: 175.00, RSI(talib): 65.30
+6405.TW, Close: 40.90, RSI(talib): 61.44
+4935.TW, Close: 71.30, RSI(talib): 60.49
+8249.TW, Close: 56.40, RSI(talib): 80.66
+--------------
+2618.TW failed ('NoneType' object has no attribute 'text').
+2882.TW failed ('NoneType' object has no attribute 'text').
+1216.TW failed ('NoneType' object has no attribute 'text').
+2317.TW failed ('NoneType' object has no attribute 'text').
+2465.TW failed ('NoneType' object has no attribute 'text').
+1701.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2481.TW failed ('NoneType' object has no attribute 'text').
+3041.TW failed ('NoneType' object has no attribute 'text').
+6806.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+1101.TW failed ('NoneType' object has no attribute 'text').
+4133.TW failed ('NoneType' object has no attribute 'text').
+1718.TW failed ('NoneType' object has no attribute 'text').
+1909.TW failed ('NoneType' object has no attribute 'text').
+2103.TW failed ('NoneType' object has no attribute 'text').
+1722.TW failed ('NoneType' object has no attribute 'text').
+5388.TW failed ('NoneType' object has no attribute 'text').
+6269.TW failed ('NoneType' object has no attribute 'text').
+6505.TW failed ('NoneType' object has no attribute 'text').
+1220.TW failed ('NoneType' object has no attribute 'text').
+6285.TW failed ('NoneType' object has no attribute 'text').
+2383.TW failed ('NoneType' object has no attribute 'text').
+2201.TW failed ('NoneType' object has no attribute 'text').
+2504.TW failed ('NoneType' object has no attribute 'text').
+5258.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+6239.TW failed ('NoneType' object has no attribute 'text').
+2608.TW failed ('NoneType' object has no attribute 'text').
+1514.TW failed ('NoneType' object has no attribute 'text').
+3712.TW failed ('NoneType' object has no attribute 'text').
+6005.TW failed ('NoneType' object has no attribute 'text').
+2436.TW failed ('NoneType' object has no attribute 'text').
+6278.TW failed ('NoneType' object has no attribute 'text').
+6257.TW failed ('NoneType' object has no attribute 'text').
+8215.TW failed ('NoneType' object has no attribute 'text').
+2484.TW failed ('NoneType' object has no attribute 'text').
+8213.TW failed ('NoneType' object has no attribute 'text').
+2425.TW failed ('NoneType' object has no attribute 'text').
+2458.TW failed ('NoneType' object has no attribute 'text').
+9921.TW failed ('NoneType' object has no attribute 'text').
+6415.TW failed ('NoneType' object has no attribute 'text').
+2405.TW failed ('NoneType' object has no attribute 'text').
+4770.TW failed ('NoneType' object has no attribute 'text').
+6605.TW failed ('NoneType' object has no attribute 'text').
+5871.TW failed ('NoneType' object has no attribute 'text').
+8454.TW failed ('NoneType' object has no attribute 'text').
+6196.TW failed ('NoneType' object has no attribute 'text').
+6491.TW failed ('NoneType' object has no attribute 'text').
+5285.TW failed ('NoneType' object has no attribute 'text').
+6206.TW failed ('NoneType' object has no attribute 'text').
+2392.TW failed ('NoneType' object has no attribute 'text').
+4746.TW failed ('NoneType' object has no attribute 'text').
+2332.TW failed ('NoneType' object has no attribute 'text').
+2534.TW failed ('NoneType' object has no attribute 'text').
+4536.TW failed ('NoneType' object has no attribute 'text').
+1447.TW failed ('NoneType' object has no attribute 'text').
+3591.TW failed (index 0 is out of bounds for axis 0 with size 0).
+6197.TW failed ('NoneType' object has no attribute 'text').
+1736.TW failed ('NoneType' object has no attribute 'text').
+5225.TW failed ('NoneType' object has no attribute 'text').
+2441.TW failed ('NoneType' object has no attribute 'text').
+4720.TW failed (HTTPSConnectionPool(host='finance.yahoo.com', port=443): Read timed out. (read timeout=None)).
+2748.TW failed (("Connection broken: InvalidChunkLength(got length b'', 0 bytes read)", InvalidChunkLength(got length b'', 0 bytes read))).
+2753.TW failed ('NoneType' object has no attribute 'text').
+3312.TW failed ('NoneType' object has no attribute 'text').
+2495.TW failed ('NoneType' object has no attribute 'text').
+2364.TW failed ('NoneType' object has no attribute 'text').
+8210.TW failed ('NoneType' object has no attribute 'text').
+4137.TW failed ('NoneType' object has no attribute 'text').
+1810.TW failed ('NoneType' object has no attribute 'text').
+6139.TW failed ('NoneType' object has no attribute 'text').
+2464.TW failed (index 0 is out of bounds for axis 0 with size 0).
+2929.TW failed ('NoneType' object has no attribute 'text').
+2038.TW failed ('NoneType' object has no attribute 'text').
+1325.TW failed ('NoneType' object has no attribute 'text').
+2007.TW failed ('NoneType' object has no attribute 'text').
+1783.TW failed ('NoneType' object has no attribute 'text').
+6142.TW failed ('NoneType' object has no attribute 'text').
+1809.TW failed (inputs are all NaN).
+2022.TW failed ('NoneType' object has no attribute 'text').
+2472.TW failed ('NoneType' object has no attribute 'text').
+2645.TW failed ('NoneType' object has no attribute 'text').
+5203.TW failed ('NoneType' object has no attribute 'text').
+6753.TW failed ('NoneType' object has no attribute 'text').
+2547.TW failed ('NoneType' object has no attribute 'text').
+4566.TW failed ('NoneType' object has no attribute 'text').
+1608.TW failed ('NoneType' object has no attribute 'text').
+6214.TW failed ('NoneType' object has no attribute 'text').
+3308.TW failed ('NoneType' object has no attribute 'text').
+4581.TW failed ('NoneType' object has no attribute 'text').
+2855.TW failed ('NoneType' object has no attribute 'text').
+1540.TW failed ('NoneType' object has no attribute 'text').
+3518.TW failed ('NoneType' object has no attribute 'text').
+6672.TW failed ('NoneType' object has no attribute 'text').
+2516.TW failed ('NoneType' object has no attribute 'text').
+2905.TW failed ('NoneType' object has no attribute 'text').
+2365.TW failed ('NoneType' object has no attribute 'text').
+2467.TW failed ('NoneType' object has no attribute 'text').
+2501.TW failed ('NoneType' object has no attribute 'text').
+2020.TW failed ('NoneType' object has no attribute 'text').
+2506.TW failed ('NoneType' object has no attribute 'text').
+2511.TW failed ('NoneType' object has no attribute 'text').
+6446.TW failed ('NoneType' object has no attribute 'text').
+6152.TW failed ('NoneType' object has no attribute 'text').
+8201.TW failed ('NoneType' object has no attribute 'text').
+4540.TW failed ('NoneType' object has no attribute 'text').
+1416.TW failed ('NoneType' object has no attribute 'text').

@@ -1,0 +1,29 @@
+--------------
+Wed Oct 23 20:51:26 2024 US Stock List
+--------------
+RTX, RSI(talib): 61.83773119267405
+AAPL, RSI(talib): 61.02459403962298
+NVDA, RSI(talib): 67.90672705716287
+NFLX, RSI(talib): 63.834089188812115
+TMUS, RSI(talib): 66.25041117904313
+ISRG, RSI(talib): 64.96071635442239
+BKNG, RSI(talib): 71.92522372361424
+ADP, RSI(talib): 66.96847229782456
+MRVL, RSI(talib): 69.93118581535978
+PANW, RSI(talib): 65.93929516540015
+PAYX, RSI(talib): 64.01479257072437
+ORLY, RSI(talib): 64.29441955451934
+DOCU, RSI(talib): 68.22371463068781
+BAC, RSI(talib): 63.24055109406781
+GM, RSI(talib): 74.26675267428267
+JPM, RSI(talib): 63.44109397358836
+MA, RSI(talib): 68.20545881041025
+ORCL, RSI(talib): 65.41176074727058
+WMT, RSI(talib): 61.59749859038362
+WBD, RSI(talib): 40.206795424328476
+TTD, RSI(talib): 71.36287038601476
+--------------
+MAR failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/MAR/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/MAR/key-statistics", waiting until "domcontentloaded"
+).

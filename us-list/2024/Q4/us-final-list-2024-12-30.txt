@@ -1,0 +1,6 @@
+--------------
+Mon Dec 30 20:11:55 2024 US Stock List
+--------------
+AAPL, Close: 237.33, RSI(talib): 68.09
+CSCO, Close: 59.21, RSI(talib): 61.56
+--------------

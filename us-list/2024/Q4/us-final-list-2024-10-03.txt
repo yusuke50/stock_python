@@ -1,0 +1,27 @@
+--------------
+Thu Oct  3 22:21:56 2024 US Stock List
+--------------
+LMT, RSI(talib): 75.05355183490185
+RTX, RSI(talib): 66.9015811671569
+META, RSI(talib): 75.16502836788143
+NFLX, RSI(talib): 62.10281042309569
+TMUS, RSI(talib): 66.10116707480151
+PYPL, RSI(talib): 64.63627191731295
+BKNG, RSI(talib): 63.561542307945906
+ADP, RSI(talib): 67.4242161980375
+FTNT, RSI(talib): 66.75679538860486
+EBAY, RSI(talib): 66.56832961287013
+MA, RSI(talib): 64.43741647384579
+ORCL, RSI(talib): 69.0726339931095
+T, RSI(talib): 71.94541688282041
+WMT, RSI(talib): 62.911677967495564
+GE, RSI(talib): 64.57886098895965
+TTD, RSI(talib): 64.50672214584932
+TDG, RSI(talib): 71.8952926049783
+NOC, RSI(talib): 66.8873267625386
+LHX, RSI(talib): 68.25438799971899
+--------------
+BKR failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/BKR/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/BKR/key-statistics", waiting until "load"
+).

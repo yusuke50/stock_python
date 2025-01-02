@@ -1,0 +1,26 @@
+--------------
+Fri Oct  4 21:58:23 2024 US Stock List
+--------------
+LMT, RSI(talib): 76.1311183780068
+RTX, RSI(talib): 64.92269013630606
+META, RSI(talib): 78.46335953725968
+TMUS, RSI(talib): 65.9626510593163
+PYPL, RSI(talib): 64.04759361448042
+BKNG, RSI(talib): 61.38972225573036
+ADP, RSI(talib): 68.70323512762761
+MRNA, RSI(talib): 31.184225180035064
+FTNT, RSI(talib): 63.28564794604994
+EBAY, RSI(talib): 67.19706266267478
+MA, RSI(talib): 63.43067447491018
+ORCL, RSI(talib): 66.95088935206792
+T, RSI(talib): 67.73199843032597
+WMT, RSI(talib): 62.911677967495564
+TTD, RSI(talib): 69.78548430922984
+TDG, RSI(talib): 63.31856413622714
+NOC, RSI(talib): 65.1984015255622
+LHX, RSI(talib): 64.93541994111521
+--------------
+HON failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+navigating to "https://finance.yahoo.com/quote/HON/key-statistics", waiting until "load"
+).

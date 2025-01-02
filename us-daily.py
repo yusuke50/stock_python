@@ -20,7 +20,6 @@ async def process_stock(stock_name, semaphore):
     async with semaphore:
         flag_check = True
         RSI_value_1 = 0
-        RSI_value_2 = 0
 
         try:
             tar = yf.Ticker(stock_name)
@@ -86,8 +85,11 @@ async def process_stock(stock_name, semaphore):
                 elif RSI_value_1 < 60:
                     flag_check = False
 
-            if flag_check:
-                return f"{stock_name}, RSI(talib): {RSI_value_1}", None
+            if flag_check is True:
+                return (
+                    f"{stock_name}, Close: {current_price:.2f}, RSI(talib): {RSI_value_1:.2f}",
+                    None,
+                )
 
         except Exception as err:
             return None, f"{stock_name} failed ({err})."

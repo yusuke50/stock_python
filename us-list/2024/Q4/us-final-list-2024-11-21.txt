@@ -1,0 +1,29 @@
+--------------
+Thu Nov 21 22:21:54 2024 US Stock List
+--------------
+ADBE, RSI(talib): 47.44630919485645
+NFLX, RSI(talib): 80.64252630120072
+TMUS, RSI(talib): 61.924958538117494
+ISRG, RSI(talib): 66.96745984840254
+BKNG, RSI(talib): 72.45502228474031
+MRVL, RSI(talib): 60.31059388830802
+PANW, RSI(talib): 62.54875119080589
+FTNT, RSI(talib): 62.722158871173185
+ADSK, RSI(talib): 62.5900841116374
+XEL, RSI(talib): 71.69890889038733
+EA, RSI(talib): 77.04940959894304
+DOCU, RSI(talib): 64.76172907213336
+BAC, RSI(talib): 66.61891326729743
+DAL, RSI(talib): 64.65800895213658
+JPM, RSI(talib): 61.69322054993679
+NOW, RSI(talib): 61.71341636854829
+ORCL, RSI(talib): 68.1980140926292
+T, RSI(talib): 60.570155878219666
+WFC, RSI(talib): 72.17494315966823
+WMT, RSI(talib): 69.59481389880888
+BKR, RSI(talib): 74.70831158980423
+--------------
+TDG failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/TDG/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/TDG/key-statistics", waiting until "domcontentloaded"
+).

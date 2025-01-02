@@ -1,0 +1,6 @@
+--------------
+Tue Dec 31 19:20:39 2024 US Stock List
+--------------
+AAPL, Close: 239.59, RSI(talib): 61.47
+AMGN, Close: 278.10, RSI(talib): 27.51
+--------------

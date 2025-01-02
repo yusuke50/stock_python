@@ -94,7 +94,7 @@ async def process_stock(stock_name, semaphore):
             else:
                 flag_check = False
                 raise ValueError(
-                    f"Can't get stock info: {stock_name}, {current_price}, {fifty_two_week_high:.2f}, {fifty_two_week_low:.2f}, {fifty_day_average:.2f}, {one_hundred_fifty_day_average:.2f}, {two_hundred_day_average:.2f},  {RSI_value:.2f}"
+                    f"Can't get stock info: {stock_name}, {current_price:.2f}, {fifty_two_week_high:.2f}, {fifty_two_week_low:.2f}, {fifty_day_average:.2f}, {one_hundred_fifty_day_average:.2f}, {two_hundred_day_average:.2f},  {RSI_value:.2f}"
                 )
 
             if flag_check is True:
@@ -104,7 +104,7 @@ async def process_stock(stock_name, semaphore):
                 )
 
         except Exception as err:
-            return None, f"{stock_name} failed ({err})"
+            return None, f"{stock_name} (Close: {current_price:.2f}) failed ({err})"
 
         return None, None
 
