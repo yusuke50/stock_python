@@ -7,7 +7,7 @@ async def get_stock_info(stock_name):
     url = f"https://finance.yahoo.com/quote/{stock_name}/key-statistics"
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(channel="msedge")
+        browser = await p.chromium.launch(channel="msedge", headless=True)
         page = await browser.new_page()
         try:
             await page.goto(url, timeout=60000, wait_until="domcontentloaded")

@@ -42,11 +42,11 @@ async def get_stock_info(stock_name):
     else:
         print("Can't get 52 week high")
     if fifty_two_week_low:
-        print(f"52 week high: {extract_text(fifty_two_week_low)}")
+        print(f"52 week low: {extract_text(fifty_two_week_low)}")
     else:
         print("Can't get 52 week low")
     if fifty_day_average:
-        print(f"52 week high: {extract_text(fifty_day_average)}")
+        print(f"50 day average: {extract_text(fifty_day_average)}")
     else:
         print("Can't get 50 day average")
     if two_hundred_day_average:
@@ -56,7 +56,7 @@ async def get_stock_info(stock_name):
 
 
 async def main():
-    await get_stock_info("2883.TW")
+    await get_stock_info("6558.TW")
 
 
 asyncio.run(main())
