@@ -1,0 +1,30 @@
+--------------
+Wed Feb  5 19:54:04 2025 US Stock List
+--------------
+AMZN, Close: 227.61, RSI(talib): 66.75
+GOOG, Close: 197.96, RSI(talib): 65.28
+GOOGL, Close: 196.87, RSI(talib): 65.45
+META, Close: 630.20, RSI(talib): 76.47
+COST, Close: 922.71, RSI(talib): 73.60
+NFLX, Close: 881.79, RSI(talib): 70.22
+TMUS, Close: 212.38, RSI(talib): 68.17
+SBUX, Close: 93.13, RSI(talib): 78.29
+GILD, Close: 91.23, RSI(talib): 70.08
+MAR, Close: 272.62, RSI(talib): 62.67
+FTNT, Close: 97.94, RSI(talib): 68.09
+ORLY, Close: 1210.47, RSI(talib): 72.69
+TEAM, Close: 254.63, RSI(talib): 75.61
+VRSN, Close: 210.68, RSI(talib): 70.94
+DAL, Close: 60.04, RSI(talib): 62.88
+JPM, Close: 240.85, RSI(talib): 72.14
+T, Close: 22.32, RSI(talib): 65.01
+WFC, Close: 72.03, RSI(talib): 70.57
+WMT, Close: 91.43, RSI(talib): 75.16
+BKR, Close: 42.83, RSI(talib): 69.11
+AXON, Close: 570.71, RSI(talib): 68.69
+KTOS, Close: 29.53, RSI(talib): 65.28
+--------------
+LLY failed (Page.goto: net::ERR_TIMED_OUT at https://finance.yahoo.com/quote/LLY/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LLY/key-statistics", waiting until "domcontentloaded"
+).

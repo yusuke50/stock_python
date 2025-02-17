@@ -1,0 +1,27 @@
+--------------
+Fri Jan 24 22:32:41 2025 US Stock List
+--------------
+AMZN, Close: 229.05, RSI(talib): 67.53
+NVDA, Close: 140.22, RSI(talib): 60.79
+GOOG, Close: 197.57, RSI(talib): 63.72
+GOOGL, Close: 196.11, RSI(talib): 63.54
+META, Close: 607.75, RSI(talib): 63.23
+AVGO, Close: nan, RSI(talib): 65.70
+CSCO, Close: 59.44, RSI(talib): 75.10
+NFLX, Close: 932.12, RSI(talib): 72.52
+ISRG, Close: 537.02, RSI(talib): 75.63
+LRCX, Close: 73.83, RSI(talib): 62.20
+MRVL, Close: 115.89, RSI(talib): 66.74
+ORLY, Close: 1221.65, RSI(talib): 67.11
+JD, Close: 36.46, RSI(talib): 62.95
+SWKS, Close: 90.35, RSI(talib): 56.73
+BMY, Close: 57.13, RSI(talib): 63.47
+DAL, Close: 62.56, RSI(talib): 61.53
+JPM, Close: 241.06, RSI(talib): 75.28
+NOW, Close: 1105.56, RSI(talib): 65.75
+ORCL, Close: 170.99, RSI(talib): 67.50
+ROKU, Close: 79.56, RSI(talib): 62.62
+WFC, Close: 71.59, RSI(talib): 65.68
+WMT, Close: 92.68, RSI(talib): 60.84
+BKR, Close: 40.79, RSI(talib): 63.77
+--------------

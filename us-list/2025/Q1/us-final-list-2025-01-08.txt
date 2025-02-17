@@ -1,0 +1,6 @@
+--------------
+Wed Jan  8 20:33:45 2025 US Stock List
+--------------
+CEG, Close: 239.85, RSI(talib): 61.33
+BKR, Close: 41.43, RSI(talib): 62.39
+--------------

@@ -1,0 +1,10 @@
+--------------
+Tue Jan  7 19:22:12 2025 US Stock List
+--------------
+NVDA, Close: 138.81, RSI(talib): 62.45
+GOOG, Close: 177.10, RSI(talib): 61.57
+GOOGL, Close: 175.37, RSI(talib): 62.08
+META, Close: 613.08, RSI(talib): 61.11
+MRVL, Close: 107.03, RSI(talib): 60.64
+CEG, Close: 239.85, RSI(talib): 68.55
+--------------

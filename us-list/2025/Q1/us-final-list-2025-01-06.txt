@@ -1,0 +1,6 @@
+--------------
+Mon Jan  6 20:06:51 2025 US Stock List
+--------------
+CEG, Close: 254.20, RSI(talib): 62.42
+JNJ, Close: 150.47, RSI(talib): 36.85
+--------------

@@ -1,0 +1,9 @@
+--------------
+Fri Jan  3 19:19:18 2025 US Stock List
+--------------
+
+--------------
+CTAS failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/CTAS/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/CTAS/key-statistics", waiting until "domcontentloaded"
+).

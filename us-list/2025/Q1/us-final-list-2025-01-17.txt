@@ -1,0 +1,13 @@
+--------------
+Fri Jan 17 21:02:59 2025 US Stock List
+--------------
+RTX, Close: 117.42, RSI(talib): 61.74
+CSCO, Close: 58.12, RSI(talib): 61.39
+ISRG, Close: 545.16, RSI(talib): 70.37
+ADSK, Close: 302.82, RSI(talib): 44.05
+DAL, Close: 60.81, RSI(talib): 61.58
+HD, Close: 408.47, RSI(talib): 61.04
+JPM, Close: 237.14, RSI(talib): 66.98
+WFC, Close: 70.81, RSI(talib): 65.97
+BKR, Close: 41.41, RSI(talib): 76.66
+--------------

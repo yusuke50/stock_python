@@ -1,0 +1,11 @@
+--------------
+Mon Jan 13 19:14:07 2025 US Stock List
+--------------
+CEG, Close: 236.60, RSI(talib): 74.14
+DAL, Close: 63.48, RSI(talib): 66.51
+BKR, Close: 42.46, RSI(talib): 61.82
+--------------
+CTAS failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/CTAS/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/CTAS/key-statistics", waiting until "domcontentloaded"
+).

@@ -1,0 +1,16 @@
+--------------
+Thu Jan 16 18:43:48 2025 US Stock List
+--------------
+SIG, Close: 84.61, RSI(talib): 19.91
+CSCO, Close: 57.96, RSI(talib): 63.59
+ISRG, Close: 541.99, RSI(talib): 69.28
+DXCM, Close: 76.41, RSI(talib): 55.15
+CEG, Close: 239.30, RSI(talib): 66.88
+BAC, Close: 45.47, RSI(talib): 62.90
+WFC, Close: 71.98, RSI(talib): 65.97
+BKR, Close: 41.80, RSI(talib): 74.36
+--------------
+JPM failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/JPM/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/JPM/key-statistics", waiting until "domcontentloaded"
+).

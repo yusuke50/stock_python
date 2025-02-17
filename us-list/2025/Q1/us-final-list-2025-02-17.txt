@@ -1,0 +1,37 @@
+--------------
+Mon Feb 17 20:12:15 2025 US Stock List
+--------------
+META, Close: 736.67, RSI(talib): 84.29
+COST, Close: 1071.85, RSI(talib): 76.61
+CSCO, Close: 64.87, RSI(talib): 75.73
+NFLX, Close: 1058.60, RSI(talib): 75.13
+TMUS, Close: 270.82, RSI(talib): 82.96
+ISRG, Close: 595.55, RSI(talib): 62.05
+SBUX, Close: 112.55, RSI(talib): 78.72
+BKNG, Close: 5044.40, RSI(talib): 62.76
+ADP, Close: 308.15, RSI(talib): 61.65
+GILD, Close: 104.08, RSI(talib): 68.67
+PANW, Close: 200.03, RSI(talib): 64.62
+FTNT, Close: 111.64, RSI(talib): 77.22
+CTSH, Close: 90.70, RSI(talib): 83.60
+ORLY, Close: 1318.80, RSI(talib): 60.11
+EXC, Close: 42.85, RSI(talib): 75.90
+TEAM, Close: 313.10, RSI(talib): 65.58
+XEL, Close: 68.61, RSI(talib): 60.34
+EBAY, Close: 69.90, RSI(talib): 66.11
+VRSK, Close: 293.48, RSI(talib): 62.31
+ZS, Close: 212.70, RSI(talib): 67.11
+VRSN, Close: 229.24, RSI(talib): 84.48
+JPM, Close: 276.59, RSI(talib): 75.06
+MA, Close: 564.76, RSI(talib): 64.41
+MCD, Close: 308.55, RSI(talib): 69.56
+ROKU, Close: 99.07, RSI(talib): 73.47
+T, Close: 25.87, RSI(talib): 81.47
+WFC, Close: 79.98, RSI(talib): 66.98
+WMT, Close: 104.04, RSI(talib): 69.41
+GE, Close: 208.27, RSI(talib): 74.33
+ACHR, Close: 10.35, RSI(talib): 60.25
+HWM, Close: 133.42, RSI(talib): 72.03
+AXON, Close: 683.41, RSI(talib): 68.60
+--------------
+REGN (Close: 673.5999755859375) failed (Can't get stock info: REGN, Current Price: 673.5999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 908.6920818752712, 200 Day Average: None, RSI: 44.237109304785825)

@@ -1,0 +1,11 @@
+--------------
+Fri Jan 10 16:58:56 2025 US Stock List
+--------------
+EBAY, Close: 65.14, RSI(talib): 72.96
+BAC, Close: 45.91, RSI(talib): 60.14
+BKR, Close: 41.43, RSI(talib): 62.66
+--------------
+INTU failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/INTU/key-statistics
+Call log:
+navigating to "https://finance.yahoo.com/quote/INTU/key-statistics", waiting until "domcontentloaded"
+).

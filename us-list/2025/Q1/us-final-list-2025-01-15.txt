@@ -1,0 +1,8 @@
+--------------
+Wed Jan 15 19:26:29 2025 US Stock List
+--------------
+AMGN, Close: 266.50, RSI(talib): 50.65
+CEG, Close: 239.30, RSI(talib): 64.18
+DAL, Close: 61.05, RSI(talib): 62.91
+BKR, Close: 41.80, RSI(talib): 71.58
+--------------

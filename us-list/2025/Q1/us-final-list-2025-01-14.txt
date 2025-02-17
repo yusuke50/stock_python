@@ -1,0 +1,9 @@
+--------------
+Tue Jan 14 18:58:29 2025 US Stock List
+--------------
+CSCO, Close: 57.96, RSI(talib): 51.01
+ILMN, Close: 144.40, RSI(talib): 60.44
+XEL, Close: 67.10, RSI(talib): 30.52
+CEG, Close: 239.30, RSI(talib): 62.08
+BKR, Close: 41.80, RSI(talib): 71.06
+--------------

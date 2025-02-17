@@ -1,0 +1,19 @@
+--------------
+Thu Feb 13 20:42:29 2025 US Stock List
+--------------
+META, Close: 608.33, RSI(talib): 79.36
+COST, Close: 923.68, RSI(talib): 75.24
+CSCO, Close: 58.76, RSI(talib): 64.47
+NFLX, Close: 840.29, RSI(talib): 69.27
+BKNG, Close: 4763.90, RSI(talib): 60.18
+GILD, Close: 89.94, RSI(talib): 71.25
+FTNT, Close: 93.83, RSI(talib): 69.13
+ORLY, Close: 1210.14, RSI(talib): 61.35
+VRSN, Close: 209.56, RSI(talib): 81.68
+JPM, Close: 244.21, RSI(talib): 71.00
+T, Close: 21.56, RSI(talib): 77.73
+WFC, Close: 70.18, RSI(talib): 62.08
+WMT, Close: 91.53, RSI(talib): 71.23
+HWM, Close: 114.66, RSI(talib): 60.92
+AXON, Close: 568.68, RSI(talib): 60.32
+--------------

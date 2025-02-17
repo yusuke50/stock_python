@@ -1,0 +1,6 @@
+--------------
+Thu Jan  2 20:10:34 2025 US Stock List
+--------------
+ODFL, Close: 224.58, RSI(talib): 25.14
+DAL, Close: 63.41, RSI(talib): 47.35
+--------------
