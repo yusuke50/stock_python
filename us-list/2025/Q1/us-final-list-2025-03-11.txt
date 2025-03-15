@@ -1,0 +1,19 @@
+--------------
+Tue Mar 11 19:06:38 2025 US Stock List
+--------------
+TMUS, Close: 266.63, RSI(talib): 63.74
+CHTR, Close: 373.52, RSI(talib): 60.30
+GILD, Close: 117.21, RSI(talib): 78.95
+AEP, Close: 107.32, RSI(talib): 63.66
+PAYX, Close: 154.52, RSI(talib): 65.54
+EXC, Close: 43.76, RSI(talib): 65.29
+FAST, Close: 79.80, RSI(talib): 72.50
+VRSN, Close: 239.02, RSI(talib): 67.73
+BMY, Close: 63.11, RSI(talib): 73.32
+MCD, Close: 317.25, RSI(talib): 66.59
+T, Close: 27.28, RSI(talib): 68.65
+--------------
+JPM failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/JPM/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/JPM/key-statistics", waiting until "domcontentloaded"
+).

@@ -1,0 +1,12 @@
+--------------
+Fri Mar  7 22:02:44 2025 US Stock List
+--------------
+GILD, Close: 116.04, RSI(talib): 77.16
+JD, Close: 43.92, RSI(talib): 60.72
+FAST, Close: 77.85, RSI(talib): 67.34
+VRSN, Close: 239.94, RSI(talib): 69.36
+BMY, Close: 60.18, RSI(talib): 63.05
+MCD, Close: 310.37, RSI(talib): 62.02
+T, Close: 26.73, RSI(talib): 62.75
+--------------
+HWM failed (Can't get stock info: HWM, Current Price: None, 52 Week High: 140.55, 52 Week Low: 62.8, 50 Day Average: 123.92, 150 Day Average: nan, 200 Day Average: 102.95, RSI: None).

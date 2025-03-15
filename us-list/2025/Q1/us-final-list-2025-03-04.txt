@@ -1,0 +1,21 @@
+--------------
+Tue Mar  4 19:21:37 2025 US Stock List
+--------------
+RTX, Close: 133.83, RSI(talib): 70.59
+TMUS, Close: 272.83, RSI(talib): 71.28
+SBUX, Close: 115.41, RSI(talib): 72.27
+ADP, Close: 318.64, RSI(talib): 70.38
+GILD, Close: 115.99, RSI(talib): 80.39
+AEP, Close: 107.70, RSI(talib): 71.68
+PAYX, Close: 153.37, RSI(talib): 66.32
+ORLY, Close: 1375.99, RSI(talib): 68.51
+EXC, Close: 44.55, RSI(talib): 78.88
+XEL, Close: 71.90, RSI(talib): 68.93
+VRSK, Close: 301.33, RSI(talib): 61.90
+VRSN, Close: 240.16, RSI(talib): 77.18
+BRK-B, Close: 510.08, RSI(talib): 70.70
+BMY, Close: 59.87, RSI(talib): 62.65
+MA, Close: 574.92, RSI(talib): 65.44
+T, Close: 27.72, RSI(talib): 85.34
+--------------
+CTAS failed (Can't get stock info: CTAS, Current Price: None, 52 Week High: 228.12, 52 Week Low: 154.15, 50 Day Average: 197.69, 150 Day Average: nan, 200 Day Average: 196.49, RSI: None).

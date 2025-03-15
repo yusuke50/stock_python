@@ -131,7 +131,7 @@ async def main():
     with open("stock-list-us.txt", "r") as ori_list:
         stock_names = [line.strip() for line in ori_list]
 
-    concurrency_limit = 5
+    concurrency_limit = 3
     semaphore = asyncio.Semaphore(concurrency_limit)
 
     results = await asyncio.gather(

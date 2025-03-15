@@ -1,0 +1,16 @@
+--------------
+Mon Feb 24 20:52:22 2025 US Stock List
+--------------
+CSCO, Close: 63.98, RSI(talib): 63.20
+TMUS, Close: 265.17, RSI(talib): 71.35
+SBUX, Close: 111.75, RSI(talib): 68.65
+ADP, Close: 310.76, RSI(talib): 60.29
+GILD, Close: 109.95, RSI(talib): 74.76
+FTNT, Close: 110.02, RSI(talib): 61.73
+EXC, Close: 43.39, RSI(talib): 76.50
+XEL, Close: 69.94, RSI(talib): 64.16
+EBAY, Close: 69.39, RSI(talib): 62.11
+VRSK, Close: 295.11, RSI(talib): 60.37
+VRSN, Close: 231.87, RSI(talib): 77.83
+T, Close: 26.62, RSI(talib): 82.07
+--------------

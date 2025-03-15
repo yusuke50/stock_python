@@ -38,7 +38,9 @@ async def process_stock(stock_name, semaphore):
                     print(f"Can't convert {value} to float (stock: {stock_name})")
                     return None
 
+            print(tar)
             history = tar.history()
+            print(history)
             try:
                 current_price = float_convert(history["Close"].iloc[-1])
             except:
@@ -139,7 +141,7 @@ async def main():
     exception_list = []
     global no_data_count
 
-    stock_names = ["AAPL"]
+    stock_names = ["6855.Tw"]
 
     semaphore = asyncio.Semaphore(1)
     sleep_time = 1

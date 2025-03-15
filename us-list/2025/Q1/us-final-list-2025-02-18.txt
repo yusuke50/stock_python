@@ -1,0 +1,34 @@
+--------------
+Tue Feb 18 19:01:13 2025 US Stock List
+--------------
+META, Close: 736.67, RSI(talib): 85.51
+COST, Close: 1071.85, RSI(talib): 76.25
+CSCO, Close: 64.87, RSI(talib): 75.13
+NFLX, Close: 1058.60, RSI(talib): 74.44
+TMUS, Close: 270.82, RSI(talib): 82.52
+ISRG, Close: 595.55, RSI(talib): 61.97
+SBUX, Close: 112.55, RSI(talib): 79.41
+BKNG, Close: 5044.40, RSI(talib): 61.74
+ADP, Close: 308.15, RSI(talib): 60.75
+GILD, Close: 104.08, RSI(talib): 68.08
+PANW, Close: 200.03, RSI(talib): 64.91
+FTNT, Close: 111.64, RSI(talib): 76.28
+CTSH, Close: 90.70, RSI(talib): 83.45
+EXC, Close: 42.85, RSI(talib): 76.18
+TEAM, Close: 313.10, RSI(talib): 64.75
+EBAY, Close: 69.90, RSI(talib): 65.18
+VRSK, Close: 293.48, RSI(talib): 61.77
+ZS, Close: 212.70, RSI(talib): 66.24
+VRSN, Close: 229.24, RSI(talib): 83.52
+JPM, Close: 276.59, RSI(talib): 74.21
+MA, Close: 564.76, RSI(talib): 63.41
+MCD, Close: 308.55, RSI(talib): 68.80
+ROKU, Close: 99.07, RSI(talib): 72.89
+T, Close: 25.87, RSI(talib): 80.85
+WFC, Close: 79.98, RSI(talib): 65.90
+WMT, Close: 104.04, RSI(talib): 70.15
+GE, Close: 208.27, RSI(talib): 73.63
+HWM, Close: 133.42, RSI(talib): 71.58
+AXON, Close: 683.41, RSI(talib): 67.06
+--------------
+ILMN failed (Can't get stock info: ILMN, Current Price: 100.23999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 134.07097871153505, 200 Day Average: None, RSI: 21.852084294462898).

@@ -1,0 +1,6 @@
+--------------
+Thu Mar 13 19:28:21 2025 US Stock List
+--------------
+GILD, Close: 113.99, RSI(talib): 66.04
+--------------
+CTAS failed (Can't get stock info: CTAS, Current Price: None, 52 Week High: 228.12, 52 Week Low: 155.51, 50 Day Average: 198.8, 150 Day Average: nan, 200 Day Average: 197.6, RSI: None).

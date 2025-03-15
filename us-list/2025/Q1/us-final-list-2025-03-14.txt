@@ -1,0 +1,6 @@
+--------------
+Fri Mar 14 19:02:27 2025 US Stock List
+--------------
+GILD, Close: 113.35, RSI(talib): 63.67
+BRK-B, Close: 504.25, RSI(talib): 64.25
+--------------

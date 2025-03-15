@@ -1,0 +1,27 @@
+--------------
+Mon Mar  3 19:06:31 2025 US Stock List
+--------------
+RTX, Close: 132.99, RSI(talib): 69.27
+CSCO, Close: 64.11, RSI(talib): 61.87
+TMUS, Close: 269.69, RSI(talib): 69.42
+SBUX, Close: 115.81, RSI(talib): 74.29
+ADP, Close: 315.18, RSI(talib): 66.94
+GILD, Close: 114.31, RSI(talib): 78.44
+AEP, Close: 106.05, RSI(talib): 68.15
+PAYX, Close: 151.67, RSI(talib): 63.37
+ORLY, Close: 1373.64, RSI(talib): 68.53
+EXC, Close: 44.20, RSI(talib): 77.88
+XEL, Close: 72.10, RSI(talib): 70.64
+VRSN, Close: 237.88, RSI(talib): 75.38
+BRK-B, Close: 513.83, RSI(talib): 74.89
+BMY, Close: 59.62, RSI(talib): 61.90
+MA, Close: 576.31, RSI(talib): 66.89
+T, Close: 27.41, RSI(talib): 83.45
+GE, Close: 206.98, RSI(talib): 63.86
+WBD, Close: 11.46, RSI(talib): 63.05
+HWM, Close: 136.60, RSI(talib): 65.77
+--------------
+AMZN failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/AMZN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMZN/key-statistics", waiting until "domcontentloaded"
+).

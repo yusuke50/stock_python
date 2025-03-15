@@ -1,0 +1,11 @@
+--------------
+Thu Mar  6 20:17:15 2025 US Stock List
+--------------
+GILD, Close: 115.44, RSI(talib): 76.42
+PAYX, Close: 152.10, RSI(talib): 63.86
+EXC, Close: 43.36, RSI(talib): 63.00
+JD, Close: 43.76, RSI(talib): 60.35
+VRSN, Close: 240.93, RSI(talib): 71.85
+BRK-B, Close: 498.50, RSI(talib): 60.01
+BMY, Close: 59.82, RSI(talib): 61.63
+--------------

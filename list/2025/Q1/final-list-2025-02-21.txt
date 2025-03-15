@@ -1,0 +1,149 @@
+--------------
+Sat Feb 22 00:37:19 2025 TW Stock List
+--------------
+2883.TW, Close: 18.20, RSI(talib): 62.58
+2885.TW, Close: 37.05, RSI(talib): 65.58
+2357.TW, Close: 709.00, RSI(talib): 69.75
+3645.TW, Close: 78.40, RSI(talib): 66.10
+2545.TW, Close: 75.10, RSI(talib): 82.09
+6541.TW, Close: 78.10, RSI(talib): 62.99
+8028.TW, Close: 174.00, RSI(talib): 79.38
+3712.TW, Close: 65.90, RSI(talib): 63.27
+2888.TW, Close: 12.40, RSI(talib): 63.93
+3665.TW, Close: 692.00, RSI(talib): 60.49
+8261.TW, Close: 94.50, RSI(talib): 68.54
+2059.TW, Close: 1865.00, RSI(talib): 76.81
+2049.TW, Close: 359.00, RSI(talib): 67.10
+3019.TW, Close: 204.00, RSI(talib): 67.56
+6515.TW, Close: 1400.00, RSI(talib): 62.88
+3013.TW, Close: 148.00, RSI(talib): 61.63
+6670.TW, Close: 341.00, RSI(talib): 64.14
+1536.TW, Close: 88.20, RSI(talib): 79.42
+4763.TW, Close: 923.00, RSI(talib): 60.45
+1442.TW, Close: 85.70, RSI(talib): 60.66
+6768.TW, Close: 162.00, RSI(talib): 65.76
+5434.TW, Close: 298.00, RSI(talib): 61.27
+6215.TW, Close: 131.50, RSI(talib): 62.50
+2516.TW, Close: 20.95, RSI(talib): 61.78
+1307.TW, Close: 49.55, RSI(talib): 71.30
+2543.TW, Close: 104.00, RSI(talib): 66.56
+2488.TW, Close: 60.70, RSI(talib): 63.28
+3605.TW, Close: 65.30, RSI(talib): 66.53
+8249.TW, Close: 61.00, RSI(talib): 63.96
+6558.TW, Close: 58.70, RSI(talib): 65.18
+2597.TW, Close: 180.00, RSI(talib): 75.78
+6919.TW, Close: 930.00, RSI(talib): 70.92
+7722.TW, Close: 806.00, RSI(talib): 64.27
+2429.TW, Close: 36.55, RSI(talib): 67.59
+8482.TW, Close: 116.50, RSI(talib): 61.32
+--------------
+2618.TW (Close: 42.900001525878906) failed (Can't get stock info: 2618.TW, Current Price: 42.900001525878906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 39.95255484198132, 200 Day Average: None, RSI: 38.13584854467028)
+1708.TW (Close: 39.45000076293945) failed (Can't get stock info: 1708.TW, Current Price: 39.45000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 38.7711680057275, 200 Day Average: None, RSI: 60.25112283940393)
+4133.TW (Close: 30.200000762939453) failed (Can't get stock info: 4133.TW, Current Price: 30.200000762939453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 29.936131386861312, 200 Day Average: None, RSI: 54.163824252739566)
+1609.TW (Close: None) failed (Can't get stock info: 1609.TW, Current Price: None, 52 Week High: 64.76, 52 Week Low: 33.86, 50 Day Average: 41.99, 150 Day Average: nan, 200 Day Average: 47.74, RSI: None)
+8070.TW (Close: 43.900001525878906) failed (Can't get stock info: 8070.TW, Current Price: 43.900001525878906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 50.54694280137111, 200 Day Average: None, RSI: 51.82591895211485)
+1907.TW (Close: 30.5) failed (Can't get stock info: 1907.TW, Current Price: 30.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 30.28868618150697, 200 Day Average: None, RSI: 61.525890386079716)
+2439.TW (Close: None) failed (Can't get stock info: 2439.TW, Current Price: None, 52 Week High: 148.5, 52 Week Low: 101.0, 50 Day Average: 107.49, 150 Day Average: nan, 200 Day Average: 119.06, RSI: None)
+6855.TW (Close: None) failed (Can't get stock info: 6855.TW, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None)
+--------------
+Exception Stocks:
+0056.TW (Exception)
+0050.TW (Exception)
+0052.TW (Exception)
+00633L.TW (Exception)
+00632R.TW (Exception)
+00882.TW (Exception)
+00953B.TW (Exception)
+00885.TW (Exception)
+00902.TW (Exception)
+00949.TW (Exception)
+00673R.TW (Exception)
+00941.TW (Exception)
+00936.TW (Exception)
+00893.TW (Exception)
+00680L.TW (Exception)
+00945B.TW (Exception)
+00954.TW (Exception)
+00712.TW (Exception)
+00960.TW (Exception)
+00715L.TW (Exception)
+00637L.TW (Exception)
+00639.TW (Exception)
+00665L.TW (Exception)
+00642U.TW (Exception)
+00650L.TW (Exception)
+00753L.TW (Exception)
+00655L.TW (Exception)
+00752.TW (Exception)
+006205.TW (Exception)
+00671R.TW (Exception)
+00929.TW (Exception)
+00951.TW (Exception)
+00636.TW (Exception)
+00643.TW (Exception)
+00939.TW (Exception)
+00881.TW (Exception)
+00713.TW (Exception)
+00830.TW (Exception)
+00664R.TW (Exception)
+00669R.TW (Exception)
+00676R.TW (Exception)
+00947.TW (Exception)
+00923.TW (Exception)
+00935.TW (Exception)
+006208.TW (Exception)
+00891.TW (Exception)
+00638R.TW (Exception)
+00892.TW (Exception)
+00651R.TW (Exception)
+00634R.TW (Exception)
+00631L.TW (Exception)
+00878.TW (Exception)
+00934.TW (Exception)
+00919.TW (Exception)
+00946.TW (Exception)
+00918.TW (Exception)
+00757.TW (Exception)
+00940.TW (Exception)
+00775B.TW (Exception)
+00922.TW (Exception)
+00961.TW (Exception)
+00675L.TW (Exception)
+00900.TW (Exception)
+00952.TW (Exception)
+00905.TW (Exception)
+00850.TW (Exception)
+00938.TW (Exception)
+00944.TW (Exception)
+00909.TW (Exception)
+00688L.TW (Exception)
+00897.TW (Exception)
+00956.TW (Exception)
+00898.TW (Exception)
+00648R.TW (Exception)
+00927.TW (Exception)
+00943.TW (Exception)
+00701.TW (Exception)
+00903.TW (Exception)
+00674R.TW (Exception)
+0061.TW (Exception)
+00932.TW (Exception)
+00915.TW (Exception)
+00963.TW (Exception)
+00964.TW (Exception)
+00706L.TW (Exception)
+00965.TW (Exception)
+00895.TW (Exception)
+00907.TW (Exception)
+00962.TW (Exception)
+00717.TW (Exception)
+00904.TW (Exception)
+00646.TW (Exception)
+00681R.TW (Exception)
+00662.TW (Exception)
+00930.TW (Exception)
+00852L.TW (Exception)
+00733.TW (Exception)
+009800.TW (Exception)
+009801.TW (Exception)
+00710B.TW (Exception)
