@@ -1,0 +1,10 @@
+--------------
+Tue Mar 25 19:22:20 2025 US Stock List
+--------------
+RTX, Close: 134.69, RSI(talib): 63.00
+VRSN, Close: 245.36, RSI(talib): 72.58
+BRK-B, Close: 525.85, RSI(talib): 68.90
+T, Close: 26.96, RSI(talib): 60.03
+GE, Close: 210.23, RSI(talib): 63.13
+KTOS, Close: 32.53, RSI(talib): 61.14
+--------------

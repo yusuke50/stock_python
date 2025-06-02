@@ -1,0 +1,9 @@
+--------------
+Mon Mar 17 18:47:23 2025 US Stock List
+--------------
+EXC, Close: 44.19, RSI(talib): 62.31
+VRSN, Close: 238.35, RSI(talib): 61.79
+BRK-B, Close: 514.60, RSI(talib): 68.24
+--------------
+KDP failed (Can't get stock info: KDP, Current Price: 33.59000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.70433096452193, 200 Day Average: None, RSI: 56.134627329677386).
+SIRI failed (Can't get stock info: SIRI, Current Price: None, 52 Week High: 41.6, 52 Week Low: 20.47, 50 Day Average: 23.59, 150 Day Average: nan, 200 Day Average: 26.98, RSI: None).

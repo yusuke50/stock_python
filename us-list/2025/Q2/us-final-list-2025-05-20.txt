@@ -1,0 +1,30 @@
+--------------
+Tue May 20 19:15:58 2025 US Stock List
+--------------
+RTX, Close: 137.20, RSI(talib): 65.73
+CSCO, Close: 63.92, RSI(talib): 69.79
+NFLX, Close: 1191.64, RSI(talib): 70.41
+CHTR, Close: 418.63, RSI(talib): 66.31
+ADP, Close: 322.96, RSI(talib): 72.78
+MELI, Close: 2578.35, RSI(talib): 73.07
+PAYX, Close: 158.19, RSI(talib): 72.83
+CRWD, Close: 444.35, RSI(talib): 61.46
+CTAS, Close: 223.03, RSI(talib): 71.01
+MNST, Close: 62.90, RSI(talib): 66.21
+EBAY, Close: 72.43, RSI(talib): 67.78
+VRSK, Close: 314.35, RSI(talib): 66.29
+ZS, Close: 252.57, RSI(talib): 76.32
+FAST, Close: 83.16, RSI(talib): 62.45
+CPRT, Close: 63.43, RSI(talib): 68.00
+VRSN, Close: 282.49, RSI(talib): 64.86
+OKTA, Close: 126.44, RSI(talib): 70.10
+NTES, Close: 119.10, RSI(talib): 68.81
+BA, Close: 205.25, RSI(talib): 73.29
+MA, Close: 586.41, RSI(talib): 70.35
+GE, Close: 235.29, RSI(talib): 78.37
+ACHR, Close: 11.39, RSI(talib): 61.96
+HWM, Close: 166.24, RSI(talib): 79.24
+--------------
+TXN failed (Can't get stock info: TXN, Current Price: 188.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 183.6239306043078, 200 Day Average: None, RSI: 68.04700567239065).
+SWKS failed (Can't get stock info: SWKS, Current Price: 72.91999816894531, 52 Week High: 120.86, 52 Week Low: 47.93, 50 Day Average: 64.35, 150 Day Average: 76.6060790748863, 200 Day Average: 84.07, RSI: None).
+CEG failed (Can't get stock info: CEG, Current Price: 294.0199890136719, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 249.9300926581963, 200 Day Average: None, RSI: 72.45692382381836).

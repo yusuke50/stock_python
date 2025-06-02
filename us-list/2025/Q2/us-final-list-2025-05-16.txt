@@ -1,0 +1,25 @@
+--------------
+Fri May 16 19:50:57 2025 US Stock List
+--------------
+RTX, Close: 135.52, RSI(talib): 64.49
+CSCO, Close: 64.26, RSI(talib): 74.22
+NFLX, Close: 1177.98, RSI(talib): 69.73
+CHTR, Close: 419.57, RSI(talib): 72.33
+ADP, Close: 315.85, RSI(talib): 68.65
+MELI, Close: 2586.49, RSI(talib): 74.91
+PAYX, Close: 154.43, RSI(talib): 66.80
+MNST, Close: 62.33, RSI(talib): 65.28
+EBAY, Close: 70.60, RSI(talib): 61.72
+VRSK, Close: 307.36, RSI(talib): 60.87
+ZS, Close: 245.92, RSI(talib): 75.58
+CPRT, Close: 62.97, RSI(talib): 68.10
+VRSN, Close: 281.64, RSI(talib): 64.94
+OKTA, Close: 124.39, RSI(talib): 70.79
+NTES, Close: 122.76, RSI(talib): 75.97
+BA, Close: 206.24, RSI(talib): 79.35
+MA, Close: 582.20, RSI(talib): 71.04
+GE, Close: 229.38, RSI(talib): 78.17
+ACHR, Close: 12.19, RSI(talib): 78.27
+HWM, Close: 161.29, RSI(talib): 77.98
+--------------
+REGN failed (Can't get stock info: REGN, Current Price: 584.989990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 700.7727810519558, 200 Day Average: None, RSI: 49.6437383810928).

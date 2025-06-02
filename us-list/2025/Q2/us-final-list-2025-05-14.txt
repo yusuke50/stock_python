@@ -1,0 +1,19 @@
+--------------
+Wed May 14 20:36:51 2025 US Stock List
+--------------
+CSCO, Close: 61.78, RSI(talib): 68.66
+NFLX, Close: 1138.44, RSI(talib): 64.41
+CHTR, Close: 411.13, RSI(talib): 69.62
+ADP, Close: 308.19, RSI(talib): 61.54
+MELI, Close: 2515.12, RSI(talib): 71.95
+PAYX, Close: 151.26, RSI(talib): 61.08
+CRWD, Close: 440.20, RSI(talib): 61.66
+ZS, Close: 245.00, RSI(talib): 75.64
+VRSN, Close: 275.95, RSI(talib): 60.22
+OKTA, Close: 124.05, RSI(talib): 71.40
+BA, Close: 203.42, RSI(talib): 77.99
+MA, Close: 576.59, RSI(talib): 70.47
+GE, Close: 221.58, RSI(talib): 73.63
+ACHR, Close: 11.16, RSI(talib): 74.10
+HWM, Close: 158.30, RSI(talib): 75.79
+--------------

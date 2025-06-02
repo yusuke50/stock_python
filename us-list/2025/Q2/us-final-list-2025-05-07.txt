@@ -1,0 +1,20 @@
+--------------
+Wed May  7 21:03:01 2025 US Stock List
+--------------
+COST, Close: 1010.50, RSI(talib): 63.68
+NFLX, Close: 1137.69, RSI(talib): 72.86
+CHTR, Close: 402.01, RSI(talib): 65.68
+FTNT, Close: 107.14, RSI(talib): 63.86
+CRWD, Close: 443.21, RSI(talib): 71.49
+EBAY, Close: 70.36, RSI(talib): 62.79
+ZS, Close: 233.10, RSI(talib): 70.01
+VRSN, Close: 283.22, RSI(talib): 73.31
+OKTA, Close: 117.07, RSI(talib): 69.07
+NTES, Close: 108.97, RSI(talib): 64.35
+MA, Close: 558.99, RSI(talib): 63.99
+WMT, Close: 98.55, RSI(talib): 65.31
+GE, Close: 208.60, RSI(talib): 65.96
+HWM, Close: 155.80, RSI(talib): 75.34
+KTOS, Close: 36.23, RSI(talib): 67.74
+--------------
+PG failed (Can't get stock info: PG, Current Price: 159.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 166.5774287510585, 200 Day Average: None, RSI: 39.6755390386585).

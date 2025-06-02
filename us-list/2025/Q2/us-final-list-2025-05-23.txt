@@ -1,0 +1,22 @@
+--------------
+Fri May 23 21:19:18 2025 US Stock List
+--------------
+NFLX, Close: 1187.97, RSI(talib): 67.89
+ADP, Close: 321.65, RSI(talib): 69.44
+PAYX, Close: 156.18, RSI(talib): 65.44
+CTAS, Close: 221.66, RSI(talib): 66.41
+MNST, Close: 62.87, RSI(talib): 64.57
+EBAY, Close: 72.15, RSI(talib): 63.36
+VRSK, Close: 314.34, RSI(talib): 64.94
+ZS, Close: 252.82, RSI(talib): 71.79
+VRSN, Close: 281.86, RSI(talib): 63.04
+OKTA, Close: 123.91, RSI(talib): 61.39
+NTES, Close: 119.02, RSI(talib): 65.55
+BA, Close: 203.41, RSI(talib): 66.04
+GE, Close: 230.27, RSI(talib): 67.98
+RIVN, Close: 15.91, RSI(talib): 64.92
+HWM, Close: 163.01, RSI(talib): 70.07
+AXON, Close: 723.75, RSI(talib): 68.86
+--------------
+CTSH failed (Can't get stock info: CTSH, Current Price: 79.9000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 78.44489379029174, 200 Day Average: None, RSI: 58.516237439342945).
+GFS failed (Can't get stock info: GFS, Current Price: 37.47999954223633, 52 Week High: 61.98, 52 Week Low: 29.77, 50 Day Average: 36.09, 150 Day Average: 39.846748378726986, 200 Day Average: 40.37, RSI: None).

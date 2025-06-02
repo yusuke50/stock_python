@@ -1,0 +1,28 @@
+--------------
+Mon May 19 20:56:01 2025 US Stock List
+--------------
+RTX, Close: 135.48, RSI(talib): 62.67
+CSCO, Close: 63.62, RSI(talib): 69.03
+NFLX, Close: 1191.53, RSI(talib): 70.86
+CHTR, Close: 427.25, RSI(talib): 73.20
+ADP, Close: 319.37, RSI(talib): 70.18
+MELI, Close: 2584.92, RSI(talib): 74.56
+PAYX, Close: 155.98, RSI(talib): 69.19
+MNST, Close: 62.86, RSI(talib): 66.45
+EBAY, Close: 71.84, RSI(talib): 65.97
+VRSK, Close: 309.57, RSI(talib): 62.55
+ZS, Close: 251.50, RSI(talib): 76.52
+FAST, Close: 83.03, RSI(talib): 61.74
+CPRT, Close: 63.84, RSI(talib): 71.23
+VRSN, Close: 283.14, RSI(talib): 65.18
+OKTA, Close: 127.30, RSI(talib): 73.01
+NTES, Close: 119.58, RSI(talib): 69.21
+BA, Close: 205.82, RSI(talib): 75.56
+MA, Close: 583.28, RSI(talib): 69.58
+GE, Close: 231.78, RSI(talib): 77.35
+ACHR, Close: 13.30, RSI(talib): 81.18
+HWM, Close: 162.80, RSI(talib): 77.19
+--------------
+TSLA failed (Can't get stock info: TSLA, Current Price: 349.9800109863281, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 324.34007017762514, 200 Day Average: None, RSI: 73.19959595645923).
+AMGN failed (Can't get stock info: AMGN, Current Price: None, 52 Week High: 346.85, 52 Week Low: 253.3, 50 Day Average: 293.45, 150 Day Average: 286.33824445817856, 200 Day Average: 300.61, RSI: 45.12957851950316).
+DLTR failed (Can't get stock info: DLTR, Current Price: 86.51000213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 72.27636339947894, 200 Day Average: None, RSI: 64.24640744325004).

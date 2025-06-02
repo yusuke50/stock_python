@@ -1,0 +1,14 @@
+--------------
+Wed Apr  2 00:02:02 2025 US Stock List
+--------------
+TMUS, Close: 265.80, RSI(talib): 60.69
+AEP, Close: 108.59, RSI(talib): 64.48
+PAYX, Close: 154.29, RSI(talib): 61.14
+ORLY, Close: 1428.93, RSI(talib): 68.32
+EXC, Close: 46.04, RSI(talib): 69.35
+MNST, Close: 58.81, RSI(talib): 71.13
+XEL, Close: 70.68, RSI(talib): 61.02
+VRSN, Close: 255.40, RSI(talib): 74.06
+BRK-B, Close: 533.79, RSI(talib): 67.30
+T, Close: 28.52, RSI(talib): 70.93
+--------------

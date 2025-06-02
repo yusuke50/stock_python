@@ -1,0 +1,26 @@
+--------------
+Wed May 21 18:47:31 2025 US Stock List
+--------------
+RTX, Close: 137.18, RSI(talib): 64.79
+COST, Close: 1036.82, RSI(talib): 67.60
+NFLX, Close: 1192.02, RSI(talib): 69.84
+CHTR, Close: 423.49, RSI(talib): 67.41
+ADP, Close: 322.80, RSI(talib): 71.69
+MELI, Close: 2579.21, RSI(talib): 72.29
+PAYX, Close: 157.67, RSI(talib): 70.31
+CTAS, Close: 222.87, RSI(talib): 69.93
+MNST, Close: 62.99, RSI(talib): 66.06
+EBAY, Close: 72.59, RSI(talib): 67.51
+VRSK, Close: 313.10, RSI(talib): 64.39
+ZS, Close: 251.95, RSI(talib): 74.24
+VRSN, Close: 280.84, RSI(talib): 62.03
+OKTA, Close: 125.54, RSI(talib): 66.81
+NTES, Close: 120.99, RSI(talib): 69.97
+BA, Close: 207.67, RSI(talib): 73.85
+MA, Close: 581.11, RSI(talib): 64.56
+GE, Close: 235.26, RSI(talib): 76.98
+ACHR, Close: 11.29, RSI(talib): 60.81
+HWM, Close: 165.10, RSI(talib): 75.26
+AXON, Close: 742.75, RSI(talib): 77.37
+--------------
+HON failed (Can't get stock info: HON, Current Price: 225.05999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 213.93550344613882, 200 Day Average: None, RSI: 66.28774420169634).

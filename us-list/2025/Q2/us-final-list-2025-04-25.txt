@@ -1,0 +1,12 @@
+--------------
+Fri Apr 25 23:50:06 2025 US Stock List
+--------------
+NFLX, Close: 1094.04, RSI(talib): 69.91
+MELI, Close: 2200.00, RSI(talib): 60.22
+CRWD, Close: 415.79, RSI(talib): 61.60
+FAST, Close: 81.00, RSI(talib): 60.38
+NTES, Close: 105.82, RSI(talib): 62.79
+WMT, Close: 94.89, RSI(talib): 60.88
+KTOS, Close: 32.90, RSI(talib): 61.65
+--------------
+TEAM failed (Can't get stock info: TEAM, Current Price: 229.1699981689453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 239.53056026005245, 200 Day Average: None, RSI: 54.151815371049906).

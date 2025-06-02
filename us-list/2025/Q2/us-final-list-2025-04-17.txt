@@ -1,0 +1,6 @@
+--------------
+Thu Apr 17 20:06:22 2025 US Stock List
+--------------
+EXC, Close: 46.51, RSI(talib): 60.94
+KTOS, Close: 33.27, RSI(talib): 61.23
+--------------

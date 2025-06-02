@@ -1,0 +1,6 @@
+--------------
+Thu Apr 24 19:24:21 2025 US Stock List
+--------------
+NFLX, Close: 1049.59, RSI(talib): 65.07
+KTOS, Close: 32.96, RSI(talib): 60.43
+--------------

@@ -1,0 +1,10 @@
+--------------
+Fri Mar 28 20:04:42 2025 US Stock List
+--------------
+TMUS, Close: 268.28, RSI(talib): 63.90
+CHTR, Close: 382.02, RSI(talib): 61.62
+ORLY, Close: 1423.62, RSI(talib): 69.56
+VRSN, Close: 254.74, RSI(talib): 81.31
+BRK-B, Close: 534.52, RSI(talib): 72.28
+T, Close: 28.20, RSI(talib): 68.81
+--------------

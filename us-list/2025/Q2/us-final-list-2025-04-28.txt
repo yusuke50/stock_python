@@ -1,0 +1,11 @@
+--------------
+Mon Apr 28 17:43:18 2025 US Stock List
+--------------
+NFLX, Close: 1101.53, RSI(talib): 70.48
+MELI, Close: 2225.85, RSI(talib): 62.06
+CRWD, Close: 424.88, RSI(talib): 64.00
+ZS, Close: 215.58, RSI(talib): 60.56
+VRSN, Close: 272.79, RSI(talib): 71.81
+NTES, Close: 105.86, RSI(talib): 62.37
+KTOS, Close: 33.59, RSI(talib): 62.41
+--------------

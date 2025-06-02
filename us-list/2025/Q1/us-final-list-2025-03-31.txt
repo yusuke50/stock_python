@@ -1,0 +1,9 @@
+--------------
+Mon Mar 31 19:54:45 2025 US Stock List
+--------------
+ORLY, Close: 1408.55, RSI(talib): 64.11
+EXC, Close: 44.71, RSI(talib): 62.03
+VRSN, Close: 250.92, RSI(talib): 71.33
+BRK-B, Close: 526.31, RSI(talib): 63.26
+T, Close: 28.18, RSI(talib): 69.34
+--------------

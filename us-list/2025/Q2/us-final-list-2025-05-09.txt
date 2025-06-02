@@ -1,0 +1,20 @@
+--------------
+Fri May  9 21:28:20 2025 US Stock List
+--------------
+COST, Close: 1007.71, RSI(talib): 62.27
+NFLX, Close: 1144.43, RSI(talib): 71.45
+CHTR, Close: 404.41, RSI(talib): 66.39
+MELI, Close: 2410.00, RSI(talib): 69.53
+CRWD, Close: 428.63, RSI(talib): 62.78
+EBAY, Close: 70.56, RSI(talib): 62.40
+VRSK, Close: 307.85, RSI(talib): 62.98
+ZS, Close: 233.15, RSI(talib): 69.72
+VRSN, Close: 285.21, RSI(talib): 72.19
+OKTA, Close: 120.75, RSI(talib): 72.60
+BA, Close: 191.70, RSI(talib): 73.35
+MA, Close: 567.12, RSI(talib): 67.08
+WMT, Close: 97.43, RSI(talib): 60.38
+GE, Close: 214.49, RSI(talib): 70.34
+HWM, Close: 157.50, RSI(talib): 76.31
+--------------
+ROST failed (Can't get stock info: ROST, Current Price: 143.3699951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 141.99175465190328, 200 Day Average: None, RSI: 62.79981339412255).

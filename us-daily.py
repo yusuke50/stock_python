@@ -38,7 +38,12 @@ async def process_stock(stock_name, semaphore):
                     print(f"Can't convert {value} to float (stock: {stock_name})")
                     return None
 
-            history = tar.history()
+            try:
+                history = tar.history()
+            except:
+                history = None
+                print(f"IndexError: Unable to access the history for {stock_name}.")
+
             try:
                 current_price = float_convert(history["Close"].iloc[-1])
             except:

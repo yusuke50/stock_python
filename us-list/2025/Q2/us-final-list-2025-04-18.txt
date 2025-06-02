@@ -1,0 +1,8 @@
+--------------
+Fri Apr 18 22:05:35 2025 US Stock List
+--------------
+EXC, Close: 47.26, RSI(talib): 64.58
+FAST, Close: 81.58, RSI(talib): 61.58
+KTOS, Close: 33.09, RSI(talib): 60.27
+--------------
+ASML failed (Can't get stock info: ASML, Current Price: 640.1599731445312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 720.688956366645, 200 Day Average: None, RSI: 43.4002986983636).

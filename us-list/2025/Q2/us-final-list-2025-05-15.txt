@@ -1,0 +1,21 @@
+--------------
+Thu May 15 19:20:36 2025 US Stock List
+--------------
+CSCO, Close: 61.29, RSI(talib): 64.83
+NFLX, Close: 1150.99, RSI(talib): 66.20
+CHTR, Close: 413.86, RSI(talib): 70.51
+ADP, Close: 309.41, RSI(talib): 62.80
+MELI, Close: 2564.00, RSI(talib): 74.00
+PAYX, Close: 152.01, RSI(talib): 62.52
+ZS, Close: 244.45, RSI(talib): 74.80
+CPRT, Close: 62.42, RSI(talib): 65.83
+VRSN, Close: 276.40, RSI(talib): 60.61
+OKTA, Close: 123.34, RSI(talib): 69.65
+BA, Close: 204.72, RSI(talib): 78.61
+MA, Close: 573.28, RSI(talib): 67.56
+GE, Close: 223.24, RSI(talib): 74.68
+ACHR, Close: 11.84, RSI(talib): 76.95
+HWM, Close: 159.46, RSI(talib): 76.65
+--------------
+TXN failed (Can't get stock info: TXN, Current Price: 187.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 183.726938421076, 200 Day Average: None, RSI: 69.05484843538807).
+AMGN failed (Can't get stock info: AMGN, Current Price: 262.2799987792969, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 289.4720070578835, 200 Day Average: None, RSI: 34.87926774350753).
