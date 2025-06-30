@@ -1,0 +1,33 @@
+--------------
+Mon Jun 30 21:26:37 2025 US Stock List
+--------------
+RTX, Close: 144.66, RSI(talib): 61.55
+META, Close: 733.63, RSI(talib): 72.59
+AVGO, Close: 269.35, RSI(talib): 73.31
+CSCO, Close: 68.65, RSI(talib): 73.72
+NFLX, Close: 1323.12, RSI(talib): 76.07
+INTU, Close: 776.57, RSI(talib): 70.66
+BKNG, Close: 5693.13, RSI(talib): 68.62
+LRCX, Close: 97.20, RSI(talib): 75.50
+MELI, Close: 2560.05, RSI(talib): 62.51
+KLAC, Close: 889.87, RSI(talib): 67.14
+ADSK, Close: 305.13, RSI(talib): 65.62
+CRWD, Close: 499.33, RSI(talib): 61.44
+WBA, Close: 11.45, RSI(talib): 66.55
+DLTR, Close: 98.70, RSI(talib): 60.73
+ZS, Close: 315.32, RSI(talib): 80.78
+VRSN, Close: 287.68, RSI(talib): 61.18
+NTES, Close: 132.65, RSI(talib): 65.50
+CEG, Close: 320.17, RSI(talib): 65.47
+DIS, Close: 122.34, RSI(talib): 79.71
+BA, Close: 214.55, RSI(talib): 65.12
+JPM, Close: 287.11, RSI(talib): 77.48
+WFC, Close: 79.50, RSI(talib): 68.09
+GE, Close: 254.51, RSI(talib): 71.26
+TDG, Close: 1499.17, RSI(talib): 62.94
+RKLB, Close: 35.38, RSI(talib): 70.51
+HWM, Close: 184.90, RSI(talib): 80.23
+AXON, Close: 818.60, RSI(talib): 72.78
+KTOS, Close: 45.84, RSI(talib): 66.80
+VST, Close: 195.04, RSI(talib): 78.44
+--------------

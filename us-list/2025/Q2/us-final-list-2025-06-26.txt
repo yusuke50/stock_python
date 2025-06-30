@@ -1,0 +1,26 @@
+--------------
+Thu Jun 26 22:10:49 2025 US Stock List
+--------------
+AVGO, Close: 267.53, RSI(talib): 71.55
+CSCO, Close: 68.71, RSI(talib): 74.44
+BKNG, Close: 5525.17, RSI(talib): 60.15
+LRCX, Close: 96.43, RSI(talib): 73.45
+MELI, Close: 2560.89, RSI(talib): 60.92
+PANW, Close: 205.84, RSI(talib): 64.68
+KLAC, Close: 900.55, RSI(talib): 68.87
+ADSK, Close: 301.39, RSI(talib): 62.19
+CRWD, Close: 497.76, RSI(talib): 61.66
+DLTR, Close: 98.36, RSI(talib): 62.76
+ZS, Close: 312.96, RSI(talib): 79.42
+NTES, Close: 133.12, RSI(talib): 67.10
+CEG, Close: 317.55, RSI(talib): 64.45
+JPM, Close: 287.98, RSI(talib): 78.77
+WFC, Close: 79.53, RSI(talib): 69.16
+GE, Close: 253.25, RSI(talib): 66.87
+RKLB, Close: 36.04, RSI(talib): 66.25
+HWM, Close: 177.54, RSI(talib): 71.99
+AXON, Close: 794.46, RSI(talib): 64.89
+KTOS, Close: 41.37, RSI(talib): 60.23
+VST, Close: 187.51, RSI(talib): 74.03
+--------------
+NFLX failed (Can't get stock info: NFLX, Current Price: None, 52 Week High: 1298.0, 52 Week Low: 587.04, 50 Day Average: 1159.44, 150 Day Average: 1016.0228349401596, 200 Day Average: 938.63, RSI: 69.54904670170848).

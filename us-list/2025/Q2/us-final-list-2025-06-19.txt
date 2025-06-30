@@ -1,0 +1,19 @@
+--------------
+Thu Jun 19 19:42:28 2025 US Stock List
+--------------
+RTX, Close: 145.87, RSI(talib): 66.58
+AVGO, Close: 251.26, RSI(talib): 64.42
+CSCO, Close: 65.84, RSI(talib): 66.45
+NFLX, Close: 1222.29, RSI(talib): 62.76
+CRWD, Close: 485.16, RSI(talib): 64.39
+DLTR, Close: 97.53, RSI(talib): 61.35
+EBAY, Close: 77.53, RSI(talib): 69.29
+ZS, Close: 305.41, RSI(talib): 83.12
+NTES, Close: 128.67, RSI(talib): 62.72
+CEG, Close: 306.43, RSI(talib): 63.96
+JPM, Close: 273.96, RSI(talib): 70.92
+HWM, Close: 170.23, RSI(talib): 66.20
+AXON, Close: 770.79, RSI(talib): 64.33
+KTOS, Close: 42.16, RSI(talib): 66.97
+--------------
+SIRI failed (Can't get stock info: SIRI, Current Price: 21.489999771118164, 52 Week High: 41.6, 52 Week Low: 18.69, 50 Day Average: 21.45, 150 Day Average: 22.672357384587677, 200 Day Average: 23.85, RSI: None).

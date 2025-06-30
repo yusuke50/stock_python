@@ -1,0 +1,21 @@
+--------------
+Wed Jun 25 22:02:26 2025 US Stock List
+--------------
+AVGO, Close: 268.50, RSI(talib): 71.10
+CSCO, Close: 68.11, RSI(talib): 73.51
+NFLX, Close: 1296.84, RSI(talib): 71.17
+LRCX, Close: 96.11, RSI(talib): 72.94
+PANW, Close: 204.42, RSI(talib): 61.65
+KLAC, Close: 895.46, RSI(talib): 68.17
+ADSK, Close: 304.01, RSI(talib): 65.68
+DLTR, Close: 99.35, RSI(talib): 61.58
+ZS, Close: 315.95, RSI(talib): 77.80
+NTES, Close: 133.60, RSI(talib): 69.66
+CEG, Close: 317.98, RSI(talib): 69.28
+JPM, Close: 281.49, RSI(talib): 76.73
+GE, Close: 250.19, RSI(talib): 65.88
+RKLB, Close: 33.72, RSI(talib): 71.45
+HWM, Close: 177.80, RSI(talib): 73.66
+AXON, Close: 792.78, RSI(talib): 69.90
+VST, Close: 187.52, RSI(talib): 73.94
+--------------

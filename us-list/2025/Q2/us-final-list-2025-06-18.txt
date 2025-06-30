@@ -1,0 +1,25 @@
+--------------
+Wed Jun 18 20:23:41 2025 US Stock List
+--------------
+RTX, Close: 148.48, RSI(talib): 74.28
+AVGO, Close: 249.37, RSI(talib): 63.20
+CSCO, Close: 65.33, RSI(talib): 64.36
+NFLX, Close: 1220.67, RSI(talib): 62.39
+CRWD, Close: 492.03, RSI(talib): 68.71
+DLTR, Close: 98.35, RSI(talib): 63.25
+EBAY, Close: 77.40, RSI(talib): 68.81
+ZS, Close: 307.31, RSI(talib): 86.51
+VRSN, Close: 283.96, RSI(talib): 64.48
+NTES, Close: 129.61, RSI(talib): 65.21
+CEG, Close: 305.70, RSI(talib): 63.62
+JPM, Close: 269.52, RSI(talib): 66.10
+HWM, Close: 172.12, RSI(talib): 72.43
+AXON, Close: 777.54, RSI(talib): 67.84
+KTOS, Close: 43.23, RSI(talib): 73.67
+TEM, Close: 70.11, RSI(talib): 61.73
+--------------
+ADP failed (Page.goto: net::ERR_NETWORK_CHANGED at https://finance.yahoo.com/quote/ADP/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ADP/key-statistics", waiting until "domcontentloaded"
+).
+TTD failed (Can't get stock info: TTD, Current Price: 67.63999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 87.73436640349912, 200 Day Average: None, RSI: 46.05290027303497).

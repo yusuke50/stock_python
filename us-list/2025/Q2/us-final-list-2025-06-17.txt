@@ -1,0 +1,22 @@
+--------------
+Tue Jun 17 19:43:08 2025 US Stock List
+--------------
+RTX, Close: 146.46, RSI(talib): 71.95
+AVGO, Close: 252.10, RSI(talib): 66.25
+CSCO, Close: 65.51, RSI(talib): 65.70
+NFLX, Close: 1225.35, RSI(talib): 64.12
+CRWD, Close: 479.39, RSI(talib): 64.66
+MNST, Close: 63.88, RSI(talib): 60.90
+DLTR, Close: 99.00, RSI(talib): 64.72
+EBAY, Close: 77.71, RSI(talib): 71.28
+ZS, Close: 305.02, RSI(talib): 85.87
+VRSN, Close: 281.08, RSI(talib): 61.58
+NTES, Close: 131.08, RSI(talib): 69.20
+CEG, Close: 308.01, RSI(talib): 65.44
+JPM, Close: 270.36, RSI(talib): 68.08
+HWM, Close: 171.60, RSI(talib): 71.75
+AXON, Close: 780.61, RSI(talib): 69.44
+KTOS, Close: 41.21, RSI(talib): 68.07
+TEM, Close: 72.00, RSI(talib): 65.05
+--------------
+DXCM failed (Can't get stock info: DXCM, Current Price: 83.0, 52 Week High: 117.49, 52 Week Low: 57.52, 50 Day Average: 78.18, 150 Day Average: 79.33591544460243, 200 Day Average: 76.66, RSI: None).

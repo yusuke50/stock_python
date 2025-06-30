@@ -1,0 +1,22 @@
+--------------
+Thu Jun  5 22:45:28 2025 US Stock List
+--------------
+RTX, Close: 138.87, RSI(talib): 68.84
+COST, Close: 1020.48, RSI(talib): 67.01
+NFLX, Close: 1259.60, RSI(talib): 75.31
+BKNG, Close: 5599.00, RSI(talib): 72.37
+ADP, Close: 325.55, RSI(talib): 73.96
+MELI, Close: 2577.32, RSI(talib): 68.07
+PAYX, Close: 159.29, RSI(talib): 69.02
+CTAS, Close: 227.37, RSI(talib): 74.90
+EBAY, Close: 78.35, RSI(talib): 81.66
+ZS, Close: 303.50, RSI(talib): 86.42
+NTES, Close: 128.38, RSI(talib): 74.97
+BA, Close: 210.91, RSI(talib): 76.51
+MA, Close: 585.91, RSI(talib): 66.35
+WMT, Close: 98.07, RSI(talib): 65.01
+GE, Close: 251.71, RSI(talib): 87.19
+HWM, Close: 174.99, RSI(talib): 83.59
+AXON, Close: 789.37, RSI(talib): 77.04
+KTOS, Close: 40.67, RSI(talib): 72.07
+--------------

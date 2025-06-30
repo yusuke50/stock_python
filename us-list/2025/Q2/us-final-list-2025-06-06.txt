@@ -1,0 +1,22 @@
+--------------
+Fri Jun  6 19:07:44 2025 US Stock List
+--------------
+RTX, Close: 139.07, RSI(talib): 69.67
+NFLX, Close: 1250.52, RSI(talib): 76.66
+BKNG, Close: 5570.52, RSI(talib): 72.85
+ADP, Close: 326.23, RSI(talib): 73.98
+MELI, Close: 2581.74, RSI(talib): 68.67
+PAYX, Close: 159.31, RSI(talib): 68.93
+DLTR, Close: 96.67, RSI(talib): 64.27
+EBAY, Close: 77.74, RSI(talib): 82.73
+ZS, Close: 300.88, RSI(talib): 87.20
+FAST, Close: 41.34, RSI(talib): 60.15
+NTES, Close: 128.63, RSI(talib): 76.31
+BA, Close: 209.02, RSI(talib): 70.21
+MA, Close: 585.44, RSI(talib): 67.01
+GE, Close: 251.92, RSI(talib): 87.56
+HWM, Close: 175.01, RSI(talib): 84.30
+AXON, Close: 788.36, RSI(talib): 78.20
+KTOS, Close: 40.36, RSI(talib): 72.72
+--------------
+FTNT failed (Can't get stock info: FTNT, Current Price: None, 52 Week High: 114.82, 52 Week Low: 54.57, 50 Day Average: 100.12, 150 Day Average: 99.61197189545967, 200 Day Average: 93.34, RSI: 55.48115527395192).

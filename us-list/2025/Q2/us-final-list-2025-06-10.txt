@@ -1,0 +1,22 @@
+--------------
+Tue Jun 10 19:19:07 2025 US Stock List
+--------------
+RTX, Close: 140.98, RSI(talib): 69.52
+CSCO, Close: 65.90, RSI(talib): 74.54
+NFLX, Close: 1224.46, RSI(talib): 67.64
+BKNG, Close: 5539.41, RSI(talib): 67.37
+GILD, Close: 113.00, RSI(talib): 64.44
+EBAY, Close: 79.36, RSI(talib): 85.21
+ZS, Close: 299.90, RSI(talib): 83.91
+FAST, Close: 42.13, RSI(talib): 61.71
+NTES, Close: 130.19, RSI(talib): 74.40
+BA, Close: 217.51, RSI(talib): 76.37
+JPM, Close: 266.74, RSI(talib): 64.15
+MA, Close: 584.33, RSI(talib): 63.31
+GE, Close: 251.41, RSI(talib): 79.16
+ACHR, Close: 11.26, RSI(talib): 61.81
+HWM, Close: 172.87, RSI(talib): 75.75
+AXON, Close: 783.80, RSI(talib): 73.42
+KTOS, Close: 40.59, RSI(talib): 71.46
+--------------
+MRK failed (Can't get stock info: MRK, Current Price: 79.33000183105469, 52 Week High: 134.63, 52 Week Low: 73.31, 50 Day Average: 79.74, 150 Day Average: 89.598358208025, 200 Day Average: 96.32, RSI: None).

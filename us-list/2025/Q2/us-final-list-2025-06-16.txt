@@ -1,0 +1,15 @@
+--------------
+Mon Jun 16 21:31:46 2025 US Stock List
+--------------
+RTX, Close: 145.69, RSI(talib): 70.07
+AVGO, Close: 248.70, RSI(talib): 63.22
+NFLX, Close: 1212.15, RSI(talib): 61.45
+CRWD, Close: 480.62, RSI(talib): 64.08
+EBAY, Close: 77.36, RSI(talib): 69.41
+ZS, Close: 301.95, RSI(talib): 82.99
+NTES, Close: 129.38, RSI(talib): 67.18
+HWM, Close: 172.61, RSI(talib): 68.96
+AXON, Close: 785.84, RSI(talib): 67.91
+KTOS, Close: 41.92, RSI(talib): 70.76
+TEM, Close: 74.36, RSI(talib): 64.26
+--------------

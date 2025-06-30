@@ -1,0 +1,29 @@
+--------------
+Thu Jun 12 22:47:01 2025 US Stock List
+--------------
+RTX, Close: 141.07, RSI(talib): 66.35
+AVGO, Close: 257.68, RSI(talib): 68.47
+NFLX, Close: 1222.29, RSI(talib): 63.87
+BKNG, Close: 5481.50, RSI(talib): 61.46
+CRWD, Close: 479.57, RSI(talib): 62.15
+EBAY, Close: 77.31, RSI(talib): 72.96
+ZS, Close: 303.35, RSI(talib): 81.77
+NTES, Close: 132.52, RSI(talib): 77.11
+BA, Close: 203.27, RSI(talib): 69.03
+JPM, Close: 267.69, RSI(talib): 65.99
+MA, Close: 589.47, RSI(talib): 66.99
+GE, Close: 241.08, RSI(talib): 64.81
+ACHR, Close: 11.93, RSI(talib): 67.17
+AXON, Close: 775.98, RSI(talib): 67.03
+KTOS, Close: 40.87, RSI(talib): 66.51
+TEM, Close: 70.84, RSI(talib): 63.01
+--------------
+HON failed (Can't get stock info: HON, Current Price: 226.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.48842309226453, 200 Day Average: None, RSI: 60.422085226838675).
+NXPI failed (Can't get stock info: NXPI, Current Price: 219.58999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 206.03130824129346, 200 Day Average: None, RSI: 66.26704596510427).
+ADSK failed (Can't get stock info: ADSK, Current Price: 298.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 286.99056276133365, 200 Day Average: None, RSI: 61.33059170575786).
+FAST failed (Can't get stock info: FAST, Current Price: 42.69419860839844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 38.563743537580464, 200 Day Average: None, RSI: 64.86296888570226).
+OKTA failed (Can't get stock info: OKTA, Current Price: 100.30999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.65640855171311, 200 Day Average: None, RSI: 35.69784660817468).
+BAC failed (Can't get stock info: BAC, Current Price: 44.48500061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.22417651431661, 200 Day Average: None, RSI: 67.71794160328376).
+CVX failed (Can't get stock info: CVX, Current Price: 144.86000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 147.82293980558154, 200 Day Average: None, RSI: 66.52014592091).
+WMT failed (Can't get stock info: WMT, Current Price: 94.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 93.39280346077932, 200 Day Average: None, RSI: 42.990367560168046).
+HWM failed (Can't get stock info: HWM, Current Price: 170.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 131.69079648944694, 200 Day Average: None, RSI: 66.10451133576571).

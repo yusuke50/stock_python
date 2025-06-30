@@ -1,0 +1,151 @@
+--------------
+Wed Jun  4 19:48:31 2025 US Stock List
+--------------
+ADP, Close: 326.53, RSI(talib): 74.82
+MELI, Close: 2602.26, RSI(talib): 72.73
+PAYX, Close: 158.25, RSI(talib): 66.96
+CRWD, Close: 488.76, RSI(talib): 72.18
+CTAS, Close: 227.58, RSI(talib): 75.64
+MNST, Close: 63.99, RSI(talib): 66.95
+EBAY, Close: 75.95, RSI(talib): 79.52
+ZS, Close: 295.03, RSI(talib): 86.07
+NTES, Close: 126.06, RSI(talib): 73.83
+BA, Close: 213.43, RSI(talib): 79.77
+MA, Close: 581.97, RSI(talib): 65.30
+WMT, Close: 99.98, RSI(talib): 68.49
+GE, Close: 248.87, RSI(talib): 86.46
+HWM, Close: 172.61, RSI(talib): 82.68
+AXON, Close: 759.07, RSI(talib): 73.81
+KTOS, Close: 39.09, RSI(talib): 69.44
+--------------
+SIG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/SIG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/SIG/key-statistics", waiting until "domcontentloaded"
+).
+HII failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/HII/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/HII/key-statistics", waiting until "domcontentloaded"
+).
+LMT failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/LMT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LMT/key-statistics", waiting until "domcontentloaded"
+).
+RTX failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/RTX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/RTX/key-statistics", waiting until "domcontentloaded"
+).
+AAPL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AAPL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AAPL/key-statistics", waiting until "domcontentloaded"
+).
+MSFT failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/MSFT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MSFT/key-statistics", waiting until "domcontentloaded"
+).
+AMZN failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AMZN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMZN/key-statistics", waiting until "domcontentloaded"
+).
+TSLA failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/TSLA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/TSLA/key-statistics", waiting until "domcontentloaded"
+).
+NVDA failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/NVDA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NVDA/key-statistics", waiting until "domcontentloaded"
+).
+GOOG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOG/key-statistics", waiting until "domcontentloaded"
+).
+GOOGL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOGL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOGL/key-statistics", waiting until "domcontentloaded"
+).
+META failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/META/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/META/key-statistics", waiting until "domcontentloaded"
+).
+AVGO failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AVGO/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AVGO/key-statistics", waiting until "domcontentloaded"
+).
+COST failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/COST/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/COST/key-statistics", waiting until "domcontentloaded"
+).
+PEP failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/PEP/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/PEP/key-statistics", waiting until "domcontentloaded"
+).
+CSCO failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/CSCO/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/CSCO/key-statistics", waiting until "domcontentloaded"
+).
+ADBE failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/ADBE/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ADBE/key-statistics", waiting until "domcontentloaded"
+).
+CMCSA failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/CMCSA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/CMCSA/key-statistics", waiting until "domcontentloaded"
+).
+INTC failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/INTC/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/INTC/key-statistics", waiting until "domcontentloaded"
+).
+AMD failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AMD/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMD/key-statistics", waiting until "domcontentloaded"
+).
+QCOM failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/QCOM/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/QCOM/key-statistics", waiting until "domcontentloaded"
+).
+TXN failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/TXN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/TXN/key-statistics", waiting until "domcontentloaded"
+).
+NFLX failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/NFLX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NFLX/key-statistics", waiting until "domcontentloaded"
+).
+TMUS failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/TMUS/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/TMUS/key-statistics", waiting until "domcontentloaded"
+).
+PYPL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/PYPL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/PYPL/key-statistics", waiting until "domcontentloaded"
+).
+INTU failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/INTU/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/INTU/key-statistics", waiting until "domcontentloaded"
+).
+HON failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/HON/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/HON/key-statistics", waiting until "domcontentloaded"
+).
+AMGN failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AMGN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMGN/key-statistics", waiting until "domcontentloaded"
+).
+AMAT failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AMAT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMAT/key-statistics", waiting until "domcontentloaded"
+).
+ISRG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/ISRG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ISRG/key-statistics", waiting until "domcontentloaded"
+).
+SBUX failed (Page.goto: net::ERR_NAME_NOT_RESOLVED at https://finance.yahoo.com/quote/SBUX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/SBUX/key-statistics", waiting until "domcontentloaded"
+).
+CHTR failed (Can't get stock info: CHTR, Current Price: None, 52 Week High: 437.06, 52 Week Low: 272.49, 50 Day Average: 378.09, 150 Day Average: 370.2601389280507, 200 Day Average: 360.41, RSI: 48.006288750638916).
+BKNG failed (Can't get stock info: BKNG, Current Price: None, 52 Week High: 5560.45, 52 Week Low: 3180.0, 50 Day Average: 4940.32, 150 Day Average: 4920.142010755942, 200 Day Average: 4691.43, RSI: 69.34350285182464).
+EA failed (Page.goto: net::ERR_NETWORK_CHANGED at https://finance.yahoo.com/quote/EA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/EA/key-statistics", waiting until "domcontentloaded"
+).
+SWKS failed (Can't get stock info: SWKS, Current Price: 71.02999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 74.33771595484774, 200 Day Average: None, RSI: 62.07133117608681).

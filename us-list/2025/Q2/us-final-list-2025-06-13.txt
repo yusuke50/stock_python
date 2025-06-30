@@ -1,0 +1,25 @@
+--------------
+Fri Jun 13 20:34:43 2025 US Stock List
+--------------
+RTX, Close: 140.98, RSI(talib): 63.72
+AVGO, Close: 256.07, RSI(talib): 70.18
+CSCO, Close: 65.10, RSI(talib): 63.26
+NFLX, Close: 1215.03, RSI(talib): 62.28
+BKNG, Close: 5461.95, RSI(talib): 61.07
+CRWD, Close: 481.73, RSI(talib): 63.64
+MNST, Close: 63.69, RSI(talib): 60.26
+DLTR, Close: 96.09, RSI(talib): 62.25
+EBAY, Close: 77.44, RSI(talib): 69.79
+ZS, Close: 301.43, RSI(talib): 82.28
+FAST, Close: 42.86, RSI(talib): 65.92
+VRSN, Close: 281.81, RSI(talib): 60.08
+NTES, Close: 132.76, RSI(talib): 76.45
+JPM, Close: 268.24, RSI(talib): 66.11
+MA, Close: 589.28, RSI(talib): 65.29
+ACHR, Close: 11.73, RSI(talib): 62.48
+HWM, Close: 171.52, RSI(talib): 67.16
+AXON, Close: 775.20, RSI(talib): 65.67
+KTOS, Close: 41.24, RSI(talib): 69.18
+TEM, Close: 71.23, RSI(talib): 63.40
+--------------
+MSFT failed (Can't get stock info: MSFT, Current Price: None, 52 Week High: 480.42, 52 Week Low: 344.79, 50 Day Average: 423.87, 150 Day Average: 417.63255632427376, 200 Day Average: 419.26, RSI: 77.6392749216815).
