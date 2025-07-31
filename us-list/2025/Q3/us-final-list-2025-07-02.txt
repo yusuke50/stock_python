@@ -1,0 +1,31 @@
+--------------
+Wed Jul  2 20:45:52 2025 US Stock List
+--------------
+META, Close: 719.22, RSI(talib): 62.74
+AVGO, Close: 264.74, RSI(talib): 63.41
+CSCO, Close: 69.10, RSI(talib): 72.90
+NFLX, Close: 1293.60, RSI(talib): 62.90
+INTU, Close: 779.61, RSI(talib): 67.60
+CHTR, Close: 418.22, RSI(talib): 63.48
+BKNG, Close: 5730.73, RSI(talib): 66.68
+LRCX, Close: 96.81, RSI(talib): 73.19
+KLAC, Close: 898.85, RSI(talib): 68.54
+WBA, Close: 11.49, RSI(talib): 68.06
+DLTR, Close: 101.50, RSI(talib): 65.15
+ZS, Close: 307.32, RSI(talib): 66.71
+ANSS, Close: 353.14, RSI(talib): 69.57
+VRSN, Close: 289.08, RSI(talib): 61.74
+NTES, Close: 134.78, RSI(talib): 67.58
+DIS, Close: 123.49, RSI(talib): 79.28
+JPM, Close: 290.41, RSI(talib): 78.82
+T, Close: 28.88, RSI(talib): 62.39
+WFC, Close: 81.49, RSI(talib): 72.04
+RKLB, Close: 34.33, RSI(talib): 65.17
+VST, Close: 185.10, RSI(talib): 61.84
+--------------
+TXN failed (Can't get stock info: TXN, Current Price: 210.4499969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 182.1180386610434, 200 Day Average: None, RSI: 77.24216243978415).
+AMGN failed (Can't get stock info: AMGN, Current Price: 290.5199890136719, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 283.63050713337645, 200 Day Average: None, RSI: 56.08015579962641).
+HD failed (Can't get stock info: HD, Current Price: 373.1600036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 376.54558939329337, 200 Day Average: None, RSI: 62.21030716985177).
+MA failed (Can't get stock info: MA, Current Price: 564.6099853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 545.522309424172, 200 Day Average: None, RSI: 50.9190742187611).
+TDG failed (Can't get stock info: TDG, Current Price: 1512.81005859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1357.7388021979534, 200 Day Average: None, RSI: 62.5022061743703).
+HWM failed (Can't get stock info: HWM, Current Price: 176.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 137.125321133036, 200 Day Average: None, RSI: 56.52370555984645).

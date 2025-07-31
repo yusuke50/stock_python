@@ -1,0 +1,38 @@
+--------------
+Tue Jul  1 22:57:15 2025 US Stock List
+--------------
+RTX, Close: 143.69, RSI(talib): 63.24
+META, Close: 726.97, RSI(talib): 72.70
+AVGO, Close: 267.16, RSI(talib): 75.90
+CSCO, Close: 68.96, RSI(talib): 75.44
+NFLX, Close: 1312.26, RSI(talib): 77.47
+INTU, Close: 782.74, RSI(talib): 73.55
+BKNG, Close: 5714.33, RSI(talib): 71.48
+LRCX, Close: 95.81, RSI(talib): 75.12
+MELI, Close: 2550.00, RSI(talib): 67.44
+PANW, Close: 198.65, RSI(talib): 61.69
+KLAC, Close: 890.16, RSI(talib): 67.67
+CRWD, Close: 494.96, RSI(talib): 64.14
+WBA, Close: 11.47, RSI(talib): 67.77
+DLTR, Close: 100.50, RSI(talib): 60.58
+ZS, Close: 308.80, RSI(talib): 77.97
+ANSS, Close: 351.08, RSI(talib): 66.88
+VRSN, Close: 288.36, RSI(talib): 61.62
+NTES, Close: 134.60, RSI(talib): 67.97
+CEG, Close: 307.51, RSI(talib): 66.34
+DIS, Close: 122.76, RSI(talib): 81.49
+JPM, Close: 288.22, RSI(talib): 78.66
+NOW, Close: 1018.63, RSI(talib): 60.22
+T, Close: 28.97, RSI(talib): 63.43
+WFC, Close: 80.42, RSI(talib): 68.81
+GE, Close: 249.98, RSI(talib): 73.13
+TDG, Close: 1506.50, RSI(talib): 65.96
+RKLB, Close: 35.82, RSI(talib): 70.90
+HWM, Close: 181.65, RSI(talib): 80.48
+AXON, Close: 810.10, RSI(talib): 74.43
+KTOS, Close: 43.87, RSI(talib): 67.45
+VST, Close: 184.80, RSI(talib): 75.77
+--------------
+AMD failed (Can't get stock info: AMD, Current Price: 136.9199981689453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 112.59985883470992, 200 Day Average: None, RSI: 75.80993252556321).
+GM failed (Can't get stock info: GM, Current Price: 50.58000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 48.734920447980855, 200 Day Average: None, RSI: 56.20137888487599).
+BKR failed (Can't get stock info: BKR, Current Price: 38.154998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 40.894605851509205, 200 Day Average: None, RSI: 53.09410158573951).

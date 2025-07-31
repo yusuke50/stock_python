@@ -1,0 +1,29 @@
+--------------
+Tue Jul 22 19:25:24 2025 US Stock List
+--------------
+MSFT, Close: 510.06, RSI(talib): 74.99
+AMZN, Close: 229.30, RSI(talib): 68.39
+AVGO, Close: 288.21, RSI(talib): 70.64
+LRCX, Close: 101.74, RSI(talib): 71.08
+KLAC, Close: 937.76, RSI(talib): 69.47
+ORLY, Close: 94.15, RSI(talib): 60.58
+DLTR, Close: 112.31, RSI(talib): 73.51
+EBAY, Close: 79.03, RSI(talib): 68.33
+NTES, Close: 137.35, RSI(talib): 67.95
+BA, Close: 229.32, RSI(talib): 69.75
+JPM, Close: 290.97, RSI(talib): 63.82
+ROKU, Close: 91.69, RSI(talib): 69.67
+GE, Close: 262.86, RSI(talib): 64.63
+WBD, Close: 12.80, RSI(talib): 77.81
+TDG, Close: 1583.67, RSI(talib): 73.01
+RKLB, Close: 47.19, RSI(talib): 70.80
+HWM, Close: 187.83, RSI(talib): 64.50
+--------------
+RTX failed (Can't get stock info: RTX, Current Price: 151.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 130.69810161184756, 200 Day Average: None, RSI: 71.97379263653112).
+META failed (Can't get stock info: META, Current Price: 712.969970703125, 52 Week High: 747.9, 52 Week Low: 442.65, 50 Day Average: 683.51, 150 Day Average: 637.8965655387716, 200 Day Average: 623.04, RSI: None).
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 69.41999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.8705437301744, 200 Day Average: None, RSI: 60.47097096441654).
+KDP failed (Can't get stock info: KDP, Current Price: 33.31999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 32.85681316024023, 200 Day Average: None, RSI: 50.64043708419204).
+WBA failed (Can't get stock info: WBA, Current Price: 11.520000457763672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 10.992269536282153, 200 Day Average: None, RSI: 62.058307283819914).
+ZS failed (Can't get stock info: ZS, Current Price: 288.42999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 230.6984746405419, 200 Day Average: None, RSI: 45.78363779174378).
+AXON failed (Can't get stock info: AXON, Current Price: 751.5499877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 645.8698585456144, 200 Day Average: None, RSI: 46.83326337164806).
+KTOS failed (Can't get stock info: KTOS, Current Price: 58.779998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 34.73297873963701, 200 Day Average: None, RSI: 79.06906337261415).

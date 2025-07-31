@@ -1,0 +1,42 @@
+--------------
+Wed Jul  9 20:19:24 2025 US Stock List
+--------------
+META, Close: 720.67, RSI(talib): 60.72
+AVGO, Close: 271.80, RSI(talib): 64.12
+CSCO, Close: 68.59, RSI(talib): 64.87
+INTU, Close: 781.48, RSI(talib): 65.90
+BKNG, Close: 5713.33, RSI(talib): 61.96
+LRCX, Close: 99.83, RSI(talib): 73.71
+KLAC, Close: 919.22, RSI(talib): 67.47
+FTNT, Close: 107.54, RSI(talib): 61.30
+CRWD, Close: 507.71, RSI(talib): 60.92
+CDNS, Close: 323.28, RSI(talib): 64.99
+WBA, Close: 11.52, RSI(talib): 61.32
+DLTR, Close: 104.39, RSI(talib): 66.60
+ZS, Close: 312.44, RSI(talib): 67.05
+ANSS, Close: 366.90, RSI(talib): 71.34
+NTES, Close: 133.28, RSI(talib): 65.82
+DIS, Close: 121.82, RSI(talib): 62.27
+BA, Close: 218.52, RSI(talib): 64.80
+WFC, Close: 81.59, RSI(talib): 64.40
+TDG, Close: 1530.10, RSI(talib): 69.34
+RKLB, Close: 38.74, RSI(talib): 74.30
+VST, Close: 190.18, RSI(talib): 63.67
+--------------
+TXN failed (Can't get stock info: TXN, Current Price: 216.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 182.7748229114722, 200 Day Average: None, RSI: 73.57810920437427).
+AMAT failed (Can't get stock info: AMAT, Current Price: 194.99000549316406, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 164.05468766232755, 200 Day Average: None, RSI: 74.64060277781022).
+ISRG failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ISRG/key-statistics", waiting until "domcontentloaded"
+).
+SBUX failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/SBUX/key-statistics", waiting until "domcontentloaded"
+).
+MELI failed (Can't get stock info: MELI, Current Price: 2476.60009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2134.8165317833, 200 Day Average: None, RSI: 48.04627407478419).
+ASML failed (Can't get stock info: ASML, Current Price: 794.0999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 722.2883266151374, 200 Day Average: None, RSI: 55.59841010590257).
+SNPS failed (Can't get stock info: SNPS, Current Price: 551.510009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 480.2375882196088, 200 Day Average: None, RSI: 70.21442495412741).
+KHC failed (Can't get stock info: KHC, Current Price: 26.43000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 28.429579592765645, 200 Day Average: None, RSI: 49.680680745141856).
+IDXX failed (Can't get stock info: IDXX, Current Price: 538.8400268554688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 456.0178713967614, 200 Day Average: None, RSI: 59.56272480176024).
+CPRT failed (Can't get stock info: CPRT, Current Price: 48.5099983215332, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 56.21042570831082, 200 Day Average: None, RSI: 31.358703142176665).
+KO failed (Can't get stock info: KO, Current Price: 70.23999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 67.8510570661396, 200 Day Average: None, RSI: 49.424555368928225).

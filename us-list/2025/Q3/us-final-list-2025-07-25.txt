@@ -1,0 +1,29 @@
+--------------
+Fri Jul 25 19:36:51 2025 US Stock List
+--------------
+RTX, Close: 155.22, RSI(talib): 69.54
+MSFT, Close: 510.88, RSI(talib): 69.70
+AMZN, Close: 232.23, RSI(talib): 68.98
+AVGO, Close: 288.71, RSI(talib): 65.22
+INTU, Close: 781.21, RSI(talib): 61.39
+ORLY, Close: 98.16, RSI(talib): 70.98
+IDXX, Close: 549.97, RSI(talib): 65.13
+WBA, Close: 11.59, RSI(talib): 67.82
+DLTR, Close: 114.21, RSI(talib): 73.24
+EBAY, Close: 82.45, RSI(talib): 77.49
+BA, Close: 231.27, RSI(talib): 67.48
+JPM, Close: 296.55, RSI(talib): 68.56
+ROKU, Close: 90.05, RSI(talib): 61.31
+WFC, Close: 83.87, RSI(talib): 64.56
+GE, Close: 268.01, RSI(talib): 65.54
+CSGP, Close: 92.96, RSI(talib): 81.55
+WBD, Close: 13.50, RSI(talib): 82.08
+TDG, Close: 1599.24, RSI(talib): 71.71
+RKLB, Close: 48.13, RSI(talib): 68.62
+KTOS, Close: 58.66, RSI(talib): 71.14
+--------------
+CSCO failed (Can't get stock info: CSCO, Current Price: 68.29000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 61.7614196454975, 200 Day Average: None, RSI: 56.555467333609855).
+MU failed (Can't get stock info: MU, Current Price: 111.7300033569336, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.17531811351508, 200 Day Average: None, RSI: 44.52351095952798).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 335.01014564681225, 200 Day Average: None, RSI: 60.545393460240824).
+MA failed (Can't get stock info: MA, Current Price: 563.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 548.4603424072266, 200 Day Average: None, RSI: 53.45208857273528).
+ACHR failed (Can't get stock info: ACHR, Current Price: None, 52 Week High: 13.92, 52 Week Low: 2.82, 50 Day Average: 10.84, 150 Day Average: 9.378732419349777, 200 Day Average: 8.24, RSI: 49.19141910807552).

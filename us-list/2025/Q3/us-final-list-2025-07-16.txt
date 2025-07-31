@@ -1,0 +1,28 @@
+--------------
+Wed Jul 16 20:52:33 2025 US Stock List
+--------------
+RTX, Close: 148.68, RSI(talib): 63.70
+AMZN, Close: 226.35, RSI(talib): 65.00
+AVGO, Close: 280.94, RSI(talib): 68.21
+LRCX, Close: 101.07, RSI(talib): 68.93
+KLAC, Close: 936.53, RSI(talib): 68.51
+DLTR, Close: 106.55, RSI(talib): 65.11
+ANSS, Close: 392.72, RSI(talib): 82.68
+BA, Close: 230.00, RSI(talib): 71.63
+ROKU, Close: 89.28, RSI(talib): 67.73
+GE, Close: 264.67, RSI(talib): 70.22
+WBD, Close: 12.03, RSI(talib): 72.52
+RKLB, Close: 44.60, RSI(talib): 80.95
+HWM, Close: 184.68, RSI(talib): 63.59
+KTOS, Close: 51.12, RSI(talib): 70.55
+--------------
+TMUS failed (Can't get stock info: TMUS, Current Price: 226.02000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 241.97096533809147, 200 Day Average: None, RSI: 38.55168738525853).
+CSX failed (Can't get stock info: CSX, Current Price: 33.47999954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.03905381547644, 200 Day Average: None, RSI: 58.56455432716463).
+ABNB failed (Can't get stock info: ABNB, Current Price: 136.5399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 130.84904317652925, 200 Day Average: None, RSI: 51.987402822770626).
+EBAY failed (Can't get stock info: EBAY, Current Price: 77.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.66919153632847, 200 Day Average: None, RSI: 59.20617382468909).
+VRSN failed (Can't get stock info: VRSN, Current Price: 281.489990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 248.37389173575326, 200 Day Average: None, RSI: 46.150277476683094).
+NTES failed (Can't get stock info: NTES, Current Price: 133.1300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 107.6549784342448, 200 Day Average: None, RSI: 59.446219470375894).
+JPM failed (Can't get stock info: JPM, Current Price: 286.54998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 254.3511482401097, 200 Day Average: None, RSI: 58.31294134098102).
+MCD failed (Can't get stock info: MCD, Current Price: 299.6199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 300.57262209628493, 200 Day Average: None, RSI: 50.904392019818225).
+TDG failed (Can't get stock info: TDG, Current Price: 1575.5699462890625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1375.5091474817154, 200 Day Average: None, RSI: 76.3795213372174).
+TEM failed (Can't get stock info: TEM, Current Price: 55.88999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 54.53276580107128, 200 Day Average: None, RSI: 38.12422035183859).

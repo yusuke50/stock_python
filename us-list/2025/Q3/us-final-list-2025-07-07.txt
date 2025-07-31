@@ -1,0 +1,38 @@
+--------------
+Mon Jul  7 22:31:34 2025 US Stock List
+--------------
+RTX, Close: 146.53, RSI(talib): 62.10
+META, Close: 725.93, RSI(talib): 62.27
+AVGO, Close: 276.48, RSI(talib): 68.97
+CSCO, Close: 69.12, RSI(talib): 72.57
+NFLX, Close: 1279.45, RSI(talib): 62.74
+INTU, Close: 784.49, RSI(talib): 66.01
+CHTR, Close: 413.89, RSI(talib): 60.57
+BKNG, Close: 5762.26, RSI(talib): 65.58
+LRCX, Close: 98.74, RSI(talib): 76.21
+GILD, Close: 112.17, RSI(talib): 61.54
+KLAC, Close: 919.23, RSI(talib): 72.98
+CRWD, Close: 505.11, RSI(talib): 63.83
+CDNS, Close: 321.41, RSI(talib): 72.62
+WBA, Close: 11.53, RSI(talib): 62.97
+DLTR, Close: 103.12, RSI(talib): 63.72
+ZS, Close: 314.45, RSI(talib): 72.14
+ANSS, Close: 366.58, RSI(talib): 77.87
+NTES, Close: 133.57, RSI(talib): 63.93
+DIS, Close: 123.85, RSI(talib): 75.23
+BA, Close: 215.96, RSI(talib): 63.53
+JPM, Close: 293.28, RSI(talib): 83.42
+NOW, Close: 1040.55, RSI(talib): 63.54
+WFC, Close: 82.97, RSI(talib): 76.37
+TDG, Close: 1534.32, RSI(talib): 68.62
+RKLB, Close: 36.71, RSI(talib): 67.75
+HWM, Close: 181.74, RSI(talib): 62.46
+KTOS, Close: 45.45, RSI(talib): 60.43
+VST, Close: 192.04, RSI(talib): 67.89
+--------------
+DXCM failed (Can't get stock info: DXCM, Current Price: 83.54000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 79.87404256509551, 200 Day Average: None, RSI: 46.27233669939832).
+TEAM failed (Can't get stock info: TEAM, Current Price: 213.39999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 237.96290902212155, 200 Day Average: None, RSI: 59.75545825833497).
+BIDU failed (Can't get stock info: BIDU, Current Price: 90.36499786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 87.98588648586409, 200 Day Average: None, RSI: 50.60950736085108).
+PFE failed (Can't get stock info: PFE, Current Price: 25.389999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 24.449741471743753, 200 Day Average: None, RSI: 71.09931310223105).
+WBD failed (Can't get stock info: WBD, Current Price: 11.1899995803833, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 10.028297860571678, 200 Day Average: None, RSI: 64.46663483483488).
+GD failed (Can't get stock info: GD, Current Price: 297.2699890136719, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 265.4952303839068, 200 Day Average: None, RSI: 71.81255369578683).

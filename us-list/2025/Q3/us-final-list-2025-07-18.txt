@@ -1,0 +1,24 @@
+--------------
+Fri Jul 18 20:05:43 2025 US Stock List
+--------------
+RTX, Close: 151.50, RSI(talib): 69.21
+MSFT, Close: 511.70, RSI(talib): 75.07
+AVGO, Close: 286.45, RSI(talib): 71.47
+LRCX, Close: 100.79, RSI(talib): 66.84
+KLAC, Close: 937.08, RSI(talib): 67.89
+DLTR, Close: 108.15, RSI(talib): 67.78
+ANSS, Close: 374.30, RSI(talib): 61.37
+BA, Close: 231.00, RSI(talib): 72.34
+ROKU, Close: 91.10, RSI(talib): 71.22
+GE, Close: 260.28, RSI(talib): 62.02
+WBD, Close: 12.84, RSI(talib): 79.33
+TDG, Close: 1595.25, RSI(talib): 79.06
+RKLB, Close: 51.33, RSI(talib): 86.75
+ACHR, Close: 13.40, RSI(talib): 70.18
+HWM, Close: 188.83, RSI(talib): 68.10
+KTOS, Close: 58.91, RSI(talib): 79.93
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: 11.510000228881836, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 10.962765991265046, 200 Day Average: None, RSI: 59.059066536922714).
+PCAR failed (Can't get stock info: PCAR, Current Price: 94.05000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 98.65111628322737, 200 Day Average: None, RSI: 43.05476345784482).
+DAL failed (Can't get stock info: DAL, Current Price: 56.34000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 52.85008799776118, 200 Day Average: None, RSI: 64.31520902589835).
+JPM failed (Can't get stock info: JPM, Current Price: 289.8999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 255.2007156263852, 200 Day Average: None, RSI: 61.77504507034).

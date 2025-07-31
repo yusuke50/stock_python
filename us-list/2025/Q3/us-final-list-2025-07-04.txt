@@ -1,0 +1,33 @@
+--------------
+Fri Jul  4 20:16:23 2025 US Stock List
+--------------
+RTX, Close: 145.75, RSI(talib): 61.81
+META, Close: 719.01, RSI(talib): 61.77
+AVGO, Close: 275.18, RSI(talib): 69.10
+CSCO, Close: 69.37, RSI(talib): 72.66
+NFLX, Close: 1297.18, RSI(talib): 62.65
+INTU, Close: 780.64, RSI(talib): 66.12
+CHTR, Close: 416.97, RSI(talib): 61.39
+BKNG, Close: 5716.80, RSI(talib): 65.04
+LRCX, Close: 98.81, RSI(talib): 76.12
+KLAC, Close: 924.58, RSI(talib): 72.82
+CRWD, Close: 514.10, RSI(talib): 62.61
+CDNS, Close: 326.81, RSI(talib): 72.77
+WBA, Close: 11.47, RSI(talib): 65.28
+ZS, Close: 314.77, RSI(talib): 71.85
+ANSS, Close: 367.48, RSI(talib): 78.76
+NTES, Close: 132.85, RSI(talib): 61.99
+DIS, Close: 124.00, RSI(talib): 78.24
+BA, Close: 215.92, RSI(talib): 63.92
+JPM, Close: 296.00, RSI(talib): 83.02
+NOW, Close: 1044.69, RSI(talib): 62.89
+WFC, Close: 83.60, RSI(talib): 76.49
+TDG, Close: 1522.98, RSI(talib): 64.39
+RKLB, Close: 35.66, RSI(talib): 67.83
+HWM, Close: 181.06, RSI(talib): 62.62
+VST, Close: 192.20, RSI(talib): 67.33
+--------------
+AAPL failed (Can't get stock info: AAPL, Current Price: 213.5500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 220.28300648004236, 200 Day Average: None, RSI: 70.13664928259858).
+DLTR failed (Can't get stock info: DLTR, Current Price: 101.91000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 78.71669000974843, 200 Day Average: None, RSI: 64.09874143063017).
+CPRT failed (Can't get stock info: CPRT, Current Price: 49.31999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 56.43450723567479, 200 Day Average: None, RSI: 39.473265117315556).
+TEM failed (Can't get stock info: TEM, Current Price: 60.970001220703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 53.739084391526774, 200 Day Average: None, RSI: 45.984044712363975).

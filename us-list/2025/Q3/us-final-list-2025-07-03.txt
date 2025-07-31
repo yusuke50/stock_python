@@ -1,0 +1,34 @@
+--------------
+Thu Jul  3 19:42:32 2025 US Stock List
+--------------
+META, Close: 713.57, RSI(talib): 60.12
+AVGO, Close: 269.90, RSI(talib): 66.36
+CSCO, Close: 68.59, RSI(talib): 68.36
+NFLX, Close: 1284.86, RSI(talib): 60.38
+INTU, Close: 773.70, RSI(talib): 63.56
+BKNG, Close: 5701.76, RSI(talib): 64.36
+LRCX, Close: 98.83, RSI(talib): 76.21
+KLAC, Close: 921.10, RSI(talib): 72.27
+CDNS, Close: 310.95, RSI(talib): 61.08
+WBA, Close: 11.49, RSI(talib): 68.06
+DLTR, Close: 103.01, RSI(talib): 67.54
+ZS, Close: 309.33, RSI(talib): 68.19
+ANSS, Close: 353.21, RSI(talib): 69.63
+NTES, Close: 133.00, RSI(talib): 62.08
+DIS, Close: 122.98, RSI(talib): 76.74
+BA, Close: 212.03, RSI(talib): 60.42
+WFC, Close: 82.36, RSI(talib): 73.98
+TDG, Close: 1511.65, RSI(talib): 62.12
+RKLB, Close: 35.68, RSI(talib): 67.92
+VST, Close: 187.02, RSI(talib): 63.41
+--------------
+PAYX failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/PAYX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/PAYX/key-statistics", waiting until "domcontentloaded"
+).
+CTAS failed (Can't get stock info: CTAS, Current Price: 215.66000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 206.2210307591398, 200 Day Average: None, RSI: 40.78248354030057).
+JPM failed (Can't get stock info: JPM, Current Price: 292.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 252.66847089310767, 200 Day Average: None, RSI: 79.8849309295326).
+MA failed (Can't get stock info: MA, Current Price: 561.52001953125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 545.8178799051634, 200 Day Average: None, RSI: 49.298852871338795).
+MCD failed (Can't get stock info: MCD, Current Price: 294.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 300.43546456350407, 200 Day Average: None, RSI: 44.171885585256526).
+VZ failed (Can't get stock info: VZ, Current Price: 43.59000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 41.794871263101065, 200 Day Average: None, RSI: 56.21849615064666).
+NOC failed (Can't get stock info: NOC, Current Price: 498.8999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 480.73588819906746, 200 Day Average: None, RSI: 53.53851681940829).

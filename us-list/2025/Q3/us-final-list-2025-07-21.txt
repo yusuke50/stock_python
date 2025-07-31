@@ -1,0 +1,83 @@
+--------------
+Mon Jul 21 19:38:21 2025 US Stock List
+--------------
+LRCX, Close: 100.66, RSI(talib): 67.37
+KLAC, Close: 931.12, RSI(talib): 66.58
+DLTR, Close: 110.12, RSI(talib): 69.81
+EBAY, Close: 78.14, RSI(talib): 64.39
+NTES, Close: 136.12, RSI(talib): 65.92
+BA, Close: 229.34, RSI(talib): 69.72
+JPM, Close: 291.27, RSI(talib): 64.36
+ROKU, Close: 93.29, RSI(talib): 76.21
+GE, Close: 263.27, RSI(talib): 65.67
+WBD, Close: 12.75, RSI(talib): 77.47
+TDG, Close: 1597.30, RSI(talib): 81.37
+RKLB, Close: 51.39, RSI(talib): 86.64
+ACHR, Close: 13.29, RSI(talib): 69.96
+HWM, Close: 190.49, RSI(talib): 70.83
+KTOS, Close: 59.12, RSI(talib): 80.54
+--------------
+SIG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/SIG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/SIG/key-statistics", waiting until "domcontentloaded"
+).
+HII failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/HII/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/HII/key-statistics", waiting until "domcontentloaded"
+).
+LMT failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/LMT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LMT/key-statistics", waiting until "domcontentloaded"
+).
+RTX failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/RTX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/RTX/key-statistics", waiting until "domcontentloaded"
+).
+AAPL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AAPL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AAPL/key-statistics", waiting until "domcontentloaded"
+).
+MSFT failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/MSFT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MSFT/key-statistics", waiting until "domcontentloaded"
+).
+AMZN failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/AMZN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMZN/key-statistics", waiting until "domcontentloaded"
+).
+TSLA failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/TSLA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/TSLA/key-statistics", waiting until "domcontentloaded"
+).
+NVDA failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/NVDA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NVDA/key-statistics", waiting until "domcontentloaded"
+).
+GOOG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOG/key-statistics", waiting until "domcontentloaded"
+).
+GOOGL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOGL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOGL/key-statistics", waiting until "domcontentloaded"
+).
+META failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/META/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/META/key-statistics", waiting until "domcontentloaded"
+).
+AVGO failed (Page.goto: net::ERR_NAME_NOT_RESOLVED at https://finance.yahoo.com/quote/AVGO/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AVGO/key-statistics", waiting until "domcontentloaded"
+).
+COST failed (Page.goto: net::ERR_NAME_NOT_RESOLVED at https://finance.yahoo.com/quote/COST/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/COST/key-statistics", waiting until "domcontentloaded"
+).
+PEP failed (Page.goto: net::ERR_NAME_NOT_RESOLVED at https://finance.yahoo.com/quote/PEP/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/PEP/key-statistics", waiting until "domcontentloaded"
+).
+CSCO failed (Can't get stock info: CSCO, Current Price: None, 52 Week High: 69.78, 52 Week Low: 44.5, 50 Day Average: 65.45, 150 Day Average: 61.50410588582357, 200 Day Average: 60.51, RSI: 56.661080219011374).
+ADBE failed (Can't get stock info: ADBE, Current Price: None, 52 Week High: 587.75, 52 Week Low: 332.01, 50 Day Average: 393.94, 150 Day Average: 405.2779432797263, 200 Day Average: 433.34, RSI: 36.48168759641754).
+NXPI failed (Can't get stock info: NXPI, Current Price: 225.89999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 205.384329937874, 200 Day Average: None, RSI: 57.678865017738204).
+ODFL failed (Can't get stock info: ODFL, Current Price: 162.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 170.14112074831698, 200 Day Average: None, RSI: 46.6814893943269).

@@ -1,0 +1,33 @@
+--------------
+Fri Jul 11 19:40:49 2025 US Stock List
+--------------
+RTX, Close: 146.40, RSI(talib): 61.92
+META, Close: 727.24, RSI(talib): 61.66
+AVGO, Close: 275.40, RSI(talib): 64.85
+CSCO, Close: 68.76, RSI(talib): 63.56
+BKNG, Close: 5718.51, RSI(talib): 61.15
+LRCX, Close: 101.06, RSI(talib): 75.79
+GILD, Close: 114.54, RSI(talib): 65.42
+KLAC, Close: 928.62, RSI(talib): 69.41
+IDXX, Close: 541.09, RSI(talib): 61.30
+CDNS, Close: 322.66, RSI(talib): 64.20
+WBA, Close: 11.56, RSI(talib): 63.10
+DLTR, Close: 108.37, RSI(talib): 72.55
+EBAY, Close: 77.22, RSI(talib): 61.37
+ANSS, Close: 374.52, RSI(talib): 75.80
+BA, Close: 226.09, RSI(talib): 70.23
+JPM, Close: 288.19, RSI(talib): 62.75
+WFC, Close: 82.36, RSI(talib): 66.65
+GE, Close: 252.57, RSI(talib): 61.53
+CSGP, Close: 86.05, RSI(talib): 73.60
+TDG, Close: 1539.53, RSI(talib): 70.41
+RKLB, Close: 39.10, RSI(talib): 74.74
+KTOS, Close: 46.27, RSI(talib): 63.99
+VST, Close: 195.78, RSI(talib): 66.93
+--------------
+NFLX failed (Can't get stock info: NFLX, Current Price: 1250.5899658203125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1043.0357440921432, 200 Day Average: None, RSI: 50.63872213188439).
+ABNB failed (Can't get stock info: ABNB, Current Price: 137.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 130.74216369196031, 200 Day Average: None, RSI: 55.52304195536859).
+MRVL failed (Can't get stock info: MRVL, Current Price: 73.36000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.9973030360878, 200 Day Average: None, RSI: 53.549188640390824).
+SNPS failed (Can't get stock info: SNPS, Current Price: 566.1900024414062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 480.89964500048484, 200 Day Average: None, RSI: 73.65589197429748).
+AZN failed (Can't get stock info: AZN, Current Price: 71.80999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.40476927520535, 200 Day Average: None, RSI: 55.58909863383585).
+LLY failed (Can't get stock info: LLY, Current Price: 790.6500244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 799.2263854547596, 200 Day Average: None, RSI: 55.362635662173986).

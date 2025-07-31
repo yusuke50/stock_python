@@ -1,0 +1,32 @@
+--------------
+Thu Jul 31 20:45:17 2025 US Stock List
+--------------
+RTX, Close: 158.40, RSI(talib): 72.35
+MSFT, Close: 513.24, RSI(talib): 70.79
+AMZN, Close: 230.19, RSI(talib): 62.49
+AVGO, Close: 302.62, RSI(talib): 71.47
+INTU, Close: 807.39, RSI(talib): 70.68
+KLAC, Close: 924.99, RSI(talib): 60.80
+DXCM, Close: 89.06, RSI(talib): 62.83
+AEP, Close: 113.25, RSI(talib): 72.36
+ORLY, Close: 99.38, RSI(talib): 70.58
+IDXX, Close: 572.09, RSI(talib): 73.52
+WBA, Close: 11.63, RSI(talib): 71.49
+AZN, Close: 76.59, RSI(talib): 67.64
+DLTR, Close: 114.15, RSI(talib): 69.19
+CEG, Close: 345.27, RSI(talib): 66.88
+JPM, Close: 299.63, RSI(talib): 69.95
+ROKU, Close: 92.00, RSI(talib): 61.38
+CSGP, Close: 96.25, RSI(talib): 85.87
+WBD, Close: 13.26, RSI(talib): 68.41
+RKLB, Close: 46.44, RSI(talib): 61.28
+HWM, Close: 192.14, RSI(talib): 64.60
+KTOS, Close: 58.01, RSI(talib): 65.76
+VST, Close: 207.05, RSI(talib): 64.79
+--------------
+ROST failed (Can't get stock info: ROST, Current Price: 138.47999572753906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 137.99687402898616, 200 Day Average: None, RSI: 59.2564670956879).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.93608184358965, 200 Day Average: None, RSI: 63.854526456060846).
+ORCL failed (Can't get stock info: ORCL, Current Price: 250.60000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 172.7898022845075, 200 Day Average: None, RSI: 72.93263229641697).
+T failed (Can't get stock info: T, Current Price: 27.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.19455456233525, 200 Day Average: None, RSI: 48.431150649174306).
+GE failed (Can't get stock info: GE, Current Price: 273.54998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.4257216020064, 200 Day Average: None, RSI: 67.32916976637274).
+TDG failed (Can't get stock info: TDG, Current Price: 1620.8299560546875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1398.6025151606207, 200 Day Average: None, RSI: 75.0759825324766).

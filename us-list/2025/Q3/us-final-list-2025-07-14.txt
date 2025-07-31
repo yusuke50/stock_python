@@ -1,0 +1,30 @@
+--------------
+Mon Jul 14 22:03:09 2025 US Stock List
+--------------
+RTX, Close: 148.26, RSI(talib): 61.45
+AVGO, Close: 271.40, RSI(talib): 63.08
+BKNG, Close: 5698.62, RSI(talib): 61.27
+LRCX, Close: 99.16, RSI(talib): 75.59
+KLAC, Close: 909.85, RSI(talib): 65.20
+WBA, Close: 11.51, RSI(talib): 61.84
+DLTR, Close: 107.72, RSI(talib): 74.82
+EBAY, Close: 77.86, RSI(talib): 60.50
+ANSS, Close: 388.96, RSI(talib): 75.43
+BA, Close: 228.69, RSI(talib): 69.85
+ROKU, Close: 89.57, RSI(talib): 68.51
+WFC, Close: 82.54, RSI(talib): 66.78
+GE, Close: 258.31, RSI(talib): 63.40
+CSGP, Close: 85.66, RSI(talib): 69.07
+TDG, Close: 1548.96, RSI(talib): 72.22
+RKLB, Close: 40.17, RSI(talib): 73.04
+KTOS, Close: 50.46, RSI(talib): 73.74
+VST, Close: 194.24, RSI(talib): 67.47
+--------------
+MRVL failed (Can't get stock info: MRVL, Current Price: 70.8499984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.59149229441974, 200 Day Average: None, RSI: 51.80688044061943).
+ILMN failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/ILMN/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ILMN/key-statistics", waiting until "domcontentloaded"
+).
+MTCH failed (Can't get stock info: MTCH, Current Price: 32.439998626708984, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.154302069481382, 200 Day Average: None, RSI: 58.98504205072781).
+BAC failed (Can't get stock info: BAC, Current Price: 46.60499954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.304807270672306, 200 Day Average: None, RSI: 53.11330698634917).
+ACHR failed (Can't get stock info: ACHR, Current Price: 10.350000381469727, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 9.234609955591512, 200 Day Average: None, RSI: 48.31766127698368).

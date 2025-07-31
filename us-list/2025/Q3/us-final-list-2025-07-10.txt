@@ -1,0 +1,31 @@
+--------------
+Thu Jul 10 21:17:16 2025 US Stock List
+--------------
+RTX, Close: 146.18, RSI(talib): 61.45
+META, Close: 732.78, RSI(talib): 64.86
+AVGO, Close: 277.90, RSI(talib): 67.75
+CSCO, Close: 69.27, RSI(talib): 67.71
+NFLX, Close: 1288.28, RSI(talib): 60.70
+LRCX, Close: 99.81, RSI(talib): 73.61
+GILD, Close: 113.24, RSI(talib): 62.65
+KLAC, Close: 923.18, RSI(talib): 68.28
+FTNT, Close: 107.65, RSI(talib): 61.54
+IDXX, Close: 540.64, RSI(talib): 60.94
+CRWD, Close: 513.51, RSI(talib): 62.84
+CDNS, Close: 322.91, RSI(talib): 64.53
+WBA, Close: 11.58, RSI(talib): 65.63
+DLTR, Close: 104.75, RSI(talib): 67.20
+ZS, Close: 316.50, RSI(talib): 69.97
+ANSS, Close: 366.87, RSI(talib): 71.30
+BA, Close: 226.60, RSI(talib): 71.09
+WFC, Close: 81.79, RSI(talib): 64.98
+TDG, Close: 1526.44, RSI(talib): 67.69
+RKLB, Close: 39.14, RSI(talib): 74.94
+HWM, Close: 181.42, RSI(talib): 62.35
+KTOS, Close: 46.02, RSI(talib): 63.41
+VST, Close: 197.01, RSI(talib): 68.75
+--------------
+TEAM failed (Can't get stock info: TEAM, Current Price: 220.88999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 236.84276705261664, 200 Day Average: None, RSI: 63.20234325670473).
+LULU failed (Can't get stock info: LULU, Current Price: 235.88999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 322.9448933702834, 200 Day Average: None, RSI: 36.334992853536676).
+VRSN failed (Can't get stock info: VRSN, Current Price: 289.760009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 245.91850140077847, 200 Day Average: None, RSI: 59.75502569878016).
+NOC failed (Can't get stock info: NOC, Current Price: 507.94000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 481.7248232144836, 200 Day Average: None, RSI: 59.12078624304095).

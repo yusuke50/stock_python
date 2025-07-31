@@ -1,0 +1,26 @@
+--------------
+Tue Jul 15 18:21:54 2025 US Stock List
+--------------
+RTX, Close: 149.28, RSI(talib): 66.54
+AVGO, Close: 275.60, RSI(talib): 64.94
+LRCX, Close: 99.62, RSI(talib): 65.59
+KLAC, Close: 921.84, RSI(talib): 64.83
+DLTR, Close: 108.63, RSI(talib): 72.08
+ANSS, Close: 385.85, RSI(talib): 80.02
+CEG, Close: 325.99, RSI(talib): 61.24
+BA, Close: 230.51, RSI(talib): 72.54
+JPM, Close: 288.70, RSI(talib): 61.15
+ROKU, Close: 89.82, RSI(talib): 69.65
+WFC, Close: 83.43, RSI(talib): 68.87
+GE, Close: 262.34, RSI(talib): 68.84
+CSGP, Close: 85.64, RSI(talib): 69.09
+WBD, Close: 12.01, RSI(talib): 71.90
+TDG, Close: 1574.85, RSI(talib): 76.87
+RKLB, Close: 43.21, RSI(talib): 79.47
+HWM, Close: 184.32, RSI(talib): 63.71
+KTOS, Close: 51.99, RSI(talib): 73.93
+VST, Close: 194.81, RSI(talib): 64.09
+--------------
+BKNG failed (Can't get stock info: BKNG, Current Price: 5766.0400390625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 4998.269562416888, 200 Day Average: None, RSI: 63.2085154502146).
+EBAY failed (Can't get stock info: EBAY, Current Price: 77.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.57319990117499, 200 Day Average: None, RSI: 62.24790344960861).
+ODFL failed (Can't get stock info: ODFL, Current Price: 165.72999572753906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 170.92722910346714, 200 Day Average: None, RSI: 49.636288496265266).
