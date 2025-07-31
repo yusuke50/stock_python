@@ -73,7 +73,9 @@ async def process_stock(stock_name, semaphore):
             df = pd.DataFrame(historical)
             one_hundred_fifty_day_average = float_convert(df["Close"].mean())
 
-            download_data = yf.download(stock_name, start=sixty_day, end=today)
+            download_data = yf.download(
+                stock_name, start=sixty_day, end=today, auto_adjust=True
+            )
             close_prices = download_data["Close"].values
             download_data["RSI"] = talib.RSI(np.ravel(close_prices), 14)
             try:
@@ -144,7 +146,7 @@ async def main():
     exception_list = []
     global no_data_count
 
-    stock_names = ["6855.Tw"]
+    stock_names = ["AAPL"]
 
     semaphore = asyncio.Semaphore(1)
     sleep_time = 1

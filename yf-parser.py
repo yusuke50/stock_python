@@ -21,19 +21,19 @@ async def get_stock_info(stock_name):
         return element.text if element else None
 
     fifty_two_week_high = html.find(
-        "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(4) .value",
+        "section:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(4) .value",
         first=True,
     )
     fifty_two_week_low = html.find(
-        "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(5) .value",
+        "section:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(5) .value",
         first=True,
     )
     fifty_day_average = html.find(
-        "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(6) .value",
+        "section:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(6) .value",
         first=True,
     )
     two_hundred_day_average = html.find(
-        "article:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(7) .value",
+        "section:nth-child(1) article > div.container > section:nth-child(2) > div.column section.card:nth-child(1) .table tr:nth-child(7) .value",
         first=True,
     )
 
@@ -56,7 +56,7 @@ async def get_stock_info(stock_name):
 
 
 async def main():
-    await get_stock_info("6558.TW")
+    await get_stock_info("AAPL")
 
 
 asyncio.run(main())

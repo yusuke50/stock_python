@@ -5,7 +5,7 @@ import talib
 today = date.today()
 start_day = today - timedelta(60)
 
-data = yf.download("AAPL", start=start_day, end=today)
+data = yf.download("AAPL", start=start_day, end=today, auto_adjust=True)
 windows_length = 14
 
 
