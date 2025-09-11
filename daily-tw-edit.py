@@ -1,5 +1,8 @@
 from requests_html import HTMLSession
 import re
+import urllib3
+
+urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 today_list = []
 
@@ -14,7 +17,7 @@ def getStock(type):
         url = "https://fubon-ebrokerdj.fbs.com.tw/Z/ZG/ZG_D.djhtm"
 
     session = HTMLSession()
-    datahtml = session.get(url)
+    datahtml = session.get(url, verify=False)
     items = datahtml.html.find("tr .t3t1 a")
 
     itemSummary = []
