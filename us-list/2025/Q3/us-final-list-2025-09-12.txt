@@ -1,0 +1,38 @@
+--------------
+Sat Sep 13 00:02:48 2025 US Stock List
+--------------
+HII, Close: 274.60, RSI(talib): 62.28
+AVGO, Close: 359.56, RSI(talib): 70.66
+MU, Close: 156.84, RSI(talib): 79.16
+LRCX, Close: 116.94, RSI(talib): 72.26
+KLAC, Close: 963.38, RSI(talib): 64.87
+ORLY, Close: 107.74, RSI(talib): 68.92
+AZN, Close: 79.46, RSI(talib): 63.90
+BIDU, Close: 113.43, RSI(talib): 78.56
+VRSN, Close: 288.27, RSI(talib): 66.76
+NTES, Close: 151.95, RSI(talib): 74.24
+PDD, Close: 125.21, RSI(talib): 64.17
+JNJ, Close: 177.87, RSI(talib): 65.07
+JPM, Close: 305.59, RSI(talib): 62.67
+ORCL, Close: 293.79, RSI(talib): 71.85
+GE, Close: 281.98, RSI(talib): 61.26
+WBD, Close: 18.20, RSI(talib): 81.28
+GD, Close: 327.17, RSI(talib): 71.98
+LHX, Close: 280.40, RSI(talib): 66.73
+HWM, Close: 185.74, RSI(talib): 61.68
+KTOS, Close: 68.11, RSI(talib): 61.41
+TEM, Close: 86.99, RSI(talib): 70.62
+--------------
+RTX failed (Can't get stock info: RTX, Current Price: 156.97500610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 138.99303817749023, 200 Day Average: None, RSI: 55.42066193478771).
+INTC failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/INTC/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/INTC/key-statistics", waiting until "domcontentloaded"
+).
+TXN failed (Can't get stock info: TXN, Current Price: 183.66009521484375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 185.67126242319742, 200 Day Average: None, RSI: 29.673835939003997).
+MELI failed (Can't get stock info: MELI, Current Price: 2334.385009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2300.6566747029624, 200 Day Average: None, RSI: 44.571126916609686).
+MNST failed (Can't get stock info: MNST, Current Price: 63.95000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 59.985277785195244, 200 Day Average: None, RSI: 57.86413735562634).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.281740746674714, 200 Day Average: None, RSI: 58.347500275132724).
+EA failed (Can't get stock info: EA, Current Price: 171.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 150.40927129321628, 200 Day Average: None, RSI: 55.48040484079627).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.172952125186, 200 Day Average: None, RSI: nan).
+SWKS failed (Can't get stock info: SWKS, Current Price: 73.44499969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.4620259337955, 200 Day Average: None, RSI: 52.94172951902185).
+MRK failed (Can't get stock info: MRK, Current Price: 83.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.62311220169067, 200 Day Average: None, RSI: 54.753976500370904).

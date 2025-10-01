@@ -1,0 +1,27 @@
+--------------
+Thu Sep 25 19:37:09 2025 US Stock List
+--------------
+SIG, Close: 96.75, RSI(talib): 62.98
+HII, Close: 277.51, RSI(talib): 62.50
+RTX, Close: 161.38, RSI(talib): 62.54
+INTC, Close: 31.22, RSI(talib): 73.69
+MU, Close: 161.71, RSI(talib): 70.77
+LRCX, Close: 128.32, RSI(talib): 74.89
+MELI, Close: 2510.97, RSI(talib): 64.07
+ASML, Close: 946.94, RSI(talib): 77.02
+KLAC, Close: 1068.67, RSI(talib): 77.60
+CRWD, Close: 476.33, RSI(talib): 60.12
+BIDU, Close: 132.92, RSI(talib): 70.80
+PDD, Close: 130.96, RSI(talib): 61.18
+CEG, Close: 339.13, RSI(talib): 60.31
+JPM, Close: 313.42, RSI(talib): 65.08
+ORCL, Close: 308.46, RSI(talib): 61.37
+GE, Close: 300.30, RSI(talib): 67.40
+WBD, Close: 19.82, RSI(talib): 77.12
+LHX, Close: 284.00, RSI(talib): 63.15
+AVAV, Close: 301.52, RSI(talib): 72.95
+KTOS, Close: 81.18, RSI(talib): 72.39
+--------------
+INTU failed (Can't get stock info: INTU, Current Price: 694.7899780273438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 683.3095038052263, 200 Day Average: None, RSI: 52.058006691188154).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.319488194983775, 200 Day Average: None, RSI: 59.95679831913988).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

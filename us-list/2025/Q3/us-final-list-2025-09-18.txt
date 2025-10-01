@@ -1,0 +1,32 @@
+--------------
+Thu Sep 18 20:58:52 2025 US Stock List
+--------------
+META, Close: 775.72, RSI(talib): 60.59
+AVGO, Close: 346.17, RSI(talib): 60.08
+MU, Close: 159.99, RSI(talib): 83.34
+LRCX, Close: 121.90, RSI(talib): 76.67
+ASML, Close: 872.27, RSI(talib): 74.02
+KLAC, Close: 989.87, RSI(talib): 68.32
+MNST, Close: 66.52, RSI(talib): 68.43
+EA, Close: 173.59, RSI(talib): 61.03
+BIDU, Close: 137.83, RSI(talib): 90.18
+VRSN, Close: 287.77, RSI(talib): 60.85
+NTES, Close: 159.34, RSI(talib): 79.37
+PDD, Close: 134.86, RSI(talib): 74.74
+JPM, Close: 311.75, RSI(talib): 68.04
+MA, Close: 598.63, RSI(talib): 61.68
+ORCL, Close: 301.41, RSI(talib): 65.10
+GE, Close: 289.50, RSI(talib): 66.04
+WBD, Close: 17.99, RSI(talib): 73.88
+GD, Close: 325.28, RSI(talib): 62.04
+LHX, Close: 281.86, RSI(talib): 64.36
+AVAV, Close: 272.07, RSI(talib): 64.76
+KTOS, Close: 75.74, RSI(talib): 72.42
+TEM, Close: 86.45, RSI(talib): 64.60
+--------------
+INTU failed (Can't get stock info: INTU, Current Price: 662.6799926757812, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 679.3442862675108, 200 Day Average: None, RSI: 40.1837946825793).
+NXPI failed (Can't get stock info: NXPI, Current Price: 221.88999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 208.136899014177, 200 Day Average: None, RSI: 45.77109665667566).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.299128792502664, 200 Day Average: None, RSI: 59.77155971130949).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 331.99911768296187, 200 Day Average: None, RSI: None).
+AMT failed (Can't get stock info: AMT, Current Price: 197.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 211.16981590534078, 200 Day Average: None, RSI: 41.59868699318455).
+VZ failed (Can't get stock info: VZ, Current Price: 44.209999084472656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 42.76943964464911, 200 Day Average: None, RSI: 55.181382316226035).

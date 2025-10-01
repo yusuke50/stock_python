@@ -1,0 +1,25 @@
+--------------
+Tue Aug 19 19:28:02 2025 US Stock List
+--------------
+AVGO, Close: 305.76, RSI(talib): 61.64
+ORLY, Close: 101.39, RSI(talib): 60.88
+WBA, Close: 12.00, RSI(talib): 73.82
+AZN, Close: 79.12, RSI(talib): 70.39
+EBAY, Close: 99.03, RSI(talib): 71.14
+FAST, Close: 49.11, RSI(talib): 72.93
+JNJ, Close: 176.25, RSI(talib): 74.11
+BA, Close: 232.41, RSI(talib): 61.18
+MA, Close: 584.14, RSI(talib): 66.07
+T, Close: 28.92, RSI(talib): 68.98
+NOC, Close: 584.82, RSI(talib): 73.39
+KTOS, Close: 68.74, RSI(talib): 73.78
+TEM, Close: 78.45, RSI(talib): 72.45
+--------------
+SIG failed (Can't get stock info: SIG, Current Price: 83.93000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 65.40367739447233, 200 Day Average: None, RSI: 59.26939969714684).
+QCOM failed (Can't get stock info: QCOM, Current Price: 158.89999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 153.95651034651132, 200 Day Average: None, RSI: 61.24809142115042).
+CHTR failed (Can't get stock info: CHTR, Current Price: 266.80999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 363.63082570043105, 200 Day Average: None, RSI: 30.33453972382591).
+VRTX failed (Can't get stock info: VRTX, Current Price: 389.8800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 462.20662020979256, 200 Day Average: None, RSI: 38.265640029218204).
+KDP failed (Can't get stock info: KDP, Current Price: 34.650001525878906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.206617052801725, 200 Day Average: None, RSI: 60.195048408761394).
+MNST failed (Can't get stock info: MNST, Current Price: 64.12000274658203, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 58.160758656468886, 200 Day Average: None, RSI: 60.20682338553415).
+ZM failed (Can't get stock info: ZM, Current Price: 73.63999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.35493095661032, 200 Day Average: None, RSI: 50.469357321429165).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.4472762937468, 200 Day Average: None, RSI: 70.05069572084383).

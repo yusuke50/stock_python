@@ -1,0 +1,29 @@
+--------------
+Thu Aug 14 19:34:43 2025 US Stock List
+--------------
+HII, Close: 269.43, RSI(talib): 60.79
+META, Close: 780.08, RSI(talib): 61.64
+AVGO, Close: 309.09, RSI(talib): 65.72
+LRCX, Close: 106.74, RSI(talib): 69.01
+GILD, Close: 120.14, RSI(talib): 63.54
+KLAC, Close: 949.48, RSI(talib): 60.23
+AEP, Close: 113.11, RSI(talib): 67.46
+ORLY, Close: 102.64, RSI(talib): 67.25
+IDXX, Close: 663.92, RSI(talib): 67.72
+EXC, Close: 45.23, RSI(talib): 63.54
+MNST, Close: 64.15, RSI(talib): 61.56
+WBA, Close: 11.89, RSI(talib): 74.40
+AZN, Close: 77.94, RSI(talib): 66.00
+DLTR, Close: 115.40, RSI(talib): 63.27
+EBAY, Close: 100.77, RSI(talib): 82.22
+FAST, Close: 49.21, RSI(talib): 74.90
+BA, Close: 233.37, RSI(talib): 63.37
+T, Close: 28.40, RSI(talib): 62.11
+NOC, Close: 582.09, RSI(talib): 71.34
+KTOS, Close: 68.75, RSI(talib): 75.73
+TEM, Close: 69.63, RSI(talib): 63.09
+--------------
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 62.189998626708984, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 64.66135099199083, 200 Day Average: None, RSI: 33.50116240296705).
+ASML failed (Can't get stock info: ASML, Current Price: 755.5700073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 725.43982357449, 200 Day Average: None, RSI: 57.161038469798505).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.650919921875, 200 Day Average: None, RSI: 65.44564529081762).
+NKE failed (Can't get stock info: NKE, Current Price: 77.19999694824219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 67.76458520359463, 200 Day Average: None, RSI: 63.39892035709699).

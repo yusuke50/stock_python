@@ -1,0 +1,22 @@
+--------------
+Thu Sep 11 19:22:53 2025 US Stock List
+--------------
+AVGO, Close: 369.57, RSI(talib): 76.97
+MU, Close: 140.00, RSI(talib): 73.15
+LRCX, Close: 107.36, RSI(talib): 62.30
+ORLY, Close: 105.11, RSI(talib): 61.32
+AZN, Close: 80.81, RSI(talib): 62.61
+BIDU, Close: 107.60, RSI(talib): 75.03
+VRSN, Close: 283.48, RSI(talib): 61.26
+NTES, Close: 145.75, RSI(talib): 70.11
+PDD, Close: 124.68, RSI(talib): 62.38
+ORCL, Close: 328.33, RSI(talib): 83.21
+GE, Close: 283.41, RSI(talib): 64.44
+GD, Close: 323.05, RSI(talib): 62.06
+HWM, Close: 183.80, RSI(talib): 61.10
+VST, Close: 209.21, RSI(talib): 63.19
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.270477947066812, 200 Day Average: None, RSI: 58.347500275132724).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.2389149215986, 200 Day Average: None, RSI: nan).
+BRK-B failed (Can't get stock info: BRK-B, Current Price: 490.0799865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 498.340832180447, 200 Day Average: None, RSI: 51.46224383531245).
+ENPH failed (Can't get stock info: ENPH, Current Price: 37.119998931884766, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 46.421041793293426, 200 Day Average: None, RSI: 49.34659402394882).

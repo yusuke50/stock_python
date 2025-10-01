@@ -1,0 +1,24 @@
+--------------
+Mon Sep  8 20:05:00 2025 US Stock List
+--------------
+AVGO, Close: 334.89, RSI(talib): 72.19
+MU, Close: 131.37, RSI(talib): 65.11
+ORLY, Close: 104.84, RSI(talib): 65.99
+AZN, Close: 81.70, RSI(talib): 69.27
+BIDU, Close: 101.96, RSI(talib): 71.34
+PDD, Close: 124.68, RSI(talib): 63.16
+JNJ, Close: 178.43, RSI(talib): 69.81
+T, Close: 29.59, RSI(talib): 65.18
+GE, Close: 279.23, RSI(talib): 62.91
+GD, Close: 322.86, RSI(talib): 63.69
+TEM, Close: 79.62, RSI(talib): 63.69
+--------------
+MSFT failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/MSFT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MSFT/key-statistics", waiting until "domcontentloaded"
+).
+KDP failed (Can't get stock info: KDP, Current Price: 28.649999618530273, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.22194356388516, 200 Day Average: None, RSI: 26.474831572222).
+SNPS failed (Can't get stock info: SNPS, Current Price: 598.1400146484375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 508.24118105570477, 200 Day Average: None, RSI: 48.31562142519882).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.23442446756706, 200 Day Average: None, RSI: 57.303385060455305).
+DDOG failed (Can't get stock info: DDOG, Current Price: 136.0800018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 120.41284741295709, 200 Day Average: None, RSI: 54.05498775669785).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.43004559158186, 200 Day Average: None, RSI: nan).

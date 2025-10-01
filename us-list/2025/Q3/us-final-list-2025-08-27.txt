@@ -1,0 +1,26 @@
+--------------
+Wed Aug 27 20:33:04 2025 US Stock List
+--------------
+HII, Close: 271.74, RSI(talib): 61.78
+RTX, Close: 159.57, RSI(talib): 68.79
+ORLY, Close: 103.18, RSI(talib): 62.94
+AZN, Close: 80.05, RSI(talib): 67.22
+FAST, Close: 49.96, RSI(talib): 68.66
+NTES, Close: 137.05, RSI(talib): 60.22
+JNJ, Close: 176.49, RSI(talib): 70.71
+BA, Close: 234.83, RSI(talib): 60.66
+MA, Close: 591.61, RSI(talib): 62.71
+ROKU, Close: 95.56, RSI(talib): 61.71
+NOC, Close: 593.02, RSI(talib): 69.51
+LHX, Close: 277.66, RSI(talib): 70.62
+RKLB, Close: 48.13, RSI(talib): 63.72
+KTOS, Close: 68.05, RSI(talib): 66.75
+TEM, Close: 76.30, RSI(talib): 61.86
+--------------
+HON failed (Can't get stock info: HON, Current Price: 222.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.46114302010372, 200 Day Average: None, RSI: 53.23577850079053).
+WBA failed (Can't get stock info: WBA, Current Price: 11.920000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.17634484521274, 200 Day Average: None, RSI: 54.31128815601474).
+MTCH failed (Can't get stock info: MTCH, Current Price: 37.29999923706055, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.842636831875506, 200 Day Average: None, RSI: 61.357537377360174).
+PCAR failed (Can't get stock info: PCAR, Current Price: 100.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.00387625858701, 200 Day Average: None, RSI: 56.44957687636064).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.4655125283787, 200 Day Average: None, RSI: nan).
+JPM failed (Can't get stock info: JPM, Current Price: 298.57000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 264.08542901400864, 200 Day Average: None, RSI: 59.20660184502955).
+T failed (Can't get stock info: T, Current Price: 28.559999465942383, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.980559079400425, 200 Day Average: None, RSI: 51.33494623774359).

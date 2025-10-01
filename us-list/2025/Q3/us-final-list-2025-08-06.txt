@@ -1,0 +1,28 @@
+--------------
+Wed Aug  6 21:29:03 2025 US Stock List
+--------------
+RTX, Close: 156.33, RSI(talib): 62.70
+MSFT, Close: 527.75, RSI(talib): 65.38
+META, Close: 763.46, RSI(talib): 61.19
+AEP, Close: 113.24, RSI(talib): 67.27
+ORLY, Close: 102.23, RSI(talib): 73.57
+IDXX, Close: 641.94, RSI(talib): 67.59
+WBA, Close: 11.69, RSI(talib): 74.81
+DLTR, Close: 115.66, RSI(talib): 73.21
+EBAY, Close: 91.28, RSI(talib): 71.76
+CEG, Close: 343.57, RSI(talib): 60.97
+WMT, Close: 99.31, RSI(talib): 62.19
+GE, Close: 272.12, RSI(talib): 60.04
+CSGP, Close: 96.56, RSI(talib): 77.13
+AXON, Close: 867.12, RSI(talib): 70.62
+KTOS, Close: 59.40, RSI(talib): 64.52
+VST, Close: 209.60, RSI(talib): 64.29
+--------------
+HII failed (Can't get stock info: HII, Current Price: 270.9200134277344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.21336546144286, 200 Day Average: None, RSI: 62.37587395864319).
+AMZN failed (Can't get stock info: AMZN, Current Price: 213.75, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.8869234098421, 200 Day Average: None, RSI: 38.42169666732897).
+COST failed (Can't get stock info: COST, Current Price: 943.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 979.6465740070477, 200 Day Average: None, RSI: 41.92410806970791).
+MELI failed (Can't get stock info: MELI, Current Price: 2408.02001953125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2216.624131849596, 200 Day Average: None, RSI: 50.393523557119465).
+VRSK failed (Can't get stock info: VRSK, Current Price: 264.7200012207031, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 295.88394698563155, 200 Day Average: None, RSI: 20.162194122812753).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.8652691180889, 200 Day Average: None, RSI: 61.606224457404046).
+CRM failed (Can't get stock info: CRM, Current Price: 247.49000549316406, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 282.7018706848571, 200 Day Average: None, RSI: 30.75616917536386).
+XOM failed (Can't get stock info: XOM, Current Price: 107.23999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 108.41114897828002, 200 Day Average: None, RSI: 41.92028836079254).

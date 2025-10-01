@@ -1,0 +1,37 @@
+--------------
+Mon Sep 15 19:35:27 2025 US Stock List
+--------------
+HII, Close: 274.71, RSI(talib): 60.57
+AVGO, Close: 359.87, RSI(talib): 70.15
+MU, Close: 157.23, RSI(talib): 82.51
+LRCX, Close: 116.96, RSI(talib): 72.97
+ASML, Close: 813.87, RSI(talib): 65.55
+KLAC, Close: 964.02, RSI(talib): 64.72
+ORLY, Close: 107.50, RSI(talib): 68.80
+MNST, Close: 64.69, RSI(talib): 62.57
+BIDU, Close: 114.78, RSI(talib): 81.60
+VRSN, Close: 285.52, RSI(talib): 60.12
+NTES, Close: 152.80, RSI(talib): 75.53
+PDD, Close: 125.44, RSI(talib): 61.99
+JNJ, Close: 178.06, RSI(talib): 62.25
+JPM, Close: 306.91, RSI(talib): 63.85
+ORCL, Close: 292.18, RSI(talib): 63.97
+T, Close: 29.57, RSI(talib): 61.20
+GE, Close: 281.69, RSI(talib): 62.30
+WBD, Close: 18.87, RSI(talib): 86.53
+GD, Close: 326.15, RSI(talib): 64.15
+LHX, Close: 279.20, RSI(talib): 62.97
+RKLB, Close: 53.34, RSI(talib): 63.18
+HWM, Close: 185.77, RSI(talib): 62.28
+KTOS, Close: 69.20, RSI(talib): 62.83
+VST, Close: 209.70, RSI(talib): 63.50
+TEM, Close: 86.38, RSI(talib): 65.64
+--------------
+ADBE failed (Can't get stock info: ADBE, Current Price: 349.3599853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 383.3538879818386, 200 Day Average: None, RSI: 46.09539989568049).
+GILD failed (Can't get stock info: GILD, Current Price: 114.55000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 109.65683852301703, 200 Day Average: None, RSI: 50.3298078093876).
+WDAY failed (Can't get stock info: WDAY, Current Price: 223.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 240.4116668701172, 200 Day Average: None, RSI: 43.60564699323704).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.293544783521055, 200 Day Average: None, RSI: 58.87968343351739).
+AZN failed (Can't get stock info: AZN, Current Price: 79.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 72.7450622982449, 200 Day Average: None, RSI: 55.585262828619605).
+EA failed (Can't get stock info: EA, Current Price: 172.3800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 150.71118964089288, 200 Day Average: None, RSI: 59.90342848022293).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.1079805814303, 200 Day Average: None, RSI: nan).
+MRK failed (Can't get stock info: MRK, Current Price: 82.80999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.63232617908054, 200 Day Average: None, RSI: 46.420328187044824).

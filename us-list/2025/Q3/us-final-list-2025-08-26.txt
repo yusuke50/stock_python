@@ -1,0 +1,26 @@
+--------------
+Tue Aug 26 22:16:53 2025 US Stock List
+--------------
+HII, Close: 271.46, RSI(talib): 61.00
+RTX, Close: 158.82, RSI(talib): 60.59
+ORLY, Close: 102.78, RSI(talib): 61.13
+AZN, Close: 79.57, RSI(talib): 66.34
+EBAY, Close: 96.95, RSI(talib): 68.54
+FAST, Close: 50.42, RSI(talib): 71.90
+JNJ, Close: 176.32, RSI(talib): 73.64
+MA, Close: 593.74, RSI(talib): 65.64
+NOC, Close: 591.71, RSI(talib): 66.10
+LHX, Close: 277.89, RSI(talib): 68.80
+RKLB, Close: 49.59, RSI(talib): 61.66
+KTOS, Close: 69.18, RSI(talib): 64.65
+TEM, Close: 75.45, RSI(talib): 60.83
+--------------
+AMAT failed (Can't get stock info: AMAT, Current Price: 162.8800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 166.21397473565463, 200 Day Average: None, RSI: 33.72082736364169).
+CHTR failed (Can't get stock info: CHTR, Current Price: 266.7349853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 360.5566191574623, 200 Day Average: None, RSI: 36.250853570078604).
+REGN failed (Can't get stock info: REGN, Current Price: 577.4866943359375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 595.2059364055765, 200 Day Average: None, RSI: 54.03493218625951).
+KHC failed (Can't get stock info: KHC, Current Price: 27.57349967956543, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 28.088540333714977, 200 Day Average: None, RSI: 53.07247116009428).
+CDNS failed (Can't get stock info: CDNS, Current Price: 344.9849853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 296.750758730132, 200 Day Average: None, RSI: 51.734381002073434).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.6075845492088, 200 Day Average: None, RSI: nan).
+CEG failed (Can't get stock info: CEG, Current Price: 313.67999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 278.2675831761853, 200 Day Average: None, RSI: 38.13598363344522).
+GE failed (Can't get stock info: GE, Current Price: 270.2298889160156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 226.19592064166892, 200 Day Average: None, RSI: 48.810432478208035).
+VST failed (Can't get stock info: VST, Current Price: 191.84500122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 159.14106845198006, 200 Day Average: None, RSI: 41.49547829370188).

@@ -1,0 +1,27 @@
+--------------
+Fri Aug 15 21:08:17 2025 US Stock List
+--------------
+META, Close: 782.13, RSI(talib): 62.10
+AVGO, Close: 311.23, RSI(talib): 66.90
+LRCX, Close: 107.38, RSI(talib): 69.96
+GILD, Close: 119.02, RSI(talib): 60.56
+KLAC, Close: 955.41, RSI(talib): 61.46
+AEP, Close: 112.86, RSI(talib): 65.98
+ORLY, Close: 101.50, RSI(talib): 62.02
+IDXX, Close: 653.95, RSI(talib): 64.61
+MNST, Close: 64.20, RSI(talib): 61.72
+WBA, Close: 12.04, RSI(talib): 80.83
+AZN, Close: 78.47, RSI(talib): 67.18
+EBAY, Close: 98.48, RSI(talib): 74.32
+FAST, Close: 48.69, RSI(talib): 69.10
+BA, Close: 233.19, RSI(talib): 63.02
+MA, Close: 583.76, RSI(talib): 62.12
+T, Close: 28.75, RSI(talib): 66.62
+NOC, Close: 583.72, RSI(talib): 72.19
+KTOS, Close: 69.12, RSI(talib): 76.13
+TEM, Close: 71.59, RSI(talib): 65.45
+--------------
+MSFT failed (Can't get stock info: MSFT, Current Price: 522.47998046875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 440.81480492485895, 200 Day Average: None, RSI: 57.14813338222267).
+ADBE failed (Can't get stock info: ADBE, Current Price: 348.5799865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 395.73229132758246, 200 Day Average: None, RSI: 42.18612462727158).
+ILMN failed (Can't get stock info: ILMN, Current Price: 100.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 92.67479170693292, 200 Day Average: None, RSI: 53.216240872081336).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.572136909731, 200 Day Average: None, RSI: 65.44564529081762).

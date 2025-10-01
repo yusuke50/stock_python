@@ -1,0 +1,32 @@
+--------------
+Fri Aug 29 20:38:37 2025 US Stock List
+--------------
+HII, Close: 275.27, RSI(talib): 64.42
+RTX, Close: 160.66, RSI(talib): 71.15
+AVGO, Close: 308.65, RSI(talib): 60.95
+INTC, Close: 24.93, RSI(talib): 61.72
+ADI, Close: 254.25, RSI(talib): 70.54
+ORLY, Close: 103.99, RSI(talib): 65.22
+IDXX, Close: 647.03, RSI(talib): 60.27
+AZN, Close: 79.99, RSI(talib): 66.70
+FAST, Close: 50.18, RSI(talib): 69.59
+NTES, Close: 137.66, RSI(talib): 60.81
+BA, Close: 236.16, RSI(talib): 61.97
+JPM, Close: 301.07, RSI(talib): 62.27
+MA, Close: 590.48, RSI(talib): 61.41
+ROKU, Close: 97.54, RSI(talib): 64.46
+GE, Close: 276.00, RSI(talib): 60.01
+RIVN, Close: 13.64, RSI(talib): 62.61
+GD, Close: 324.91, RSI(talib): 72.81
+NOC, Close: 587.90, RSI(talib): 62.63
+LHX, Close: 277.04, RSI(talib): 67.65
+RKLB, Close: 47.91, RSI(talib): 61.12
+KTOS, Close: 68.51, RSI(talib): 67.41
+--------------
+AEP failed (Can't get stock info: AEP, Current Price: 111.77999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 104.42776610275794, 200 Day Average: None, RSI: 52.85428749653009).
+CPRT failed (Can't get stock info: CPRT, Current Price: 48.75, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 53.43027598940093, 200 Day Average: None, RSI: 59.748554916718824).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.1965647821841, 200 Day Average: None, RSI: nan).
+SIRI failed (Can't get stock info: SIRI, Current Price: 23.3700008392334, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.335767522351496, 200 Day Average: None, RSI: 56.21919239078584).
+ORCL failed (Can't get stock info: ORCL, Current Price: 240.32000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 184.28110025340112, 200 Day Average: None, RSI: 50.899785079998175).
+FANG failed (Can't get stock info: FANG, Current Price: 149.1699981689453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 142.90172019169248, 200 Day Average: None, RSI: 63.5470543553188).
+TEM failed (Can't get stock info: TEM, Current Price: 73.66000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 59.75075846704944, 200 Day Average: None, RSI: 57.142259170101894).

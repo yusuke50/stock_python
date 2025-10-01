@@ -1,0 +1,34 @@
+--------------
+Mon Sep 22 19:18:55 2025 US Stock List
+--------------
+META, Close: 778.38, RSI(talib): 61.38
+INTC, Close: 29.58, RSI(talib): 70.77
+MU, Close: 162.73, RSI(talib): 76.46
+LRCX, Close: 126.92, RSI(talib): 81.41
+KLAC, Close: 1044.81, RSI(talib): 76.48
+IDXX, Close: 656.16, RSI(talib): 60.93
+CRWD, Close: 502.55, RSI(talib): 76.38
+CDNS, Close: 373.35, RSI(talib): 62.89
+EA, Close: 173.09, RSI(talib): 61.24
+BIDU, Close: 135.35, RSI(talib): 84.91
+ZS, Close: 294.27, RSI(talib): 61.86
+NTES, Close: 152.05, RSI(talib): 63.54
+CEG, Close: 330.90, RSI(talib): 60.00
+ORCL, Close: 308.66, RSI(talib): 66.17
+GE, Close: 301.14, RSI(talib): 74.02
+WBD, Close: 19.33, RSI(talib): 76.66
+LHX, Close: 283.94, RSI(talib): 64.99
+HWM, Close: 190.23, RSI(talib): 62.78
+AVAV, Close: 278.55, RSI(talib): 65.27
+KTOS, Close: 80.77, RSI(talib): 78.92
+VST, Close: 211.28, RSI(talib): 61.64
+TEM, Close: 88.24, RSI(talib): 65.71
+--------------
+AAPL failed (Can't get stock info: AAPL, Current Price: 245.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 214.0855423499798, 200 Day Average: None, RSI: 67.4351791346108).
+ORLY failed (Can't get stock info: ORLY, Current Price: None, 52 Week High: 108.42, 52 Week Low: 73.33, 50 Day Average: 101.13, 150 Day Average: 94.42692897402007, 200 Day Average: 91.49, RSI: 50.41921928414449).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.313961542569674, 200 Day Average: None, RSI: 59.79507124952187).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+JPM failed (Can't get stock info: JPM, Current Price: 314.7799987792969, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 268.13045212318156, 200 Day Average: None, RSI: 69.4444750281491).
+T failed (Can't get stock info: T, Current Price: 29.010000228881836, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 27.53650440347606, 200 Day Average: None, RSI: 49.28603060035704).
+VZ failed (Can't get stock info: VZ, Current Price: 43.47999954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 42.801044148412245, 200 Day Average: None, RSI: 45.86381386535116).
+GD failed (Can't get stock info: GD, Current Price: 324.0799865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 286.77153857000945, 200 Day Average: None, RSI: 54.81047857412336).

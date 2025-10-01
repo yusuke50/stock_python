@@ -1,0 +1,211 @@
+--------------
+Mon Sep  8 21:53:02 2025 TW Stock List
+--------------
+2408.TW, Close: 53.50, RSI(talib): 67.34
+2884.TW, Close: 33.60, RSI(talib): 60.86
+2329.TW, Close: 46.10, RSI(talib): 60.44
+2374.TW, Close: 85.20, RSI(talib): 70.24
+3059.TW, Close: 63.00, RSI(talib): 77.40
+3645.TW, Close: 72.20, RSI(talib): 60.36
+2809.TW, Close: 57.00, RSI(talib): 64.29
+2208.TW, Close: 26.90, RSI(talib): 78.31
+2344.TW, Close: 24.60, RSI(talib): 75.95
+8028.TW, Close: 182.00, RSI(talib): 69.20
+2308.TW, Close: 726.00, RSI(talib): 69.79
+6191.TW, Close: 134.00, RSI(talib): 61.94
+3665.TW, Close: 1085.00, RSI(talib): 62.56
+2731.TW, Close: 172.50, RSI(talib): 68.52
+2059.TW, Close: 3220.00, RSI(talib): 65.35
+8033.TW, Close: 180.00, RSI(talib): 74.78
+6196.TW, Close: 270.00, RSI(talib): 69.31
+2753.TW, Close: 198.50, RSI(talib): 60.26
+2102.TW, Close: 20.65, RSI(talib): 60.15
+5284.TW, Close: 293.50, RSI(talib): 78.38
+6139.TW, Close: 366.50, RSI(talib): 65.11
+2645.TW, Close: 193.50, RSI(talib): 69.66
+5521.TW, Close: 13.50, RSI(talib): 60.34
+6753.TW, Close: 188.00, RSI(talib): 79.35
+6209.TW, Close: 38.50, RSI(talib): 68.74
+5234.TW, Close: 426.00, RSI(talib): 78.18
+2630.TW, Close: 65.70, RSI(talib): 67.25
+8271.TW, Close: 65.10, RSI(talib): 65.66
+6165.TW, Close: 58.30, RSI(talib): 61.71
+3605.TW, Close: 82.50, RSI(talib): 63.60
+6919.TW, Close: 257.50, RSI(talib): 81.13
+2429.TW, Close: 125.00, RSI(talib): 80.98
+4722.TW, Close: 131.50, RSI(talib): 69.62
+3563.TW, Close: 631.00, RSI(talib): 64.70
+3040.TW, Close: 68.00, RSI(talib): 66.41
+--------------
+2892.TW (Close: 29.399999618530273) failed (Can't get stock info: 2892.TW, Current Price: 29.399999618530273, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.463855359289383, 200 Day Average: None, RSI: 60.92243386792617)
+2412.TW (Close: 134.5) failed (Can't get stock info: 2412.TW, Current Price: 134.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 127.39022021823459, 200 Day Average: None, RSI: 52.855078324897875)
+3533.TW (Close: 1515.0) failed (Can't get stock info: 3533.TW, Current Price: 1515.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1385.296819474962, 200 Day Average: None, RSI: 61.137186482188966)
+3576.TW (Close: 6.28000020980835) failed (Can't get stock info: 3576.TW, Current Price: 6.28000020980835, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 8.004097216659122, 200 Day Average: None, RSI: 34.078336855182535)
+1709.TW (Close: None) failed (Can't get stock info: 1709.TW, Current Price: None, 52 Week High: 25.6, 52 Week Low: 15.8, 50 Day Average: 17.78, 150 Day Average: 17.793699555926853, 200 Day Average: 19.14, RSI: 36.436654655727935)
+5608.TW (Close: 17.25) failed (Can't get stock info: 5608.TW, Current Price: 17.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 17.298263880941604, 200 Day Average: None, RSI: 50.49649402657819)
+2323.TW (Close: 9.260000228881836) failed (Can't get stock info: 2323.TW, Current Price: 9.260000228881836, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 8.307674242390526, 200 Day Average: None, RSI: 73.9169703274947)
+1514.TW (Close: 107.0) failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/1514.TW/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/1514.TW/key-statistics", waiting until "domcontentloaded"
+)
+2888.TW (Close: None) failed (Can't get stock info: 2888.TW, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.831403539891829, 200 Day Average: None, RSI: nan)
+2612.TW (Close: 51.5) failed (Can't get stock info: 2612.TW, Current Price: 51.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 45.17544754346212, 200 Day Average: None, RSI: 51.58919171351092)
+2049.TW (Close: 206.0) failed (Can't get stock info: 2049.TW, Current Price: 206.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 234.2338628768921, 200 Day Average: None, RSI: 49.54093079644652)
+3019.TW (Close: 171.5) failed (Can't get stock info: 3019.TW, Current Price: 171.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 145.62620740466647, 200 Day Average: None, RSI: 61.58555383584918)
+8454.TW (Close: 252.0) failed (Can't get stock info: 8454.TW, Current Price: 252.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 286.2362166510688, 200 Day Average: None, RSI: 50.75116820802745)
+2707.TW (Close: 196.5) failed (Can't get stock info: 2707.TW, Current Price: 196.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 192.7494002448188, 200 Day Average: None, RSI: 70.9266730483857)
+1517.TW (Close: 10.699999809265137) failed (Can't get stock info: 1517.TW, Current Price: 10.699999809265137, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.607013914320204, 200 Day Average: None, RSI: 66.8937181510454)
+6197.TW (Close: 163.5) failed (Can't get stock info: 6197.TW, Current Price: 163.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 138.45924795998468, 200 Day Average: None, RSI: 58.32333545724796)
+8222.TW (Close: 55.20000076293945) failed (Can't get stock info: 8222.TW, Current Price: 55.20000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 50.61179616716173, 200 Day Average: None, RSI: 54.21738397109876)
+6442.TW (Close: 946.0) failed (Can't get stock info: 6442.TW, Current Price: 946.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 515.5833333333334, 200 Day Average: None, RSI: 69.82403900566759)
+1707.TW (Close: 128.5) failed (Can't get stock info: 1707.TW, Current Price: 128.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 131.9651551776462, 200 Day Average: None, RSI: 59.50849381514301)
+1409.TW (Close: 14.5) failed (Can't get stock info: 1409.TW, Current Price: 14.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 13.045156160990397, 200 Day Average: None, RSI: 53.419393555721726)
+1512.TW (Close: 8.0) failed (Can't get stock info: 1512.TW, Current Price: 8.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 7.668888893392351, 200 Day Average: None, RSI: 48.67865608720382)
+2033.TW (Close: 18.299999237060547) failed (Can't get stock info: 2033.TW, Current Price: 18.299999237060547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 18.122500234180027, 200 Day Average: None, RSI: 84.5575968264343)
+3032.TW (Close: 104.5) failed (Can't get stock info: 3032.TW, Current Price: 104.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 84.15687447124057, 200 Day Average: None, RSI: 50.36149454941672)
+9934.TW (Close: 10.699999809265137) failed (Can't get stock info: 9934.TW, Current Price: 10.699999809265137, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.045853045251635, 200 Day Average: None, RSI: 66.99467718985863)
+2211.TW (Close: 92.9000015258789) failed (Can't get stock info: 2211.TW, Current Price: 92.9000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 83.67853106392755, 200 Day Average: None, RSI: 64.33213997552471)
+1604.TW (Close: 24.600000381469727) failed (Can't get stock info: 1604.TW, Current Price: 24.600000381469727, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 25.819351779090034, 200 Day Average: None, RSI: 47.20193154197671)
+4766.TW (Close: 419.0) failed (Can't get stock info: 4766.TW, Current Price: 419.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 329.9131522708469, 200 Day Average: None, RSI: 69.09278998018625)
+6657.TW (Close: 55.900001525878906) failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/6657.TW/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/6657.TW/key-statistics", waiting until "domcontentloaded"
+)
+2852.TW (Close: 26.75) failed (Can't get stock info: 2852.TW, Current Price: 26.75, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 25.942169043752884, 200 Day Average: None, RSI: 69.14436826851863)
+3060.TW (Close: 20.100000381469727) failed (Can't get stock info: 3060.TW, Current Price: 20.100000381469727, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.664761238627964, 200 Day Average: None, RSI: 49.06097686853397)
+6449.TW (Close: 174.5) failed (Can't get stock info: 6449.TW, Current Price: 174.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.60873831642999, 200 Day Average: None, RSI: 69.72124134168277)
+6706.TW (Close: 64.0999984741211) failed (Can't get stock info: 6706.TW, Current Price: 64.0999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 73.65277785725064, 200 Day Average: None, RSI: 53.02649734882928)
+6855.TW (Close: None) failed (Can't get stock info: 6855.TW, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None)
+9911.TW (Close: 86.9000015258789) failed (Can't get stock info: 9911.TW, Current Price: 86.9000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 85.276703092787, 200 Day Average: None, RSI: 54.06018537122614)
+--------------
+Exception Stocks:
+0056.TW (Exception)
+0050.TW (Exception)
+0052.TW (Exception)
+00633L.TW (Exception)
+00632R.TW (Exception)
+00882.TW (Exception)
+00953B.TW (Exception)
+00885.TW (Exception)
+00902.TW (Exception)
+00949.TW (Exception)
+00673R.TW (Exception)
+00941.TW (Exception)
+00936.TW (Exception)
+00893.TW (Exception)
+00680L.TW (Exception)
+00945B.TW (Exception)
+00954.TW (Exception)
+00712.TW (Exception)
+00960.TW (Exception)
+00715L.TW (Exception)
+00637L.TW (Exception)
+00639.TW (Exception)
+00665L.TW (Exception)
+00642U.TW (Exception)
+00650L.TW (Exception)
+00753L.TW (Exception)
+00655L.TW (Exception)
+00752.TW (Exception)
+006205.TW (Exception)
+00671R.TW (Exception)
+00929.TW (Exception)
+00951.TW (Exception)
+00636.TW (Exception)
+00643.TW (Exception)
+00939.TW (Exception)
+00881.TW (Exception)
+00713.TW (Exception)
+00830.TW (Exception)
+00664R.TW (Exception)
+00669R.TW (Exception)
+00676R.TW (Exception)
+00947.TW (Exception)
+00923.TW (Exception)
+00935.TW (Exception)
+006208.TW (Exception)
+00891.TW (Exception)
+00638R.TW (Exception)
+00892.TW (Exception)
+00651R.TW (Exception)
+00634R.TW (Exception)
+00631L.TW (Exception)
+00878.TW (Exception)
+00934.TW (Exception)
+00919.TW (Exception)
+00946.TW (Exception)
+00918.TW (Exception)
+00757.TW (Exception)
+00940.TW (Exception)
+00775B.TW (Exception)
+00922.TW (Exception)
+00961.TW (Exception)
+00675L.TW (Exception)
+00900.TW (Exception)
+00952.TW (Exception)
+00905.TW (Exception)
+00850.TW (Exception)
+00938.TW (Exception)
+00944.TW (Exception)
+00909.TW (Exception)
+00688L.TW (Exception)
+00897.TW (Exception)
+00956.TW (Exception)
+00898.TW (Exception)
+00648R.TW (Exception)
+00927.TW (Exception)
+00943.TW (Exception)
+00701.TW (Exception)
+00903.TW (Exception)
+00674R.TW (Exception)
+0061.TW (Exception)
+00932.TW (Exception)
+00915.TW (Exception)
+00963.TW (Exception)
+00964.TW (Exception)
+00706L.TW (Exception)
+00965.TW (Exception)
+00895.TW (Exception)
+00907.TW (Exception)
+00962.TW (Exception)
+00717.TW (Exception)
+00904.TW (Exception)
+00646.TW (Exception)
+00681R.TW (Exception)
+00662.TW (Exception)
+00930.TW (Exception)
+00852L.TW (Exception)
+00733.TW (Exception)
+009800.TW (Exception)
+009801.TW (Exception)
+00710B.TW (Exception)
+00924.TW (Exception)
+00921.TW (Exception)
+009802.TW (Exception)
+009803.TW (Exception)
+00635U.TW (Exception)
+00762.TW (Exception)
+00876.TW (Exception)
+00916.TW (Exception)
+00926.TW (Exception)
+00700.TW (Exception)
+00686R.TW (Exception)
+00641R.TW (Exception)
+00731.TW (Exception)
+00670L.TW (Exception)
+00708L.TW (Exception)
+009804.TW (Exception)
+00971.TW (Exception)
+00861.TW (Exception)
+00980A.TW (Exception)
+0055.TW (Exception)
+009805.TW (Exception)
+009808.TW (Exception)
+00982A.TW (Exception)
+00981A.TW (Exception)
+00770.TW (Exception)
+00910.TW (Exception)
+00983A.TW (Exception)
+00763U.TW (Exception)
+009810.TW (Exception)
+00692.TW (Exception)

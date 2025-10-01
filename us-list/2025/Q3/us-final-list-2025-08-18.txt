@@ -1,0 +1,26 @@
+--------------
+Mon Aug 18 20:43:30 2025 US Stock List
+--------------
+META, Close: 785.23, RSI(talib): 63.97
+AVGO, Close: 306.34, RSI(talib): 62.24
+ORLY, Close: 101.54, RSI(talib): 61.59
+IDXX, Close: 650.84, RSI(talib): 63.93
+MNST, Close: 64.64, RSI(talib): 63.19
+WBA, Close: 11.96, RSI(talib): 72.05
+AZN, Close: 79.17, RSI(talib): 70.65
+EBAY, Close: 100.70, RSI(talib): 76.35
+FAST, Close: 48.88, RSI(talib): 71.89
+JNJ, Close: 176.64, RSI(talib): 75.70
+BA, Close: 235.26, RSI(talib): 66.80
+MA, Close: 581.70, RSI(talib): 64.72
+T, Close: 28.87, RSI(talib): 68.40
+NOC, Close: 583.96, RSI(talib): 72.90
+KTOS, Close: 68.50, RSI(talib): 73.46
+TEM, Close: 73.78, RSI(talib): 67.99
+--------------
+RTX failed (Can't get stock info: RTX, Current Price: 154.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 135.070109155443, 200 Day Average: None, RSI: 53.867624644498235).
+ADI failed (Can't get stock info: ADI, Current Price: 231.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 216.08480294545492, 200 Day Average: None, RSI: 52.95649646183619).
+LCID failed (Can't get stock info: LCID, Current Price: 2.180000066757202, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2.469826392001576, 200 Day Average: None, RSI: 41.108960640864076).
+BIDU failed (Can't get stock info: BIDU, Current Price: 89.8499984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 88.58895842234294, 200 Day Average: None, RSI: 55.442653692227694).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.4472762937468, 200 Day Average: None, RSI: 70.05069572084383).
+PFE failed (Can't get stock info: PFE, Current Price: 25.139999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 23.960475246111553, 200 Day Average: None, RSI: 60.9246720212268).

@@ -1,0 +1,43 @@
+--------------
+Tue Sep 23 21:24:37 2025 US Stock List
+--------------
+NVDA, Close: 183.61, RSI(talib): 61.35
+INTC, Close: 28.76, RSI(talib): 67.31
+LRCX, Close: 132.20, RSI(talib): 84.57
+KLAC, Close: 1071.25, RSI(talib): 79.10
+CRWD, Close: 493.14, RSI(talib): 69.92
+CDNS, Close: 373.37, RSI(talib): 62.47
+EA, Close: 173.42, RSI(talib): 62.73
+BIDU, Close: 136.63, RSI(talib): 85.27
+NTES, Close: 152.35, RSI(talib): 64.00
+CEG, Close: 347.12, RSI(talib): 67.53
+JPM, Close: 312.44, RSI(talib): 64.10
+ORCL, Close: 328.15, RSI(talib): 70.48
+GE, Close: 301.02, RSI(talib): 73.27
+WBD, Close: 19.61, RSI(talib): 77.18
+LHX, Close: 284.32, RSI(talib): 66.90
+HWM, Close: 192.15, RSI(talib): 64.21
+AVAV, Close: 288.08, RSI(talib): 68.61
+KTOS, Close: 80.72, RSI(talib): 78.52
+VST, Close: 217.92, RSI(talib): 66.94
+TEM, Close: 85.87, RSI(talib): 60.48
+--------------
+MU failed (Can't get stock info: MU, Current Price: 164.6199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 105.87845737851899, 200 Day Average: None, RSI: 77.35259862711334).
+ADI failed (Can't get stock info: ADI, Current Price: 247.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 220.86100905845905, 200 Day Average: None, RSI: 55.95765131836282).
+MELI failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MELI/key-statistics", waiting until "domcontentloaded"
+).
+ASML failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ASML/key-statistics", waiting until "domcontentloaded"
+).
+MAR failed (Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MAR/key-statistics", waiting until "domcontentloaded"
+).
+ADSK failed (Can't get stock info: ADSK, Current Price: 324.3900146484375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 288.2568273083917, 200 Day Average: None, RSI: 63.203797062159225).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.317790704180103, 200 Day Average: None, RSI: 59.751753591472166).
+AZN failed (Can't get stock info: AZN, Current Price: 77.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 72.91758464944773, 200 Day Average: None, RSI: 45.905701470859654).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+BRK-B failed (Can't get stock info: BRK-B, Current Price: 493.7099914550781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 498.7449643891433, 200 Day Average: None, RSI: 52.00726008196641).

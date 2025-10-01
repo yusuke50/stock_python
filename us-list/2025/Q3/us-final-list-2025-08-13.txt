@@ -1,0 +1,34 @@
+--------------
+Wed Aug 13 21:47:47 2025 US Stock List
+--------------
+MSFT, Close: 530.55, RSI(talib): 64.29
+META, Close: 790.66, RSI(talib): 65.23
+AVGO, Close: 316.38, RSI(talib): 69.75
+CSCO, Close: 71.44, RSI(talib): 64.87
+LRCX, Close: 106.82, RSI(talib): 66.77
+GILD, Close: 120.43, RSI(talib): 63.36
+ORLY, Close: 102.75, RSI(talib): 65.47
+IDXX, Close: 652.19, RSI(talib): 65.94
+MNST, Close: 63.93, RSI(talib): 61.18
+WBA, Close: 11.88, RSI(talib): 73.29
+EBAY, Close: 98.60, RSI(talib): 78.84
+FAST, Close: 48.63, RSI(talib): 71.67
+BA, Close: 234.27, RSI(talib): 62.56
+ORCL, Close: 255.71, RSI(talib): 62.05
+WMT, Close: 102.75, RSI(talib): 75.23
+GE, Close: 279.23, RSI(talib): 70.44
+NOC, Close: 582.51, RSI(talib): 70.67
+KTOS, Close: 69.50, RSI(talib): 77.01
+VST, Close: 212.00, RSI(talib): 60.15
+--------------
+ADI failed (Can't get stock info: ADI, Current Price: 233.9600067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.67618984646268, 200 Day Average: None, RSI: 54.43414221276858).
+MRNA failed (Can't get stock info: MRNA, Current Price: 26.170000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 30.2309373749627, 200 Day Average: None, RSI: 32.69430076941795).
+ABNB failed (Can't get stock info: ABNB, Current Price: 122.4000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 131.0332644250658, 200 Day Average: None, RSI: 33.68812112467555).
+MRVL failed (Can't get stock info: MRVL, Current Price: 79.18000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 76.31799366739061, 200 Day Average: None, RSI: 57.23583704765818).
+KDP failed (Can't get stock info: KDP, Current Price: 34.77000045776367, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.115765399403045, 200 Day Average: None, RSI: 64.18729851031063).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.71773807586186, 200 Day Average: None, RSI: 65.44564529081762).
+OKTA failed (Can't get stock info: OKTA, Current Price: 89.12999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 101.97531260384454, 200 Day Average: None, RSI: 36.84801689768627).
+JPM failed (Can't get stock info: JPM, Current Price: 294.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 261.7457201215956, 200 Day Average: None, RSI: 56.343990806972485).
+T failed (Can't get stock info: T, Current Price: 28.510000228881836, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.5564923286438, 200 Day Average: None, RSI: 63.946120474513826).
+WFC failed (Can't get stock info: WFC, Current Price: 79.625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 74.5390739440918, 200 Day Average: None, RSI: 53.83875191354566).
+TDG failed (Can't get stock info: TDG, Current Price: 1410.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1410.4388173421223, 200 Day Average: None, RSI: 35.09572748578032).

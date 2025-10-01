@@ -1,0 +1,33 @@
+--------------
+Mon Sep 29 23:21:16 2025 US Stock List
+--------------
+SIG, Close: 95.68, RSI(talib): 61.82
+RTX, Close: 164.68, RSI(talib): 65.18
+INTC, Close: 34.69, RSI(talib): 81.45
+MU, Close: 164.25, RSI(talib): 65.01
+LRCX, Close: 131.71, RSI(talib): 75.43
+ASML, Close: 970.68, RSI(talib): 79.09
+KLAC, Close: 1072.55, RSI(talib): 75.94
+ORLY, Close: 106.65, RSI(talib): 60.05
+CRWD, Close: 483.11, RSI(talib): 61.86
+MNST, Close: 66.93, RSI(talib): 60.91
+EA, Close: 202.71, RSI(talib): 77.01
+JNJ, Close: 180.54, RSI(talib): 63.50
+JPM, Close: 314.08, RSI(talib): 68.26
+WBD, Close: 19.22, RSI(talib): 73.84
+GD, Close: 335.19, RSI(talib): 68.10
+NOC, Close: 596.25, RSI(talib): 63.77
+LHX, Close: 297.10, RSI(talib): 73.25
+HWM, Close: 195.16, RSI(talib): 64.38
+AVAV, Close: 315.82, RSI(talib): 71.86
+KTOS, Close: 88.36, RSI(talib): 78.18
+CAT, Close: 469.38, RSI(talib): 65.98
+--------------
+ADBE failed (Can't get stock info: ADBE, Current Price: 360.6499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 377.7013093093346, 200 Day Average: None, RSI: 53.23873501650175).
+PANW failed (Can't get stock info: PANW, Current Price: 203.13999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 187.3107587090854, 200 Day Average: None, RSI: 63.08145522841364).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.325320007324219, 200 Day Average: None, RSI: 61.64320320352205).
+BIDU failed (Can't get stock info: BIDU, Current Price: 133.20700073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 92.45055194723194, 200 Day Average: None, RSI: 66.8054043268325).
+ALGN failed (Can't get stock info: ALGN, Current Price: 125.9800033569336, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 167.15386252567686, 200 Day Average: None, RSI: 40.2368307711127).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+SWKS failed (Can't get stock info: SWKS, Current Price: 77.26000213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.41523050768622, 200 Day Average: None, RSI: 61.89186856546225).
+CEG failed (Can't get stock info: CEG, Current Price: 334.20001220703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 281.97562887257544, 200 Day Average: None, RSI: 52.69643308033892).

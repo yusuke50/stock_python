@@ -1,0 +1,23 @@
+--------------
+Fri Aug  8 19:32:02 2025 US Stock List
+--------------
+RTX, Close: 155.76, RSI(talib): 60.76
+CSCO, Close: 69.90, RSI(talib): 60.93
+AEP, Close: 113.73, RSI(talib): 68.40
+ORLY, Close: 103.47, RSI(talib): 72.52
+IDXX, Close: 650.06, RSI(talib): 66.56
+EXC, Close: 45.54, RSI(talib): 64.95
+WBA, Close: 11.90, RSI(talib): 85.72
+DLTR, Close: 117.16, RSI(talib): 76.00
+EBAY, Close: 93.02, RSI(talib): 73.96
+FAST, Close: 47.48, RSI(talib): 67.91
+WMT, Close: 103.12, RSI(talib): 73.18
+CSGP, Close: 95.34, RSI(talib): 70.56
+AXON, Close: 870.97, RSI(talib): 70.57
+KTOS, Close: 59.08, RSI(talib): 63.30
+--------------
+AVGO failed (Can't get stock info: AVGO, Current Price: 303.760009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 226.46546427408853, 200 Day Average: None, RSI: 65.32486431951541).
+ADBE failed (Can't get stock info: ADBE, Current Price: 338.2699890136719, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 398.2222915225559, 200 Day Average: None, RSI: 26.764102429300635).
+DXCM failed (Can't get stock info: DXCM, Current Price: 76.4000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 80.65062493748135, 200 Day Average: None, RSI: 31.82082918478633).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.7985657684563, 200 Day Average: None, RSI: 61.606224457404046).
+ODFL failed (Can't get stock info: ODFL, Current Price: 145.3300018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 168.0668053097195, 200 Day Average: None, RSI: 36.306432712578015).

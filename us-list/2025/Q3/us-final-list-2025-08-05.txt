@@ -1,0 +1,30 @@
+--------------
+Tue Aug  5 22:39:51 2025 US Stock List
+--------------
+RTX, Close: 157.10, RSI(talib): 66.95
+MSFT, Close: 533.91, RSI(talib): 74.01
+META, Close: 772.07, RSI(talib): 65.32
+AVGO, Close: 296.08, RSI(talib): 63.27
+AEP, Close: 114.86, RSI(talib): 75.83
+ORLY, Close: 101.71, RSI(talib): 70.88
+IDXX, Close: 665.62, RSI(talib): 79.71
+EXC, Close: 45.23, RSI(talib): 63.84
+DLTR, Close: 115.40, RSI(talib): 73.14
+CEG, Close: 344.02, RSI(talib): 69.89
+WMT, Close: 99.52, RSI(talib): 64.42
+GE, Close: 271.76, RSI(talib): 65.15
+CSGP, Close: 97.00, RSI(talib): 78.79
+KTOS, Close: 59.76, RSI(talib): 64.86
+--------------
+INTC failed (Can't get stock info: INTC, Current Price: 20.235000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 21.459160784741382, 200 Day Average: None, RSI: 33.951931126751646).
+PYPL failed (Can't get stock info: PYPL, Current Price: 67.94000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 72.94944080272755, 200 Day Average: None, RSI: 35.21817938071031).
+MRNA failed (Can't get stock info: MRNA, Current Price: 27.604999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 30.753671192622686, 200 Day Average: None, RSI: 36.256337411045195).
+CTSH failed (Can't get stock info: CTSH, Current Price: 70.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 78.34931636356808, 200 Day Average: None, RSI: 29.552860221039236).
+WBA failed (Can't get stock info: WBA, Current Price: 11.682999610900879, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.124195839141633, 200 Day Average: None, RSI: 73.31824729284871).
+EBAY failed (Can't get stock info: EBAY, Current Price: 91.75499725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.49451091739681, 200 Day Average: None, RSI: 77.49972658779942).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.8728623717796, 200 Day Average: None, RSI: 62.30179912918533).
+OKTA failed (Can't get stock info: OKTA, Current Price: 97.13999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 101.739825215373, 200 Day Average: None, RSI: 49.50913997132152).
+ROKU failed (Can't get stock info: ROKU, Current Price: 83.49009704589844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.25842682631699, 200 Day Average: None, RSI: 47.11068380324491).
+TDG failed (Can't get stock info: TDG, Current Price: 1419.5997314453125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1405.7455218121722, 200 Day Average: None, RSI: 63.468266912231044).
+NOC failed (Can't get stock info: NOC, Current Price: 589.989990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 491.87009563312665, 200 Day Average: None, RSI: 81.08926224631895).
+VST failed (Can't get stock info: VST, Current Price: 210.7050018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 156.0118207598066, 200 Day Average: None, RSI: 68.84564326247352).

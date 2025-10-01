@@ -1,0 +1,26 @@
+--------------
+Tue Sep  9 19:29:26 2025 US Stock List
+--------------
+AVGO, Close: 345.65, RSI(talib): 75.62
+MU, Close: 131.46, RSI(talib): 64.76
+ASML, Close: 796.25, RSI(talib): 61.54
+ORLY, Close: 106.40, RSI(talib): 71.47
+IDXX, Close: 652.83, RSI(talib): 61.69
+AZN, Close: 81.56, RSI(talib): 68.88
+BIDU, Close: 108.65, RSI(talib): 77.84
+VRSN, Close: 282.92, RSI(talib): 63.03
+PDD, Close: 125.03, RSI(talib): 63.76
+JNJ, Close: 178.13, RSI(talib): 68.83
+ROKU, Close: 99.39, RSI(talib): 62.88
+WMT, Close: 102.28, RSI(talib): 64.31
+GD, Close: 322.72, RSI(talib): 63.74
+TEM, Close: 80.22, RSI(talib): 65.05
+--------------
+SNPS failed (Can't get stock info: SNPS, Current Price: None, 52 Week High: 651.73, 52 Week Low: 365.74, 50 Day Average: 593.38, 150 Day Average: 508.7811116112603, 200 Day Average: 512.0, RSI: 54.268071574178414).
+CTSH failed (Can't get stock info: CTSH, Current Price: 71.19000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 76.55084578196208, 200 Day Average: None, RSI: 46.82533926896071).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.24358696177386, 200 Day Average: None, RSI: 58.05470430294979).
+EA failed (Can't get stock info: EA, Current Price: 168.05999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 149.62196747461954, 200 Day Average: None, RSI: 52.294764915252465).
+EBAY failed (Can't get stock info: EBAY, Current Price: 93.0199966430664, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 75.17861697408888, 200 Day Average: None, RSI: 53.182982573502166).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.341434902615, 200 Day Average: None, RSI: nan).
+NTES failed (Can't get stock info: NTES, Current Price: 144.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.99616983201769, 200 Day Average: None, RSI: 68.68661990521306).
+KO failed (Can't get stock info: KO, Current Price: 67.43000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.03544759750366, 200 Day Average: None, RSI: 35.35460140743938).

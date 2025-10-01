@@ -1,0 +1,33 @@
+--------------
+Wed Sep 17 19:25:25 2025 US Stock List
+--------------
+META, Close: 779.00, RSI(talib): 62.01
+AVGO, Close: 360.00, RSI(talib): 68.50
+MU, Close: 158.82, RSI(talib): 82.85
+LRCX, Close: 120.47, RSI(talib): 75.47
+KLAC, Close: 988.91, RSI(talib): 68.32
+MNST, Close: 66.16, RSI(talib): 67.91
+BIDU, Close: 114.78, RSI(talib): 80.93
+VRSN, Close: 287.47, RSI(talib): 60.83
+NTES, Close: 157.07, RSI(talib): 77.79
+PDD, Close: 129.06, RSI(talib): 67.10
+JPM, Close: 309.19, RSI(talib): 65.57
+ORCL, Close: 306.65, RSI(talib): 67.53
+GE, Close: 292.97, RSI(talib): 72.03
+WBD, Close: 18.25, RSI(talib): 80.31
+GD, Close: 326.40, RSI(talib): 65.81
+LHX, Close: 284.27, RSI(talib): 70.44
+HWM, Close: 187.46, RSI(talib): 64.47
+AVAV, Close: 265.87, RSI(talib): 61.51
+KTOS, Close: 76.35, RSI(talib): 74.11
+VST, Close: 209.43, RSI(talib): 62.94
+TEM, Close: 87.04, RSI(talib): 66.68
+--------------
+MSFT failed (Can't get stock info: MSFT, Current Price: 509.0400085449219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 452.57040362887915, 200 Day Average: None, RSI: 52.619805668408695).
+CMCSA failed (Can't get stock info: CMCSA, Current Price: 32.290000915527344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 34.36548440867457, 200 Day Average: None, RSI: 32.93185160100499).
+VRTX failed (Can't get stock info: VRTX, Current Price: 391.3599853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 454.06312391493054, 200 Day Average: None, RSI: 42.121829772190004).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.29530075618199, 200 Day Average: None, RSI: 59.77155971130949).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.0451455718105, 200 Day Average: None, RSI: None).
+LLY failed (Can't get stock info: LLY, Current Price: 764.7100219726562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 779.5381897820366, 200 Day Average: None, RSI: 61.44472607518773).
+TDG failed (Can't get stock info: TDG, Current Price: 1281.72998046875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1328.177328321669, 200 Day Average: None, RSI: 39.712269854820434).
+AXON failed (Can't get stock info: AXON, Current Price: 750.6699829101562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 682.9656538338497, 200 Day Average: None, RSI: 49.16482343595241).

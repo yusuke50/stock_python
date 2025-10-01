@@ -1,0 +1,28 @@
+--------------
+Tue Aug 12 19:27:25 2025 US Stock List
+--------------
+META, Close: 765.87, RSI(talib): 60.70
+AVGO, Close: 303.90, RSI(talib): 65.23
+CSCO, Close: 70.67, RSI(talib): 63.01
+LRCX, Close: 102.00, RSI(talib): 61.98
+GILD, Close: 120.47, RSI(talib): 64.71
+ORLY, Close: 103.60, RSI(talib): 72.64
+IDXX, Close: 652.11, RSI(talib): 66.04
+MNST, Close: 63.66, RSI(talib): 60.54
+WBA, Close: 11.86, RSI(talib): 72.89
+DLTR, Close: 114.29, RSI(talib): 61.91
+EBAY, Close: 95.30, RSI(talib): 77.15
+WMT, Close: 103.93, RSI(talib): 77.41
+GE, Close: 275.20, RSI(talib): 66.56
+NOC, Close: 580.24, RSI(talib): 67.35
+KTOS, Close: 65.41, RSI(talib): 72.81
+--------------
+ISRG failed (Can't get stock info: ISRG, Current Price: 471.8500061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 531.0913872188992, 200 Day Average: None, RSI: 31.940715959172188).
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 61.560001373291016, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 64.58209652370877, 200 Day Average: None, RSI: 28.026838256417374).
+ADSK failed (Can't get stock info: ADSK, Current Price: 284.6199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 286.9184021419949, 200 Day Average: None, RSI: 39.34378749872941).
+FAST failed (Can't get stock info: FAST, Current Price: 47.84000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 40.325502740012276, 200 Day Average: None, RSI: 68.90434514360894).
+PCAR failed (Can't get stock info: PCAR, Current Price: 97.1500015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.95206138822768, 200 Day Average: None, RSI: 51.12576034432149).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.7560234970934, 200 Day Average: None, RSI: 65.34903667025071).
+VRSN failed (Can't get stock info: VRSN, Current Price: 267.4200134277344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 257.47182030147974, 200 Day Average: None, RSI: 40.412659603392434).
+SWKS failed (Can't get stock info: SWKS, Current Price: 70.52999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.1234090593126, 200 Day Average: None, RSI: 48.231051211969344).
+T failed (Can't get stock info: T, Current Price: 28.139999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.507031480471294, 200 Day Average: None, RSI: 58.48429367658421).

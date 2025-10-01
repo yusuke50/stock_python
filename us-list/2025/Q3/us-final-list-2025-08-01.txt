@@ -1,0 +1,29 @@
+--------------
+Fri Aug  1 22:20:04 2025 US Stock List
+--------------
+HII, Close: 270.40, RSI(talib): 74.41
+RTX, Close: 154.89, RSI(talib): 69.41
+MSFT, Close: 527.40, RSI(talib): 82.32
+AMZN, Close: 219.59, RSI(talib): 67.49
+META, Close: 754.31, RSI(talib): 69.51
+AEP, Close: 112.62, RSI(talib): 71.82
+ORLY, Close: 98.27, RSI(talib): 65.28
+WBA, Close: 11.62, RSI(talib): 72.39
+DLTR, Close: 113.46, RSI(talib): 66.88
+EBAY, Close: 89.51, RSI(talib): 77.56
+CEG, Close: 334.14, RSI(talib): 68.02
+JPM, Close: 288.54, RSI(talib): 62.46
+ROKU, Close: 81.55, RSI(talib): 65.34
+GE, Close: 265.76, RSI(talib): 63.31
+CSGP, Close: 94.49, RSI(talib): 79.93
+WBD, Close: 12.82, RSI(talib): 66.33
+TDG, Close: 1579.41, RSI(talib): 68.41
+KTOS, Close: 56.50, RSI(talib): 66.92
+VST, Close: 204.97, RSI(talib): 65.69
+--------------
+AVGO failed (Can't get stock info: AVGO, Current Price: 286.82000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 224.1136399916002, 200 Day Average: None, RSI: 61.48221091889455).
+ADI failed (Can't get stock info: ADI, Current Price: 219.8699951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.1399223487694, 200 Day Average: None, RSI: 37.913686214243356).
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 65.5250015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 64.36701402464114, 200 Day Average: None, RSI: 34.2998301507473).
+ILMN failed (Can't get stock info: ILMN, Current Price: 95.375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.2505593466592, 200 Day Average: None, RSI: 56.80549661710524).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.9276313494919, 200 Day Average: None, RSI: 63.854526456060846).
+PFE failed (Can't get stock info: PFE, Current Price: 23.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 24.013757759040885, 200 Day Average: None, RSI: 36.80896624300294).

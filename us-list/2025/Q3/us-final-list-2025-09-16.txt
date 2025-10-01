@@ -1,0 +1,39 @@
+--------------
+Tue Sep 16 19:06:13 2025 US Stock List
+--------------
+AVGO, Close: 364.09, RSI(talib): 71.51
+MU, Close: 157.77, RSI(talib): 82.40
+LRCX, Close: 119.21, RSI(talib): 74.76
+ASML, Close: 867.30, RSI(talib): 74.60
+KLAC, Close: 988.91, RSI(talib): 68.75
+ORLY, Close: 106.29, RSI(talib): 62.69
+MNST, Close: 64.35, RSI(talib): 60.03
+BIDU, Close: 114.82, RSI(talib): 81.34
+VRSN, Close: 287.96, RSI(talib): 61.72
+NTES, Close: 154.83, RSI(talib): 76.54
+PDD, Close: 127.39, RSI(talib): 65.23
+CEG, Close: 330.42, RSI(talib): 61.05
+JPM, Close: 308.90, RSI(talib): 65.45
+ORCL, Close: 302.14, RSI(talib): 66.50
+T, Close: 29.62, RSI(talib): 61.89
+GE, Close: 286.78, RSI(talib): 67.03
+WBD, Close: 19.46, RSI(talib): 87.45
+GD, Close: 326.98, RSI(talib): 65.77
+LHX, Close: 281.89, RSI(talib): 67.00
+RKLB, Close: 54.04, RSI(talib): 63.96
+HWM, Close: 189.25, RSI(talib): 66.14
+KTOS, Close: 70.74, RSI(talib): 65.88
+VST, Close: 213.52, RSI(talib): 64.85
+TEM, Close: 85.13, RSI(talib): 63.18
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.293544783521055, 200 Day Average: None, RSI: 59.79870301410896).
+XEL failed (Can't get stock info: XEL, Current Price: 73.05000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.33302664921202, 200 Day Average: None, RSI: 60.175800209630296).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.1079805814303, 200 Day Average: None, RSI: None).
+BMY failed (Can't get stock info: BMY, Current Price: 46.349998474121094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 49.87340550915948, 200 Day Average: None, RSI: 43.82481958551915).
+HD failed (Can't get stock info: HD, Current Price: 422.7099914550781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 370.77295868972254, 200 Day Average: None, RSI: 69.57047778937154).
+WMT failed (Can't get stock info: WMT, Current Price: 103.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.40314578352303, 200 Day Average: None, RSI: 65.29905224897354).
+CL failed (Can't get stock info: CL, Current Price: 82.12999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 88.91030889050714, 200 Day Average: None, RSI: 37.88005870033867).
+ENPH failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/ENPH/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ENPH/key-statistics", waiting until "domcontentloaded"
+).

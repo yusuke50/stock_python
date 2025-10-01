@@ -1,0 +1,23 @@
+--------------
+Thu Aug 28 19:50:21 2025 US Stock List
+--------------
+HII, Close: 276.39, RSI(talib): 66.46
+RTX, Close: 159.84, RSI(talib): 69.37
+INTC, Close: 24.85, RSI(talib): 61.37
+ORLY, Close: 104.05, RSI(talib): 65.57
+AZN, Close: 79.93, RSI(talib): 66.51
+FAST, Close: 50.20, RSI(talib): 69.82
+JNJ, Close: 176.79, RSI(talib): 71.29
+BA, Close: 235.62, RSI(talib): 61.42
+JPM, Close: 299.28, RSI(talib): 60.08
+MA, Close: 590.66, RSI(talib): 61.63
+ROKU, Close: 96.18, RSI(talib): 62.57
+GD, Close: 325.46, RSI(talib): 74.40
+NOC, Close: 586.61, RSI(talib): 61.72
+LHX, Close: 276.76, RSI(talib): 67.11
+KTOS, Close: 67.92, RSI(talib): 66.28
+--------------
+CSCO failed (Can't get stock info: CSCO, Current Price: 68.44000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.27317470682078, 200 Day Average: None, RSI: 50.62848798039409).
+SNPS failed (Can't get stock info: SNPS, Current Price: 603.1699829101562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 505.3117240116514, 200 Day Average: None, RSI: 51.74526640845206).
+MCHP failed (Can't get stock info: MCHP, Current Price: 66.6500015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 58.44692477522225, 200 Day Average: None, RSI: 49.22613177319063).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.35495652823613, 200 Day Average: None, RSI: nan).

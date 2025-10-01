@@ -1,0 +1,31 @@
+--------------
+Wed Sep 24 19:19:18 2025 US Stock List
+--------------
+SIG, Close: 95.27, RSI(talib): 60.38
+HII, Close: 276.01, RSI(talib): 60.23
+RTX, Close: 160.54, RSI(talib): 60.46
+INTC, Close: 29.34, RSI(talib): 69.02
+MU, Close: 166.41, RSI(talib): 78.09
+LRCX, Close: 131.93, RSI(talib): 83.61
+MELI, Close: 2494.35, RSI(talib): 62.45
+ASML, Close: 963.51, RSI(talib): 83.18
+KLAC, Close: 1071.20, RSI(talib): 78.58
+CRWD, Close: 484.10, RSI(talib): 64.23
+EA, Close: 174.07, RSI(talib): 64.32
+BIDU, Close: 125.57, RSI(talib): 66.05
+NTES, Close: 152.94, RSI(talib): 65.60
+JPM, Close: 312.74, RSI(talib): 64.29
+ORCL, Close: 313.83, RSI(talib): 63.71
+GE, Close: 305.63, RSI(talib): 76.01
+WBD, Close: 19.56, RSI(talib): 76.34
+LHX, Close: 286.19, RSI(talib): 69.33
+RKLB, Close: 52.91, RSI(talib): 60.53
+HWM, Close: 193.58, RSI(talib): 65.83
+AVAV, Close: 298.61, RSI(talib): 72.06
+KTOS, Close: 83.90, RSI(talib): 81.65
+--------------
+COST failed (Can't get stock info: COST, Current Price: 943.5999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 972.7821293271821, 200 Day Average: None, RSI: 45.25925238461139).
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 63.81999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 65.34129030951138, 200 Day Average: None, RSI: 52.770819915033364).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.317304693162441, 200 Day Average: None, RSI: 59.95679831913988).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+MA failed (Can't get stock info: MA, Current Price: 569.969970703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 559.9099411536907, 200 Day Average: None, RSI: 40.621003520004834).

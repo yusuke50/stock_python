@@ -1,0 +1,30 @@
+--------------
+Tue Sep  2 19:22:01 2025 US Stock List
+--------------
+RTX, Close: 158.60, RSI(talib): 62.36
+ADI, Close: 251.31, RSI(talib): 64.26
+ORLY, Close: 103.68, RSI(talib): 62.76
+AZN, Close: 79.90, RSI(talib): 66.75
+FAST, Close: 49.66, RSI(talib): 64.85
+JNJ, Close: 177.17, RSI(talib): 69.13
+JPM, Close: 301.42, RSI(talib): 62.24
+MA, Close: 595.29, RSI(talib): 64.52
+ROKU, Close: 96.56, RSI(talib): 62.15
+T, Close: 29.29, RSI(talib): 62.07
+GE, Close: 275.20, RSI(talib): 61.02
+RIVN, Close: 13.57, RSI(talib): 63.88
+GD, Close: 324.57, RSI(talib): 71.18
+NOC, Close: 590.04, RSI(talib): 64.75
+LHX, Close: 277.62, RSI(talib): 68.06
+RKLB, Close: 48.60, RSI(talib): 62.50
+TEM, Close: 75.86, RSI(talib): 61.22
+--------------
+LMT failed (Can't get stock info: LMT, Current Price: 455.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 454.06596777174207, 200 Day Average: None, RSI: 60.639299090571484).
+CMCSA failed (Can't get stock info: CMCSA, Current Price: 33.970001220703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 34.419335259331596, 200 Day Average: None, RSI: 53.76718351285135).
+VRTX failed (Can't get stock info: VRTX, Current Price: 391.0199890136719, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 459.1261102888319, 200 Day Average: None, RSI: 40.62353055035884).
+PAYX failed (Can't get stock info: PAYX, Current Price: 139.4600067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 146.1247680452135, 200 Day Average: None, RSI: 47.96975826942804).
+XEL failed (Can't get stock info: XEL, Current Price: 72.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.47283543480768, 200 Day Average: None, RSI: 51.9253770073618).
+VRSK failed (Can't get stock info: VRSK, Current Price: 268.1199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 294.2619525061713, 200 Day Average: None, RSI: 39.29169232877511).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.9232296563883, 200 Day Average: None, RSI: nan).
+ODFL failed (Can't get stock info: ODFL, Current Price: 150.97000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 164.16113132900662, 200 Day Average: None, RSI: 46.71671400040396).
+ACHR failed (Can't get stock info: ACHR, Current Price: 8.949999809265137, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 9.411319454511007, 200 Day Average: None, RSI: 39.85629994975554).

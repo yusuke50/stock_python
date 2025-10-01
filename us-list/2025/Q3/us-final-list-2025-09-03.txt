@@ -1,0 +1,30 @@
+--------------
+Wed Sep  3 19:38:32 2025 US Stock List
+--------------
+AZN, Close: 80.19, RSI(talib): 67.77
+JNJ, Close: 178.06, RSI(talib): 70.85
+BA, Close: 237.38, RSI(talib): 61.79
+MA, Close: 591.87, RSI(talib): 60.27
+ROKU, Close: 95.86, RSI(talib): 60.40
+GE, Close: 275.39, RSI(talib): 61.25
+RIVN, Close: 13.87, RSI(talib): 67.12
+GD, Close: 324.39, RSI(talib): 70.63
+NOC, Close: 589.32, RSI(talib): 65.84
+RKLB, Close: 49.31, RSI(talib): 63.95
+KTOS, Close: 66.09, RSI(talib): 60.23
+TEM, Close: 78.34, RSI(talib): 64.08
+--------------
+CSCO failed (Can't get stock info: CSCO, Current Price: 67.80000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.47597577836778, 200 Day Average: None, RSI: 46.7675331393686).
+ADBE failed (Can't get stock info: ADBE, Current Price: 345.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 388.86493004692926, 200 Day Average: None, RSI: 41.565398583314256).
+CMCSA failed (Can't get stock info: CMCSA, Current Price: 34.130001068115234, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 34.42755410406325, 200 Day Average: None, RSI: 55.24181781680853).
+QCOM failed (Can't get stock info: QCOM, Current Price: 158.77999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 153.04136329227023, 200 Day Average: None, RSI: 55.04338399472834).
+LRCX failed (Can't get stock info: LRCX, Current Price: 97.02999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 85.43987385431926, 200 Day Average: None, RSI: 42.82941725958829).
+GILD failed (Can't get stock info: GILD, Current Price: 112.70999908447266, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 108.73622401555379, 200 Day Average: None, RSI: 43.4388227504093).
+AEP failed (Can't get stock info: AEP, Current Price: 110.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 104.68915547264947, 200 Day Average: None, RSI: 46.10542645463022).
+CRWD failed (Can't get stock info: CRWD, Current Price: 413.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 427.39531156751843, 200 Day Average: None, RSI: 37.22720218639535).
+CDNS failed (Can't get stock info: CDNS, Current Price: 342.80999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 298.5053473578559, 200 Day Average: None, RSI: 47.1887770633642).
+MNST failed (Can't get stock info: MNST, Current Price: 62.66999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 59.22256946563721, 200 Day Average: None, RSI: 50.21243109158057).
+LULU failed (Can't get stock info: LULU, Current Price: 200.2100067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 276.3645828035143, 200 Day Average: None, RSI: 44.00760055119632).
+MTCH failed (Can't get stock info: MTCH, Current Price: 36.97999954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.875922176573013, 200 Day Average: None, RSI: 56.72263316639131).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.7979014260428, 200 Day Average: None, RSI: nan).
+NTES failed (Can't get stock info: NTES, Current Price: 135.7100067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.01355706320868, 200 Day Average: None, RSI: 56.83732046795667).

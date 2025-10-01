@@ -1,0 +1,29 @@
+--------------
+Mon Aug 25 19:59:14 2025 US Stock List
+--------------
+RTX, Close: 156.24, RSI(talib): 61.16
+BKNG, Close: 5720.87, RSI(talib): 61.20
+AEP, Close: 114.02, RSI(talib): 65.06
+ORLY, Close: 102.31, RSI(talib): 61.03
+IDXX, Close: 645.55, RSI(talib): 60.70
+WBA, Close: 12.07, RSI(talib): 66.97
+AZN, Close: 80.97, RSI(talib): 74.16
+EBAY, Close: 99.22, RSI(talib): 71.03
+JNJ, Close: 179.29, RSI(talib): 77.95
+NOC, Close: 592.44, RSI(talib): 74.15
+LHX, Close: 275.77, RSI(talib): 67.85
+KTOS, Close: 66.71, RSI(talib): 65.23
+TEM, Close: 80.52, RSI(talib): 68.97
+--------------
+NFLX failed (Can't get stock info: NFLX, Current Price: 1204.6500244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1105.4837238180226, 200 Day Average: None, RSI: 46.227648259297474).
+HON failed (Can't get stock info: HON, Current Price: 222.8300018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 215.435753447434, 200 Day Average: None, RSI: 55.797815771714056).
+BIDU failed (Can't get stock info: BIDU, Current Price: 90.01000213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 88.72227593783674, 200 Day Average: None, RSI: 54.54366525804751).
+FAST failed (Can't get stock info: FAST, Current Price: 50.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 41.0283670622727, 200 Day Average: None, RSI: 73.45874881590106).
+CPRT failed (Can't get stock info: CPRT, Current Price: 48.959999084472656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 53.681448416874325, 200 Day Average: None, RSI: 64.19856285278779).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.7023948861771, 200 Day Average: None, RSI: 70.17496388542965).
+HD failed (Can't get stock info: HD, Current Price: 412.7900085449219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 372.19787239863956, 200 Day Average: None, RSI: 67.62235964622995).
+MA failed (Can't get stock info: MA, Current Price: 598.9600219726562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 555.9006318191002, 200 Day Average: None, RSI: 72.80549556186597).
+ROKU failed (Can't get stock info: ROKU, Current Price: 94.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 78.10927610726192, 200 Day Average: None, RSI: 60.162092230605204).
+T failed (Can't get stock info: T, Current Price: 28.770000457763672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.913352400681067, 200 Day Average: None, RSI: 57.96957950899455).
+CL failed (Can't get stock info: CL, Current Price: 85.94000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 89.19503405340787, 200 Day Average: None, RSI: 51.28158499213108).
+RIVN failed (Can't get stock info: RIVN, Current Price: 13.09000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 12.921482763619258, 200 Day Average: None, RSI: 55.72273505867011).

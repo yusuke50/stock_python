@@ -1,0 +1,39 @@
+--------------
+Tue Sep 30 19:22:33 2025 US Stock List
+--------------
+SIG, Close: 96.70, RSI(talib): 64.62
+HII, Close: 279.53, RSI(talib): 60.60
+RTX, Close: 163.63, RSI(talib): 66.09
+INTC, Close: 34.48, RSI(talib): 76.17
+MU, Close: 163.90, RSI(talib): 70.26
+LRCX, Close: 131.09, RSI(talib): 77.39
+MELI, Close: 2501.31, RSI(talib): 60.03
+ASML, Close: 962.61, RSI(talib): 80.54
+KLAC, Close: 1064.13, RSI(talib): 75.34
+ORLY, Close: 107.55, RSI(talib): 64.39
+CRWD, Close: 488.45, RSI(talib): 64.53
+MNST, Close: 66.96, RSI(talib): 67.05
+XEL, Close: 80.05, RSI(talib): 78.85
+EA, Close: 202.05, RSI(talib): 80.57
+BIDU, Close: 134.86, RSI(talib): 69.33
+ZS, Close: 296.90, RSI(talib): 61.33
+NTES, Close: 151.36, RSI(talib): 60.28
+PDD, Close: 130.67, RSI(talib): 62.35
+JNJ, Close: 181.62, RSI(talib): 66.83
+GM, Close: 61.12, RSI(talib): 73.60
+JPM, Close: 315.69, RSI(talib): 69.51
+WBD, Close: 18.86, RSI(talib): 67.43
+GD, Close: 332.17, RSI(talib): 70.98
+NOC, Close: 593.99, RSI(talib): 62.13
+LHX, Close: 296.95, RSI(talib): 75.60
+HWM, Close: 191.92, RSI(talib): 60.62
+AVAV, Close: 308.69, RSI(talib): 74.95
+KTOS, Close: 88.08, RSI(talib): 80.46
+CAT, Close: 471.61, RSI(talib): 70.00
+--------------
+AMAT failed (Can't get stock info: AMAT, Current Price: 204.9499969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 166.7997077678812, 200 Day Average: None, RSI: 76.56130168640877).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.333911295860045, 200 Day Average: None, RSI: 62.635211093671884).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+VRSN failed (Can't get stock info: VRSN, Current Price: 284.30999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 269.8051773597454, 200 Day Average: None, RSI: 57.53578214264744).
+WMT failed (Can't get stock info: WMT, Current Price: 103.08000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.80297546386718, 200 Day Average: None, RSI: 58.759373920714296).
+ENPH failed (Can't get stock info: ENPH, Current Price: 36.08000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.29000019205028, 200 Day Average: None, RSI: 46.42395470604932).

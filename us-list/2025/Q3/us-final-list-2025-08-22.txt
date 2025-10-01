@@ -1,0 +1,34 @@
+--------------
+Fri Aug 22 22:13:39 2025 US Stock List
+--------------
+BKNG, Close: 5749.78, RSI(talib): 62.36
+AEP, Close: 114.42, RSI(talib): 61.48
+ORLY, Close: 103.38, RSI(talib): 61.85
+MNST, Close: 64.64, RSI(talib): 60.51
+WBA, Close: 12.19, RSI(talib): 79.34
+AZN, Close: 81.37, RSI(talib): 72.82
+EBAY, Close: 99.06, RSI(talib): 69.10
+FAST, Close: 49.95, RSI(talib): 67.22
+JNJ, Close: 181.03, RSI(talib): 77.48
+MA, Close: 600.47, RSI(talib): 68.94
+T, Close: 29.53, RSI(talib): 73.75
+NOC, Close: 598.62, RSI(talib): 79.38
+KTOS, Close: 65.91, RSI(talib): 60.20
+TEM, Close: 79.10, RSI(talib): 66.09
+--------------
+HII failed (Can't get stock info: HII, Current Price: 268.9049987792969, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 220.7822550806506, 200 Day Average: None, RSI: 55.634100306436885).
+LMT failed (Can't get stock info: LMT, Current Price: 451.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 454.57836893015894, 200 Day Average: None, RSI: 56.72024639548554).
+AAPL failed (Can't get stock info: AAPL, Current Price: 226.0399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 214.22497358650998, 200 Day Average: None, RSI: 59.10752630046765).
+AMD failed (Can't get stock info: AMD, Current Price: 162.88800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 122.14103419862944, 200 Day Average: None, RSI: 47.745404631692224).
+TXN failed (Can't get stock info: TXN, Current Price: 204.30999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 183.98251605856007, 200 Day Average: None, RSI: 60.7167761532558).
+ISRG failed (Can't get stock info: ISRG, Current Price: 471.67999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 525.4269640692349, 200 Day Average: None, RSI: 35.71085825534456).
+ILMN failed (Can't get stock info: ILMN, Current Price: 100.04499816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 91.68551735713564, 200 Day Average: None, RSI: 51.17972670039013).
+IDXX failed (Can't get stock info: IDXX, Current Price: 638.5599975585938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 491.57862001616377, 200 Day Average: None, RSI: 57.79812636200372).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.8996248881022, 200 Day Average: None, RSI: 70.85078895836445).
+SIRI failed (Can't get stock info: SIRI, Current Price: 22.799999237060547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.268652633140828, 200 Day Average: None, RSI: 50.362424344751325).
+CEG failed (Can't get stock info: CEG, Current Price: 316.239990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 278.2595995672818, 200 Day Average: None, RSI: 39.595480317652914).
+BA failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/BA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/BA/key-statistics", waiting until "domcontentloaded"
+).
+VZ failed (Can't get stock info: VZ, Current Price: 45.255001068115234, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 42.158160689781454, 200 Day Average: None, RSI: 73.18054176587441).

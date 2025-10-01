@@ -1,0 +1,24 @@
+--------------
+Fri Sep  5 18:48:55 2025 US Stock List
+--------------
+RTX, Close: 158.68, RSI(talib): 61.86
+ORLY, Close: 105.04, RSI(talib): 66.50
+AZN, Close: 81.78, RSI(talib): 71.19
+BIDU, Close: 98.21, RSI(talib): 66.46
+FAST, Close: 50.27, RSI(talib): 66.57
+PDD, Close: 123.87, RSI(talib): 61.26
+JNJ, Close: 178.76, RSI(talib): 72.09
+MA, Close: 595.64, RSI(talib): 63.28
+ROKU, Close: 97.15, RSI(talib): 61.04
+T, Close: 29.58, RSI(talib): 64.16
+GE, Close: 282.27, RSI(talib): 68.81
+GD, Close: 322.44, RSI(talib): 64.70
+TEM, Close: 78.12, RSI(talib): 62.36
+--------------
+GOOG failed (Can't get stock info: GOOG, Current Price: 232.66000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 177.1170875761244, 200 Day Average: None, RSI: 84.453400835403).
+CSCO failed (Can't get stock info: CSCO, Current Price: 67.98999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.56201216909621, 200 Day Average: None, RSI: 47.982734963841025).
+EXC failed (Can't get stock info: EXC, Current Price: 43.34000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.585184044308136, 200 Day Average: None, RSI: 40.91097883143298).
+WBA failed (Can't get stock info: WBA, Current Price: 11.979999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.226464291981289, 200 Day Average: None, RSI: 57.16548001384007).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.5430450439453, 200 Day Average: None, RSI: nan).
+SWKS failed (Can't get stock info: SWKS, Current Price: 74.63999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.07382840580411, 200 Day Average: None, RSI: 54.08430680101033).
+JPM failed (Can't get stock info: JPM, Current Price: 303.82000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 265.51048935784235, 200 Day Average: None, RSI: 64.19629582871605).

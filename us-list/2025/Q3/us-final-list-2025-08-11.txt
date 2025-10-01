@@ -1,0 +1,30 @@
+--------------
+Mon Aug 11 19:18:59 2025 US Stock List
+--------------
+META, Close: 769.30, RSI(talib): 61.35
+AVGO, Close: 304.97, RSI(talib): 65.14
+CSCO, Close: 71.79, RSI(talib): 69.09
+LRCX, Close: 101.75, RSI(talib): 60.41
+GILD, Close: 119.41, RSI(talib): 62.91
+AEP, Close: 112.50, RSI(talib): 66.03
+ORLY, Close: 103.33, RSI(talib): 71.47
+IDXX, Close: 658.06, RSI(talib): 67.49
+MNST, Close: 64.69, RSI(talib): 64.97
+WBA, Close: 11.94, RSI(talib): 86.51
+DLTR, Close: 116.12, RSI(talib): 69.91
+FAST, Close: 47.99, RSI(talib): 69.55
+WMT, Close: 103.73, RSI(talib): 76.63
+GE, Close: 275.01, RSI(talib): 65.50
+CSGP, Close: 94.50, RSI(talib): 64.80
+KTOS, Close: 63.88, RSI(talib): 71.08
+--------------
+MRVL failed (Can't get stock info: MRVL, Current Price: 77.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 76.83751029438443, 200 Day Average: None, RSI: 56.33080333240661).
+EXC failed (Can't get stock info: EXC, Current Price: 45.31999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.251250452465484, 200 Day Average: None, RSI: 60.748156783557626).
+EBAY failed (Can't get stock info: EBAY, Current Price: 93.13999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 71.20769837167528, 200 Day Average: None, RSI: 74.58488755132916).
+CPRT failed (Can't get stock info: CPRT, Current Price: 46.189998626708984, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 54.31159737375047, 200 Day Average: None, RSI: 43.811941465048506).
+ANSS failed (Can't get stock info: ANSS, Current Price: 374.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 334.7750389575958, 200 Day Average: None, RSI: 61.92608215271262).
+CRM failed (Can't get stock info: CRM, Current Price: 240.50999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 281.3486678865221, 200 Day Average: None, RSI: 28.513942753249378).
+ORCL failed (Can't get stock info: ORCL, Current Price: 250.0500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 177.09072176615396, 200 Day Average: None, RSI: 59.88849097656694).
+CL failed (Can't get stock info: CL, Current Price: 84.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 89.30086941189236, 200 Day Average: None, RSI: 36.69807723729437).
+RKLB failed (Can't get stock info: RKLB, Current Price: 44.689998626708984, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 27.89236111111111, 200 Day Average: None, RSI: 57.67392781233502).
+AXON failed (Can't get stock info: AXON, Current Price: 842.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 661.7797908782959, 200 Day Average: None, RSI: 63.27338817610273).
