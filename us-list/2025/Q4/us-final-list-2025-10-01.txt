@@ -1,0 +1,43 @@
+--------------
+Wed Oct  1 19:21:51 2025 US Stock List
+--------------
+SIG, Close: 95.92, RSI(talib): 61.97
+HII, Close: 287.91, RSI(talib): 70.29
+RTX, Close: 167.33, RSI(talib): 72.50
+NVDA, Close: 186.58, RSI(talib): 62.51
+INTC, Close: 33.55, RSI(talib): 71.32
+MU, Close: 167.32, RSI(talib): 71.94
+LRCX, Close: 133.90, RSI(talib): 79.07
+ASML, Close: 968.09, RSI(talib): 80.87
+KLAC, Close: 1078.60, RSI(talib): 76.37
+AEP, Close: 112.50, RSI(talib): 61.66
+ORLY, Close: 107.81, RSI(talib): 64.17
+CRWD, Close: 490.38, RSI(talib): 64.48
+EXC, Close: 45.01, RSI(talib): 63.37
+MNST, Close: 67.31, RSI(talib): 67.65
+XEL, Close: 80.65, RSI(talib): 79.62
+EA, Close: 201.70, RSI(talib): 79.75
+BIDU, Close: 131.77, RSI(talib): 64.91
+ZS, Close: 299.66, RSI(talib): 62.42
+FAST, Close: 49.04, RSI(talib): 60.49
+NTES, Close: 151.99, RSI(talib): 60.52
+PDD, Close: 132.17, RSI(talib): 64.67
+JNJ, Close: 185.42, RSI(talib): 72.30
+GM, Close: 60.97, RSI(talib): 71.78
+JPM, Close: 315.43, RSI(talib): 67.70
+GE, Close: 300.82, RSI(talib): 63.84
+WBD, Close: 19.53, RSI(talib): 70.25
+GD, Close: 341.00, RSI(talib): 79.18
+NOC, Close: 609.32, RSI(talib): 71.27
+LHX, Close: 305.41, RSI(talib): 81.02
+HWM, Close: 196.23, RSI(talib): 66.62
+AVAV, Close: 314.89, RSI(talib): 76.11
+KTOS, Close: 91.37, RSI(talib): 82.48
+CAT, Close: 477.15, RSI(talib): 71.86
+--------------
+LMT failed (Can't get stock info: LMT, Current Price: 499.2099914550781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 456.28592655576506, 200 Day Average: None, RSI: 83.24360294357578).
+COST failed (Can't get stock info: COST, Current Price: 925.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 969.1609804350754, 200 Day Average: None, RSI: 39.86296700022151).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.337967484947143, 200 Day Average: None, RSI: 62.97143887628944).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CVX failed (Can't get stock info: CVX, Current Price: 155.2899932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 147.72973096124056, 200 Day Average: None, RSI: 46.37943996372854).
+FANG failed (Can't get stock info: FANG, Current Price: 143.10000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 140.90725639606345, 200 Day Average: None, RSI: 50.67774959635396).

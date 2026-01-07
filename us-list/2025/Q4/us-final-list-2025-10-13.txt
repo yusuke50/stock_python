@@ -1,0 +1,28 @@
+--------------
+Mon Oct 13 20:09:07 2025 US Stock List
+--------------
+INTC, Close: 36.37, RSI(talib): 66.99
+AMD, Close: 214.90, RSI(talib): 67.58
+MU, Close: 181.60, RSI(talib): 61.34
+AEP, Close: 117.04, RSI(talib): 68.81
+EXC, Close: 47.07, RSI(talib): 75.58
+MNST, Close: 69.62, RSI(talib): 72.77
+XEL, Close: 80.93, RSI(talib): 70.92
+AZN, Close: 84.53, RSI(talib): 64.20
+EA, Close: 200.02, RSI(talib): 73.05
+ZS, Close: 309.88, RSI(talib): 61.64
+CEG, Close: 368.49, RSI(talib): 62.18
+JNJ, Close: 190.72, RSI(talib): 76.70
+NOC, Close: 623.49, RSI(talib): 65.81
+RKLB, Close: 64.26, RSI(talib): 70.14
+ACHR, Close: 11.97, RSI(talib): 61.60
+AVAV, Close: 392.29, RSI(talib): 80.03
+KTOS, Close: 94.63, RSI(talib): 62.21
+TEM, Close: 96.39, RSI(talib): 63.25
+CAT, Close: 491.30, RSI(talib): 65.05
+--------------
+AMAT failed (Can't get stock info: AMAT, Current Price: 209.9499969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 170.8517217175714, 200 Day Average: None, RSI: 56.270356371726685).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.353478265845258, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+OKTA failed (Can't get stock info: OKTA, Current Price: 89.3499984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 100.53686191953462, 200 Day Average: None, RSI: 44.744504432040536).
+PG failed (Can't get stock info: PG, Current Price: 149.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 158.9693115234375, 200 Day Average: None, RSI: 37.06788282737577).

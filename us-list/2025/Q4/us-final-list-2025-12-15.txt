@@ -1,0 +1,33 @@
+--------------
+Mon Dec 15 19:13:07 2025 US Stock List
+--------------
+HII, Close: 326.92, RSI(talib): 64.59
+RTX, Close: 178.66, RSI(talib): 66.44
+AAPL, Close: 278.28, RSI(talib): 60.62
+TSLA, Close: 458.96, RSI(talib): 60.79
+QCOM, Close: 178.29, RSI(talib): 60.59
+ADI, Close: 279.32, RSI(talib): 68.45
+CSX, Close: 37.39, RSI(talib): 71.12
+ILMN, Close: 134.87, RSI(talib): 69.78
+EA, Close: 203.73, RSI(talib): 67.46
+ROST, Close: 182.09, RSI(talib): 77.33
+PCAR, Close: 111.56, RSI(talib): 68.27
+ZM, Close: 89.52, RSI(talib): 64.39
+JNJ, Close: 211.58, RSI(talib): 72.45
+BAC, Close: 55.14, RSI(talib): 69.43
+DAL, Close: 69.81, RSI(talib): 69.67
+GM, Close: 80.89, RSI(talib): 83.01
+ROKU, Close: 107.47, RSI(talib): 65.83
+WFC, Close: 92.76, RSI(talib): 72.49
+WMT, Close: 116.70, RSI(talib): 68.59
+WBD, Close: 29.98, RSI(talib): 88.18
+RIVN, Close: 18.42, RSI(talib): 64.89
+RKLB, Close: 61.49, RSI(talib): 65.79
+--------------
+SBUX failed (Can't get stock info: SBUX, Current Price: 85.3499984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 86.68663166966931, 200 Day Average: None, RSI: 52.45793115097721).
+MDLZ failed (Can't get stock info: MDLZ, Current Price: 54.040000915527344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 62.35327650925209, 200 Day Average: None, RSI: 31.988902115717288).
+DXCM failed (Can't get stock info: DXCM, Current Price: 66.95999908447266, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 74.88993111972151, 200 Day Average: None, RSI: 60.05035962143065).
+IDXX failed (Can't get stock info: IDXX, Current Price: 704.2000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 615.5024824471309, 200 Day Average: None, RSI: 49.83164694743755).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+TDG failed (Can't get stock info: TDG, Current Price: 1294.6500244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1344.7793482287177, 200 Day Average: None, RSI: 43.2587236461849).

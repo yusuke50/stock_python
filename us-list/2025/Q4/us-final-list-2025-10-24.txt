@@ -1,0 +1,37 @@
+--------------
+Fri Oct 24 21:39:19 2025 US Stock List
+--------------
+SIG, Close: 105.28, RSI(talib): 66.58
+RTX, Close: 179.80, RSI(talib): 73.84
+GOOG, Close: 257.23, RSI(talib): 62.22
+INTC, Close: 40.29, RSI(talib): 64.84
+AMD, Close: 247.99, RSI(talib): 67.48
+AMAT, Close: 229.54, RSI(talib): 63.99
+MU, Close: 213.51, RSI(talib): 68.16
+LRCX, Close: 150.11, RSI(talib): 63.81
+GILD, Close: 119.40, RSI(talib): 60.36
+PANW, Close: 217.44, RSI(talib): 61.70
+ASML, Close: 1041.37, RSI(talib): 64.38
+KLAC, Close: 1167.42, RSI(talib): 63.80
+CRWD, Close: 533.27, RSI(talib): 64.55
+EXC, Close: 47.76, RSI(talib): 64.03
+MNST, Close: 69.86, RSI(talib): 63.14
+EA, Close: 200.62, RSI(talib): 73.68
+ZS, Close: 323.80, RSI(talib): 64.23
+JNJ, Close: 191.70, RSI(talib): 69.66
+GM, Close: 67.68, RSI(talib): 73.27
+WMT, Close: 106.45, RSI(talib): 61.92
+GE, Close: 308.29, RSI(talib): 61.09
+WBD, Close: 21.51, RSI(talib): 73.47
+GD, Close: 354.53, RSI(talib): 61.37
+HWM, Close: 201.10, RSI(talib): 62.64
+CAT, Close: 524.95, RSI(talib): 62.23
+--------------
+GOOGL failed (Can't get stock info: GOOGL, Current Price: 256.37249755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 193.4373039508688, 200 Day Average: None, RSI: 61.9752518846008).
+VRTX failed (Can't get stock info: VRTX, Current Price: 422.1499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 436.6657910577182, 200 Day Average: None, RSI: 63.650218487010434).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.370849060562422, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CEG failed (Can't get stock info: CEG, Current Price: 375.1268005371094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 301.65902594204607, 200 Day Average: None, RSI: 52.95228829809741).
+BMY failed (Can't get stock info: BMY, Current Price: 43.7400016784668, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 46.75637141260607, 200 Day Average: None, RSI: 44.5089523882765).
+LLY failed (Can't get stock info: LLY, Current Price: 818.2080078125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 767.3595879916487, 200 Day Average: None, RSI: 59.03751656822603).
+MCD failed (Can't get stock info: MCD, Current Price: 306.3699951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 304.0342859728583, 200 Day Average: None, RSI: 55.09757485142431).

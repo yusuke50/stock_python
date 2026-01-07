@@ -1,0 +1,37 @@
+--------------
+Mon Dec  1 19:18:10 2025 US Stock List
+--------------
+AAPL, Close: 278.85, RSI(talib): 66.65
+GOOG, Close: 320.12, RSI(talib): 73.31
+GOOGL, Close: 320.18, RSI(talib): 73.10
+AVGO, Close: 402.96, RSI(talib): 68.12
+CSCO, Close: 76.94, RSI(talib): 62.22
+INTC, Close: 40.56, RSI(talib): 63.22
+AMAT, Close: 252.25, RSI(talib): 62.89
+ADI, Close: 265.34, RSI(talib): 69.37
+MAR, Close: 304.79, RSI(talib): 73.56
+ILMN, Close: 131.45, RSI(talib): 71.94
+AEP, Close: 123.77, RSI(talib): 64.93
+IDXX, Close: 752.88, RSI(talib): 67.14
+MNST, Close: 74.99, RSI(talib): 70.01
+XEL, Close: 82.11, RSI(talib): 61.18
+AZN, Close: 92.72, RSI(talib): 72.22
+ROST, Close: 176.36, RSI(talib): 75.03
+BIIB, Close: 182.09, RSI(talib): 77.69
+JNJ, Close: 206.92, RSI(talib): 82.23
+DAL, Close: 64.10, RSI(talib): 63.48
+GM, Close: 73.52, RSI(talib): 68.50
+WMT, Close: 110.51, RSI(talib): 67.17
+BKR, Close: 50.20, RSI(talib): 61.17
+WBD, Close: 24.00, RSI(talib): 65.85
+RIVN, Close: 16.86, RSI(talib): 64.00
+CAT, Close: 575.76, RSI(talib): 62.73
+--------------
+SBUX failed (Can't get stock info: SBUX, Current Price: 87.11000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 86.53397332553206, 200 Day Average: None, RSI: 57.14371274396206).
+KLAC failed (Can't get stock info: KLAC, Current Price: 1175.469970703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 957.6572008856411, 200 Day Average: None, RSI: 52.70618632284515).
+CDNS failed (Can't get stock info: CDNS, Current Price: 311.8399963378906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 328.8928965601428, 200 Day Average: None, RSI: 42.32303844909849).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NTES failed (Can't get stock info: NTES, Current Price: 138.0500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 135.12276837579134, 200 Day Average: None, RSI: 43.97258179296158).
+CVX failed (Can't get stock info: CVX, Current Price: 151.1300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 148.19247057684538, 200 Day Average: None, RSI: 48.08219780723639).
+LLY failed (Can't get stock info: LLY, Current Price: 1075.469970703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 795.355036873653, 200 Day Average: None, RSI: 73.10679529416429).

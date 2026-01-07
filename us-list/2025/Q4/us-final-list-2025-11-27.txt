@@ -1,0 +1,29 @@
+--------------
+Thu Nov 27 19:18:51 2025 US Stock List
+--------------
+AAPL, Close: 277.55, RSI(talib): 65.95
+GOOG, Close: 320.28, RSI(talib): 73.72
+GOOGL, Close: 319.95, RSI(talib): 73.23
+AVGO, Close: 397.57, RSI(talib): 67.33
+AMAT, Close: 249.97, RSI(talib): 63.10
+ADI, Close: 257.92, RSI(talib): 65.47
+GILD, Close: 127.51, RSI(talib): 61.97
+MAR, Close: 304.65, RSI(talib): 73.39
+ILMN, Close: 129.81, RSI(talib): 71.37
+AEP, Close: 122.72, RSI(talib): 63.00
+IDXX, Close: 755.96, RSI(talib): 68.12
+MNST, Close: 75.04, RSI(talib): 70.79
+AZN, Close: 93.32, RSI(talib): 78.39
+ROST, Close: 177.69, RSI(talib): 80.55
+BIIB, Close: 181.94, RSI(talib): 79.97
+JNJ, Close: 207.56, RSI(talib): 85.52
+DAL, Close: 64.27, RSI(talib): 63.65
+GM, Close: 72.81, RSI(talib): 65.85
+WMT, Close: 109.10, RSI(talib): 64.02
+WBD, Close: 23.88, RSI(talib): 65.64
+CAT, Close: 573.73, RSI(talib): 62.67
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+BAC failed (Can't get stock info: BAC, Current Price: 52.9900016784668, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 48.15609419835757, 200 Day Average: None, RSI: 53.70440166012905).
+VST failed (Can't get stock info: VST, Current Price: 176.8000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 186.33537752334385, 200 Day Average: None, RSI: 45.79462751932323).

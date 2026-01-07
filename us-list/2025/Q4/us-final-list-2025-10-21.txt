@@ -1,0 +1,29 @@
+--------------
+Tue Oct 21 19:30:59 2025 US Stock List
+--------------
+SIG, Close: 104.91, RSI(talib): 67.07
+GOOG, Close: 257.02, RSI(talib): 69.00
+GOOGL, Close: 256.55, RSI(talib): 69.02
+CSCO, Close: 70.65, RSI(talib): 62.50
+INTC, Close: 38.10, RSI(talib): 67.47
+AMD, Close: 240.56, RSI(talib): 73.45
+AMAT, Close: 228.13, RSI(talib): 66.93
+MU, Close: 206.77, RSI(talib): 71.86
+LRCX, Close: 144.05, RSI(talib): 62.93
+GILD, Close: 123.11, RSI(talib): 71.23
+ASML, Close: 1042.15, RSI(talib): 68.77
+KLAC, Close: 1152.89, RSI(talib): 66.17
+AEP, Close: 117.82, RSI(talib): 65.28
+EXC, Close: 48.24, RSI(talib): 74.23
+MNST, Close: 69.76, RSI(talib): 64.21
+XEL, Close: 81.28, RSI(talib): 64.92
+EA, Close: 200.59, RSI(talib): 74.71
+JNJ, Close: 193.72, RSI(talib): 79.64
+WFC, Close: 86.02, RSI(talib): 60.51
+WMT, Close: 107.05, RSI(talib): 63.78
+GE, Close: 302.68, RSI(talib): 62.08
+RKLB, Close: 67.35, RSI(talib): 68.49
+CAT, Close: 531.18, RSI(talib): 70.38
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.364128445266584, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

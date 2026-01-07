@@ -1,0 +1,38 @@
+--------------
+Fri Oct 10 21:58:13 2025 US Stock List
+--------------
+NVDA, Close: 192.77, RSI(talib): 66.18
+CSCO, Close: 70.65, RSI(talib): 61.20
+INTC, Close: 38.78, RSI(talib): 76.11
+AMD, Close: 230.10, RSI(talib): 82.97
+MU, Close: 192.20, RSI(talib): 72.50
+LRCX, Close: 141.34, RSI(talib): 66.20
+PANW, Close: 216.69, RSI(talib): 70.53
+ASML, Close: 969.62, RSI(talib): 64.47
+AEP, Close: 117.25, RSI(talib): 69.39
+CRWD, Close: 514.79, RSI(talib): 66.45
+EXC, Close: 47.02, RSI(talib): 73.18
+MNST, Close: 69.50, RSI(talib): 71.52
+XEL, Close: 82.02, RSI(talib): 73.35
+AZN, Close: 85.38, RSI(talib): 67.74
+EA, Close: 200.32, RSI(talib): 74.39
+ZS, Close: 319.70, RSI(talib): 66.42
+CEG, Close: 383.38, RSI(talib): 71.71
+GD, Close: 340.45, RSI(talib): 67.77
+NOC, Close: 629.39, RSI(talib): 77.68
+RKLB, Close: 72.36, RSI(talib): 75.09
+ACHR, Close: 12.62, RSI(talib): 69.59
+AVAV, Close: 406.30, RSI(talib): 84.37
+KTOS, Close: 101.78, RSI(talib): 70.65
+TEM, Close: 98.97, RSI(talib): 69.47
+CAT, Close: 505.99, RSI(talib): 73.91
+--------------
+DXCM failed (Can't get stock info: DXCM, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.61289670220737, 200 Day Average: None, RSI: 41.62176100356081).
+TEAM failed (Can't get stock info: TEAM, Current Price: 148.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 194.71951778017242, 200 Day Average: None, RSI: 31.30749050221028).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.352413794090008, 200 Day Average: None, RSI: nan).
+DLTR failed (Can't get stock info: DLTR, Current Price: 90.80500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 94.08379327182112, 200 Day Average: None, RSI: 34.276652740895344).
+BIIB failed (Can't get stock info: BIIB, Current Price: 149.02499389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 132.00710354509025, 200 Day Average: None, RSI: 57.669406549658675).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NTES failed (Can't get stock info: NTES, Current Price: 155.875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 124.95639885211813, 200 Day Average: None, RSI: 56.347745459839714).
+JNJ failed (Can't get stock info: JNJ, Current Price: 191.14999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 162.58395596208243, 200 Day Average: None, RSI: 78.25367475043818).
+VZ failed (Can't get stock info: VZ, Current Price: 40.29999923706055, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 42.84483426850417, 200 Day Average: None, RSI: 29.78875944710671).

@@ -1,0 +1,40 @@
+--------------
+Tue Dec 23 19:07:44 2025 US Stock List
+--------------
+HII, Close: 353.52, RSI(talib): 73.53
+RTX, Close: 185.68, RSI(talib): 67.03
+TSLA, Close: 488.73, RSI(talib): 63.86
+MU, Close: 276.59, RSI(talib): 64.85
+ADI, Close: 275.82, RSI(talib): 61.26
+LRCX, Close: 175.26, RSI(talib): 63.46
+MAR, Close: 313.75, RSI(talib): 66.40
+KLAC, Close: 1265.66, RSI(talib): 60.57
+ILMN, Close: 137.60, RSI(talib): 68.22
+MNST, Close: 77.66, RSI(talib): 67.07
+EA, Close: 203.79, RSI(talib): 61.80
+ROST, Close: 180.68, RSI(talib): 65.12
+ZM, Close: 89.99, RSI(talib): 60.94
+BAC, Close: 55.88, RSI(talib): 67.56
+DAL, Close: 72.06, RSI(talib): 70.00
+GM, Close: 83.03, RSI(talib): 77.32
+JPM, Close: 323.09, RSI(talib): 62.17
+LLY, Close: 1076.48, RSI(talib): 66.23
+ROKU, Close: 109.80, RSI(talib): 63.31
+WFC, Close: 94.28, RSI(talib): 70.77
+GE, Close: 314.73, RSI(talib): 64.22
+WBD, Close: 28.75, RSI(talib): 68.06
+RIVN, Close: 21.75, RSI(talib): 70.56
+NOC, Close: 584.66, RSI(talib): 60.06
+LHX, Close: 295.10, RSI(talib): 60.19
+RKLB, Close: 77.55, RSI(talib): 73.43
+HWM, Close: 208.17, RSI(talib): 62.65
+--------------
+PEP failed (Can't get stock info: PEP, Current Price: 147.0500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 140.58146306913193, 200 Day Average: None, RSI: 46.44877209388099).
+QCOM failed (Can't get stock info: QCOM, Current Price: 174.22000122070312, 52 Week High: 205.95, 52 Week Low: 120.8, 50 Day Average: 171.62, 150 Day Average: 161.5013778895548, 200 Day Average: 158.47, RSI: None).
+AMGN failed (Can't get stock info: AMGN, Current Price: 331.3900146484375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 296.8843649250187, 200 Day Average: None, RSI: 57.68498915265572).
+AMAT failed (Can't get stock info: AMAT, Current Price: 259.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 201.41364037500668, 200 Day Average: None, RSI: 55.262509445281495).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ALGN failed (Can't get stock info: ALGN, Current Price: 159.27999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 154.9890410540855, 200 Day Average: None, RSI: 61.08116069032098).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+PG failed (Can't get stock info: PG, Current Price: 142.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 152.884983010488, 200 Day Average: None, RSI: 42.385738562643844).
+CSGP failed (Can't get stock info: CSGP, Current Price: 66.5999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 79.97650703012127, 200 Day Average: None, RSI: 44.10308625420939).

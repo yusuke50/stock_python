@@ -1,0 +1,21 @@
+--------------
+Thu Dec 18 21:06:15 2025 US Stock List
+--------------
+MAR, Close: 310.07, RSI(talib): 65.75
+EA, Close: 203.63, RSI(talib): 61.94
+DLTR, Close: 128.35, RSI(talib): 71.41
+ROST, Close: 182.74, RSI(talib): 72.69
+PCAR, Close: 111.63, RSI(talib): 65.19
+JNJ, Close: 210.33, RSI(talib): 63.10
+BAC, Close: 54.55, RSI(talib): 60.26
+DAL, Close: 69.72, RSI(talib): 64.38
+GM, Close: 80.51, RSI(talib): 75.40
+ROKU, Close: 107.69, RSI(talib): 61.96
+WFC, Close: 92.59, RSI(talib): 69.00
+WMT, Close: 115.66, RSI(talib): 63.96
+WBD, Close: 28.21, RSI(talib): 69.33
+--------------
+AAPL failed (Can't get stock info: AAPL, Current Price: 271.8399963378906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 236.94046230973868, 200 Day Average: None, RSI: 44.6596076026684).
+PEP failed (Can't get stock info: PEP, Current Price: 150.0800018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 140.2207553205819, 200 Day Average: None, RSI: 57.093848603039945).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

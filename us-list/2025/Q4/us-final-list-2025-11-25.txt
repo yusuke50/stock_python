@@ -1,0 +1,25 @@
+--------------
+Tue Nov 25 19:22:34 2025 US Stock List
+--------------
+AAPL, Close: 275.92, RSI(talib): 64.01
+GOOG, Close: 318.47, RSI(talib): 75.17
+GOOGL, Close: 318.58, RSI(talib): 74.87
+AVGO, Close: 377.96, RSI(talib): 61.25
+CSCO, Close: 76.24, RSI(talib): 60.58
+MAR, Close: 296.23, RSI(talib): 68.85
+ILMN, Close: 125.96, RSI(talib): 68.16
+AEP, Close: 122.04, RSI(talib): 61.75
+IDXX, Close: 752.14, RSI(talib): 70.03
+MNST, Close: 73.24, RSI(talib): 66.22
+AZN, Close: 91.52, RSI(talib): 75.24
+ROST, Close: 174.13, RSI(talib): 77.82
+BIIB, Close: 176.82, RSI(talib): 77.32
+JNJ, Close: 206.05, RSI(talib): 83.41
+GM, Close: 71.00, RSI(talib): 61.26
+--------------
+ADBE failed (Can't get stock info: ADBE, Current Price: 318.7300109863281, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 364.86287574245506, 200 Day Average: None, RSI: 37.44654877717347).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+GE failed (Can't get stock info: GE, Current Price: 294.04998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 269.2668107960322, 200 Day Average: None, RSI: 43.07250433278061).
+BKR failed (Can't get stock info: BKR, Current Price: 49.36000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 42.820622143680104, 200 Day Average: None, RSI: 56.11552800477101).
+NOC failed (Can't get stock info: NOC, Current Price: 565.5599975585938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 547.6747325740448, 200 Day Average: None, RSI: 41.67467662964011).

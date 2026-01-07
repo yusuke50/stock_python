@@ -1,0 +1,48 @@
+--------------
+Thu Oct  9 19:39:38 2025 US Stock List
+--------------
+HII, Close: 290.83, RSI(talib): 66.50
+RTX, Close: 168.57, RSI(talib): 71.90
+CSCO, Close: 70.33, RSI(talib): 64.23
+INTC, Close: 37.43, RSI(talib): 75.42
+AMD, Close: 235.56, RSI(talib): 85.51
+MU, Close: 196.54, RSI(talib): 77.51
+LRCX, Close: 142.54, RSI(talib): 68.77
+GILD, Close: 118.25, RSI(talib): 61.79
+PANW, Close: 217.79, RSI(talib): 76.21
+ASML, Close: 987.81, RSI(talib): 66.70
+AEP, Close: 118.19, RSI(talib): 76.58
+CRWD, Close: 509.95, RSI(talib): 66.93
+EXC, Close: 46.62, RSI(talib): 72.93
+MNST, Close: 68.73, RSI(talib): 70.35
+XEL, Close: 81.85, RSI(talib): 78.06
+AZN, Close: 85.38, RSI(talib): 69.29
+EA, Close: 200.01, RSI(talib): 74.35
+BIDU, Close: 137.90, RSI(talib): 63.57
+ZS, Close: 313.89, RSI(talib): 65.79
+NTES, Close: 153.93, RSI(talib): 60.79
+PDD, Close: 133.77, RSI(talib): 64.41
+CEG, Close: 371.00, RSI(talib): 67.84
+JNJ, Close: 189.69, RSI(talib): 76.41
+GE, Close: 302.56, RSI(talib): 63.41
+GD, Close: 346.44, RSI(talib): 76.63
+NOC, Close: 637.95, RSI(talib): 81.02
+LHX, Close: 306.76, RSI(talib): 72.13
+RKLB, Close: 65.31, RSI(talib): 74.14
+ACHR, Close: 12.46, RSI(talib): 68.59
+AVAV, Close: 407.51, RSI(talib): 90.99
+KTOS, Close: 105.67, RSI(talib): 89.09
+TEM, Close: 103.25, RSI(talib): 77.02
+CAT, Close: 502.12, RSI(talib): 75.57
+--------------
+LMT failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/LMT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LMT/key-statistics", waiting until "domcontentloaded"
+).
+NVDA failed (Can't get stock info: NVDA, Current Price: 189.11000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 148.90588589372305, 200 Day Average: None, RSI: 62.37739162244903).
+ADI failed (Can't get stock info: ADI, Current Price: 237.92999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 222.6406463623047, 200 Day Average: None, RSI: 45.378800600902906).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.351623934558313, 200 Day Average: None, RSI: nan).
+DDOG failed (Can't get stock info: DDOG, Current Price: 164.1199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 123.88137969970703, 200 Day Average: None, RSI: 74.80392355681708).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NKE failed (Can't get stock info: NKE, Current Price: 69.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 67.27374285993905, 200 Day Average: None, RSI: 39.457634944013265).
+VST failed (Can't get stock info: VST, Current Price: 206.5500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 170.09441086341596, 200 Day Average: None, RSI: 54.33649261838772).

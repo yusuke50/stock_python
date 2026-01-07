@@ -1,0 +1,37 @@
+--------------
+Wed Nov  5 20:19:53 2025 US Stock List
+--------------
+HII, Close: 315.90, RSI(talib): 68.03
+RTX, Close: 175.61, RSI(talib): 62.02
+AMZN, Close: 249.32, RSI(talib): 66.06
+GOOG, Close: 278.06, RSI(talib): 69.70
+GOOGL, Close: 277.54, RSI(talib): 69.15
+AMD, Close: 250.05, RSI(talib): 63.32
+MU, Close: 218.03, RSI(talib): 61.84
+LRCX, Close: 155.78, RSI(talib): 62.53
+GILD, Close: 123.00, RSI(talib): 62.83
+KLAC, Close: 1193.49, RSI(talib): 61.67
+AEP, Close: 120.30, RSI(talib): 63.78
+IDXX, Close: 722.12, RSI(talib): 75.22
+CRWD, Close: 533.92, RSI(talib): 61.00
+XEL, Close: 81.59, RSI(talib): 64.00
+EA, Close: 200.78, RSI(talib): 72.78
+ZS, Close: 328.30, RSI(talib): 61.48
+ROST, Close: 162.23, RSI(talib): 65.51
+BAC, Close: 53.54, RSI(talib): 64.29
+GM, Close: 66.87, RSI(talib): 61.34
+ROKU, Close: 106.10, RSI(talib): 61.32
+WFC, Close: 87.13, RSI(talib): 61.79
+WBD, Close: 22.60, RSI(talib): 77.84
+HWM, Close: 205.02, RSI(talib): 63.32
+--------------
+BKNG failed (Can't get stock info: BKNG, Current Price: 4991.759765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 5353.786570581897, 200 Day Average: None, RSI: 38.191634536005054).
+CSX failed (Can't get stock info: CSX, Current Price: 35.84000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 32.85080253337992, 200 Day Average: None, RSI: 54.88378667558137).
+ILMN failed (Can't get stock info: ILMN, Current Price: 116.86000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 92.63917278421336, 200 Day Average: None, RSI: 65.21005900417323).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+BIDU failed (Can't get stock info: BIDU, Current Price: 124.98999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 98.98779344229862, 200 Day Average: None, RSI: 52.443149412144365).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+AMT failed (Can't get stock info: AMT, Current Price: 180.35000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 205.44705526417698, 200 Day Average: None, RSI: 38.46937317450088).
+NOW failed (Can't get stock info: NOW, Current Price: 887.5700073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 941.9741354054418, 200 Day Average: None, RSI: 40.58075676781069).
+CL failed (Can't get stock info: CL, Current Price: 76.55000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 85.48682156266837, 200 Day Average: None, RSI: 43.18827688856837).
+KTOS failed (Can't get stock info: KTOS, Current Price: 90.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 58.500896585398706, 200 Day Average: None, RSI: 53.966721952490836).

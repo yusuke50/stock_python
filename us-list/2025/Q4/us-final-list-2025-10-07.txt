@@ -1,0 +1,42 @@
+--------------
+Tue Oct  7 19:29:27 2025 US Stock List
+--------------
+HII, Close: 288.49, RSI(talib): 67.02
+RTX, Close: 168.80, RSI(talib): 74.43
+MSFT, Close: 528.57, RSI(talib): 63.75
+INTC, Close: 36.59, RSI(talib): 74.11
+AMD, Close: 203.71, RSI(talib): 78.40
+MU, Close: 190.96, RSI(talib): 80.66
+LRCX, Close: 149.15, RSI(talib): 84.27
+PANW, Close: 212.58, RSI(talib): 74.34
+ASML, Close: 1043.30, RSI(talib): 86.84
+KLAC, Close: 1139.71, RSI(talib): 73.80
+AEP, Close: 115.66, RSI(talib): 71.35
+CRWD, Close: 495.95, RSI(talib): 65.53
+EXC, Close: 45.69, RSI(talib): 68.46
+MNST, Close: 67.09, RSI(talib): 62.00
+XEL, Close: 81.00, RSI(talib): 75.68
+AZN, Close: 85.49, RSI(talib): 70.87
+EA, Close: 200.46, RSI(talib): 76.40
+BIDU, Close: 144.91, RSI(talib): 73.12
+PDD, Close: 134.33, RSI(talib): 66.15
+CEG, Close: 364.10, RSI(talib): 67.05
+JNJ, Close: 188.16, RSI(talib): 74.43
+WBD, Close: 19.08, RSI(talib): 67.62
+GD, Close: 346.50, RSI(talib): 82.87
+NOC, Close: 618.52, RSI(talib): 74.28
+LHX, Close: 303.01, RSI(talib): 70.97
+RKLB, Close: 58.50, RSI(talib): 67.42
+ACHR, Close: 13.64, RSI(talib): 82.24
+KTOS, Close: 100.25, RSI(talib): 87.01
+TEM, Close: 93.08, RSI(talib): 69.11
+CAT, Close: 495.38, RSI(talib): 78.16
+--------------
+CSCO failed (Can't get stock info: CSCO, Current Price: 68.91000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.91643358427903, 200 Day Average: None, RSI: 55.61493614080294).
+ADBE failed (Can't get stock info: ADBE, Current Price: 350.1400146484375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 373.8185511095771, 200 Day Average: None, RSI: 48.41389176688111).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.34915966546836, 200 Day Average: None, RSI: 52.17391304347827).
+ZS failed (Can't get stock info: ZS, Current Price: 305.239990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 261.931137295427, 200 Day Average: None, RSI: 66.93770366706111).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+T failed (Can't get stock info: T, Current Price: 25.8700008392334, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 27.653170815829572, 200 Day Average: None, RSI: 21.45390341723443).
+ENPH failed (Can't get stock info: ENPH, Current Price: 37.15999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.489448428976125, 200 Day Average: None, RSI: 51.70599700904035).
+AVAV failed (Can't get stock info: AVAV, Current Price: 391.8800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.6548279860924, 200 Day Average: None, RSI: 89.58982890467811).

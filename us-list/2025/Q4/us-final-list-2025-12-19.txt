@@ -1,0 +1,22 @@
+--------------
+Fri Dec 19 22:00:05 2025 US Stock List
+--------------
+TSLA, Close: 483.37, RSI(talib): 62.46
+MAR, Close: 306.82, RSI(talib): 62.22
+EA, Close: 203.90, RSI(talib): 64.07
+DLTR, Close: 126.90, RSI(talib): 68.06
+ROST, Close: 182.57, RSI(talib): 72.04
+PCAR, Close: 111.50, RSI(talib): 64.71
+ZM, Close: 89.38, RSI(talib): 60.34
+DAL, Close: 70.15, RSI(talib): 65.43
+GM, Close: 81.17, RSI(talib): 76.61
+LLY, Close: 1056.88, RSI(talib): 62.15
+ROKU, Close: 110.87, RSI(talib): 66.03
+WFC, Close: 91.48, RSI(talib): 62.38
+WMT, Close: 114.83, RSI(talib): 60.77
+WBD, Close: 27.61, RSI(talib): 64.02
+RIVN, Close: 20.28, RSI(talib): 68.99
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+AMT failed (Can't get stock info: AMT, Current Price: None, 52 Week High: 234.33, 52 Week Low: 172.51, 50 Day Average: 182.29, 150 Day Average: 198.69325012630887, 200 Day Average: 203.93, RSI: 35.50684113571679).

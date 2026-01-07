@@ -1,0 +1,39 @@
+--------------
+Thu Nov 13 19:27:18 2025 US Stock List
+--------------
+SIG, Close: 106.00, RSI(talib): 66.55
+HII, Close: 317.89, RSI(talib): 62.40
+RTX, Close: 177.69, RSI(talib): 62.15
+AAPL, Close: 273.47, RSI(talib): 68.83
+GOOGL, Close: 286.71, RSI(talib): 65.18
+CSCO, Close: 73.96, RSI(talib): 63.44
+AMD, Close: 258.89, RSI(talib): 61.43
+MU, Close: 244.90, RSI(talib): 65.83
+MAR, Close: 291.67, RSI(talib): 69.26
+ILMN, Close: 121.98, RSI(talib): 66.66
+AEP, Close: 122.68, RSI(talib): 69.94
+IDXX, Close: 713.56, RSI(talib): 69.47
+CRWD, Close: 545.86, RSI(talib): 61.39
+DDOG, Close: 190.89, RSI(talib): 69.06
+AZN, Close: 87.68, RSI(talib): 64.94
+ROST, Close: 162.85, RSI(talib): 66.43
+DIS, Close: 116.65, RSI(talib): 64.35
+JNJ, Close: 194.39, RSI(talib): 66.59
+BAC, Close: 54.11, RSI(talib): 63.83
+GM, Close: 71.84, RSI(talib): 72.81
+JPM, Close: 320.41, RSI(talib): 67.95
+WBD, Close: 22.19, RSI(talib): 60.58
+RIVN, Close: 17.52, RSI(talib): 70.51
+CAT, Close: 573.02, RSI(talib): 64.69
+--------------
+NVDA failed (Can't get stock info: NVDA, Current Price: 193.8000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 162.613472774111, 200 Day Average: None, RSI: 52.558243435694365).
+GOOG failed (Can't get stock info: GOOG, Current Price: 287.42999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 206.5830946297481, 200 Day Average: None, RSI: 65.825880287219).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+EA failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/EA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/EA/key-statistics", waiting until "domcontentloaded"
+).
+ALGN failed (Can't get stock info: ALGN, Current Price: 141.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 160.08324164028826, 200 Day Average: None, RSI: 60.19836801535138).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DOCU failed (Can't get stock info: DOCU, Current Price: 69.3499984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.30720662084119, 200 Day Average: None, RSI: 41.75792446248042).
+KO failed (Can't get stock info: KO, Current Price: 71.51000213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.10619227968414, 200 Day Average: None, RSI: 65.9752846271059).

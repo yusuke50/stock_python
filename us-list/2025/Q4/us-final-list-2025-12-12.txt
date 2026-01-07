@@ -1,0 +1,36 @@
+--------------
+Fri Dec 12 19:08:46 2025 US Stock List
+--------------
+HII, Close: 326.72, RSI(talib): 63.24
+RTX, Close: 177.42, RSI(talib): 63.33
+AVGO, Close: 406.37, RSI(talib): 63.71
+CSCO, Close: 79.27, RSI(talib): 65.98
+QCOM, Close: 181.27, RSI(talib): 66.42
+AMAT, Close: 270.11, RSI(talib): 67.32
+MU, Close: 258.46, RSI(talib): 62.91
+ADI, Close: 283.39, RSI(talib): 74.84
+CSX, Close: 37.15, RSI(talib): 70.15
+LRCX, Close: 168.71, RSI(talib): 65.81
+ASML, Close: 1122.84, RSI(talib): 62.80
+KLAC, Close: 1246.18, RSI(talib): 66.50
+ILMN, Close: 136.44, RSI(talib): 72.92
+EA, Close: 203.66, RSI(talib): 66.86
+ROST, Close: 183.13, RSI(talib): 81.10
+PCAR, Close: 112.79, RSI(talib): 73.14
+ZM, Close: 90.24, RSI(talib): 67.30
+JNJ, Close: 210.01, RSI(talib): 71.45
+BAC, Close: 54.56, RSI(talib): 65.91
+DAL, Close: 70.56, RSI(talib): 74.27
+GM, Close: 80.85, RSI(talib): 83.04
+WFC, Close: 92.59, RSI(talib): 72.59
+WMT, Close: 115.52, RSI(talib): 67.53
+WBD, Close: 29.49, RSI(talib): 87.19
+RKLB, Close: 63.53, RSI(talib): 70.86
+CAT, Close: 625.61, RSI(talib): 73.28
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DOCU failed (Can't get stock info: DOCU, Current Price: 70.2300033569336, 52 Week High: 99.71, 52 Week Low: 63.4, 50 Day Average: 69.14, 150 Day Average: 75.27134473077182, 200 Day Average: 76.92, RSI: None).
+BRK-B failed (Can't get stock info: BRK-B, Current Price: None, 52 Week High: 542.07, 52 Week Low: 440.1, 50 Day Average: 496.57, 150 Day Average: 490.9638615049165, 200 Day Average: 498.2, RSI: 45.42227879602746).
+ROKU failed (Can't get stock info: ROKU, Current Price: 106.30000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 91.59596541832234, 200 Day Average: None, RSI: 63.8530867014142).
+GFS failed (Can't get stock info: GFS, Current Price: 39.97999954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 36.000034463816675, 200 Day Average: None, RSI: 71.55014773894835).

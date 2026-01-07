@@ -1,0 +1,41 @@
+--------------
+Tue Dec  9 19:27:58 2025 US Stock List
+--------------
+AAPL, Close: 277.89, RSI(talib): 60.14
+GOOG, Close: 314.45, RSI(talib): 64.11
+GOOGL, Close: 313.72, RSI(talib): 63.85
+AVGO, Close: 401.10, RSI(talib): 65.50
+CSCO, Close: 78.86, RSI(talib): 68.01
+QCOM, Close: 175.31, RSI(talib): 62.02
+AMAT, Close: 268.16, RSI(talib): 70.93
+MU, Close: 246.92, RSI(talib): 60.63
+ADI, Close: 279.13, RSI(talib): 75.95
+CSX, Close: 36.35, RSI(talib): 64.13
+LRCX, Close: 162.74, RSI(talib): 61.74
+ASML, Close: 1119.69, RSI(talib): 63.76
+KLAC, Close: 1224.59, RSI(talib): 64.03
+AZN, Close: 91.28, RSI(talib): 60.50
+EA, Close: 203.53, RSI(talib): 68.69
+BIDU, Close: 130.06, RSI(talib): 62.26
+ROST, Close: 178.19, RSI(talib): 78.63
+PCAR, Close: 109.72, RSI(talib): 72.38
+BIIB, Close: 180.44, RSI(talib): 70.41
+ZM, Close: 89.09, RSI(talib): 66.66
+BAC, Close: 53.90, RSI(talib): 63.51
+DAL, Close: 67.22, RSI(talib): 68.62
+GM, Close: 75.71, RSI(talib): 75.12
+WFC, Close: 90.06, RSI(talib): 70.62
+WMT, Close: 113.56, RSI(talib): 67.79
+WBD, Close: 27.23, RSI(talib): 83.15
+RIVN, Close: 17.61, RSI(talib): 65.76
+CAT, Close: 596.50, RSI(talib): 66.29
+--------------
+LMT failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/LMT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LMT/key-statistics", waiting until "domcontentloaded"
+).
+ILMN failed (Can't get stock info: ILMN, Current Price: 127.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 100.33848329741379, 200 Day Average: None, RSI: 62.623634127985575).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DIS failed (Can't get stock info: DIS, Current Price: 107.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 114.41564857219828, 200 Day Average: None, RSI: 52.249150159520575).
+HD failed (Can't get stock info: HD, Current Price: 349.9100036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 376.0517462368669, 200 Day Average: None, RSI: 44.87349616992606).

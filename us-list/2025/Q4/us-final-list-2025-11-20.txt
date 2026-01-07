@@ -1,0 +1,20 @@
+--------------
+Thu Nov 20 20:40:40 2025 US Stock List
+--------------
+GOOG, Close: 292.99, RSI(talib): 65.06
+GOOGL, Close: 292.81, RSI(talib): 64.95
+CSCO, Close: 78.39, RSI(talib): 72.27
+GILD, Close: 128.07, RSI(talib): 67.13
+ILMN, Close: 120.12, RSI(talib): 60.86
+AEP, Close: 121.71, RSI(talib): 61.42
+MNST, Close: 72.30, RSI(talib): 63.88
+AZN, Close: 88.99, RSI(talib): 67.11
+EA, Close: 201.58, RSI(talib): 70.43
+BIIB, Close: 167.93, RSI(talib): 69.85
+JNJ, Close: 202.51, RSI(talib): 80.33
+WBD, Close: 23.09, RSI(talib): 61.85
+--------------
+CDNS failed (Can't get stock info: CDNS, Current Price: 306.760009765625, 52 Week High: 376.45, 52 Week Low: 221.56, 50 Day Average: 338.62, 150 Day Average: 328.2563012528093, 200 Day Average: 310.12, RSI: None).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+MRK failed (Can't get stock info: MRK, Current Price: 95.05000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.96327303533684, 200 Day Average: None, RSI: 71.15880187874868).

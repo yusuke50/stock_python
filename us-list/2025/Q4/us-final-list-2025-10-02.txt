@@ -1,0 +1,44 @@
+--------------
+Thu Oct  2 19:31:52 2025 US Stock List
+--------------
+SIG, Close: 95.75, RSI(talib): 61.40
+HII, Close: 286.01, RSI(talib): 66.64
+RTX, Close: 167.20, RSI(talib): 71.96
+NVDA, Close: 187.24, RSI(talib): 63.21
+INTC, Close: 35.94, RSI(talib): 75.54
+MU, Close: 182.15, RSI(talib): 78.62
+LRCX, Close: 142.79, RSI(talib): 84.16
+PANW, Close: 206.80, RSI(talib): 69.42
+ASML, Close: 1003.27, RSI(talib): 84.12
+KLAC, Close: 1128.87, RSI(talib): 81.93
+AEP, Close: 112.75, RSI(talib): 62.44
+CRWD, Close: 499.96, RSI(talib): 67.55
+EXC, Close: 45.06, RSI(talib): 63.81
+XEL, Close: 80.31, RSI(talib): 77.07
+AZN, Close: 84.36, RSI(talib): 69.52
+EA, Close: 201.63, RSI(talib): 79.63
+BIDU, Close: 137.44, RSI(talib): 68.68
+ZS, Close: 304.53, RSI(talib): 65.55
+PDD, Close: 134.40, RSI(talib): 68.26
+CEG, Close: 350.90, RSI(talib): 61.10
+JNJ, Close: 186.05, RSI(talib): 73.19
+GM, Close: 61.34, RSI(talib): 73.47
+GE, Close: 300.88, RSI(talib): 63.89
+WBD, Close: 19.35, RSI(talib): 68.48
+GD, Close: 340.75, RSI(talib): 78.47
+NOC, Close: 605.42, RSI(talib): 66.73
+LHX, Close: 300.47, RSI(talib): 70.96
+HWM, Close: 194.85, RSI(talib): 63.61
+AVAV, Close: 346.08, RSI(talib): 83.03
+KTOS, Close: 92.96, RSI(talib): 83.53
+TEM, Close: 87.99, RSI(talib): 63.82
+CAT, Close: 480.82, RSI(talib): 73.42
+--------------
+PYPL failed (Can't get stock info: PYPL, Current Price: 66.66000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.39520726697198, 200 Day Average: None, RSI: 44.95705412082934).
+MNST failed (Can't get stock info: MNST, Current Price: 67.43000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 61.165103412496634, 200 Day Average: None, RSI: 68.0713480351011).
+LULU failed (Can't get stock info: LULU, Current Price: 177.57000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 247.70855113062365, 200 Day Average: None, RSI: 48.868145277138304).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.342786890561463, 200 Day Average: None, RSI: 62.97143887628944).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CL failed (Can't get stock info: CL, Current Price: 79.01000213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 88.20263198326374, 200 Day Average: None, RSI: 36.78953772018083).
+TTD failed (Can't get stock info: TTD, Current Price: 49.31999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 62.84013795523808, 200 Day Average: None, RSI: 37.79366975135346).
+RKLB failed (Can't get stock info: RKLB, Current Price: 47.970001220703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.13020689076391, 200 Day Average: None, RSI: 50.79211751332079).

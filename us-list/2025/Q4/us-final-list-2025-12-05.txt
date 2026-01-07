@@ -1,0 +1,34 @@
+--------------
+Fri Dec  5 19:26:42 2025 US Stock List
+--------------
+AAPL, Close: 280.70, RSI(talib): 62.00
+GOOG, Close: 318.39, RSI(talib): 67.98
+GOOGL, Close: 317.62, RSI(talib): 67.60
+CSCO, Close: 77.76, RSI(talib): 62.99
+AMAT, Close: 269.44, RSI(talib): 70.06
+ADI, Close: 277.26, RSI(talib): 73.31
+CSX, Close: 36.18, RSI(talib): 61.82
+MRVL, Close: 98.19, RSI(talib): 62.73
+ASML, Close: 1110.08, RSI(talib): 60.30
+ILMN, Close: 128.03, RSI(talib): 63.69
+CDNS, Close: 337.30, RSI(talib): 61.90
+EA, Close: 203.44, RSI(talib): 71.09
+ROST, Close: 177.09, RSI(talib): 74.62
+BIIB, Close: 181.98, RSI(talib): 72.50
+ZM, Close: 86.58, RSI(talib): 60.05
+JNJ, Close: 202.48, RSI(talib): 63.01
+BAC, Close: 54.16, RSI(talib): 61.30
+DAL, Close: 67.24, RSI(talib): 68.31
+GM, Close: 75.29, RSI(talib): 72.52
+WFC, Close: 90.21, RSI(talib): 69.84
+WMT, Close: 114.84, RSI(talib): 73.67
+BKR, Close: 50.61, RSI(talib): 60.90
+WBD, Close: 24.54, RSI(talib): 68.50
+RIVN, Close: 18.06, RSI(talib): 70.19
+CAT, Close: 599.15, RSI(talib): 68.36
+--------------
+CTSH failed (Can't get stock info: CTSH, Current Price: 80.19999694824219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 73.32035012080752, 200 Day Average: None, RSI: 74.48623785919236).
+TEAM failed (Can't get stock info: TEAM, Current Price: 156.5399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 179.23768994561556, 200 Day Average: None, RSI: 55.710602904016405).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+AZN failed (Can't get stock info: AZN, Current Price: 90.02999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.66289457123855, 200 Day Average: None, RSI: 55.616328402272366).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

@@ -1,0 +1,40 @@
+--------------
+Wed Oct  8 19:55:50 2025 US Stock List
+--------------
+HII, Close: 285.38, RSI(talib): 61.40
+RTX, Close: 169.27, RSI(talib): 75.21
+INTC, Close: 37.17, RSI(talib): 74.95
+AMD, Close: 211.51, RSI(talib): 80.50
+MU, Close: 185.69, RSI(talib): 73.05
+LRCX, Close: 140.35, RSI(talib): 67.08
+PANW, Close: 211.04, RSI(talib): 70.54
+ASML, Close: 1002.30, RSI(talib): 71.24
+AEP, Close: 118.16, RSI(talib): 76.52
+EXC, Close: 46.79, RSI(talib): 75.66
+MNST, Close: 68.15, RSI(talib): 68.01
+XEL, Close: 81.85, RSI(talib): 78.06
+AZN, Close: 85.87, RSI(talib): 71.48
+EA, Close: 200.02, RSI(talib): 74.38
+BIDU, Close: 138.94, RSI(talib): 64.94
+PDD, Close: 133.48, RSI(talib): 63.84
+CEG, Close: 358.16, RSI(talib): 62.89
+JNJ, Close: 188.89, RSI(talib): 75.29
+GE, Close: 301.74, RSI(talib): 62.63
+WBD, Close: 18.60, RSI(talib): 62.48
+GD, Close: 343.43, RSI(talib): 74.04
+NOC, Close: 621.63, RSI(talib): 75.61
+LHX, Close: 301.43, RSI(talib): 68.17
+RKLB, Close: 61.51, RSI(talib): 70.59
+ACHR, Close: 12.48, RSI(talib): 68.80
+AVAV, Close: 395.13, RSI(talib): 90.01
+KTOS, Close: 103.69, RSI(talib): 88.30
+TEM, Close: 93.01, RSI(talib): 68.93
+CAT, Close: 486.71, RSI(talib): 70.10
+--------------
+GOOGL failed (Can't get stock info: GOOGL, Current Price: 245.75999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 186.48900072821255, 200 Day Average: None, RSI: 60.14922929689058).
+INTU failed (Can't get stock info: INTU, Current Price: 657.989990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 688.4216506431843, 200 Day Average: None, RSI: 36.52713154746417).
+WDAY failed (Can't get stock info: WDAY, Current Price: 233.1699981689453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 238.07544839793238, 200 Day Average: None, RSI: 50.519809212808454).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.350338984343965, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ON failed (Can't get stock info: ON, Current Price: 48.16999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 47.6977240463783, 200 Day Average: None, RSI: 45.547889435913724).
+CSGP failed (Can't get stock info: CSGP, Current Price: 80.5999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.79475865857354, 200 Day Average: None, RSI: 30.725528771865875).

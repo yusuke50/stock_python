@@ -1,0 +1,35 @@
+--------------
+Thu Nov  6 19:42:21 2025 US Stock List
+--------------
+AMZN, Close: 250.20, RSI(talib): 66.53
+GOOG, Close: 284.75, RSI(talib): 73.44
+GOOGL, Close: 284.31, RSI(talib): 72.90
+AMD, Close: 256.33, RSI(talib): 65.83
+AMAT, Close: 240.89, RSI(talib): 65.92
+MU, Close: 237.50, RSI(talib): 69.38
+LRCX, Close: 165.05, RSI(talib): 68.83
+GILD, Close: 122.58, RSI(talib): 61.24
+KLAC, Close: 1227.10, RSI(talib): 65.56
+AEP, Close: 119.76, RSI(talib): 61.30
+IDXX, Close: 720.21, RSI(talib): 74.25
+CRWD, Close: 534.14, RSI(talib): 61.08
+XEL, Close: 81.19, RSI(talib): 60.53
+EA, Close: 200.74, RSI(talib): 72.49
+ROST, Close: 162.23, RSI(talib): 65.51
+GM, Close: 68.77, RSI(talib): 66.07
+JPM, Close: 311.68, RSI(talib): 61.55
+ROKU, Close: 105.67, RSI(talib): 60.36
+WFC, Close: 86.95, RSI(talib): 60.92
+WBD, Close: 22.76, RSI(talib): 78.44
+RIVN, Close: 15.42, RSI(talib): 64.39
+HWM, Close: 206.31, RSI(talib): 64.63
+CAT, Close: 569.15, RSI(talib): 65.32
+--------------
+REGN failed (Can't get stock info: REGN, Current Price: 644.1900024414062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 566.1349007442079, 200 Day Average: None, RSI: 65.02170872920286).
+ASML failed (Can't get stock info: ASML, Current Price: 1043.75, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 804.3629415577856, 200 Day Average: None, RSI: 58.84444834713987).
+ILMN failed (Can't get stock info: ILMN, Current Price: 122.44000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 92.95737967655576, 200 Day Average: None, RSI: 68.77784156795798).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DOCU failed (Can't get stock info: DOCU, Current Price: 70.9000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.51017214018724, 200 Day Average: None, RSI: 46.069858993301324).
+CRM failed (Can't get stock info: CRM, Current Price: 252.67999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 257.4431596427128, 200 Day Average: None, RSI: 50.79186231586622).
+ODFL failed (Can't get stock info: ODFL, Current Price: 140.77999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 152.78037098851698, 200 Day Average: None, RSI: 51.04831331956606).

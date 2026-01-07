@@ -1,0 +1,34 @@
+--------------
+Wed Oct 22 19:38:25 2025 US Stock List
+--------------
+SIG, Close: 104.78, RSI(talib): 67.44
+RTX, Close: 173.04, RSI(talib): 68.36
+CSCO, Close: 70.72, RSI(talib): 62.80
+INTC, Close: 38.12, RSI(talib): 67.65
+AMD, Close: 238.03, RSI(talib): 71.75
+AMAT, Close: 226.00, RSI(talib): 64.70
+MU, Close: 202.29, RSI(talib): 67.84
+LRCX, Close: 145.04, RSI(talib): 63.72
+GILD, Close: 124.08, RSI(talib): 73.01
+PANW, Close: 214.40, RSI(talib): 62.11
+ASML, Close: 1025.02, RSI(talib): 64.01
+KLAC, Close: 1147.43, RSI(talib): 65.00
+AEP, Close: 117.43, RSI(talib): 63.37
+EXC, Close: 48.00, RSI(talib): 71.02
+XEL, Close: 80.64, RSI(talib): 61.23
+EA, Close: 200.55, RSI(talib): 73.99
+JNJ, Close: 191.88, RSI(talib): 69.89
+GM, Close: 66.62, RSI(talib): 74.38
+WMT, Close: 106.22, RSI(talib): 60.70
+GE, Close: 306.63, RSI(talib): 66.00
+WBD, Close: 20.33, RSI(talib): 69.53
+GD, Close: 340.69, RSI(talib): 61.80
+RKLB, Close: 65.40, RSI(talib): 63.05
+HWM, Close: 197.18, RSI(talib): 63.12
+AVAV, Close: 377.18, RSI(talib): 60.89
+CAT, Close: 524.65, RSI(talib): 66.27
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.366388894893506, 200 Day Average: None, RSI: nan).
+ZS failed (Can't get stock info: ZS, Current Price: 310.3699951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 269.77665468413255, 200 Day Average: None, RSI: 60.02315700420024).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+GFS failed (Can't get stock info: GFS, Current Price: 35.560001373291016, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 35.915689797237, 200 Day Average: None, RSI: 54.659762184137094).

@@ -1,0 +1,22 @@
+--------------
+Wed Dec 31 22:47:57 2025 US Stock List
+--------------
+RTX, Close: 183.02, RSI(talib): 61.39
+MU, Close: 287.97, RSI(talib): 66.81
+REGN, Close: 773.38, RSI(talib): 62.72
+MAR, Close: 313.12, RSI(talib): 66.98
+MNST, Close: 76.89, RSI(talib): 67.27
+AZN, Close: 92.14, RSI(talib): 62.37
+EA, Close: 204.37, RSI(talib): 64.05
+BIDU, Close: 131.11, RSI(talib): 63.83
+ROST, Close: 181.41, RSI(talib): 63.70
+PCAR, Close: 110.60, RSI(talib): 61.32
+GM, Close: 81.58, RSI(talib): 71.02
+LLY, Close: 1081.15, RSI(talib): 66.40
+MRK, Close: 105.75, RSI(talib): 71.59
+WFC, Close: 94.52, RSI(talib): 65.35
+WBD, Close: 28.82, RSI(talib): 65.77
+RKLB, Close: 70.43, RSI(talib): 61.16
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

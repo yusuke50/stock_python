@@ -1,0 +1,32 @@
+--------------
+Fri Oct 17 23:31:57 2025 US Stock List
+--------------
+SIG, Close: 102.96, RSI(talib): 65.08
+GOOG, Close: 251.00, RSI(talib): 63.39
+GOOGL, Close: 250.30, RSI(talib): 63.54
+INTC, Close: 36.97, RSI(talib): 64.02
+AMD, Close: 228.89, RSI(talib): 71.92
+AMAT, Close: 223.58, RSI(talib): 67.97
+MU, Close: 196.42, RSI(talib): 69.25
+LRCX, Close: 140.23, RSI(talib): 61.76
+ASML, Close: 1018.01, RSI(talib): 65.58
+AEP, Close: 117.51, RSI(talib): 66.81
+MNST, Close: 69.95, RSI(talib): 66.34
+EA, Close: 200.40, RSI(talib): 75.81
+CEG, Close: 384.55, RSI(talib): 68.09
+JNJ, Close: 192.82, RSI(talib): 78.58
+ORCL, Close: 288.89, RSI(talib): 60.67
+WMT, Close: 107.29, RSI(talib): 61.05
+RKLB, Close: 64.39, RSI(talib): 68.59
+AVAV, Close: 350.57, RSI(talib): 62.74
+CAT, Close: 530.60, RSI(talib): 79.81
+--------------
+CSX failed (Can't get stock info: CSX, Current Price: 36.76499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 32.200025597934065, 200 Day Average: None, RSI: 58.10789904059013).
+EXC failed (Can't get stock info: EXC, Current Price: 47.459999084472656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.04253366404566, 200 Day Average: None, RSI: 70.59414747540869).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.359819824631149, 200 Day Average: None, RSI: nan).
+XEL failed (Can't get stock info: XEL, Current Price: 80.66999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.93722534179688, 200 Day Average: None, RSI: 65.8643707327856).
+JD failed (Can't get stock info: JD, Current Price: 32.7599983215332, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.723648807920256, 200 Day Average: None, RSI: 44.29575138346963).
+PCAR failed (Can't get stock info: PCAR, Current Price: 93.45500183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.42504525020205, 200 Day Average: None, RSI: 43.55682385146333).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+SIRI failed (Can't get stock info: SIRI, Current Price: 21.079999923706055, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.137217120466563, 200 Day Average: None, RSI: 38.60243520736664).
+VRSN failed (Can't get stock info: VRSN, Current Price: 263.8299865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 272.57944399077314, 200 Day Average: None, RSI: 30.89901390605863).

@@ -1,0 +1,39 @@
+--------------
+Thu Dec  4 19:35:36 2025 US Stock List
+--------------
+AAPL, Close: 284.15, RSI(talib): 69.05
+GOOG, Close: 320.62, RSI(talib): 70.36
+GOOGL, Close: 319.63, RSI(talib): 69.70
+CSCO, Close: 77.75, RSI(talib): 62.96
+INTC, Close: 43.76, RSI(talib): 69.69
+AMAT, Close: 268.63, RSI(talib): 69.75
+ADI, Close: 278.24, RSI(talib): 74.42
+MRVL, Close: 100.20, RSI(talib): 66.06
+ASML, Close: 1140.92, RSI(talib): 66.66
+ILMN, Close: 127.95, RSI(talib): 63.59
+CDNS, Close: 336.11, RSI(talib): 61.22
+MNST, Close: 73.99, RSI(talib): 60.84
+EA, Close: 203.21, RSI(talib): 69.71
+ROST, Close: 178.00, RSI(talib): 78.01
+BIIB, Close: 180.75, RSI(talib): 71.34
+JNJ, Close: 205.33, RSI(talib): 74.85
+BAC, Close: 54.09, RSI(talib): 60.93
+DAL, Close: 67.49, RSI(talib): 69.26
+GM, Close: 74.69, RSI(talib): 71.16
+WFC, Close: 89.35, RSI(talib): 67.78
+WMT, Close: 114.41, RSI(talib): 73.06
+BKR, Close: 50.49, RSI(talib): 60.30
+WBD, Close: 24.57, RSI(talib): 68.92
+RIVN, Close: 17.53, RSI(talib): 67.49
+CAT, Close: 591.49, RSI(talib): 66.13
+--------------
+MELI failed (Can't get stock info: MELI, Current Price: 2119.830078125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2346.7513133081898, 200 Day Average: None, RSI: 52.06972403457393).
+MAR failed (Can't get stock info: MAR, Current Price: 306.6499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 269.523133376549, 200 Day Average: None, RSI: 72.56284908482948).
+WDAY failed (Can't get stock info: WDAY, Current Price: 214.83999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 236.14337905357624, 200 Day Average: None, RSI: 40.16157449834959).
+PAYX failed (Can't get stock info: PAYX, Current Price: 113.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 134.53277845711543, 200 Day Average: None, RSI: 49.94050012235996).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ALGN failed (Can't get stock info: ALGN, Current Price: 155.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 156.73662067281788, 200 Day Average: None, RSI: 71.75699337728287).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CVX failed (Can't get stock info: CVX, Current Price: 151.58999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 148.61456256734914, 200 Day Average: None, RSI: 49.54375178486733).
+MRK failed (Can't get stock info: MRK, Current Price: 102.2699966430664, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 83.26226885565396, 200 Day Average: None, RSI: 67.33557387086077).
+GD failed (Can't get stock info: GD, Current Price: 338.0799865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 312.96318759260504, 200 Day Average: None, RSI: 45.249728151224886).

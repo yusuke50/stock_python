@@ -1,0 +1,32 @@
+--------------
+Wed Dec  3 19:35:20 2025 US Stock List
+--------------
+AAPL, Close: 286.19, RSI(talib): 73.65
+GOOG, Close: 316.02, RSI(talib): 68.23
+GOOGL, Close: 315.81, RSI(talib): 67.94
+CSCO, Close: 76.87, RSI(talib): 60.11
+INTC, Close: 43.47, RSI(talib): 69.13
+AMAT, Close: 265.33, RSI(talib): 68.49
+ADI, Close: 272.97, RSI(talib): 72.33
+MAR, Close: 304.65, RSI(talib): 71.16
+ILMN, Close: 127.55, RSI(talib): 63.09
+MNST, Close: 74.71, RSI(talib): 64.98
+EA, Close: 203.24, RSI(talib): 68.75
+ROST, Close: 177.57, RSI(talib): 77.57
+BIIB, Close: 180.18, RSI(talib): 70.82
+JNJ, Close: 205.42, RSI(talib): 75.26
+GM, Close: 73.66, RSI(talib): 68.69
+WMT, Close: 112.41, RSI(talib): 70.03
+WBD, Close: 24.53, RSI(talib): 68.68
+RIVN, Close: 17.23, RSI(talib): 65.86
+CAT, Close: 582.47, RSI(talib): 63.29
+--------------
+ASML failed (Can't get stock info: ASML, Current Price: 1108.780029296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 849.841646602236, 200 Day Average: None, RSI: 62.867099289396656).
+TEAM failed (Can't get stock info: TEAM, Current Price: 153.91000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 179.93172449572333, 200 Day Average: None, RSI: 52.46768732540521).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+FAST failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/FAST/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/FAST/key-statistics", waiting until "domcontentloaded"
+).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DAL failed (Can't get stock info: DAL, Current Price: 65.13999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 55.49660497205011, 200 Day Average: None, RSI: 65.04191137883765).

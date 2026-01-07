@@ -1,0 +1,36 @@
+--------------
+Mon Oct 27 21:19:16 2025 US Stock List
+--------------
+SIG, Close: 103.73, RSI(talib): 63.32
+HII, Close: 299.91, RSI(talib): 64.57
+RTX, Close: 178.65, RSI(talib): 71.16
+GOOG, Close: 260.51, RSI(talib): 68.69
+GOOGL, Close: 259.92, RSI(talib): 68.42
+INTC, Close: 38.28, RSI(talib): 64.99
+AMD, Close: 252.92, RSI(talib): 72.70
+AMAT, Close: 228.75, RSI(talib): 63.94
+MU, Close: 219.02, RSI(talib): 72.97
+LRCX, Close: 151.68, RSI(talib): 66.87
+GILD, Close: 120.94, RSI(talib): 61.32
+PANW, Close: 217.11, RSI(talib): 63.38
+ASML, Close: 1033.10, RSI(talib): 63.72
+CRWD, Close: 527.32, RSI(talib): 65.11
+EXC, Close: 48.04, RSI(talib): 68.23
+MNST, Close: 69.69, RSI(talib): 62.34
+EA, Close: 200.84, RSI(talib): 74.58
+EBAY, Close: 97.20, RSI(talib): 65.12
+ZS, Close: 323.00, RSI(talib): 65.61
+JNJ, Close: 190.40, RSI(talib): 60.76
+GM, Close: 69.66, RSI(talib): 77.38
+WBD, Close: 21.15, RSI(talib): 73.06
+GD, Close: 350.77, RSI(talib): 68.94
+CAT, Close: 522.73, RSI(talib): 62.87
+--------------
+TSLA failed (Can't get stock info: TSLA, Current Price: 433.7200012207031, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 338.0357928045865, 200 Day Average: None, RSI: 53.19095565716886).
+CMCSA failed (Can't get stock info: CMCSA, Current Price: 29.280000686645508, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.105891234299236, 200 Day Average: None, RSI: 33.97533367802629).
+TMUS failed (Can't get stock info: TMUS, Current Price: 217.77000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 240.38709611563846, 200 Day Average: None, RSI: 28.638898319231405).
+HON failed (Can't get stock info: HON, Current Price: 216.13999938964844, 52 Week High: 242.77, 52 Week Low: 179.36, 50 Day Average: 211.99, 150 Day Average: 215.94559136752426, 200 Day Average: 216.15, RSI: None).
+REGN failed (Can't get stock info: REGN, Current Price: 577.9500122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 563.6521459119074, 200 Day Average: None, RSI: 50.498457820961725).
+KLAC failed (Can't get stock info: KLAC, Current Price: 1182.8199462890625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 873.1024620319234, 200 Day Average: None, RSI: 66.16122986169978).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.372571436564128, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

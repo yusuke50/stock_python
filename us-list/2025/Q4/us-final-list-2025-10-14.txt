@@ -1,0 +1,34 @@
+--------------
+Tue Oct 14 19:04:22 2025 US Stock List
+--------------
+SIG, Close: 99.80, RSI(talib): 61.36
+HII, Close: 287.90, RSI(talib): 60.06
+AVGO, Close: 356.70, RSI(talib): 60.67
+INTC, Close: 37.22, RSI(talib): 68.74
+AMD, Close: 216.42, RSI(talib): 68.28
+MU, Close: 192.77, RSI(talib): 67.42
+GILD, Close: 118.21, RSI(talib): 60.34
+PANW, Close: 213.28, RSI(talib): 63.13
+ASML, Close: 984.66, RSI(talib): 60.73
+AEP, Close: 116.80, RSI(talib): 67.80
+CRWD, Close: 508.61, RSI(talib): 62.65
+EXC, Close: 46.85, RSI(talib): 71.59
+XEL, Close: 80.16, RSI(talib): 65.53
+AZN, Close: 84.51, RSI(talib): 63.87
+EA, Close: 200.29, RSI(talib): 74.73
+ZS, Close: 313.04, RSI(talib): 62.97
+CEG, Close: 380.91, RSI(talib): 66.55
+JNJ, Close: 190.90, RSI(talib): 76.52
+ORCL, Close: 308.01, RSI(talib): 60.11
+NOC, Close: 618.88, RSI(talib): 61.79
+RKLB, Close: 65.42, RSI(talib): 70.92
+ACHR, Close: 12.77, RSI(talib): 66.16
+AVAV, Close: 409.83, RSI(talib): 82.73
+KTOS, Close: 96.28, RSI(talib): 64.02
+CAT, Close: 504.76, RSI(talib): 71.11
+--------------
+RTX failed (Can't get stock info: RTX, Current Price: 158.85000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 144.30398296487743, 200 Day Average: None, RSI: 44.1880598703175).
+ADI failed (Can't get stock info: ADI, Current Price: 234.6699981689453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 223.18490253316946, 200 Day Average: None, RSI: 44.69452380822767).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.354298248625637, 200 Day Average: None, RSI: nan).
+VRSK failed (Can't get stock info: VRSK, Current Price: 242.0800018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 285.43574081947065, 200 Day Average: None, RSI: 36.05698640444519).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

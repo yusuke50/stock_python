@@ -1,0 +1,35 @@
+--------------
+Wed Dec 10 20:41:16 2025 US Stock List
+--------------
+GOOG, Close: 317.75, RSI(talib): 65.56
+GOOGL, Close: 317.08, RSI(talib): 65.30
+AVGO, Close: 406.29, RSI(talib): 65.72
+CSCO, Close: 79.51, RSI(talib): 70.46
+QCOM, Close: 176.00, RSI(talib): 61.63
+AMAT, Close: 267.14, RSI(talib): 69.10
+MU, Close: 252.42, RSI(talib): 62.25
+ADI, Close: 276.24, RSI(talib): 71.44
+CSX, Close: 36.37, RSI(talib): 64.05
+LRCX, Close: 165.81, RSI(talib): 63.60
+ASML, Close: 1111.44, RSI(talib): 61.17
+KLAC, Close: 1225.61, RSI(talib): 63.58
+ILMN, Close: 132.13, RSI(talib): 68.55
+EA, Close: 203.82, RSI(talib): 70.08
+ROST, Close: 177.02, RSI(talib): 73.88
+PCAR, Close: 108.91, RSI(talib): 69.14
+BIIB, Close: 175.84, RSI(talib): 60.25
+ZM, Close: 87.63, RSI(talib): 61.64
+DAL, Close: 67.41, RSI(talib): 68.38
+GM, Close: 77.16, RSI(talib): 77.93
+WFC, Close: 88.89, RSI(talib): 63.72
+WMT, Close: 115.06, RSI(talib): 70.12
+WBD, Close: 28.26, RSI(talib): 85.35
+RIVN, Close: 17.71, RSI(talib): 66.06
+CAT, Close: 594.36, RSI(talib): 64.51
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NTES failed (Can't get stock info: NTES, Current Price: 136.75999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 136.23252153067753, 200 Day Average: None, RSI: 43.52075950321562).
+JPM failed (Can't get stock info: JPM, Current Price: 300.510009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 293.0559347218481, 200 Day Average: None, RSI: 42.188228410876114).
+KO failed (Can't get stock info: KO, Current Price: 70.08999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.72117230645541, 200 Day Average: None, RSI: 49.41723477469684).
+ROKU failed (Can't get stock info: ROKU, Current Price: 105.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 91.11520675133015, 200 Day Average: None, RSI: 63.042388028068984).

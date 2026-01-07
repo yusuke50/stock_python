@@ -1,0 +1,26 @@
+--------------
+Tue Nov 18 19:17:12 2025 US Stock List
+--------------
+GOOG, Close: 285.60, RSI(talib): 60.43
+GOOGL, Close: 285.02, RSI(talib): 60.21
+CSCO, Close: 77.78, RSI(talib): 71.87
+MU, Close: 241.95, RSI(talib): 61.40
+ILMN, Close: 120.08, RSI(talib): 62.17
+AEP, Close: 123.72, RSI(talib): 71.10
+MNST, Close: 71.84, RSI(talib): 63.90
+XEL, Close: 81.31, RSI(talib): 60.49
+AZN, Close: 89.40, RSI(talib): 70.27
+EA, Close: 200.77, RSI(talib): 68.67
+BIIB, Close: 164.68, RSI(talib): 67.58
+JNJ, Close: 199.58, RSI(talib): 76.00
+WBD, Close: 22.74, RSI(talib): 63.19
+--------------
+AMD failed (Can't get stock info: AMD, Current Price: 240.52000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 162.61041076869182, 200 Day Average: None, RSI: 52.91888522512528).
+PANW failed (Can't get stock info: PANW, Current Price: 202.89999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 196.38082195961312, 200 Day Average: None, RSI: 37.9348263766614).
+CTAS failed (Can't get stock info: CTAS, Current Price: 183.75999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.03324085392364, 200 Day Average: None, RSI: 40.532955405376846).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+SWKS failed (Can't get stock info: SWKS, Current Price: 63.15999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 72.20876534344399, 200 Day Average: None, RSI: 28.13379997336483).
+NTES failed (Can't get stock info: NTES, Current Price: 137.72999572753906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 133.15551094159687, 200 Day Average: None, RSI: 36.27357137518275).
+GE failed (Can't get stock info: GE, Current Price: 300.1300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 265.89693252354454, 200 Day Average: None, RSI: 43.32940158748439).
+LUNR failed (Can't get stock info: LUNR, Current Price: 8.729999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 10.527294492068355, 200 Day Average: None, RSI: 37.193057204263056).

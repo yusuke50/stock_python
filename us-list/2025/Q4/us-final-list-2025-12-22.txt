@@ -1,0 +1,30 @@
+--------------
+Mon Dec 22 20:24:24 2025 US Stock List
+--------------
+HII, Close: 336.64, RSI(talib): 67.15
+RTX, Close: 182.01, RSI(talib): 62.07
+TSLA, Close: 481.20, RSI(talib): 61.12
+MU, Close: 265.92, RSI(talib): 62.25
+LRCX, Close: 172.27, RSI(talib): 61.98
+MAR, Close: 310.16, RSI(talib): 64.19
+ILMN, Close: 134.78, RSI(talib): 65.07
+MNST, Close: 76.26, RSI(talib): 62.69
+EA, Close: 203.92, RSI(talib): 64.06
+DLTR, Close: 127.84, RSI(talib): 68.74
+ROST, Close: 182.41, RSI(talib): 71.85
+ZM, Close: 89.82, RSI(talib): 61.12
+BAC, Close: 55.27, RSI(talib): 64.79
+DAL, Close: 71.06, RSI(talib): 68.73
+GM, Close: 82.35, RSI(talib): 76.88
+LLY, Close: 1071.44, RSI(talib): 65.19
+ROKU, Close: 108.82, RSI(talib): 61.34
+WFC, Close: 93.01, RSI(talib): 68.24
+WBD, Close: 27.77, RSI(talib): 63.27
+RIVN, Close: 22.45, RSI(talib): 75.15
+RKLB, Close: 70.52, RSI(talib): 69.37
+--------------
+CMCSA failed (Can't get stock info: CMCSA, Current Price: 29.56999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.448991341426456, 200 Day Average: None, RSI: 61.079608803608096).
+GILD failed (Can't get stock info: GILD, Current Price: 124.29000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 114.71701944285425, 200 Day Average: None, RSI: 56.23839345272091).
+PAYX failed (Can't get stock info: PAYX, Current Price: 112.27999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 131.40705729517444, 200 Day Average: None, RSI: 42.36119672592814).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

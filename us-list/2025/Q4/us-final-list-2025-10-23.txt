@@ -1,0 +1,27 @@
+--------------
+Thu Oct 23 19:16:56 2025 US Stock List
+--------------
+RTX, Close: 177.98, RSI(talib): 72.70
+GOOG, Close: 252.53, RSI(talib): 61.04
+GOOGL, Close: 251.69, RSI(talib): 60.62
+CSCO, Close: 70.66, RSI(talib): 62.35
+INTC, Close: 36.92, RSI(talib): 60.99
+AMD, Close: 230.23, RSI(talib): 65.67
+MU, Close: 198.47, RSI(talib): 64.28
+GILD, Close: 121.46, RSI(talib): 62.85
+ASML, Close: 1011.57, RSI(talib): 60.46
+AEP, Close: 117.27, RSI(talib): 62.32
+EXC, Close: 48.11, RSI(talib): 71.72
+MNST, Close: 69.72, RSI(talib): 62.46
+XEL, Close: 80.69, RSI(talib): 61.47
+EA, Close: 200.75, RSI(talib): 74.32
+JNJ, Close: 192.94, RSI(talib): 72.10
+GM, Close: 67.31, RSI(talib): 75.43
+WMT, Close: 107.14, RSI(talib): 63.23
+WBD, Close: 20.53, RSI(talib): 70.43
+--------------
+SIG failed (Can't get stock info: SIG, Current Price: 104.44000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 78.22045153913827, 200 Day Average: None, RSI: 66.4187706679626).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.368878507168494, 200 Day Average: None, RSI: nan).
+DDOG failed (Can't get stock info: DDOG, Current Price: 154.2100067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 127.53637979441676, 200 Day Average: None, RSI: 55.02740828309554).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+AVAV failed (Can't get stock info: AVAV, Current Price: 355.17999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 231.02882816709322, 200 Day Average: None, RSI: 52.94128562851195).

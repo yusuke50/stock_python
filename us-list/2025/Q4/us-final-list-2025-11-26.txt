@@ -1,0 +1,32 @@
+--------------
+Wed Nov 26 19:21:12 2025 US Stock List
+--------------
+AAPL, Close: 276.97, RSI(talib): 65.27
+GOOG, Close: 323.64, RSI(talib): 77.03
+GOOGL, Close: 323.44, RSI(talib): 76.57
+AVGO, Close: 385.03, RSI(talib): 63.84
+CSCO, Close: 76.32, RSI(talib): 60.63
+ADI, Close: 252.02, RSI(talib): 62.19
+GILD, Close: 127.12, RSI(talib): 61.25
+MAR, Close: 304.12, RSI(talib): 73.10
+ILMN, Close: 129.64, RSI(talib): 71.23
+IDXX, Close: 766.68, RSI(talib): 72.40
+MNST, Close: 74.82, RSI(talib): 70.20
+AZN, Close: 93.24, RSI(talib): 78.26
+ROST, Close: 176.50, RSI(talib): 79.59
+BIIB, Close: 181.96, RSI(talib): 80.01
+JNJ, Close: 206.67, RSI(talib): 84.84
+GM, Close: 72.78, RSI(talib): 65.78
+CAT, Close: 566.61, RSI(talib): 60.16
+--------------
+INTC failed (Can't get stock info: INTC, Current Price: 35.83000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.86082190683443, 200 Day Average: None, RSI: 47.74126924744964).
+INTU failed (Can't get stock info: INTU, Current Price: 648.0700073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 701.8989909968964, 200 Day Average: None, RSI: 44.23865972096054).
+HON failed (Can't get stock info: HON, Current Price: 191.02000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 203.79587586285317, 200 Day Average: None, RSI: 43.451230856598045).
+REGN failed (Can't get stock info: REGN, Current Price: 787.3200073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 578.2794716194884, 200 Day Average: None, RSI: 81.04896292214869).
+EXC failed (Can't get stock info: EXC, Current Price: 45.779998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.03492130645334, 200 Day Average: None, RSI: 49.95688570153002).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+PCAR failed (Can't get stock info: PCAR, Current Price: 104.91999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 96.3766622151414, 200 Day Average: None, RSI: 65.17977457578151).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+OKTA failed (Can't get stock info: OKTA, Current Price: None, 52 Week High: 127.57, 52 Week Low: 74.81, 50 Day Average: 88.38, 150 Day Average: 96.51856168982101, 200 Day Average: 98.21, RSI: 37.6988580018026).
+KO failed (Can't get stock info: KO, Current Price: 72.61000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.12300109863281, 200 Day Average: None, RSI: 66.92372823218113).
+LLY failed (Can't get stock info: LLY, Current Price: 1109.93994140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 792.1165286547517, 200 Day Average: None, RSI: 87.89332129663478).

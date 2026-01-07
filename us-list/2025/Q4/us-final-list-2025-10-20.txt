@@ -1,0 +1,32 @@
+--------------
+Mon Oct 20 20:20:55 2025 US Stock List
+--------------
+SIG, Close: 103.24, RSI(talib): 65.81
+GOOG, Close: 253.79, RSI(talib): 66.75
+GOOGL, Close: 253.30, RSI(talib): 66.81
+CSCO, Close: 70.13, RSI(talib): 60.58
+INTC, Close: 37.01, RSI(talib): 65.01
+AMD, Close: 233.08, RSI(talib): 71.54
+AMAT, Close: 224.99, RSI(talib): 65.47
+MU, Close: 202.38, RSI(talib): 70.10
+LRCX, Close: 141.51, RSI(talib): 60.85
+GILD, Close: 122.81, RSI(talib): 70.03
+ASML, Close: 1029.27, RSI(talib): 67.43
+KLAC, Close: 1106.66, RSI(talib): 60.92
+AEP, Close: 117.53, RSI(talib): 65.10
+EXC, Close: 47.78, RSI(talib): 72.16
+MNST, Close: 70.22, RSI(talib): 66.02
+XEL, Close: 81.16, RSI(talib): 65.23
+AZN, Close: 84.69, RSI(talib): 61.25
+EA, Close: 200.30, RSI(talib): 74.51
+CEG, Close: 386.50, RSI(talib): 62.83
+JNJ, Close: 193.22, RSI(talib): 79.20
+WMT, Close: 107.73, RSI(talib): 66.10
+RKLB, Close: 66.27, RSI(talib): 67.75
+CAT, Close: 527.08, RSI(talib): 69.60
+--------------
+TSLA failed (Can't get stock info: TSLA, Current Price: 439.30999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 332.2673100964776, 200 Day Average: None, RSI: 57.45235060028515).
+KHC failed (Can't get stock info: KHC, Current Price: 25.520000457763672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.931931002386683, 200 Day Average: None, RSI: 46.258577102486896).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.362181819568981, 200 Day Average: None, RSI: nan).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+VST failed (Can't get stock info: VST, Current Price: 201.35000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 173.9711305815598, 200 Day Average: None, RSI: 48.665784137699205).

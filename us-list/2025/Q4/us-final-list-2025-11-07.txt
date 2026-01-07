@@ -1,0 +1,30 @@
+--------------
+Fri Nov  7 20:47:29 2025 US Stock List
+--------------
+RTX, Close: 175.10, RSI(talib): 60.05
+GOOG, Close: 285.34, RSI(talib): 73.75
+GOOGL, Close: 284.75, RSI(talib): 73.13
+MU, Close: 238.33, RSI(talib): 69.66
+LRCX, Close: 162.19, RSI(talib): 65.19
+GILD, Close: 123.40, RSI(talib): 63.20
+KLAC, Close: 1206.40, RSI(talib): 61.43
+AEP, Close: 119.53, RSI(talib): 60.22
+IDXX, Close: 713.74, RSI(talib): 70.91
+DDOG, Close: 190.82, RSI(talib): 76.02
+EA, Close: 200.38, RSI(talib): 69.76
+GM, Close: 68.84, RSI(talib): 66.23
+JPM, Close: 313.42, RSI(talib): 63.42
+WBD, Close: 22.42, RSI(talib): 73.87
+RIVN, Close: 15.22, RSI(talib): 62.52
+HWM, Close: 205.72, RSI(talib): 63.51
+CAT, Close: 569.78, RSI(talib): 65.47
+--------------
+META failed (Can't get stock info: META, Current Price: 618.9400024414062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 693.6490859459186, 200 Day Average: None, RSI: 25.267113687673625).
+PEP failed (Can't get stock info: PEP, Current Price: 141.5800018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 138.68130956189387, 200 Day Average: None, RSI: 36.886947798591024).
+BKNG failed (Can't get stock info: BKNG, Current Price: 4899.0498046875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 5358.825006734914, 200 Day Average: None, RSI: 34.54182275820196).
+CRWD failed (Can't get stock info: CRWD, Current Price: 532.52001953125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 462.30517178239495, 200 Day Average: None, RSI: 60.18199105763896).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ZS failed (Can't get stock info: ZS, Current Price: 317.9200134277344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 280.3242754706021, 200 Day Average: None, RSI: 52.9765661589527).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NTES failed (Can't get stock info: NTES, Current Price: 139.27000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 131.33661872600686, 200 Day Average: None, RSI: 39.28594691457636).
+BA failed (Can't get stock info: BA, Current Price: 196.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 211.590069053913, 200 Day Average: None, RSI: 30.96399781704488).

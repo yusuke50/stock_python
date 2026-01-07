@@ -1,0 +1,33 @@
+--------------
+Tue Dec 16 19:19:20 2025 US Stock List
+--------------
+HII, Close: 329.16, RSI(talib): 66.30
+RTX, Close: 182.11, RSI(talib): 70.69
+TSLA, Close: 475.31, RSI(talib): 65.27
+QCOM, Close: 179.26, RSI(talib): 61.92
+ADI, Close: 280.44, RSI(talib): 68.77
+CSX, Close: 37.18, RSI(talib): 66.52
+MAR, Close: 308.49, RSI(talib): 65.81
+ILMN, Close: 134.92, RSI(talib): 70.08
+EA, Close: 204.20, RSI(talib): 70.52
+DLTR, Close: 131.17, RSI(talib): 78.78
+ROST, Close: 184.28, RSI(talib): 79.48
+PCAR, Close: 112.96, RSI(talib): 70.63
+JNJ, Close: 214.17, RSI(talib): 74.82
+BAC, Close: 55.33, RSI(talib): 69.72
+DAL, Close: 71.27, RSI(talib): 72.57
+GM, Close: 81.98, RSI(talib): 84.06
+JPM, Close: 320.02, RSI(talib): 60.54
+LLY, Close: 1062.19, RSI(talib): 65.24
+ROKU, Close: 109.03, RSI(talib): 68.23
+WFC, Close: 92.90, RSI(talib): 73.34
+WMT, Close: 116.79, RSI(talib): 68.54
+WBD, Close: 29.71, RSI(talib): 85.11
+RIVN, Close: 18.70, RSI(talib): 66.16
+--------------
+META failed (Can't get stock info: META, Current Price: 647.510009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 703.7939141635237, 200 Day Average: None, RSI: 49.11607435959326).
+SBUX failed (Can't get stock info: SBUX, Current Price: 85.4000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 86.70006282411772, 200 Day Average: None, RSI: 52.096187561358654).
+MRNA failed (Can't get stock info: MRNA, Current Price: 29.920000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 27.08679303136365, 200 Day Average: None, RSI: 67.14811987120424).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+NOC failed (Can't get stock info: NOC, Current Price: 575.7899780273438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 554.0944820009429, 200 Day Average: None, RSI: 58.95996434922577).

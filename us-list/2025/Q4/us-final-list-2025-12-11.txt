@@ -1,0 +1,43 @@
+--------------
+Thu Dec 11 19:34:48 2025 US Stock List
+--------------
+HII, Close: 323.14, RSI(talib): 61.20
+AAPL, Close: 278.78, RSI(talib): 60.82
+GOOG, Close: 321.00, RSI(talib): 67.29
+GOOGL, Close: 320.21, RSI(talib): 66.98
+AVGO, Close: 412.97, RSI(talib): 67.79
+CSCO, Close: 80.25, RSI(talib): 72.50
+QCOM, Close: 182.21, RSI(talib): 68.30
+AMAT, Close: 275.15, RSI(talib): 72.86
+MU, Close: 263.71, RSI(talib): 66.25
+ADI, Close: 281.57, RSI(talib): 74.01
+CSX, Close: 37.09, RSI(talib): 69.73
+LRCX, Close: 168.26, RSI(talib): 65.46
+ASML, Close: 1119.32, RSI(talib): 62.29
+KLAC, Close: 1238.91, RSI(talib): 65.47
+ILMN, Close: 134.91, RSI(talib): 71.44
+EA, Close: 203.51, RSI(talib): 65.81
+ROST, Close: 181.82, RSI(talib): 79.83
+PCAR, Close: 113.48, RSI(talib): 75.65
+BIIB, Close: 177.55, RSI(talib): 62.53
+ZM, Close: 88.05, RSI(talib): 62.62
+JNJ, Close: 206.54, RSI(talib): 66.68
+BAC, Close: 54.08, RSI(talib): 63.22
+DAL, Close: 69.93, RSI(talib): 73.21
+GM, Close: 80.80, RSI(talib): 82.99
+ROKU, Close: 105.36, RSI(talib): 62.62
+WFC, Close: 90.69, RSI(talib): 68.49
+WMT, Close: 113.18, RSI(talib): 63.29
+WBD, Close: 29.53, RSI(talib): 87.65
+RIVN, Close: 17.50, RSI(talib): 63.51
+RKLB, Close: 57.52, RSI(talib): 64.35
+CAT, Close: 615.35, RSI(talib): 70.79
+--------------
+SIG failed (Can't get stock info: SIG, Current Price: 92.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 87.21065437053812, 200 Day Average: None, RSI: 47.71915329897524).
+NVDA failed (Can't get stock info: NVDA, Current Price: 183.77999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 171.79777063830144, 200 Day Average: None, RSI: 48.793895818731805).
+DXCM failed (Can't get stock info: DXCM, Current Price: 67.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 75.13303456799737, 200 Day Average: None, RSI: 67.38864015029822).
+ORLY failed (Can't get stock info: ORLY, Current Price: 93.62999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.91377952838766, 200 Day Average: None, RSI: 31.876839917176124).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+BMY failed (Can't get stock info: BMY, Current Price: 51.209999084472656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 46.28066769303947, 200 Day Average: None, RSI: 64.5670666438563).
+NKE failed (Can't get stock info: NKE, Current Price: 65.79000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.28080999440161, 200 Day Average: None, RSI: 56.045928856097426).

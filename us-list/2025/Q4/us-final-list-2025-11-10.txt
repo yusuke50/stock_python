@@ -1,0 +1,34 @@
+--------------
+Mon Nov 10 17:36:23 2025 US Stock List
+--------------
+HII, Close: 309.56, RSI(talib): 60.07
+RTX, Close: 176.97, RSI(talib): 62.87
+AMZN, Close: 244.41, RSI(talib): 60.60
+GOOG, Close: 279.70, RSI(talib): 65.31
+GOOGL, Close: 278.83, RSI(talib): 64.63
+MU, Close: 237.92, RSI(talib): 68.51
+LRCX, Close: 159.35, RSI(talib): 61.14
+AEP, Close: 121.43, RSI(talib): 65.12
+IDXX, Close: 708.45, RSI(talib): 68.46
+CRWD, Close: 539.81, RSI(talib): 63.04
+DDOG, Close: 191.24, RSI(talib): 75.99
+EA, Close: 200.60, RSI(talib): 72.51
+ROST, Close: 161.08, RSI(talib): 60.72
+GM, Close: 70.75, RSI(talib): 70.59
+JPM, Close: 314.21, RSI(talib): 63.03
+WBD, Close: 22.67, RSI(talib): 73.03
+RIVN, Close: 15.23, RSI(talib): 62.63
+HWM, Close: 206.66, RSI(talib): 64.22
+CAT, Close: 563.10, RSI(talib): 62.53
+--------------
+TXN failed (Can't get stock info: TXN, Current Price: 160.5500030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 183.02911850501752, 200 Day Average: None, RSI: 36.88135330765606).
+ISRG failed (Can't get stock info: ISRG, Current Price: 560.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 499.7997238685345, 200 Day Average: None, RSI: 73.19095760625129).
+CSX failed (Can't get stock info: CSX, Current Price: 35.34000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 33.00262660322518, 200 Day Average: None, RSI: 49.58255350089396).
+MAR failed (Can't get stock info: MAR, Current Price: 291.1600036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 262.9941183155981, 200 Day Average: None, RSI: 69.45867570085899).
+DXCM failed (Can't get stock info: DXCM, Current Price: 55.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 77.14593119127997, 200 Day Average: None, RSI: 25.42855110409354).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DIS failed (Can't get stock info: DIS, Current Price: 110.73999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 112.35325911949421, 200 Day Average: None, RSI: 42.90428556393145).
+JNJ failed (Can't get stock info: JNJ, Current Price: 186.57000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 167.4478425124596, 200 Day Average: None, RSI: 46.72343509798446).
+WMT failed (Can't get stock info: WMT, Current Price: 102.58999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 99.1343179110823, 200 Day Average: None, RSI: 46.31284303969782).
+AVAV failed (Can't get stock info: AVAV, Current Price: 329.6499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 250.76537991227775, 200 Day Average: None, RSI: 41.66459943478471).

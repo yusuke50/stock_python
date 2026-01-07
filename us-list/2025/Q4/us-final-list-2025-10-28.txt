@@ -1,0 +1,47 @@
+--------------
+Tue Oct 28 19:07:55 2025 US Stock List
+--------------
+SIG, Close: 103.26, RSI(talib): 62.64
+HII, Close: 301.69, RSI(talib): 66.18
+RTX, Close: 179.24, RSI(talib): 72.19
+MSFT, Close: 531.52, RSI(talib): 66.75
+NVDA, Close: 191.49, RSI(talib): 61.65
+GOOG, Close: 269.93, RSI(talib): 74.62
+GOOGL, Close: 269.27, RSI(talib): 74.26
+META, Close: 750.82, RSI(talib): 60.18
+AVGO, Close: 362.05, RSI(talib): 63.11
+CSCO, Close: 71.39, RSI(talib): 63.26
+INTC, Close: 39.54, RSI(talib): 69.15
+AMD, Close: 259.67, RSI(talib): 75.00
+AMAT, Close: 231.33, RSI(talib): 66.23
+MU, Close: 220.10, RSI(talib): 73.89
+LRCX, Close: 156.90, RSI(talib): 71.16
+PANW, Close: 220.29, RSI(talib): 66.70
+ASML, Close: 1059.98, RSI(talib): 68.60
+KLAC, Close: 1215.13, RSI(talib): 69.78
+CRWD, Close: 529.70, RSI(talib): 67.37
+EXC, Close: 48.07, RSI(talib): 68.42
+MNST, Close: 69.68, RSI(talib): 62.02
+XEL, Close: 80.69, RSI(talib): 61.42
+EA, Close: 200.50, RSI(talib): 72.23
+EBAY, Close: 98.01, RSI(talib): 67.82
+ZS, Close: 326.33, RSI(talib): 67.70
+ROST, Close: 160.73, RSI(talib): 66.93
+CEG, Close: 391.15, RSI(talib): 61.15
+BAC, Close: 53.02, RSI(talib): 61.20
+GM, Close: 69.38, RSI(talib): 76.01
+WFC, Close: 87.01, RSI(talib): 60.49
+GE, Close: 312.84, RSI(talib): 64.55
+WBD, Close: 21.04, RSI(talib): 72.64
+GD, Close: 353.77, RSI(talib): 71.04
+RKLB, Close: 65.62, RSI(talib): 60.02
+HWM, Close: 201.84, RSI(talib): 63.61
+CAT, Close: 527.07, RSI(talib): 66.00
+--------------
+PEP failed (Can't get stock info: PEP, Current Price: 152.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 138.5793802195582, 200 Day Average: None, RSI: 62.13152610410084).
+ADI failed (Can't get stock info: ADI, Current Price: 243.00999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 225.63185045965787, 200 Day Average: None, RSI: 50.88360821768531).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.374519238105187, 200 Day Average: None, RSI: None).
+DLTR failed (Can't get stock info: DLTR, Current Price: 102.58999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 96.43613812676791, 200 Day Average: None, RSI: 60.722643226206785).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DIS failed (Can't get stock info: DIS, Current Price: 112.33999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 110.89537143049569, 200 Day Average: None, RSI: 47.53024407562199).
+MA failed (Can't get stock info: MA, Current Price: 572.3599853515625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 563.5000620874865, 200 Day Average: None, RSI: 49.935354862881155).

@@ -1,0 +1,25 @@
+--------------
+Wed Nov 19 19:56:14 2025 US Stock List
+--------------
+CSCO, Close: 77.37, RSI(talib): 69.88
+GILD, Close: 127.18, RSI(talib): 65.65
+ILMN, Close: 121.97, RSI(talib): 64.28
+AEP, Close: 123.51, RSI(talib): 70.15
+MNST, Close: 72.90, RSI(talib): 67.27
+AZN, Close: 89.55, RSI(talib): 70.26
+EA, Close: 201.81, RSI(talib): 72.07
+BIIB, Close: 168.83, RSI(talib): 71.77
+JNJ, Close: 200.00, RSI(talib): 77.64
+WBD, Close: 23.69, RSI(talib): 68.75
+--------------
+AVGO failed (Can't get stock info: AVGO, Current Price: 340.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 292.866759731345, 200 Day Average: None, RSI: 43.68788193059523).
+NFLX failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/NFLX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NFLX/key-statistics", waiting until "domcontentloaded"
+).
+PYPL failed (Can't get stock info: PYPL, Current Price: 60.70000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.06013723922102, 200 Day Average: None, RSI: 33.65721281703564).
+CTAS failed (Can't get stock info: CTAS, Current Price: 183.91000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 208.8918266818948, 200 Day Average: None, RSI: 39.93961879638877).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+SWKS failed (Can't get stock info: SWKS, Current Price: 62.31999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 71.43998634651916, 200 Day Average: None, RSI: 26.189486122974454).
+GE failed (Can't get stock info: GE, Current Price: 296.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 266.6321135220462, 200 Day Average: None, RSI: 39.261641450886934).

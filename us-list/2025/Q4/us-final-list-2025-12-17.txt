@@ -1,0 +1,32 @@
+--------------
+Wed Dec 17 20:18:26 2025 US Stock List
+--------------
+HII, Close: 326.80, RSI(talib): 63.21
+RTX, Close: 179.93, RSI(talib): 64.64
+TSLA, Close: 489.88, RSI(talib): 68.52
+ADI, Close: 278.40, RSI(talib): 65.54
+CSX, Close: 36.80, RSI(talib): 60.12
+MAR, Close: 305.97, RSI(talib): 63.31
+ILMN, Close: 131.56, RSI(talib): 61.46
+MNST, Close: 75.34, RSI(talib): 60.75
+EA, Close: 204.20, RSI(talib): 70.08
+DLTR, Close: 131.15, RSI(talib): 78.35
+ROST, Close: 182.40, RSI(talib): 72.23
+PCAR, Close: 112.16, RSI(talib): 67.07
+JNJ, Close: 209.30, RSI(talib): 61.66
+BAC, Close: 54.81, RSI(talib): 63.07
+DAL, Close: 71.14, RSI(talib): 70.97
+GM, Close: 81.76, RSI(talib): 82.93
+LLY, Close: 1054.29, RSI(talib): 62.94
+ROKU, Close: 111.09, RSI(talib): 70.32
+WFC, Close: 92.19, RSI(talib): 67.86
+WMT, Close: 115.42, RSI(talib): 63.44
+WBD, Close: 28.90, RSI(talib): 76.07
+--------------
+GOOGL failed (Can't get stock info: GOOGL, Current Price: 306.57000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 229.0116515060951, 200 Day Average: None, RSI: 53.86522980565457).
+FTNT failed (Can't get stock info: FTNT, Current Price: 82.47000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 89.58427592310412, 200 Day Average: None, RSI: 49.60127970100269).
+ADSK failed (Can't get stock info: ADSK, Current Price: 293.9800109863281, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 303.0971524980333, 200 Day Average: None, RSI: 40.64773214989141).
+EXC failed (Can't get stock info: EXC, Current Price: 43.7599983215332, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.07873032668541, 200 Day Average: None, RSI: 38.850294880218264).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CAT failed (Can't get stock info: CAT, Current Price: 588.9299926757812, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 459.52488824252424, 200 Day Average: None, RSI: 54.416320308417056).

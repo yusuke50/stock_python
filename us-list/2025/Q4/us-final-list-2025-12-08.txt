@@ -1,0 +1,34 @@
+--------------
+Mon Dec  8 19:59:57 2025 US Stock List
+--------------
+TSLA, Close: 455.00, RSI(talib): 60.69
+GOOG, Close: 322.09, RSI(talib): 71.10
+GOOGL, Close: 321.27, RSI(talib): 70.62
+AVGO, Close: 390.24, RSI(talib): 60.31
+CSCO, Close: 77.97, RSI(talib): 63.32
+AMAT, Close: 268.00, RSI(talib): 69.38
+ADI, Close: 281.29, RSI(talib): 75.42
+CSX, Close: 36.30, RSI(talib): 62.79
+MRVL, Close: 98.91, RSI(talib): 63.13
+KLAC, Close: 1214.46, RSI(talib): 60.23
+ILMN, Close: 128.96, RSI(talib): 66.17
+EA, Close: 203.92, RSI(talib): 74.29
+ROST, Close: 177.87, RSI(talib): 77.03
+BIIB, Close: 181.30, RSI(talib): 71.69
+ZM, Close: 87.65, RSI(talib): 62.28
+BAC, Close: 53.95, RSI(talib): 62.41
+DAL, Close: 67.10, RSI(talib): 67.35
+GM, Close: 76.05, RSI(talib): 76.57
+WFC, Close: 89.83, RSI(talib): 68.34
+WMT, Close: 115.11, RSI(talib): 74.28
+WBD, Close: 26.08, RSI(talib): 78.56
+RIVN, Close: 17.95, RSI(talib): 69.27
+CAT, Close: 603.17, RSI(talib): 69.55
+--------------
+EXC failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/EXC/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/EXC/key-statistics", waiting until "domcontentloaded"
+).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ENPH failed (Can't get stock info: ENPH, Current Price: 31.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 36.87372432577199, 200 Day Average: None, RSI: 55.30549841429138).

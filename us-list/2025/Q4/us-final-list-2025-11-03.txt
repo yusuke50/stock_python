@@ -1,0 +1,37 @@
+--------------
+Mon Nov  3 20:19:56 2025 US Stock List
+--------------
+HII, Close: 322.02, RSI(talib): 74.93
+RTX, Close: 178.50, RSI(talib): 67.69
+NVDA, Close: 202.49, RSI(talib): 66.88
+GOOG, Close: 281.82, RSI(talib): 78.14
+GOOGL, Close: 281.19, RSI(talib): 77.32
+AVGO, Close: 369.63, RSI(talib): 60.53
+CSCO, Close: 73.11, RSI(talib): 66.58
+INTC, Close: 39.99, RSI(talib): 65.24
+AMD, Close: 256.12, RSI(talib): 68.41
+AMAT, Close: 233.10, RSI(talib): 64.89
+MU, Close: 223.77, RSI(talib): 73.23
+LRCX, Close: 157.46, RSI(talib): 67.87
+PANW, Close: 220.24, RSI(talib): 63.61
+ASML, Close: 1059.23, RSI(talib): 65.73
+KLAC, Close: 1208.74, RSI(talib): 66.09
+AEP, Close: 120.26, RSI(talib): 63.77
+CRWD, Close: 543.01, RSI(talib): 69.27
+DDOG, Close: 162.81, RSI(talib): 64.27
+XEL, Close: 81.17, RSI(talib): 60.68
+EA, Close: 200.06, RSI(talib): 72.05
+ZS, Close: 331.14, RSI(talib): 67.65
+BAC, Close: 53.45, RSI(talib): 62.81
+GM, Close: 69.09, RSI(talib): 71.99
+ROKU, Close: 106.13, RSI(talib): 64.40
+WBD, Close: 22.45, RSI(talib): 78.70
+HWM, Close: 205.95, RSI(talib): 65.46
+CAT, Close: 577.26, RSI(talib): 74.50
+--------------
+AMZN failed (Can't get stock info: AMZN, Current Price: 244.22000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 214.6724830364359, 200 Day Average: None, RSI: 66.32748565132187).
+HON failed (Can't get stock info: HON, Current Price: 201.3300018310547, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 203.79071350097655, 200 Day Average: None, RSI: 54.321573053832516).
+KHC failed (Can't get stock info: KHC, Current Price: 24.729999542236328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 26.66632458917026, 200 Day Average: None, RSI: 39.07407611451207).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DLTR failed (Can't get stock info: DLTR, Current Price: 99.12000274658203, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 97.22420712175041, 200 Day Average: None, RSI: 54.08832938902971).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

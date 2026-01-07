@@ -1,0 +1,26 @@
+--------------
+Mon Nov 17 19:18:29 2025 US Stock List
+--------------
+AAPL, Close: 272.41, RSI(talib): 66.68
+CSCO, Close: 78.00, RSI(talib): 72.77
+MU, Close: 246.83, RSI(talib): 63.98
+GILD, Close: 125.02, RSI(talib): 62.21
+MAR, Close: 285.72, RSI(talib): 61.44
+ILMN, Close: 120.67, RSI(talib): 63.34
+AEP, Close: 121.30, RSI(talib): 65.16
+MNST, Close: 71.31, RSI(talib): 61.75
+DDOG, Close: 185.01, RSI(talib): 63.62
+AZN, Close: 89.10, RSI(talib): 69.03
+EA, Close: 201.06, RSI(talib): 70.21
+JNJ, Close: 195.93, RSI(talib): 71.20
+GM, Close: 70.52, RSI(talib): 64.85
+WBD, Close: 23.03, RSI(talib): 67.70
+--------------
+MELI failed (Can't get stock info: MELI, Current Price: 2048.889892578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2360.6347990689214, 200 Day Average: None, RSI: 35.50940732672729).
+SNPS failed (Can't get stock info: SNPS, Current Price: 389.8299865722656, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 508.92623295196114, 200 Day Average: None, RSI: 31.18545326490409).
+ORLY failed (Can't get stock info: ORLY, Current Price: 98.80000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 96.98849790390224, 200 Day Average: None, RSI: 51.862652659581556).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CVX failed (Can't get stock info: CVX, Current Price: 157.6199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 148.62536401618016, 200 Day Average: None, RSI: 56.18164274157406).
+PFE failed (Can't get stock info: PFE, Current Price: 25.059999465942383, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 23.745495717819423, 200 Day Average: None, RSI: 57.01802076279153).
+CSGP failed (Can't get stock info: CSGP, Current Price: 68.05000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.74130149736796, 200 Day Average: None, RSI: 29.629489662720342).
