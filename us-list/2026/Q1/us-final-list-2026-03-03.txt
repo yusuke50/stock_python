@@ -1,0 +1,31 @@
+--------------
+Tue Mar  3 19:13:24 2026 US Stock List
+--------------
+HII, Close: 453.73, RSI(talib): 65.97
+LMT, Close: 676.70, RSI(talib): 70.10
+RTX, Close: 212.16, RSI(talib): 67.84
+PEP, Close: 167.28, RSI(talib): 60.99
+AMGN, Close: 385.70, RSI(talib): 65.20
+AMAT, Close: 372.18, RSI(talib): 62.58
+ADI, Close: 352.41, RSI(talib): 68.95
+CSX, Close: 43.17, RSI(talib): 76.85
+MRNA, Close: 52.85, RSI(talib): 73.06
+KLAC, Close: 1534.95, RSI(talib): 60.08
+AEP, Close: 133.29, RSI(talib): 74.89
+XEL, Close: 83.80, RSI(talib): 72.48
+ROST, Close: 202.30, RSI(talib): 65.66
+JNJ, Close: 248.56, RSI(talib): 73.51
+BMY, Close: 62.34, RSI(talib): 68.92
+CVX, Close: 189.60, RSI(talib): 73.87
+XOM, Close: 154.22, RSI(talib): 66.61
+GE, Close: 345.74, RSI(talib): 65.98
+BKR, Close: 64.83, RSI(talib): 75.11
+FANG, Close: 178.96, RSI(talib): 65.38
+NOC, Close: 768.02, RSI(talib): 70.93
+LHX, Close: 378.48, RSI(talib): 69.17
+HWM, Close: 265.11, RSI(talib): 78.73
+CAT, Close: 752.32, RSI(talib): 60.96
+--------------
+SNPS failed (Can't get stock info: SNPS, Current Price: 424.6600036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 481.580973095364, 200 Day Average: None, RSI: 44.047677349425356).
+PAYX failed (Can't get stock info: PAYX, Current Price: 94.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.18017069498698, 200 Day Average: None, RSI: 44.616322278178785).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

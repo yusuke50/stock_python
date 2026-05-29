@@ -1,0 +1,12 @@
+--------------
+Fri Mar 27 19:05:45 2026 US Stock List
+--------------
+CSCO, Close: 82.16, RSI(talib): 61.28
+ROST, Close: 214.30, RSI(talib): 63.64
+CVX, Close: 207.79, RSI(talib): 78.80
+MRK, Close: 118.93, RSI(talib): 60.16
+XOM, Close: 165.43, RSI(talib): 71.67
+FANG, Close: 202.19, RSI(talib): 78.39
+--------------
+ADI failed (Can't get stock info: ADI, Current Price: 313.4200134277344, 52 Week High: 363.2, 52 Week Low: 158.65, 50 Day Average: 323.07, 150 Day Average: 276.5705918206109, 200 Day Average: 266.0, RSI: None).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

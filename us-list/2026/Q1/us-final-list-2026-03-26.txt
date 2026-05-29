@@ -1,0 +1,11 @@
+--------------
+Thu Mar 26 19:05:30 2026 US Stock List
+--------------
+CSCO, Close: 81.83, RSI(talib): 60.45
+ROST, Close: 216.03, RSI(talib): 67.77
+CVX, Close: 205.15, RSI(talib): 76.54
+MRK, Close: 119.37, RSI(talib): 61.82
+XOM, Close: 163.26, RSI(talib): 69.31
+FANG, Close: 196.02, RSI(talib): 74.31
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

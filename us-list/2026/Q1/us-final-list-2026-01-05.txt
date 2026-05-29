@@ -1,0 +1,44 @@
+--------------
+Mon Jan  5 23:29:17 2026 US Stock List
+--------------
+HII, Close: 363.10, RSI(talib): 64.59
+RTX, Close: 187.43, RSI(talib): 66.42
+AMAT, Close: 282.77, RSI(talib): 60.56
+MU, Close: 317.68, RSI(talib): 70.60
+LRCX, Close: 195.93, RSI(talib): 64.85
+REGN, Close: 755.88, RSI(talib): 64.35
+ASML, Close: 1228.81, RSI(talib): 66.84
+MAR, Close: 313.80, RSI(talib): 62.57
+MNST, Close: 75.36, RSI(talib): 60.04
+EA, Close: 204.30, RSI(talib): 63.93
+BIDU, Close: 145.72, RSI(talib): 74.35
+DLTR, Close: 126.53, RSI(talib): 63.19
+PCAR, Close: 112.00, RSI(talib): 61.58
+BIIB, Close: 174.07, RSI(talib): 60.72
+NTES, Close: 141.13, RSI(talib): 65.80
+BAC, Close: 57.46, RSI(talib): 60.87
+GM, Close: 80.64, RSI(talib): 61.90
+MRK, Close: 106.31, RSI(talib): 70.42
+WFC, Close: 97.36, RSI(talib): 65.88
+XOM, Close: 124.02, RSI(talib): 65.92
+GE, Close: 326.58, RSI(talib): 64.14
+WBD, Close: 28.68, RSI(talib): 60.90
+NOC, Close: 595.67, RSI(talib): 60.28
+LHX, Close: 310.33, RSI(talib): 66.27
+RKLB, Close: 73.81, RSI(talib): 68.03
+HWM, Close: 212.44, RSI(talib): 60.49
+--------------
+GOOG failed (Can't get stock info: GOOG, Current Price: 317.87799072265625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 240.92805671691895, 200 Day Average: None, RSI: 57.490936117848115).
+META failed (Can't get stock info: META, Current Price: 663.4450073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 704.6454137166342, 200 Day Average: None, RSI: 49.48892328886988).
+PEP failed (Can't get stock info: PEP, Current Price: 140.17999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 141.54966333177356, 200 Day Average: None, RSI: 38.61473034139789).
+ADBE failed (Can't get stock info: ADBE, Current Price: 330.375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 353.86590173509387, 200 Day Average: None, RSI: 39.85987593957773).
+ORLY failed (Can't get stock info: ORLY, Current Price: 90.12000274658203, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 98.0550233523051, 200 Day Average: None, RSI: 33.35502707981751).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ROST failed (Can't get stock info: ROST, Current Price: 183.85450744628906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 152.081442144182, 200 Day Average: None, RSI: 66.28350724527353).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+LLY failed (Can't get stock info: LLY, Current Price: 1038.489990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 844.1266042921278, 200 Day Average: None, RSI: 65.22789418896944).
+ORCL failed (Can't get stock info: ORCL, Current Price: 196.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 241.26485453711615, 200 Day Average: None, RSI: 42.3117150480337).
+CL failed (Can't get stock info: CL, Current Price: 76.18499755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.1815127266778, 200 Day Average: None, RSI: 45.26510954283129).
+ON failed (Can't get stock info: ON, Current Price: 59.689998626708984, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 52.09847233030531, 200 Day Average: None, RSI: 61.80551353316084).
+ENPH failed (Can't get stock info: ENPH, Current Price: 34.362998962402344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 35.38854184415605, 200 Day Average: None, RSI: 59.44772350228914).
+LUNR failed (Can't get stock info: LUNR, Current Price: 18.045000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 10.893090234862434, 200 Day Average: None, RSI: 73.14010096972801).

@@ -1,0 +1,33 @@
+--------------
+Mon May 11 19:05:43 2026 US Stock List
+--------------
+AMZN, Close: 272.68, RSI(talib): 74.95
+NVDA, Close: 215.20, RSI(talib): 65.32
+GOOG, Close: 397.05, RSI(talib): 82.69
+GOOGL, Close: 400.80, RSI(talib): 83.42
+AVGO, Close: 430.00, RSI(talib): 64.83
+CSCO, Close: 96.57, RSI(talib): 73.19
+INTC, Close: 124.92, RSI(talib): 85.16
+TXN, Close: 287.80, RSI(talib): 77.35
+AMAT, Close: 435.44, RSI(talib): 65.30
+MU, Close: 746.81, RSI(talib): 83.37
+ADI, Close: 416.52, RSI(talib): 71.51
+LRCX, Close: 294.05, RSI(talib): 66.71
+MRNA, Close: 54.35, RSI(talib): 60.06
+MRVL, Close: 170.13, RSI(talib): 69.09
+ASML, Close: 1592.02, RSI(talib): 64.38
+KLAC, Close: 1869.19, RSI(talib): 62.11
+ILMN, Close: 141.88, RSI(talib): 63.97
+MCHP, Close: 99.09, RSI(talib): 73.79
+MNST, Close: 86.29, RSI(talib): 72.95
+DAL, Close: 73.33, RSI(talib): 66.85
+ROKU, Close: 129.53, RSI(talib): 72.34
+ON, Close: 103.20, RSI(talib): 72.75
+GFS, Close: 74.12, RSI(talib): 79.75
+RKLB, Close: 105.47, RSI(talib): 68.51
+LUNR, Close: 28.97, RSI(talib): 61.81
+HWM, Close: 270.56, RSI(talib): 65.93
+CAT, Close: 897.45, RSI(talib): 67.26
+IBKR, Close: 84.42, RSI(talib): 65.54
+--------------
+AMD failed (Can't get stock info: AMD, Current Price: 455.19000244140625, 52 Week High: 456.29, 52 Week Low: 106.98, 50 Day Average: 254.51, 150 Day Average: 235.48131932152643, 200 Day Average: 217.35, RSI: None).

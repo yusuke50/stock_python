@@ -1,0 +1,39 @@
+--------------
+Fri May 29 19:05:59 2026 US Stock List
+--------------
+AAPL, Close: 312.51, RSI(talib): 81.82
+AMZN, Close: 274.00, RSI(talib): 67.72
+GOOG, Close: 386.12, RSI(talib): 65.46
+GOOGL, Close: 390.13, RSI(talib): 65.59
+AVGO, Close: 426.58, RSI(talib): 61.97
+CSCO, Close: 118.64, RSI(talib): 75.35
+INTC, Close: 120.89, RSI(talib): 68.32
+AMD, Close: 518.09, RSI(talib): 77.70
+TXN, Close: 315.95, RSI(talib): 70.78
+AMAT, Close: 449.68, RSI(talib): 64.10
+MU, Close: 923.52, RSI(talib): 77.02
+ADI, Close: 419.01, RSI(talib): 60.63
+LRCX, Close: 318.00, RSI(talib): 68.40
+MRVL, Close: 204.83, RSI(talib): 70.83
+ASML, Close: 1605.77, RSI(talib): 60.71
+MAR, Close: 385.76, RSI(talib): 74.37
+KLAC, Close: 1927.63, RSI(talib): 60.68
+ILMN, Close: 158.70, RSI(talib): 77.36
+FTNT, Close: 129.70, RSI(talib): 75.80
+NXPI, Close: 330.28, RSI(talib): 72.47
+CRWD, Close: 671.00, RSI(talib): 79.62
+MCHP, Close: 96.04, RSI(talib): 61.59
+MNST, Close: 87.99, RSI(talib): 67.14
+DDOG, Close: 225.24, RSI(talib): 83.54
+ODFL, Close: 220.86, RSI(talib): 65.75
+DAL, Close: 82.49, RSI(talib): 75.52
+MRK, Close: 119.89, RSI(talib): 60.51
+ROKU, Close: 131.09, RSI(talib): 69.78
+ON, Close: 123.77, RSI(talib): 70.49
+GFS, Close: 80.63, RSI(talib): 62.81
+ENPH, Close: 69.50, RSI(talib): 80.25
+ODFL, Close: 220.86, RSI(talib): 65.75
+RKLB, Close: 148.03, RSI(talib): 72.97
+LUNR, Close: 45.70, RSI(talib): 74.56
+--------------
+VRTX failed (Can't get stock info: VRTX, Current Price: 447.9700012207031, 52 Week High: 507.92, 52 Week Low: 362.5, 50 Day Average: 439.04, 150 Day Average: 450.00286694506667, 200 Day Average: 435.4, RSI: None).

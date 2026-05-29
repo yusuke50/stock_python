@@ -1,0 +1,261 @@
+--------------
+Mon May 18 20:39:44 2026 TW Stock List
+--------------
+2356.TW, Close: 51.90, RSI(talib): 66.44
+2885.TW, Close: 54.30, RSI(talib): 63.65
+2301.TW, Close: 207.50, RSI(talib): 60.11
+2330.TW, Close: 2240.00, RSI(talib): 61.56
+2408.TW, Close: 305.00, RSI(talib): 62.04
+3481.TW, Close: 38.70, RSI(talib): 71.68
+6116.TW, Close: 10.35, RSI(talib): 61.98
+3711.TW, Close: 510.00, RSI(talib): 70.23
+2303.TW, Close: 111.00, RSI(talib): 75.60
+6531.TW, Close: 1135.00, RSI(talib): 76.29
+2481.TW, Close: 129.00, RSI(talib): 61.54
+3006.TW, Close: 252.00, RSI(talib): 71.57
+2351.TW, Close: 180.50, RSI(talib): 70.49
+3209.TW, Close: 73.30, RSI(talib): 75.82
+4958.TW, Close: 388.50, RSI(talib): 60.16
+2344.TW, Close: 130.50, RSI(talib): 66.55
+2454.TW, Close: 3400.00, RSI(talib): 64.34
+8028.TW, Close: 278.50, RSI(talib): 75.15
+3036.TW, Close: 263.50, RSI(talib): 65.92
+2492.TW, Close: 217.50, RSI(talib): 71.11
+6239.TW, Close: 250.00, RSI(talib): 65.76
+1560.TW, Close: 649.00, RSI(talib): 67.71
+3016.TW, Close: 111.00, RSI(talib): 63.55
+1762.TW, Close: 37.15, RSI(talib): 61.63
+6005.TW, Close: 30.55, RSI(talib): 62.68
+2327.TW, Close: 501.00, RSI(talib): 80.00
+6278.TW, Close: 210.00, RSI(talib): 73.12
+8261.TW, Close: 138.50, RSI(talib): 63.45
+6257.TW, Close: 218.50, RSI(talib): 75.95
+3702.TW, Close: 110.50, RSI(talib): 62.47
+2059.TW, Close: 4765.00, RSI(talib): 60.65
+1590.TW, Close: 1450.00, RSI(talib): 64.94
+2049.TW, Close: 378.50, RSI(talib): 84.46
+3673.TW, Close: 68.60, RSI(talib): 60.53
+3406.TW, Close: 577.00, RSI(talib): 70.77
+5285.TW, Close: 75.80, RSI(talib): 82.00
+1727.TW, Close: 87.70, RSI(talib): 72.45
+1721.TW, Close: 29.30, RSI(talib): 61.62
+2302.TW, Close: 25.55, RSI(talib): 71.36
+2441.TW, Close: 103.50, RSI(talib): 66.95
+4720.TW, Close: 26.05, RSI(talib): 60.51
+3305.TW, Close: 137.00, RSI(talib): 71.54
+3033.TW, Close: 48.70, RSI(talib): 81.22
+6789.TW, Close: 549.00, RSI(talib): 65.40
+3030.TW, Close: 387.00, RSI(talib): 62.04
+5284.TW, Close: 374.50, RSI(talib): 60.40
+8210.TW, Close: 1380.00, RSI(talib): 65.33
+2451.TW, Close: 328.50, RSI(talib): 62.17
+2464.TW, Close: 139.00, RSI(talib): 71.22
+5471.TW, Close: 50.40, RSI(talib): 66.59
+1809.TW, Close: 37.60, RSI(talib): 67.96
+2472.TW, Close: 235.00, RSI(talib): 66.84
+3149.TW, Close: 59.00, RSI(talib): 67.32
+3583.TW, Close: 900.00, RSI(talib): 64.13
+3055.TW, Close: 113.00, RSI(talib): 69.79
+6166.TW, Close: 113.50, RSI(talib): 83.58
+6451.TW, Close: 520.00, RSI(talib): 67.82
+3090.TW, Close: 148.00, RSI(talib): 78.27
+2855.TW, Close: 39.80, RSI(talib): 64.53
+5215.TW, Close: 45.50, RSI(talib): 64.92
+2423.TW, Close: 77.80, RSI(talib): 72.84
+2850.TW, Close: 136.50, RSI(talib): 63.03
+6446.TW, Close: 806.00, RSI(talib): 78.23
+6834.TW, Close: 52.70, RSI(talib): 72.43
+1597.TW, Close: 189.50, RSI(talib): 74.10
+4576.TW, Close: 258.50, RSI(talib): 72.78
+4540.TW, Close: 71.00, RSI(talib): 64.10
+6405.TW, Close: 54.00, RSI(talib): 65.52
+6658.TW, Close: 203.00, RSI(talib): 76.35
+3028.TW, Close: 81.20, RSI(talib): 67.12
+4912.TW, Close: 106.00, RSI(talib): 75.01
+4722.TW, Close: 255.50, RSI(talib): 75.21
+3026.TW, Close: 359.50, RSI(talib): 68.56
+2478.TW, Close: 91.80, RSI(talib): 67.45
+3135.TW, Close: 208.00, RSI(talib): 76.44
+7769.TW, Close: 6655.00, RSI(talib): 70.61
+6277.TW, Close: 73.60, RSI(talib): 60.64
+--------------
+2206.TW (Close: 58.29999923706055) failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/2206.TW/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/2206.TW/key-statistics", waiting until "domcontentloaded"
+)
+3454.TW (Close: 99.4000015258789) failed (Can't get stock info: 3454.TW, Current Price: 99.4000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.53014732809628, 200 Day Average: None, RSI: 0.0)
+3715.TW (Close: 170.5) failed (Can't get stock info: 3715.TW, Current Price: 170.5, 52 Week High: 203.5, 52 Week Low: 39.15, 50 Day Average: 176.91, 150 Day Average: 142.54944745232078, 200 Day Average: 129.23, RSI: None)
+6855.TW (Close: None) failed (Can't get stock info: 6855.TW, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None)
+--------------
+Exception Stocks:
+0056.TW (Exception)
+0050.TW (Exception)
+0052.TW (Exception)
+00633L.TW (Exception)
+00632R.TW (Exception)
+00882.TW (Exception)
+00953B.TW (Exception)
+00885.TW (Exception)
+00902.TW (Exception)
+00949.TW (Exception)
+00673R.TW (Exception)
+00941.TW (Exception)
+00936.TW (Exception)
+00893.TW (Exception)
+00680L.TW (Exception)
+00945B.TW (Exception)
+00954.TW (Exception)
+00712.TW (Exception)
+00960.TW (Exception)
+00715L.TW (Exception)
+00637L.TW (Exception)
+00639.TW (Exception)
+00665L.TW (Exception)
+00642U.TW (Exception)
+00650L.TW (Exception)
+00753L.TW (Exception)
+00655L.TW (Exception)
+00752.TW (Exception)
+006205.TW (Exception)
+00671R.TW (Exception)
+00929.TW (Exception)
+00951.TW (Exception)
+00636.TW (Exception)
+00643.TW (Exception)
+00939.TW (Exception)
+00881.TW (Exception)
+00713.TW (Exception)
+00830.TW (Exception)
+00664R.TW (Exception)
+00669R.TW (Exception)
+00676R.TW (Exception)
+00947.TW (Exception)
+00923.TW (Exception)
+00935.TW (Exception)
+006208.TW (Exception)
+00891.TW (Exception)
+00638R.TW (Exception)
+00892.TW (Exception)
+00651R.TW (Exception)
+00634R.TW (Exception)
+00631L.TW (Exception)
+00878.TW (Exception)
+00934.TW (Exception)
+00919.TW (Exception)
+00946.TW (Exception)
+00918.TW (Exception)
+00757.TW (Exception)
+00940.TW (Exception)
+00775B.TW (Exception)
+00922.TW (Exception)
+00961.TW (Exception)
+00675L.TW (Exception)
+00900.TW (Exception)
+00952.TW (Exception)
+00905.TW (Exception)
+00850.TW (Exception)
+00938.TW (Exception)
+00944.TW (Exception)
+00909.TW (Exception)
+00688L.TW (Exception)
+00897.TW (Exception)
+00956.TW (Exception)
+00898.TW (Exception)
+00648R.TW (Exception)
+00927.TW (Exception)
+00943.TW (Exception)
+00701.TW (Exception)
+00903.TW (Exception)
+00674R.TW (Exception)
+0061.TW (Exception)
+00932.TW (Exception)
+00915.TW (Exception)
+00963.TW (Exception)
+00964.TW (Exception)
+00706L.TW (Exception)
+00965.TW (Exception)
+00895.TW (Exception)
+00907.TW (Exception)
+00962.TW (Exception)
+00717.TW (Exception)
+00904.TW (Exception)
+00646.TW (Exception)
+00681R.TW (Exception)
+00662.TW (Exception)
+00930.TW (Exception)
+00852L.TW (Exception)
+00733.TW (Exception)
+009800.TW (Exception)
+009801.TW (Exception)
+00710B.TW (Exception)
+00924.TW (Exception)
+00921.TW (Exception)
+009802.TW (Exception)
+009803.TW (Exception)
+00635U.TW (Exception)
+00762.TW (Exception)
+00876.TW (Exception)
+00916.TW (Exception)
+00926.TW (Exception)
+00700.TW (Exception)
+00686R.TW (Exception)
+00641R.TW (Exception)
+00731.TW (Exception)
+00670L.TW (Exception)
+00708L.TW (Exception)
+009804.TW (Exception)
+00971.TW (Exception)
+00861.TW (Exception)
+00980A.TW (Exception)
+0055.TW (Exception)
+009805.TW (Exception)
+009808.TW (Exception)
+00982A.TW (Exception)
+00981A.TW (Exception)
+00770.TW (Exception)
+00910.TW (Exception)
+00983A.TW (Exception)
+00763U.TW (Exception)
+009810.TW (Exception)
+00692.TW (Exception)
+00985B.TW (Exception)
+00647L.TW (Exception)
+009811.TW (Exception)
+00656R.TW (Exception)
+00985A.TW (Exception)
+00981T.TW (Exception)
+00982D.TW (Exception)
+00983D.TW (Exception)
+009809.TW (Exception)
+00663L.TW (Exception)
+00984A.TW (Exception)
+00989A.TW (Exception)
+009813.TW (Exception)
+00693U.TW (Exception)
+00986A.TW (Exception)
+00988A.TW (Exception)
+00738U.TW (Exception)
+00865B.TW (Exception)
+00991A.TW (Exception)
+00990A.TW (Exception)
+00982T.TW (Exception)
+00896.TW (Exception)
+00992A.TW (Exception)
+00987A.TW (Exception)
+00994A.TW (Exception)
+00730.TW (Exception)
+00995A.TW (Exception)
+009817.TW (Exception)
+00993A.TW (Exception)
+009816.TW (Exception)
+00984D.TW (Exception)
+009818.TW (Exception)
+00711B.TW (Exception)
+00917.TW (Exception)
+00996A.TW (Exception)
+00400A.TW (Exception)
+00997A.TW (Exception)
+009820.TW (Exception)
+00401A.TW (Exception)
+009819.TW (Exception)
+00999A.TW (Exception)

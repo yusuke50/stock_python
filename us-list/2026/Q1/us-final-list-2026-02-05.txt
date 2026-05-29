@@ -1,0 +1,31 @@
+--------------
+Thu Feb  5 21:00:35 2026 US Stock List
+--------------
+LMT, Close: 602.76, RSI(talib): 63.02
+AAPL, Close: 276.49, RSI(talib): 67.62
+PEP, Close: 166.18, RSI(talib): 82.60
+CSCO, Close: 81.16, RSI(talib): 63.48
+AMGN, Close: 366.20, RSI(talib): 69.97
+ADI, Close: 320.44, RSI(talib): 65.45
+CSX, Close: 39.85, RSI(talib): 73.79
+GILD, Close: 146.23, RSI(talib): 78.07
+MCHP, Close: 78.23, RSI(talib): 60.22
+MNST, Close: 81.44, RSI(talib): 63.24
+PCAR, Close: 128.78, RSI(talib): 74.22
+BIIB, Close: 185.45, RSI(talib): 61.00
+JNJ, Close: 234.47, RSI(talib): 82.54
+BAC, Close: 55.38, RSI(talib): 61.37
+CVX, Close: 181.23, RSI(talib): 78.04
+GM, Close: 86.29, RSI(talib): 61.46
+LLY, Close: 1107.12, RSI(talib): 60.44
+MRK, Close: 118.33, RSI(talib): 74.52
+WMT, Close: 128.00, RSI(talib): 77.08
+XOM, Close: 147.59, RSI(talib): 79.42
+BKR, Close: 59.17, RSI(talib): 77.17
+FANG, Close: 168.99, RSI(talib): 66.38
+NOC, Close: 689.75, RSI(talib): 65.52
+CAT, Close: 691.82, RSI(talib): 66.60
+--------------
+WDAY failed (Can't get stock info: WDAY, Current Price: 170.14999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 222.7621378931506, 200 Day Average: None, RSI: 30.306282323833912).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ZM failed (Can't get stock info: ZM, Current Price: 90.83000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.19855173045191, 200 Day Average: None, RSI: 54.459566426269745).

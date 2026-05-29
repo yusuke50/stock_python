@@ -1,0 +1,10 @@
+--------------
+Mon Mar 30 19:05:20 2026 US Stock List
+--------------
+CVX, Close: 211.15, RSI(talib): 80.64
+MRK, Close: 119.63, RSI(talib): 62.52
+XOM, Close: 170.99, RSI(talib): 75.76
+BKR, Close: 63.22, RSI(talib): 60.60
+FANG, Close: 201.84, RSI(talib): 76.50
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

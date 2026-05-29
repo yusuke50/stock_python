@@ -1,0 +1,27 @@
+--------------
+Wed May 20 19:05:25 2026 US Stock List
+--------------
+AAPL, Close: 298.97, RSI(talib): 73.60
+NVDA, Close: 220.61, RSI(talib): 60.39
+GOOG, Close: 384.90, RSI(talib): 62.24
+GOOGL, Close: 387.66, RSI(talib): 61.79
+COST, Close: 1094.32, RSI(talib): 77.04
+CSCO, Close: 115.38, RSI(talib): 79.51
+INTC, Close: 110.80, RSI(talib): 63.79
+AMD, Close: 414.05, RSI(talib): 64.09
+TXN, Close: 302.31, RSI(talib): 74.15
+SBUX, Close: 106.38, RSI(talib): 65.08
+MU, Close: 698.74, RSI(talib): 61.09
+ADI, Close: 414.31, RSI(talib): 61.61
+CSX, Close: 46.08, RSI(talib): 65.17
+MRVL, Close: 176.27, RSI(talib): 63.49
+FTNT, Close: 127.64, RSI(talib): 86.48
+MNST, Close: 86.35, RSI(talib): 66.79
+CVX, Close: 197.25, RSI(talib): 61.72
+KO, Close: 81.92, RSI(talib): 73.16
+WMT, Close: 134.20, RSI(talib): 64.86
+XOM, Close: 162.55, RSI(talib): 64.81
+FANG, Close: 207.77, RSI(talib): 61.79
+ENPH, Close: 46.76, RSI(talib): 62.96
+RKLB, Close: 127.31, RSI(talib): 69.46
+--------------

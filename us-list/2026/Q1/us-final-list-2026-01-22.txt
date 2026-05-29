@@ -1,0 +1,44 @@
+--------------
+Thu Jan 22 19:55:13 2026 US Stock List
+--------------
+HII, Close: 422.68, RSI(talib): 75.84
+RTX, Close: 197.50, RSI(talib): 65.36
+INTC, Close: 54.25, RSI(talib): 77.33
+AMD, Close: 249.80, RSI(talib): 73.78
+AMGN, Close: 343.60, RSI(talib): 61.67
+AMAT, Close: 325.24, RSI(talib): 72.33
+MU, Close: 389.11, RSI(talib): 78.27
+ADI, Close: 304.97, RSI(talib): 71.42
+LRCX, Close: 228.39, RSI(talib): 74.99
+GILD, Close: 129.11, RSI(talib): 61.00
+MRNA, Close: 49.81, RSI(talib): 81.86
+ASML, Close: 1360.09, RSI(talib): 73.86
+KLAC, Close: 1520.00, RSI(talib): 67.72
+ILMN, Close: 152.48, RSI(talib): 65.75
+MNST, Close: 81.60, RSI(talib): 75.35
+BIDU, Close: 162.28, RSI(talib): 74.95
+ROST, Close: 192.32, RSI(talib): 65.92
+PCAR, Close: 123.26, RSI(talib): 72.04
+JNJ, Close: 218.01, RSI(talib): 66.29
+CVX, Close: 166.73, RSI(talib): 67.51
+MRK, Close: 111.11, RSI(talib): 63.36
+WMT, Close: 119.36, RSI(talib): 67.68
+ON, Close: 63.13, RSI(talib): 69.34
+BKR, Close: 53.59, RSI(talib): 68.57
+GD, Close: 364.78, RSI(talib): 62.06
+NOC, Close: 664.16, RSI(talib): 70.18
+LHX, Close: 347.81, RSI(talib): 77.32
+RKLB, Close: 87.82, RSI(talib): 64.12
+LUNR, Close: 19.60, RSI(talib): 61.67
+KTOS, Close: 120.59, RSI(talib): 71.59
+CAT, Close: 645.38, RSI(talib): 65.58
+--------------
+ADBE failed (Can't get stock info: ADBE, Current Price: 294.2300109863281, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 347.37680456373425, 200 Day Average: None, RSI: 26.77201123056697).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DDOG failed (Can't get stock info: DDOG, Current Price: 123.45999908447266, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 145.6991327603658, 200 Day Average: None, RSI: 35.07432646684245).
+PDD failed (Can't get stock info: PDD, Current Price: 105.91999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 120.2874306042989, 200 Day Average: None, RSI: 36.389360401513265).
+XOM failed (Can't get stock info: XOM, Current Price: 133.61000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 113.6960188017951, 200 Day Average: None, RSI: 72.35398364229795).
+GFS failed (Can't get stock info: GFS, Current Price: 45.88999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 36.1274999777476, 200 Day Average: None, RSI: 78.96053407882984).
+RIVN failed (Can't get stock info: RIVN, Current Price: 16.469999313354492, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 14.96083328458998, 200 Day Average: None, RSI: 37.47607026768059).
+TTD failed (Can't get stock info: TTD, Current Price: 35.33000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 52.711041582955254, 200 Day Average: None, RSI: 37.85507309060834).
+HWM failed (Can't get stock info: HWM, Current Price: 225.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 192.85869227515326, 200 Day Average: None, RSI: 65.84877926700638).

@@ -1,0 +1,37 @@
+--------------
+Thu Jan  8 19:08:49 2026 US Stock List
+--------------
+HII, Close: 356.45, RSI(talib): 61.60
+AMZN, Close: 241.56, RSI(talib): 60.72
+GOOG, Close: 322.43, RSI(talib): 62.90
+GOOGL, Close: 321.98, RSI(talib): 63.49
+INTC, Close: 42.63, RSI(talib): 67.75
+AMGN, Close: 341.64, RSI(talib): 62.81
+AMAT, Close: 292.20, RSI(talib): 69.89
+MU, Close: 339.55, RSI(talib): 72.35
+ADI, Close: 292.89, RSI(talib): 72.80
+LRCX, Close: 203.08, RSI(talib): 70.52
+REGN, Close: 812.27, RSI(talib): 70.84
+ASML, Close: 1228.47, RSI(talib): 70.91
+MAR, Close: 319.26, RSI(talib): 63.56
+KLAC, Close: 1359.69, RSI(talib): 63.16
+ILMN, Close: 150.14, RSI(talib): 75.19
+EA, Close: 204.50, RSI(talib): 62.31
+BIDU, Close: 146.81, RSI(talib): 67.68
+DLTR, Close: 131.56, RSI(talib): 64.46
+ROST, Close: 186.99, RSI(talib): 71.98
+PCAR, Close: 115.30, RSI(talib): 65.78
+BIIB, Close: 186.91, RSI(talib): 70.13
+DAL, Close: 71.65, RSI(talib): 63.35
+GM, Close: 81.91, RSI(talib): 60.69
+LLY, Close: 1108.09, RSI(talib): 65.53
+MRK, Close: 108.60, RSI(talib): 73.59
+GE, Close: 323.64, RSI(talib): 62.53
+WBD, Close: 28.59, RSI(talib): 60.64
+LHX, Close: 309.76, RSI(talib): 64.36
+RKLB, Close: 84.08, RSI(talib): 71.07
+AVAV, Close: 318.48, RSI(talib): 67.23
+KTOS, Close: 91.44, RSI(talib): 68.39
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+AZN failed (Can't get stock info: AZN, Current Price: 95.16000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.0028395122952, 200 Day Average: None, RSI: 67.49566279665781).

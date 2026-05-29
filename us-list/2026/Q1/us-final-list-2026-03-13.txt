@@ -1,0 +1,9 @@
+--------------
+Fri Mar 13 19:05:56 2026 US Stock List
+--------------
+AEP, Close: 132.22, RSI(talib): 64.08
+ROST, Close: 209.84, RSI(talib): 60.37
+CVX, Close: 196.97, RSI(talib): 72.90
+XOM, Close: 153.53, RSI(talib): 62.67
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

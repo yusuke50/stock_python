@@ -1,0 +1,43 @@
+--------------
+Fri Jan 23 22:58:34 2026 US Stock List
+--------------
+HII, Close: 420.27, RSI(talib): 76.20
+RTX, Close: 196.12, RSI(talib): 62.87
+INTC, Close: 45.76, RSI(talib): 77.40
+AMD, Close: 264.15, RSI(talib): 75.30
+AMGN, Close: 346.30, RSI(talib): 63.97
+AMAT, Close: 315.62, RSI(talib): 67.62
+MU, Close: 396.91, RSI(talib): 79.53
+ADI, Close: 307.95, RSI(talib): 73.23
+LRCX, Close: 216.48, RSI(talib): 67.37
+GILD, Close: 133.67, RSI(talib): 63.85
+MRNA, Close: 47.32, RSI(talib): 83.34
+ASML, Close: 1375.75, RSI(talib): 76.17
+KLAC, Close: 1477.81, RSI(talib): 64.98
+ILMN, Close: 150.71, RSI(talib): 66.95
+MNST, Close: 81.04, RSI(talib): 69.79
+EA, Close: 204.02, RSI(talib): 62.51
+BIDU, Close: 161.82, RSI(talib): 75.08
+PCAR, Close: 123.17, RSI(talib): 72.45
+JNJ, Close: 219.33, RSI(talib): 66.99
+CVX, Close: 167.50, RSI(talib): 67.31
+WMT, Close: 117.24, RSI(talib): 61.26
+XOM, Close: 135.58, RSI(talib): 72.39
+ON, Close: 62.01, RSI(talib): 69.08
+BKR, Close: 54.53, RSI(talib): 70.69
+GD, Close: 364.45, RSI(talib): 62.75
+NOC, Close: 670.17, RSI(talib): 71.50
+LHX, Close: 356.27, RSI(talib): 80.03
+RKLB, Close: 86.86, RSI(talib): 64.26
+LUNR, Close: 20.00, RSI(talib): 64.61
+KTOS, Close: 111.25, RSI(talib): 62.90
+CAT, Close: 635.12, RSI(talib): 66.38
+--------------
+META failed (Can't get stock info: META, Current Price: 654.0, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 699.0062103271484, 200 Day Average: None, RSI: 54.52925438417071).
+SBUX failed (Can't get stock info: SBUX, Current Price: 96.44499969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 86.78301397959392, 200 Day Average: None, RSI: 70.60977109802872).
+VRTX failed (Can't get stock info: VRTX, Current Price: 468.29998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 427.92916531032984, 200 Day Average: None, RSI: 58.718994910837786).
+MELI failed (Can't get stock info: MELI, Current Price: 2114.830078125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2241.7252129448784, 200 Day Average: None, RSI: 59.06774246363591).
+DXCM failed (Can't get stock info: DXCM, Current Price: None, 52 Week High: 93.25, 52 Week Low: 54.11, 50 Day Average: 65.46, 150 Day Average: 71.89166680971782, 200 Day Average: 73.91, RSI: 71.95221863234204).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CRM failed (Can't get stock info: CRM, Current Price: 229.02499389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 249.64012135399713, 200 Day Average: None, RSI: 37.05666973523612).
+ORCL failed (Can't get stock info: ORCL, Current Price: 174.22500610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 239.7161053551568, 200 Day Average: None, RSI: 39.141908241426435).

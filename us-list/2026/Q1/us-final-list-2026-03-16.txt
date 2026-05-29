@@ -1,0 +1,13 @@
+--------------
+Mon Mar 16 19:05:23 2026 US Stock List
+--------------
+AEP, Close: 133.61, RSI(talib): 66.34
+CVX, Close: 196.82, RSI(talib): 72.44
+XOM, Close: 156.12, RSI(talib): 65.83
+FANG, Close: 182.37, RSI(talib): 65.54
+--------------
+LMT failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/LMT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LMT/key-statistics", waiting until "domcontentloaded"
+).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

@@ -1,0 +1,29 @@
+--------------
+Mon Apr 13 19:05:30 2026 US Stock List
+--------------
+GOOG, Close: 315.72, RSI(talib): 62.78
+GOOGL, Close: 317.24, RSI(talib): 62.11
+CSCO, Close: 82.22, RSI(talib): 60.63
+INTC, Close: 62.38, RSI(talib): 75.91
+AMAT, Close: 399.49, RSI(talib): 67.24
+ADI, Close: 350.14, RSI(talib): 67.39
+CSX, Close: 42.24, RSI(talib): 63.84
+LRCX, Close: 263.66, RSI(talib): 67.07
+MRVL, Close: 128.49, RSI(talib): 80.19
+ASML, Close: 1478.28, RSI(talib): 61.52
+MAR, Close: 354.10, RSI(talib): 63.35
+KLAC, Close: 1737.28, RSI(talib): 71.24
+AEP, Close: 136.30, RSI(talib): 66.46
+XEL, Close: 82.38, RSI(talib): 63.80
+AZN, Close: 204.03, RSI(talib): 61.45
+ODFL, Close: 208.35, RSI(talib): 65.29
+EBAY, Close: 95.40, RSI(talib): 62.54
+ROST, Close: 221.16, RSI(talib): 60.83
+PCAR, Close: 127.19, RSI(talib): 68.28
+ON, Close: 68.65, RSI(talib): 62.86
+GFS, Close: 48.93, RSI(talib): 60.70
+ODFL, Close: 208.35, RSI(talib): 65.29
+LUNR, Close: 23.57, RSI(talib): 61.14
+CAT, Close: 790.66, RSI(talib): 66.14
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

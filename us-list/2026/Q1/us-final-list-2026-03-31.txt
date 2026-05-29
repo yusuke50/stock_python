@@ -1,0 +1,9 @@
+--------------
+Tue Mar 31 19:04:54 2026 US Stock List
+--------------
+CVX, Close: 210.71, RSI(talib): 78.63
+XOM, Close: 171.47, RSI(talib): 75.91
+FANG, Close: 198.65, RSI(talib): 69.73
+--------------
+AMD failed (Can't get stock info: AMD, Current Price: 196.0399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 210.588551593649, 200 Day Average: None, RSI: 43.32833580755903).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

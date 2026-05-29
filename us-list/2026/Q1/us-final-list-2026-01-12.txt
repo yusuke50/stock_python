@@ -1,0 +1,49 @@
+--------------
+Mon Jan 12 20:08:53 2026 US Stock List
+--------------
+HII, Close: 386.99, RSI(talib): 73.30
+RTX, Close: 188.50, RSI(talib): 62.76
+AMZN, Close: 247.38, RSI(talib): 68.15
+GOOG, Close: 329.14, RSI(talib): 70.64
+GOOGL, Close: 328.57, RSI(talib): 71.17
+INTC, Close: 45.55, RSI(talib): 72.16
+AMAT, Close: 301.18, RSI(talib): 70.33
+MU, Close: 345.09, RSI(talib): 70.85
+ADI, Close: 300.93, RSI(talib): 77.13
+LRCX, Close: 218.36, RSI(talib): 76.64
+REGN, Close: 796.55, RSI(talib): 62.58
+MRNA, Close: 34.30, RSI(talib): 61.89
+ASML, Close: 1273.88, RSI(talib): 71.64
+MAR, Close: 328.18, RSI(talib): 70.73
+KLAC, Close: 1400.00, RSI(talib): 65.70
+MNST, Close: 77.34, RSI(talib): 63.65
+AZN, Close: 94.65, RSI(talib): 62.97
+BIDU, Close: 143.54, RSI(talib): 63.55
+DLTR, Close: 132.38, RSI(talib): 66.43
+ROST, Close: 191.44, RSI(talib): 78.51
+PCAR, Close: 118.80, RSI(talib): 72.65
+BIIB, Close: 187.62, RSI(talib): 68.83
+DAL, Close: 72.31, RSI(talib): 64.70
+MRK, Close: 110.53, RSI(talib): 73.65
+WFC, Close: 95.95, RSI(talib): 63.61
+WMT, Close: 114.53, RSI(talib): 60.15
+XOM, Close: 124.61, RSI(talib): 60.49
+ON, Close: 62.16, RSI(talib): 72.05
+BKR, Close: 49.97, RSI(talib): 64.72
+WBD, Close: 28.89, RSI(talib): 63.79
+NOC, Close: 618.82, RSI(talib): 64.99
+LHX, Close: 335.77, RSI(talib): 78.08
+RKLB, Close: 84.85, RSI(talib): 71.90
+HWM, Close: 218.27, RSI(talib): 64.96
+AVAV, Close: 364.99, RSI(talib): 78.20
+KTOS, Close: 113.70, RSI(talib): 83.04
+CAT, Close: 617.62, RSI(talib): 61.23
+--------------
+COST failed (Can't get stock info: COST, Current Price: 924.8800048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 933.1844982571072, 200 Day Average: None, RSI: 65.48527909131).
+CSCO failed (Can't get stock info: CSCO, Current Price: 73.87999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.46154159969754, 200 Day Average: None, RSI: 32.05751307044585).
+CDNS failed (Can't get stock info: CDNS, Current Price: 327.30999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 331.88500022888184, 200 Day Average: None, RSI: 57.984855511653).
+LULU failed (Can't get stock info: LULU, Current Price: 203.89999389648438, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 194.5259016884698, 200 Day Average: None, RSI: 52.389672816477585).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CPRT failed (Can't get stock info: CPRT, Current Price: 39.83000183105469, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.3372917175293, 200 Day Average: None, RSI: 53.85200411833346).
+LLY failed (Can't get stock info: LLY, Current Price: 1063.56005859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 853.5445607503256, 200 Day Average: None, RSI: 51.50728944833166).
+GE failed (Can't get stock info: GE, Current Price: 321.5899963378906, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 285.29841401841907, 200 Day Average: None, RSI: 58.83905200334463).

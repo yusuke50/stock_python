@@ -1,0 +1,29 @@
+--------------
+Fri May 22 19:05:42 2026 US Stock List
+--------------
+AAPL, Close: 304.99, RSI(talib): 77.43
+AMZN, Close: 268.46, RSI(talib): 61.26
+GOOG, Close: 383.47, RSI(talib): 60.97
+GOOGL, Close: 387.66, RSI(talib): 61.34
+CSCO, Close: 118.20, RSI(talib): 79.59
+INTC, Close: 118.50, RSI(talib): 67.80
+AMD, Close: 449.59, RSI(talib): 70.09
+TXN, Close: 298.39, RSI(talib): 68.17
+MU, Close: 762.10, RSI(talib): 66.74
+CSX, Close: 45.90, RSI(talib): 63.32
+LRCX, Close: 302.24, RSI(talib): 62.18
+MRVL, Close: 190.69, RSI(talib): 69.45
+MAR, Close: 370.56, RSI(talib): 64.12
+ILMN, Close: 144.83, RSI(talib): 63.25
+FTNT, Close: 129.46, RSI(talib): 86.00
+MNST, Close: 86.32, RSI(talib): 65.53
+DDOG, Close: 218.04, RSI(talib): 82.21
+BMY, Close: 59.55, RSI(talib): 61.53
+DAL, Close: 75.65, RSI(talib): 64.21
+ON, Close: 109.61, RSI(talib): 62.42
+GFS, Close: 81.35, RSI(talib): 71.38
+ENPH, Close: 62.34, RSI(talib): 76.88
+RKLB, Close: 125.45, RSI(talib): 64.54
+LUNR, Close: 34.24, RSI(talib): 63.29
+--------------
+MCD failed (Can't get stock info: MCD, Current Price: 284.17999267578125, 52 Week High: 341.75, 52 Week Low: 271.98, 50 Day Average: 299.28, 150 Day Average: 307.4234977298313, 200 Day Average: 308.1, RSI: None).

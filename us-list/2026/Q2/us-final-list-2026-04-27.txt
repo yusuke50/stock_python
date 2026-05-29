@@ -1,0 +1,27 @@
+--------------
+Mon Apr 27 19:18:37 2026 US Stock List
+--------------
+GOOG, Close: 342.32, RSI(talib): 70.07
+GOOGL, Close: 344.40, RSI(talib): 69.41
+CSCO, Close: 89.01, RSI(talib): 70.38
+INTC, Close: 82.54, RSI(talib): 82.23
+AMAT, Close: 417.04, RSI(talib): 67.22
+MU, Close: 496.72, RSI(talib): 68.37
+ADI, Close: 399.57, RSI(talib): 74.33
+CSX, Close: 45.41, RSI(talib): 67.91
+MRVL, Close: 164.31, RSI(talib): 87.15
+KLAC, Close: 1935.00, RSI(talib): 74.46
+ODFL, Close: 219.98, RSI(talib): 62.33
+ROST, Close: 226.37, RSI(talib): 61.11
+ON, Close: 98.40, RSI(talib): 87.67
+GFS, Close: 61.79, RSI(talib): 80.37
+BKR, Close: 68.94, RSI(talib): 68.89
+FANG, Close: 194.79, RSI(talib): 60.07
+ODFL, Close: 219.98, RSI(talib): 62.33
+CAT, Close: 830.79, RSI(talib): 68.47
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+VST failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/VST/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/VST/key-statistics", waiting until "domcontentloaded"
+).

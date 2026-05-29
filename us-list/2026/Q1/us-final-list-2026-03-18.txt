@@ -1,0 +1,11 @@
+--------------
+Wed Mar 18 19:05:16 2026 US Stock List
+--------------
+MU, Close: 461.69, RSI(talib): 64.06
+AEP, Close: 133.62, RSI(talib): 65.12
+CVX, Close: 197.97, RSI(talib): 74.11
+XOM, Close: 158.81, RSI(talib): 69.18
+FANG, Close: 187.22, RSI(talib): 70.63
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+BIIB failed (Can't get stock info: BIIB, Current Price: 185.2899932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 166.03062523735895, 200 Day Average: None, RSI: 50.5419030574922).

@@ -1,0 +1,12 @@
+--------------
+Wed Apr  8 19:06:10 2026 US Stock List
+--------------
+INTC, Close: 52.91, RSI(talib): 63.51
+MRVL, Close: 109.38, RSI(talib): 68.95
+AEP, Close: 132.92, RSI(talib): 62.51
+AZN, Close: 200.81, RSI(talib): 61.68
+EA, Close: 203.95, RSI(talib): 65.15
+EBAY, Close: 96.01, RSI(talib): 61.87
+FANG, Close: 195.50, RSI(talib): 61.66
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

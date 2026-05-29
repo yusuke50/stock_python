@@ -1,0 +1,14 @@
+--------------
+Thu Apr  2 19:05:06 2026 US Stock List
+--------------
+CSX, Close: 41.44, RSI(talib): 61.53
+MRVL, Close: 106.71, RSI(talib): 67.43
+AZN, Close: 200.73, RSI(talib): 62.20
+EA, Close: 203.58, RSI(talib): 60.93
+ROST, Close: 219.95, RSI(talib): 66.34
+JNJ, Close: 244.12, RSI(talib): 60.55
+BMY, Close: 61.73, RSI(talib): 62.84
+MRK, Close: 120.84, RSI(talib): 62.30
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+CVX failed (Can't get stock info: CVX, Current Price: 197.41000366210938, 52 Week High: 214.71, 52 Week Low: 132.04, 50 Day Average: 187.53, 150 Day Average: 164.10694611648034, 200 Day Average: 162.19, RSI: None).

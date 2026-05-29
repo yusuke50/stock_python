@@ -1,0 +1,46 @@
+--------------
+Fri Jan 16 19:26:00 2026 US Stock List
+--------------
+HII, Close: 418.86, RSI(talib): 80.70
+RTX, Close: 199.83, RSI(talib): 74.73
+GOOG, Close: 333.16, RSI(talib): 69.40
+GOOGL, Close: 332.78, RSI(talib): 70.00
+INTC, Close: 48.32, RSI(talib): 72.64
+AMAT, Close: 319.08, RSI(talib): 73.38
+MU, Close: 336.63, RSI(talib): 65.32
+ADI, Close: 302.10, RSI(talib): 73.81
+LRCX, Close: 217.47, RSI(talib): 70.24
+MRNA, Close: 39.36, RSI(talib): 68.60
+ASML, Close: 1331.60, RSI(talib): 74.25
+MAR, Close: 325.79, RSI(talib): 64.83
+KLAC, Close: 1544.96, RSI(talib): 75.35
+ILMN, Close: 145.30, RSI(talib): 61.12
+MNST, Close: 77.91, RSI(talib): 62.96
+BIDU, Close: 149.40, RSI(talib): 66.07
+DLTR, Close: 141.21, RSI(talib): 75.37
+ROST, Close: 193.79, RSI(talib): 78.57
+PCAR, Close: 121.92, RSI(talib): 76.79
+JNJ, Close: 219.57, RSI(talib): 71.85
+CVX, Close: 166.16, RSI(talib): 67.34
+DAL, Close: 71.34, RSI(talib): 60.04
+MRK, Close: 110.97, RSI(talib): 69.16
+WMT, Close: 119.20, RSI(talib): 67.40
+XOM, Close: 129.13, RSI(talib): 65.63
+ON, Close: 60.28, RSI(talib): 62.70
+GFS, Close: 41.53, RSI(talib): 69.34
+BKR, Close: 52.00, RSI(talib): 67.35
+GD, Close: 368.69, RSI(talib): 67.25
+NOC, Close: 654.61, RSI(talib): 71.67
+LHX, Close: 340.42, RSI(talib): 76.68
+RKLB, Close: 90.76, RSI(talib): 73.53
+HWM, Close: 224.26, RSI(talib): 69.77
+AVAV, Close: 378.57, RSI(talib): 77.00
+KTOS, Close: 124.56, RSI(talib): 86.78
+CAT, Close: 647.18, RSI(talib): 69.31
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ODFL failed (Can't get stock info: ODFL, Current Price: 178.2100067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 150.00413602631667, 200 Day Average: None, RSI: 76.56301960146149).
+KO failed (Can't get stock info: KO, Current Price: 70.4800033569336, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.73193943418306, 200 Day Average: None, RSI: 53.453860357021114).
+FANG failed (Can't get stock info: FANG, Current Price: 150.82000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 144.00137655323948, 200 Day Average: None, RSI: 52.74525532117883).
+TDG failed (Can't get stock info: TDG, Current Price: 1433.5400390625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1343.4241943359375, 200 Day Average: None, RSI: 74.15179983974517).
+LUNR failed (Can't get stock info: LUNR, Current Price: 19.5, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.391965478042076, 200 Day Average: None, RSI: 66.38972274277529).

@@ -1,0 +1,33 @@
+--------------
+Tue Jan 27 19:17:28 2026 US Stock List
+--------------
+HII, Close: 413.56, RSI(talib): 67.69
+AMD, Close: 251.31, RSI(talib): 68.33
+AMGN, Close: 349.69, RSI(talib): 62.66
+AMAT, Close: 319.46, RSI(talib): 65.34
+MU, Close: 389.09, RSI(talib): 72.89
+ADI, Close: 304.01, RSI(talib): 64.94
+CSX, Close: 37.47, RSI(talib): 62.68
+LRCX, Close: 222.87, RSI(talib): 66.69
+GILD, Close: 137.78, RSI(talib): 70.93
+MRNA, Close: 47.99, RSI(talib): 71.15
+ASML, Close: 1413.35, RSI(talib): 75.38
+KLAC, Close: 1543.03, RSI(talib): 67.60
+ILMN, Close: 153.00, RSI(talib): 62.83
+BIDU, Close: 156.08, RSI(talib): 64.80
+PCAR, Close: 122.11, RSI(talib): 66.50
+ZM, Close: 95.46, RSI(talib): 71.08
+JNJ, Close: 221.49, RSI(talib): 70.47
+CVX, Close: 167.50, RSI(talib): 67.90
+XOM, Close: 134.84, RSI(talib): 73.52
+BKR, Close: 56.29, RSI(talib): 71.91
+NOC, Close: 660.97, RSI(talib): 65.27
+LHX, Close: 354.20, RSI(talib): 77.28
+--------------
+MNST failed (Can't get stock info: MNST, Current Price: 81.16000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 68.2985417313046, 200 Day Average: None, RSI: 65.78810111327704).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DDOG failed (Can't get stock info: DDOG, Current Price: 136.63999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 145.70253557629056, 200 Day Average: None, RSI: 52.61002841918212).
+FAST failed (Can't get stock info: FAST, Current Price: 43.72999954223633, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.270399755901764, 200 Day Average: None, RSI: 59.20462937582124).
+VRSN failed (Can't get stock info: VRSN, Current Price: 251.5399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 262.6031159294976, 200 Day Average: None, RSI: 56.12270437790197).
+OKTA failed (Can't get stock info: OKTA, Current Price: 91.29000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 90.38184028201633, 200 Day Average: None, RSI: 56.31577408218238).
+BAC failed (Can't get stock info: BAC, Current Price: 52.02000045776367, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 50.906818283928764, 200 Day Average: None, RSI: 37.41189558422436).

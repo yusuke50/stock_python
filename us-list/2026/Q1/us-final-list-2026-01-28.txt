@@ -1,0 +1,81 @@
+--------------
+Wed Jan 28 22:13:26 2026 US Stock List
+--------------
+HII, Close: 422.79, RSI(talib): 71.45
+RTX, Close: 201.28, RSI(talib): 68.99
+CSCO, Close: 78.68, RSI(talib): 64.75
+AMD, Close: 252.03, RSI(talib): 68.19
+AMGN, Close: 351.32, RSI(talib): 64.92
+AMAT, Close: 332.71, RSI(talib): 69.77
+MRNA, Close: 45.45, RSI(talib): 65.07
+ASML, Close: 1454.59, RSI(talib): 77.46
+KLAC, Close: 1616.33, RSI(talib): 72.59
+ILMN, Close: 152.09, RSI(talib): 62.02
+MNST, Close: 81.41, RSI(talib): 65.90
+BIDU, Close: 157.64, RSI(talib): 65.54
+PCAR, Close: 120.81, RSI(talib): 62.83
+ZM, Close: 94.44, RSI(talib): 68.15
+JNJ, Close: 224.44, RSI(talib): 74.50
+CVX, Close: 169.05, RSI(talib): 69.51
+GM, Close: 86.38, RSI(talib): 65.31
+XOM, Close: 136.83, RSI(talib): 75.59
+ON, Close: 62.63, RSI(talib): 63.47
+BKR, Close: 56.50, RSI(talib): 71.93
+FANG, Close: 159.12, RSI(talib): 61.43
+GD, Close: 366.62, RSI(talib): 63.47
+NOC, Close: 678.74, RSI(talib): 71.33
+LHX, Close: 360.54, RSI(talib): 80.72
+RKLB, Close: 87.00, RSI(talib): 60.02
+LUNR, Close: 20.29, RSI(talib): 60.27
+KTOS, Close: 118.06, RSI(talib): 64.60
+--------------
+AMZN failed (Can't get stock info: AMZN, Current Price: 244.67999267578125, 52 Week High: 258.6, 52 Week Low: 161.38, 50 Day Average: 232.15, 150 Day Average: nan, 200 Day Average: 220.64, RSI: None).
+TSLA failed (Page.goto: net::ERR_NETWORK_CHANGED at https://finance.yahoo.com/quote/TSLA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/TSLA/key-statistics", waiting until "domcontentloaded"
+).
+NVDA failed (Page.goto: net::ERR_ADDRESS_UNREACHABLE at https://finance.yahoo.com/quote/NVDA/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NVDA/key-statistics", waiting until "domcontentloaded"
+).
+GOOG failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOG/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOG/key-statistics", waiting until "domcontentloaded"
+).
+GOOGL failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/GOOGL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/GOOGL/key-statistics", waiting until "domcontentloaded"
+).
+META failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/META/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/META/key-statistics", waiting until "domcontentloaded"
+).
+AVGO failed (Can't get stock info: AVGO, Current Price: None, 52 Week High: 414.61, 52 Week Low: 138.1, 50 Day Average: 355.54, 150 Day Average: 332.7294858296712, 200 Day Average: 302.31, RSI: 42.887316474717046).
+COST failed (Can't get stock info: COST, Current Price: None, 52 Week High: 1078.23, 52 Week Low: 844.06, 50 Day Average: 902.93, 150 Day Average: 931.7053981357151, 200 Day Average: 951.64, RSI: 66.27942168834721).
+PEP failed (Can't get stock info: PEP, Current Price: None, 52 Week High: 160.15, 52 Week Low: 127.6, 50 Day Average: 145.74, 150 Day Average: 143.27684529622397, 200 Day Average: 141.52, RSI: 60.806077273554706).
+ADBE failed (Can't get stock info: ADBE, Current Price: 297.4200134277344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 344.968332502577, 200 Day Average: None, RSI: 34.650082574228506).
+ADP failed (Can't get stock info: ADP, Current Price: 254.50999450683594, 52 Week High: 329.93, 52 Week Low: 247.18, 50 Day Average: 258.11, 150 Day Average: nan, 200 Day Average: 288.65, RSI: None).
+MU failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/MU/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MU/key-statistics", waiting until "domcontentloaded"
+).
+ADI failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/ADI/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ADI/key-statistics", waiting until "domcontentloaded"
+).
+MDLZ failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/MDLZ/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MDLZ/key-statistics", waiting until "domcontentloaded"
+).
+CSX failed (Page.goto: net::ERR_INTERNET_DISCONNECTED at https://finance.yahoo.com/quote/CSX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/CSX/key-statistics", waiting until "domcontentloaded"
+).
+LRCX failed (Page.goto: net::ERR_ADDRESS_UNREACHABLE at https://finance.yahoo.com/quote/LRCX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/LRCX/key-statistics", waiting until "domcontentloaded"
+).
+GILD failed (Can't get stock info: GILD, Current Price: None, 52 Week High: 141.71, 52 Week Low: 93.37, 50 Day Average: 124.18, 150 Day Average: 117.73203855090671, 200 Day Average: 115.0, RSI: 74.247824835142).
+REGN failed (Can't get stock info: REGN, Current Price: None, 52 Week High: 821.11, 52 Week Low: 476.49, 50 Day Average: 750.76, 150 Day Average: 639.0522020128038, 200 Day Average: 614.67, RSI: 53.76230273042799).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+FAST failed (Can't get stock info: FAST, Current Price: 43.95000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.28090037239922, 200 Day Average: None, RSI: 60.713830181606376).

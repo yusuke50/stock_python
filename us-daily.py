@@ -151,7 +151,10 @@ async def main():
         if err:
             err_list.append(err)
 
-    path = os.path.join(os.path.dirname(__file__), ".\\us-list")
+    year = today.year
+    quarter = f"Q{(today.month - 1) // 3 + 1}"
+    path = os.path.join(os.path.dirname(__file__), "us-list", str(year), quarter)
+    os.makedirs(path, exist_ok=True)
     final_file_name = os.path.join(path, f"us-final-list-{today}.txt")
     with open(final_file_name, "w", encoding="utf-8") as final_file:
         final_file.write("--------------\n")

@@ -1,0 +1,43 @@
+--------------
+Tue Jan 13 19:25:53 2026 US Stock List
+--------------
+HII, Close: 398.25, RSI(talib): 76.05
+RTX, Close: 193.85, RSI(talib): 69.04
+AMZN, Close: 246.47, RSI(talib): 66.96
+GOOG, Close: 332.73, RSI(talib): 73.42
+GOOGL, Close: 331.86, RSI(talib): 73.77
+INTC, Close: 44.06, RSI(talib): 66.05
+AMAT, Close: 307.24, RSI(talib): 72.13
+MU, Close: 345.87, RSI(talib): 70.44
+ADI, Close: 293.86, RSI(talib): 67.81
+LRCX, Close: 220.40, RSI(talib): 77.95
+ASML, Close: 1281.23, RSI(talib): 72.53
+MAR, Close: 323.35, RSI(talib): 64.37
+KLAC, Close: 1428.17, RSI(talib): 68.48
+ILMN, Close: 145.55, RSI(talib): 63.11
+IDXX, Close: 724.76, RSI(talib): 62.90
+MNST, Close: 77.50, RSI(talib): 64.20
+BIDU, Close: 152.26, RSI(talib): 70.58
+DLTR, Close: 137.24, RSI(talib): 71.31
+ROST, Close: 192.26, RSI(talib): 80.24
+PCAR, Close: 118.46, RSI(talib): 72.04
+BIIB, Close: 185.63, RSI(talib): 64.07
+JNJ, Close: 209.72, RSI(talib): 60.09
+GM, Close: 82.90, RSI(talib): 60.12
+MRK, Close: 109.19, RSI(talib): 67.69
+WMT, Close: 117.97, RSI(talib): 68.05
+GE, Close: 324.17, RSI(talib): 60.19
+GD, Close: 360.94, RSI(talib): 62.39
+NOC, Close: 629.32, RSI(talib): 67.43
+LHX, Close: 340.68, RSI(talib): 79.36
+RKLB, Close: 87.90, RSI(talib): 73.89
+HWM, Close: 220.15, RSI(talib): 66.05
+AVAV, Close: 370.68, RSI(talib): 79.17
+KTOS, Close: 117.86, RSI(talib): 84.25
+CAT, Close: 629.77, RSI(talib): 64.65
+--------------
+BKNG failed (Can't get stock info: BKNG, Current Price: 5391.52001953125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 5359.706515842014, 200 Day Average: None, RSI: 54.12878911362032).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+SWKS failed (Can't get stock info: SWKS, Current Price: 58.849998474121094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.9220637480418, 200 Day Average: None, RSI: 31.954315517670445).
+AMT failed (Can't get stock info: AMT, Current Price: 171.52999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 192.85760010613336, 200 Day Average: None, RSI: 41.87029298416828).
+LUNR failed (Can't get stock info: LUNR, Current Price: 19.200000762939453, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 11.21802079015308, 200 Day Average: None, RSI: 70.66011536148703).

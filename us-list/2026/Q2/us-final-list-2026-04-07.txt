@@ -1,0 +1,13 @@
+--------------
+Tue Apr  7 19:05:20 2026 US Stock List
+--------------
+MRVL, Close: 109.51, RSI(talib): 69.45
+AEP, Close: 132.36, RSI(talib): 60.78
+AZN, Close: 202.83, RSI(talib): 63.78
+EA, Close: 204.16, RSI(talib): 67.84
+EBAY, Close: 97.71, RSI(talib): 67.35
+ROST, Close: 221.21, RSI(talib): 68.10
+FANG, Close: 194.27, RSI(talib): 60.01
+LUNR, Close: 22.92, RSI(talib): 60.40
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

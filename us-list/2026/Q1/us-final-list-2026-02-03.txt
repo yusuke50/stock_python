@@ -1,0 +1,35 @@
+--------------
+Tue Feb  3 23:59:09 2026 US Stock List
+--------------
+HII, Close: 431.18, RSI(talib): 68.23
+RTX, Close: 203.03, RSI(talib): 67.10
+AAPL, Close: 268.89, RSI(talib): 61.62
+GOOG, Close: 345.70, RSI(talib): 67.51
+GOOGL, Close: 344.66, RSI(talib): 67.03
+PEP, Close: 160.05, RSI(talib): 72.93
+CSCO, Close: 82.26, RSI(talib): 68.03
+AMAT, Close: 325.83, RSI(talib): 60.74
+MU, Close: 427.89, RSI(talib): 74.11
+ADI, Close: 316.30, RSI(talib): 65.80
+CSX, Close: 39.34, RSI(talib): 66.34
+LRCX, Close: 235.35, RSI(talib): 65.40
+GILD, Close: 144.97, RSI(talib): 75.14
+ASML, Close: 1405.57, RSI(talib): 68.79
+MCHP, Close: 78.40, RSI(talib): 61.75
+MNST, Close: 81.77, RSI(talib): 63.78
+PCAR, Close: 128.16, RSI(talib): 67.46
+ZM, Close: 89.97, RSI(talib): 60.32
+JNJ, Close: 233.13, RSI(talib): 79.92
+CVX, Close: 176.63, RSI(talib): 70.84
+MRK, Close: 115.74, RSI(talib): 66.55
+WMT, Close: 126.23, RSI(talib): 70.76
+XOM, Close: 142.39, RSI(talib): 70.13
+BKR, Close: 57.31, RSI(talib): 69.22
+CAT, Close: 708.47, RSI(talib): 68.90
+--------------
+NXPI failed (Can't get stock info: NXPI, Current Price: 213.77000427246094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 220.51619325835128, 200 Day Average: None, RSI: 49.03637386291261).
+EXC failed (Can't get stock info: EXC, Current Price: 44.665000915527344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 44.42205652697333, 200 Day Average: None, RSI: 47.53360884541013).
+TEAM failed (Can't get stock info: TEAM, Current Price: 104.38500213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 162.9339307061557, 200 Day Average: None, RSI: 29.4830131604477).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+GD failed (Can't get stock info: GD, Current Price: 349.5299987792969, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 331.51898003939925, 200 Day Average: None, RSI: 43.535860681944314).
+NOC failed (Can't get stock info: NOC, Current Price: 697.0499877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 584.0337103481951, 200 Day Average: None, RSI: 68.89391019259207).

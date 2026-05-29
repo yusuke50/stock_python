@@ -1,0 +1,10 @@
+--------------
+Tue Mar 24 19:05:28 2026 US Stock List
+--------------
+ROST, Close: 213.09, RSI(talib): 64.02
+CVX, Close: 205.21, RSI(talib): 80.58
+XOM, Close: 161.13, RSI(talib): 70.39
+BKR, Close: 62.53, RSI(talib): 60.94
+FANG, Close: 191.78, RSI(talib): 72.57
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

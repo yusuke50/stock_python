@@ -1,0 +1,10 @@
+--------------
+Wed Mar 11 23:09:28 2026 US Stock List
+--------------
+MRNA, Close: 56.62, RSI(talib): 63.23
+AEP, Close: 131.81, RSI(talib): 66.35
+ROST, Close: 213.41, RSI(talib): 66.58
+JNJ, Close: 243.45, RSI(talib): 60.90
+FANG, Close: 176.43, RSI(talib): 62.24
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

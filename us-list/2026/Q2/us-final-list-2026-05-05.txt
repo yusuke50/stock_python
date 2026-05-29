@@ -1,0 +1,26 @@
+--------------
+Tue May  5 19:05:36 2026 US Stock List
+--------------
+GOOG, Close: 379.64, RSI(talib): 79.68
+GOOGL, Close: 383.25, RSI(talib): 80.67
+AVGO, Close: 416.50, RSI(talib): 65.55
+CSCO, Close: 92.63, RSI(talib): 72.61
+INTC, Close: 95.78, RSI(talib): 80.22
+AMD, Close: 341.54, RSI(talib): 70.69
+TXN, Close: 280.89, RSI(talib): 77.73
+SBUX, Close: 104.97, RSI(talib): 65.09
+MU, Close: 576.45, RSI(talib): 77.23
+ADI, Close: 397.02, RSI(talib): 67.85
+CSX, Close: 44.72, RSI(talib): 60.37
+MRVL, Close: 163.66, RSI(talib): 74.63
+ILMN, Close: 139.37, RSI(talib): 62.84
+MCHP, Close: 95.30, RSI(talib): 78.43
+ROKU, Close: 126.02, RSI(talib): 72.40
+ON, Close: 102.04, RSI(talib): 80.62
+GFS, Close: 67.75, RSI(talib): 80.87
+BKR, Close: 69.01, RSI(talib): 66.91
+FANG, Close: 213.69, RSI(talib): 75.07
+CAT, Close: 874.78, RSI(talib): 71.02
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DDOG failed (Can't get stock info: DDOG, Current Price: 146.69000244140625, 52 Week High: 201.69, 52 Week Low: 98.01, 50 Day Average: 122.32, 150 Day Average: 138.14826414320203, 200 Day Average: 138.1, RSI: None).

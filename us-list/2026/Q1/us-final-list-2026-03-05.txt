@@ -1,0 +1,19 @@
+--------------
+Thu Mar  5 19:50:45 2026 US Stock List
+--------------
+LMT, Close: 664.48, RSI(talib): 64.02
+RTX, Close: 208.82, RSI(talib): 61.11
+CSX, Close: 42.78, RSI(talib): 71.01
+MRNA, Close: 57.80, RSI(talib): 73.32
+AEP, Close: 133.52, RSI(talib): 72.56
+XEL, Close: 83.04, RSI(talib): 67.37
+ROST, Close: 213.52, RSI(talib): 71.68
+JNJ, Close: 245.30, RSI(talib): 66.40
+BMY, Close: 62.33, RSI(talib): 65.45
+CVX, Close: 186.03, RSI(talib): 62.29
+FANG, Close: 176.71, RSI(talib): 62.84
+NOC, Close: 753.84, RSI(talib): 64.96
+LHX, Close: 368.75, RSI(talib): 61.59
+HWM, Close: 260.09, RSI(talib): 69.41
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

@@ -1,0 +1,37 @@
+--------------
+Fri Jan  9 19:21:49 2026 US Stock List
+--------------
+HII, Close: 378.47, RSI(talib): 70.17
+AMZN, Close: 246.29, RSI(talib): 65.31
+GOOG, Close: 326.01, RSI(talib): 65.64
+GOOGL, Close: 325.44, RSI(talib): 66.13
+QCOM, Close: 181.87, RSI(talib): 61.45
+AMAT, Close: 281.64, RSI(talib): 60.96
+MU, Close: 327.02, RSI(talib): 66.16
+ADI, Close: 299.16, RSI(talib): 76.05
+LRCX, Close: 200.96, RSI(talib): 68.32
+ASML, Close: 1194.32, RSI(talib): 63.48
+MAR, Close: 324.91, RSI(talib): 67.69
+ILMN, Close: 145.83, RSI(talib): 66.20
+AZN, Close: 94.01, RSI(talib): 60.99
+DLTR, Close: 131.61, RSI(talib): 64.52
+ROST, Close: 189.27, RSI(talib): 75.25
+PCAR, Close: 118.20, RSI(talib): 70.47
+BIIB, Close: 186.00, RSI(talib): 68.16
+DAL, Close: 71.29, RSI(talib): 61.47
+GM, Close: 85.13, RSI(talib): 70.23
+MRK, Close: 110.99, RSI(talib): 77.23
+WFC, Close: 95.60, RSI(talib): 61.60
+BKR, Close: 50.20, RSI(talib): 64.91
+LHX, Close: 325.74, RSI(talib): 73.11
+RKLB, Close: 83.08, RSI(talib): 69.36
+LUNR, Close: 19.63, RSI(talib): 76.18
+AVAV, Close: 344.96, RSI(talib): 72.96
+KTOS, Close: 104.04, RSI(talib): 77.47
+--------------
+NVDA failed (Can't get stock info: NVDA, Current Price: 185.0399932861328, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 178.07268852657742, 200 Day Average: None, RSI: 47.38198734571956).
+REGN failed (Can't get stock info: REGN, Current Price: 801.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 619.2228647867838, 200 Day Average: None, RSI: 65.86737734832721).
+VRTX failed (Can't get stock info: VRTX, Current Price: 469.67999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 427.5204847123888, 200 Day Average: None, RSI: 59.69103213330257).
+MNST failed (Can't get stock info: MNST, Current Price: 76.5999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 67.0299305650923, 200 Day Average: None, RSI: 59.60238585533323).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+JPM failed (Can't get stock info: JPM, Current Price: 329.7900085449219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 300.3041083017985, 200 Day Average: None, RSI: 58.57097377335053).

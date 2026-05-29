@@ -1,0 +1,29 @@
+--------------
+Tue May 19 19:05:39 2026 US Stock List
+--------------
+AMZN, Close: 264.86, RSI(talib): 60.36
+NVDA, Close: 222.32, RSI(talib): 62.33
+GOOG, Close: 393.11, RSI(talib): 69.48
+GOOGL, Close: 396.94, RSI(talib): 69.88
+CSCO, Close: 118.88, RSI(talib): 88.99
+INTC, Close: 108.17, RSI(talib): 62.09
+AMD, Close: 420.99, RSI(talib): 66.50
+TXN, Close: 300.60, RSI(talib): 73.57
+SBUX, Close: 106.60, RSI(talib): 66.64
+ADI, Close: 418.58, RSI(talib): 64.58
+CSX, Close: 46.20, RSI(talib): 66.73
+FTNT, Close: 126.50, RSI(talib): 86.45
+MNST, Close: 88.54, RSI(talib): 76.10
+ROKU, Close: 124.15, RSI(talib): 61.39
+WMT, Close: 133.34, RSI(talib): 63.62
+XOM, Close: 160.49, RSI(talib): 63.10
+ON, Close: 109.43, RSI(talib): 64.38
+ENPH, Close: 49.69, RSI(talib): 69.15
+RKLB, Close: 131.16, RSI(talib): 73.13
+LUNR, Close: 33.59, RSI(talib): 63.92
+IBKR, Close: 86.12, RSI(talib): 64.61
+--------------
+ABNB failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/ABNB/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ABNB/key-statistics", waiting until "domcontentloaded"
+).

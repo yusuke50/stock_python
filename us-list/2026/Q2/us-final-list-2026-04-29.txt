@@ -1,0 +1,22 @@
+--------------
+Wed Apr 29 19:05:34 2026 US Stock List
+--------------
+NVDA, Close: 213.17, RSI(talib): 71.49
+GOOG, Close: 347.50, RSI(talib): 71.95
+GOOGL, Close: 349.78, RSI(talib): 71.72
+INTC, Close: 84.52, RSI(talib): 81.97
+AMD, Close: 323.21, RSI(talib): 73.88
+MU, Close: 504.29, RSI(talib): 65.65
+ADI, Close: 383.26, RSI(talib): 62.17
+CSX, Close: 45.23, RSI(talib): 64.81
+MRVL, Close: 153.23, RSI(talib): 71.67
+ODFL, Close: 221.77, RSI(talib): 61.92
+ON, Close: 93.30, RSI(talib): 74.26
+GFS, Close: 59.49, RSI(talib): 69.39
+BKR, Close: 67.67, RSI(talib): 63.44
+FANG, Close: 200.06, RSI(talib): 64.05
+ODFL, Close: 221.77, RSI(talib): 61.92
+CAT, Close: 817.87, RSI(talib): 62.76
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+FAST failed (Can't get stock info: FAST, Current Price: 44.68000030517578, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.38351141081916, 200 Day Average: None, RSI: 45.62526962045192).

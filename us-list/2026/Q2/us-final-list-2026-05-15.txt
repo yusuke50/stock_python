@@ -1,0 +1,35 @@
+--------------
+Fri May 15 19:05:39 2026 US Stock List
+--------------
+AMZN, Close: 267.22, RSI(talib): 62.52
+NVDA, Close: 235.74, RSI(talib): 76.25
+GOOG, Close: 397.17, RSI(talib): 72.65
+GOOGL, Close: 401.07, RSI(talib): 73.35
+AVGO, Close: 439.79, RSI(talib): 65.82
+CSCO, Close: 115.53, RSI(talib): 87.47
+INTC, Close: 115.93, RSI(talib): 69.62
+AMD, Close: 449.70, RSI(talib): 77.01
+TXN, Close: 308.17, RSI(talib): 80.69
+AMAT, Close: 440.56, RSI(talib): 63.73
+SBUX, Close: 106.40, RSI(talib): 62.40
+MU, Close: 776.01, RSI(talib): 74.72
+ADI, Close: 426.79, RSI(talib): 70.17
+CSX, Close: 45.92, RSI(talib): 63.73
+LRCX, Close: 299.15, RSI(talib): 65.87
+MRVL, Close: 182.58, RSI(talib): 71.12
+ASML, Close: 1584.51, RSI(talib): 60.79
+KLAC, Close: 1892.94, RSI(talib): 61.83
+ILMN, Close: 143.24, RSI(talib): 62.62
+FTNT, Close: 121.86, RSI(talib): 84.43
+MCHP, Close: 97.04, RSI(talib): 67.92
+MNST, Close: 85.82, RSI(talib): 70.28
+ROKU, Close: 125.85, RSI(talib): 64.60
+ON, Close: 118.37, RSI(talib): 78.10
+GFS, Close: 73.84, RSI(talib): 71.00
+ENPH, Close: 48.01, RSI(talib): 74.02
+RKLB, Close: 132.55, RSI(talib): 77.58
+LUNR, Close: 36.52, RSI(talib): 72.85
+HWM, Close: 272.37, RSI(talib): 64.96
+CAT, Close: 920.22, RSI(talib): 66.77
+IBKR, Close: 88.28, RSI(talib): 70.88
+--------------

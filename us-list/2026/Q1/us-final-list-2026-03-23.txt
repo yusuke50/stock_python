@@ -1,0 +1,13 @@
+--------------
+Mon Mar 23 19:05:33 2026 US Stock List
+--------------
+ROST, Close: 211.19, RSI(talib): 61.87
+CVX, Close: 201.73, RSI(talib): 77.66
+XOM, Close: 159.67, RSI(talib): 68.60
+FANG, Close: 192.54, RSI(talib): 74.54
+--------------
+HII failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/HII/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/HII/key-statistics", waiting until "domcontentloaded"
+).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

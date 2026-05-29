@@ -1,0 +1,25 @@
+--------------
+Fri May  8 19:06:00 2026 US Stock List
+--------------
+AMZN, Close: 271.17, RSI(talib): 74.14
+NVDA, Close: 211.50, RSI(talib): 63.37
+GOOG, Close: 395.30, RSI(talib): 82.83
+GOOGL, Close: 397.99, RSI(talib): 83.39
+CSCO, Close: 92.16, RSI(talib): 66.50
+INTC, Close: 109.62, RSI(talib): 80.55
+AMD, Close: 408.46, RSI(talib): 76.44
+TXN, Close: 285.24, RSI(talib): 75.89
+MU, Close: 646.63, RSI(talib): 77.78
+ADI, Close: 408.52, RSI(talib): 68.17
+LRCX, Close: 286.52, RSI(talib): 64.36
+MRVL, Close: 160.01, RSI(talib): 63.28
+MCHP, Close: 101.58, RSI(talib): 79.67
+DAL, Close: 73.11, RSI(talib): 65.10
+ROKU, Close: 126.67, RSI(talib): 69.29
+ON, Close: 100.61, RSI(talib): 70.44
+GFS, Close: 70.93, RSI(talib): 75.12
+HWM, Close: 272.54, RSI(talib): 67.22
+CAT, Close: 895.69, RSI(talib): 67.00
+IBKR, Close: 83.71, RSI(talib): 64.56
+--------------
+FAST failed (Can't get stock info: FAST, Current Price: 44.36000061035156, 52 Week High: 50.63, 52 Week Low: 38.97, 50 Day Average: 45.61, 150 Day Average: 43.27146421538459, 200 Day Average: 44.87, RSI: None).

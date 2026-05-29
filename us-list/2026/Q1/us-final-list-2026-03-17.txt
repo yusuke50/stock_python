@@ -1,0 +1,10 @@
+--------------
+Tue Mar 17 19:05:55 2026 US Stock List
+--------------
+MU, Close: 441.80, RSI(talib): 60.42
+AEP, Close: 134.15, RSI(talib): 67.30
+CVX, Close: 196.84, RSI(talib): 72.48
+XOM, Close: 157.23, RSI(talib): 67.22
+FANG, Close: 182.33, RSI(talib): 65.41
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

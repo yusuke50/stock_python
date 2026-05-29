@@ -1,0 +1,82 @@
+--------------
+Mon Mar  2 22:55:53 2026 US Stock List
+--------------
+HII, Close: 453.31, RSI(talib): 63.34
+LMT, Close: 675.85, RSI(talib): 64.99
+PEP, Close: 168.57, RSI(talib): 67.12
+AMAT, Close: 370.00, RSI(talib): 62.64
+ADI, Close: 351.39, RSI(talib): 73.04
+CSX, Close: 42.40, RSI(talib): 74.63
+MNST, Close: 84.32, RSI(talib): 64.87
+XEL, Close: 83.80, RSI(talib): 71.20
+BMY, Close: 62.49, RSI(talib): 69.15
+CVX, Close: 187.40, RSI(talib): 70.68
+XOM, Close: 155.61, RSI(talib): 64.68
+GE, Close: 337.94, RSI(talib): 63.98
+BKR, Close: 64.43, RSI(talib): 78.09
+FANG, Close: 174.44, RSI(talib): 60.74
+NOC, Close: 749.51, RSI(talib): 62.44
+--------------
+TSLA failed (Can't get stock info: TSLA, Current Price: 394.54998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 416.1249306996663, 200 Day Average: None, RSI: 41.76615390173349).
+GOOG failed (Can't get stock info: GOOG, Current Price: 305.32000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 278.4415211147732, 200 Day Average: None, RSI: 45.528021029795426).
+GOOGL failed (Can't get stock info: GOOGL, Current Price: 305.760009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 277.8467281129625, 200 Day Average: None, RSI: 46.10292690550488).
+META failed (Can't get stock info: META, Current Price: 645.4199829101562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 689.9967825147841, 200 Day Average: None, RSI: 46.668495107725256).
+COST failed (Can't get stock info: COST, Current Price: 1015.7449951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 936.470112270779, 200 Day Average: None, RSI: 64.5894507510369).
+CSCO failed (Can't get stock info: CSCO, Current Price: 78.76499938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 73.06957356135051, 200 Day Average: None, RSI: 51.39348373941126).
+QCOM failed (Can't get stock info: QCOM, Current Price: 138.54400634765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 162.51208347744412, 200 Day Average: None, RSI: None).
+TXN failed (Can't get stock info: TXN, Current Price: 209.61000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 185.459303855896, 200 Day Average: None, RSI: 50.67638258369024).
+AMGN failed (Can't get stock info: AMGN, Current Price: 387.79998779296875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 314.4227466583252, 200 Day Average: None, RSI: 67.51901115779064).
+SBUX failed (Can't get stock info: SBUX, Current Price: 96.41000366210938, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 86.96065865622626, 200 Day Average: None, RSI: 60.754856098117536).
+CHTR failed (Can't get stock info: CHTR, Current Price: 227.86000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 233.5829865137736, 200 Day Average: None, RSI: 58.009020816818904).
+BKNG failed (Can't get stock info: BKNG, Current Price: 4069.617431640625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 5144.924043443468, 200 Day Average: None, RSI: 41.28327718225267).
+LRCX failed (Can't get stock info: LRCX, Current Price: 232.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 161.3873642285665, 200 Day Average: None, RSI: 53.63766952088025).
+GILD failed (Can't get stock info: GILD, Current Price: 148.86000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 123.54725578096178, 200 Day Average: None, RSI: 56.96841565256769).
+MRNA failed (Can't get stock info: MRNA, Current Price: 51.1349983215332, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 31.06843744383918, 200 Day Average: None, RSI: 76.10825410091616).
+VRTX failed (Can't get stock info: VRTX, Current Price: 494.7099914550781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 429.73201243082684, 200 Day Average: None, RSI: 61.59172266670628).
+ABNB failed (Can't get stock info: ABNB, Current Price: 130.7100067138672, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 126.07010422812567, 200 Day Average: None, RSI: 60.22715065061332).
+MRVL failed (Can't get stock info: MRVL, Current Price: 81.19999694824219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.66815071635776, 200 Day Average: None, RSI: 51.69734820008544).
+MELI failed (Can't get stock info: MELI, Current Price: 1706.6199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 2172.712298075358, 200 Day Average: None, RSI: 32.40091650392641).
+MAR failed (Can't get stock info: MAR, Current Price: 329.07501220703125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 291.1044506496853, 200 Day Average: None, RSI: 53.487812970520125).
+KLAC failed (Can't get stock info: KLAC, Current Price: 1516.1199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1183.3801973130967, 200 Day Average: None, RSI: 59.06137784790412).
+ILMN failed (Can't get stock info: ILMN, Current Price: 131.85000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.85236157311334, 200 Day Average: None, RSI: 58.427446006477204).
+FTNT failed (Can't get stock info: FTNT, Current Price: 78.5999984741211, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 81.60131963094075, 200 Day Average: None, RSI: 47.25809358918938).
+SNPS failed (Can't get stock info: SNPS, Current Price: 407.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 483.0487509833442, 200 Day Average: None, RSI: 40.290366264104364).
+NXPI failed (Can't get stock info: NXPI, Current Price: 221.83999633789062, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 221.84743287828235, 200 Day Average: None, RSI: 45.87622314524394).
+DXCM failed (Can't get stock info: DXCM, Current Price: 72.99500274658203, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 69.57875016000536, 200 Day Average: None, RSI: 58.94593649482003).
+AEP failed (Can't get stock info: AEP, Current Price: 133.69000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 115.68918731477525, 200 Day Average: None, RSI: 77.37519730337718).
+ADSK failed (Can't get stock info: ADSK, Current Price: 245.50999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 290.3468056784736, 200 Day Average: None, RSI: 51.610423713402795).
+WDAY failed (Can't get stock info: WDAY, Current Price: 135.50999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 212.7726387447781, 200 Day Average: None, RSI: 28.485615274495984).
+PAYX failed (Can't get stock info: PAYX, Current Price: 93.19000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 116.47478236092462, 200 Day Average: None, RSI: 43.10231026152342).
+ORLY failed (Can't get stock info: ORLY, Current Price: 93.98999786376953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 98.77923610475328, 200 Day Average: None, RSI: 50.17068916635349).
+LCID failed (Can't get stock info: LCID, Current Price: 9.680000305175781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 15.965277777777779, 200 Day Average: None, RSI: 46.39848040496694).
+CTAS failed (Can't get stock info: CTAS, Current Price: 199.2866973876953, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 195.38904243045383, 200 Day Average: None, RSI: 64.8868965178374).
+TEAM failed (Can't get stock info: TEAM, Current Price: 75.37999725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 148.65097194247775, 200 Day Average: None, RSI: 28.21414959391118).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+DDOG failed (Can't get stock info: DDOG, Current Price: 111.63500213623047, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 141.99729251861572, 200 Day Average: None, RSI: 42.88451636537825).
+AZN failed (Can't get stock info: AZN, Current Price: 204.88250732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 172.97421656714545, 200 Day Average: None, RSI: 65.68325851205543).
+JD failed (Can't get stock info: JD, Current Price: 25.934999465942383, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 30.927743011050755, 200 Day Average: None, RSI: 33.574285371018746).
+ODFL failed (Can't get stock info: ODFL, Current Price: 203.42999267578125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 155.21454784605237, 200 Day Average: None, RSI: 62.92114989154414).
+EA failed (Can't get stock info: EA, Current Price: 200.38999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 193.41243606143527, 200 Day Average: None, RSI: 45.62734119341392).
+DLTR failed (Can't get stock info: DLTR, Current Price: 122.79000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 112.431319448683, 200 Day Average: None, RSI: 49.05592137415653).
+EBAY failed (Can't get stock info: EBAY, Current Price: 89.79000091552734, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 89.12383275561862, 200 Day Average: None, RSI: 57.6206246821488).
+ROST failed (Can't get stock info: ROST, Current Price: 201.50999450683594, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 168.2014216317071, 200 Day Average: None, RSI: 76.75935567431532).
+BIIB failed (Can't get stock info: BIIB, Current Price: 189.60000610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 161.55972247653537, 200 Day Average: None, RSI: 54.30165170379595).
+SIRI failed (Can't get stock info: SIRI, Current Price: 21.665000915527344, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 21.361981405152214, 200 Day Average: None, RSI: 61.69522049285665).
+NTES failed (Can't get stock info: NTES, Current Price: 114.25499725341797, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 137.59370231628418, 200 Day Average: None, RSI: 26.21026142271966).
+JNJ failed (Can't get stock info: JNJ, Current Price: 249.55999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 198.20504071977405, 200 Day Average: None, RSI: 73.39180013934424).
+CRM failed (Can't get stock info: CRM, Current Price: 194.72500610351562, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 238.2202354007297, 200 Day Average: None, RSI: 43.47356115329738).
+DAL failed (Can't get stock info: DAL, Current Price: 64.06999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 63.15944761700101, 200 Day Average: None, RSI: 42.50601816668282).
+KO failed (Can't get stock info: KO, Current Price: 80.87000274658203, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.35230875015259, 200 Day Average: None, RSI: 74.91518258377687).
+MA failed (Can't get stock info: MA, Current Price: 514.4450073242188, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 559.140334447225, 200 Day Average: None, RSI: 43.56113584279079).
+MRK failed (Can't get stock info: MRK, Current Price: 122.90499877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 95.58309809366862, 200 Day Average: None, RSI: 64.96552817450957).
+CL failed (Can't get stock info: CL, Current Price: 97.6500015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 82.14230966567993, 200 Day Average: None, RSI: 74.46449632677734).
+WBD failed (Can't get stock info: WBD, Current Price: 28.1200008392334, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.11069451438056, 200 Day Average: None, RSI: 47.85927450552853).
+RIVN failed (Can't get stock info: RIVN, Current Price: 14.880000114440918, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 15.313611050446829, 200 Day Average: None, RSI: 45.37137038727579).
+TTD failed (Can't get stock info: TTD, Current Price: 23.420000076293945, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 43.49569450484382, 200 Day Average: None, RSI: 26.707387704856146).
+ODFL failed (Can't get stock info: ODFL, Current Price: 201.19000244140625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 155.21454784605237, 200 Day Average: None, RSI: 62.92114989154414).
+TDG failed (Can't get stock info: TDG, Current Price: 1313.6650390625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 1322.9777281019424, 200 Day Average: None, RSI: 44.68370054546697).
+LHX failed (Can't get stock info: LHX, Current Price: 374.9100036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 300.1024865044488, 200 Day Average: None, RSI: 63.56458625765363).
+RKLB failed (Can't get stock info: RKLB, Current Price: 68.56999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 60.07774313290914, 200 Day Average: None, RSI: 45.046148869709576).
+HWM failed (Can't get stock info: HWM, Current Price: 261.5400085449219, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 201.5508951610989, 200 Day Average: None, RSI: 77.49285375965864).
+AVAV failed (Can't get stock info: AVAV, Current Price: 293.4599914550781, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 292.7789585325453, 200 Day Average: None, RSI: 46.69312094554108).
+KTOS failed (Can't get stock info: KTOS, Current Price: 93.45989990234375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 84.012361102634, 200 Day Average: None, RSI: 45.48814252245293).

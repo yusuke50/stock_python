@@ -1,0 +1,18 @@
+--------------
+Fri Jan  2 21:43:27 2026 US Stock List
+--------------
+MU, Close: 285.41, RSI(talib): 62.59
+REGN, Close: 771.87, RSI(talib): 61.69
+MAR, Close: 310.24, RSI(talib): 61.28
+MNST, Close: 76.67, RSI(talib): 62.01
+EA, Close: 204.33, RSI(talib): 63.73
+BIDU, Close: 130.66, RSI(talib): 60.68
+GM, Close: 81.32, RSI(talib): 64.02
+LLY, Close: 1074.68, RSI(talib): 64.13
+MRK, Close: 105.26, RSI(talib): 68.08
+WBD, Close: 28.82, RSI(talib): 64.43
+RKLB, Close: 69.76, RSI(talib): 60.05
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
+ROST failed (Can't get stock info: ROST, Current Price: 180.13999938964844, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 151.80326265758939, 200 Day Average: None, RSI: 58.16931612295792).
+ANSS failed (Can't get stock info: ANSS, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

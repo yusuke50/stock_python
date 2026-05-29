@@ -1,0 +1,27 @@
+--------------
+Fri Feb  6 21:10:38 2026 US Stock List
+--------------
+LMT, Close: 609.18, RSI(talib): 64.73
+AAPL, Close: 275.91, RSI(talib): 66.59
+PEP, Close: 167.53, RSI(talib): 83.45
+CSCO, Close: 82.36, RSI(talib): 66.48
+AMGN, Close: 367.80, RSI(talib): 70.64
+CSX, Close: 39.87, RSI(talib): 73.88
+GILD, Close: 149.37, RSI(talib): 80.49
+MAR, Close: 326.45, RSI(talib): 61.29
+MNST, Close: 81.75, RSI(talib): 64.48
+PCAR, Close: 127.42, RSI(talib): 69.08
+BIIB, Close: 185.36, RSI(talib): 60.86
+JNJ, Close: 237.79, RSI(talib): 84.65
+CVX, Close: 179.23, RSI(talib): 72.72
+MRK, Close: 119.75, RSI(talib): 76.23
+WMT, Close: 126.94, RSI(talib): 72.68
+XOM, Close: 146.08, RSI(talib): 75.17
+BKR, Close: 57.36, RSI(talib): 66.44
+NOC, Close: 696.50, RSI(talib): 67.14
+CAT, Close: 678.31, RSI(talib): 61.23
+--------------
+ADI failed (Can't get stock info: ADI, Current Price: 322.1199951171875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 254.52831526131465, 200 Day Average: None, RSI: 66.37177123790407).
+VRTX failed (Can't get stock info: VRTX, Current Price: 458.80999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 428.9108951963227, 200 Day Average: None, RSI: 48.14300506319989).
+PAYX failed (Can't get stock info: PAYX, Current Price: 98.16999816894531, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 121.544876835264, 200 Day Average: None, RSI: 27.66081504999956).
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).

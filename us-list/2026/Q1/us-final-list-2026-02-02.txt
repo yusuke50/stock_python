@@ -1,0 +1,25 @@
+--------------
+Mon Feb  2 19:53:14 2026 US Stock List
+--------------
+HII, Close: 420.51, RSI(talib): 66.79
+RTX, Close: 200.93, RSI(talib): 66.69
+GOOG, Close: 338.53, RSI(talib): 63.13
+GOOGL, Close: 338.00, RSI(talib): 63.13
+CSCO, Close: 78.32, RSI(talib): 60.51
+MU, Close: 414.88, RSI(talib): 70.60
+ADI, Close: 310.88, RSI(talib): 62.56
+CSX, Close: 37.76, RSI(talib): 62.25
+LRCX, Close: 233.46, RSI(talib): 63.85
+GILD, Close: 141.95, RSI(talib): 73.73
+ASML, Close: 1423.00, RSI(talib): 67.09
+MNST, Close: 80.76, RSI(talib): 62.65
+PCAR, Close: 122.91, RSI(talib): 64.77
+JNJ, Close: 227.25, RSI(talib): 76.73
+CVX, Close: 176.90, RSI(talib): 78.62
+XOM, Close: 141.40, RSI(talib): 80.45
+BKR, Close: 56.04, RSI(talib): 67.05
+FANG, Close: 163.95, RSI(talib): 65.26
+NOC, Close: 692.26, RSI(talib): 72.56
+CAT, Close: 657.36, RSI(talib): 61.44
+--------------
+WBA failed (Can't get stock info: WBA, Current Price: None, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: nan, 200 Day Average: None, RSI: None).
