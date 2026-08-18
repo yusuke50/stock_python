@@ -1,0 +1,9 @@
+--------------
+Thu Jun 25 19:05:46 2026 US Stock List
+--------------
+ILMN, Close: 175.09, RSI(talib): 67.62
+MNST, Close: 94.70, RSI(talib): 72.13
+EA, Close: 204.52, RSI(talib): 65.88
+DAL, Close: 90.65, RSI(talib): 72.42
+GE, Close: 365.88, RSI(talib): 74.35
+--------------

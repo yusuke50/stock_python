@@ -1,0 +1,17 @@
+--------------
+Tue Jun 23 19:05:53 2026 US Stock List
+--------------
+INTC, Close: 140.94, RSI(talib): 67.63
+AMAT, Close: 640.18, RSI(talib): 77.33
+MU, Close: 1211.38, RSI(talib): 70.22
+LRCX, Close: 409.54, RSI(talib): 72.11
+ASML, Close: 1929.25, RSI(talib): 65.68
+KLAC, Close: 269.16, RSI(talib): 71.31
+FTNT, Close: 145.39, RSI(talib): 65.96
+MNST, Close: 93.02, RSI(talib): 67.11
+DAL, Close: 85.92, RSI(talib): 66.00
+GE, Close: 355.12, RSI(talib): 70.58
+CAT, Close: 1022.28, RSI(talib): 69.56
+IBKR, Close: 96.82, RSI(talib): 73.15
+--------------
+MRNA failed (Can't get stock info: MRNA, Current Price: None, 52 Week High: 67.74, 52 Week Low: 22.28, 50 Day Average: 50.36, 150 Day Average: 44.996302792723746, 200 Day Average: 39.4, RSI: 63.404896444159654).

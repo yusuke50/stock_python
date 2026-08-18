@@ -1,0 +1,57 @@
+--------------
+Tue Jun 16 19:06:09 2026 US Stock List
+--------------
+AAPL, Close: nan, RSI(talib): nan
+AMZN, Close: nan, RSI(talib): nan
+NVDA, Close: nan, RSI(talib): nan
+GOOGL, Close: nan, RSI(talib): nan
+AVGO, Close: nan, RSI(talib): nan
+COST, Close: nan, RSI(talib): nan
+CSCO, Close: nan, RSI(talib): nan
+INTC, Close: nan, RSI(talib): nan
+AMD, Close: nan, RSI(talib): nan
+TXN, Close: nan, RSI(talib): nan
+HON, Close: nan, RSI(talib): nan
+AMAT, Close: nan, RSI(talib): nan
+SBUX, Close: nan, RSI(talib): nan
+MU, Close: nan, RSI(talib): nan
+ADI, Close: nan, RSI(talib): nan
+CSX, Close: nan, RSI(talib): nan
+LRCX, Close: nan, RSI(talib): nan
+MRVL, Close: nan, RSI(talib): nan
+ASML, Close: 1892.66, RSI(talib): 67.12
+MAR, Close: 400.63, RSI(talib): 65.62
+KLAC, Close: 256.42, RSI(talib): 75.64
+ILMN, Close: nan, RSI(talib): nan
+FTNT, Close: nan, RSI(talib): nan
+KDP, Close: nan, RSI(talib): nan
+NXPI, Close: nan, RSI(talib): nan
+AEP, Close: nan, RSI(talib): nan
+MCHP, Close: nan, RSI(talib): nan
+MNST, Close: 93.23, RSI(talib): 72.09
+EA, Close: nan, RSI(talib): nan
+ALGN, Close: nan, RSI(talib): nan
+EBAY, Close: nan, RSI(talib): nan
+ROST, Close: nan, RSI(talib): nan
+PCAR, Close: nan, RSI(talib): nan
+BIIB, Close: nan, RSI(talib): nan
+JNJ, Close: nan, RSI(talib): nan
+BA, Close: nan, RSI(talib): nan
+BMY, Close: nan, RSI(talib): nan
+CVX, Close: nan, RSI(talib): nan
+DAL, Close: nan, RSI(talib): nan
+GM, Close: nan, RSI(talib): nan
+KO, Close: nan, RSI(talib): nan
+MRK, Close: nan, RSI(talib): nan
+VZ, Close: nan, RSI(talib): nan
+WMT, Close: nan, RSI(talib): nan
+XOM, Close: nan, RSI(talib): nan
+CL, Close: nan, RSI(talib): nan
+ON, Close: nan, RSI(talib): nan
+BKR, Close: nan, RSI(talib): nan
+ODFL, Close: nan, RSI(talib): nan
+HWM, Close: nan, RSI(talib): nan
+CAT, Close: nan, RSI(talib): nan
+IBKR, Close: nan, RSI(talib): nan
+--------------
+CRM failed (Can't get stock info: CRM, Current Price: nan, 52 Week High: 276.8, 52 Week Low: 161.4, 50 Day Average: 179.62, 150 Day Average: 205.57738441144917, 200 Day Average: 217.85, RSI: None).

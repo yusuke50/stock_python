@@ -1,0 +1,15 @@
+--------------
+Fri Jun 12 19:05:44 2026 US Stock List
+--------------
+AMAT, Close: 552.64, RSI(talib): 72.12
+LRCX, Close: 362.52, RSI(talib): 67.05
+ASML, Close: 1899.48, RSI(talib): 68.63
+MAR, Close: 396.89, RSI(talib): 66.87
+ILMN, Close: 166.21, RSI(talib): 66.50
+FTNT, Close: 145.06, RSI(talib): 69.18
+KDP, Close: 31.23, RSI(talib): 68.18
+MNST, Close: 92.03, RSI(talib): 70.53
+ODFL, Close: 247.76, RSI(talib): 67.93
+--------------
+SIG failed (Can't get stock info: SIG, Current Price: 91.75, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 88.80497133481752, 200 Day Average: None, RSI: 60.41708180593507).
+CAT failed (Can't get stock info: CAT, Current Price: 897.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 721.2100347772345, 200 Day Average: None, RSI: 52.34056841772077).

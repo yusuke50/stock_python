@@ -1,0 +1,19 @@
+--------------
+Mon Jun 15 19:05:32 2026 US Stock List
+--------------
+AMAT, Close: 567.25, RSI(talib): 73.89
+LRCX, Close: 366.81, RSI(talib): 68.20
+ASML, Close: 1863.55, RSI(talib): 66.06
+MAR, Close: 402.54, RSI(talib): 68.95
+KLAC, Close: 254.54, RSI(talib): 75.50
+FTNT, Close: 146.30, RSI(talib): 69.70
+KDP, Close: 31.71, RSI(talib): 71.50
+MNST, Close: 92.83, RSI(talib): 71.82
+JNJ, Close: 240.87, RSI(talib): 66.43
+ROKU, Close: 143.66, RSI(talib): 68.79
+ODFL, Close: 245.75, RSI(talib): 65.17
+--------------
+VRSK failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/VRSK/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/VRSK/key-statistics", waiting until "domcontentloaded"
+).

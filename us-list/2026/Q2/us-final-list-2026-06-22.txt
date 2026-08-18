@@ -1,0 +1,16 @@
+--------------
+Mon Jun 22 19:22:59 2026 US Stock List
+--------------
+INTC, Close: 133.99, RSI(talib): 65.61
+AMAT, Close: 617.11, RSI(talib): 75.43
+MU, Close: 1133.99, RSI(talib): 66.94
+LRCX, Close: 389.04, RSI(talib): 68.81
+MRNA, Close: 63.96, RSI(talib): 74.05
+ASML, Close: 1929.68, RSI(talib): 66.04
+KLAC, Close: 259.56, RSI(talib): 69.53
+FTNT, Close: 144.73, RSI(talib): 65.29
+CAT, Close: 985.82, RSI(talib): 65.31
+IBKR, Close: 96.00, RSI(talib): 72.20
+--------------
+ISRG failed (Can't get stock info: ISRG, Current Price: None, 52 Week High: 603.88, 52 Week Low: 396.68, 50 Day Average: 439.73, 150 Day Average: 492.0980983250578, 200 Day Average: 490.69, RSI: 38.43731601451206).
+BKR failed (Can't get stock info: BKR, Current Price: None, 52 Week High: 70.41, 52 Week Low: 37.38, 50 Day Average: 64.29, 150 Day Average: 58.06738504221742, 200 Day Average: 55.15, RSI: 34.48551632491325).

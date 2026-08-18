@@ -1,0 +1,69 @@
+--------------
+Wed Jun 10 19:05:48 2026 US Stock List
+--------------
+AAPL, Close: nan, RSI(talib): nan
+AMZN, Close: nan, RSI(talib): nan
+NVDA, Close: nan, RSI(talib): nan
+GOOG, Close: nan, RSI(talib): nan
+GOOGL, Close: nan, RSI(talib): nan
+AVGO, Close: nan, RSI(talib): nan
+COST, Close: nan, RSI(talib): nan
+CSCO, Close: nan, RSI(talib): nan
+INTC, Close: nan, RSI(talib): nan
+AMD, Close: nan, RSI(talib): nan
+TXN, Close: nan, RSI(talib): nan
+AMAT, Close: nan, RSI(talib): nan
+SBUX, Close: nan, RSI(talib): nan
+MU, Close: nan, RSI(talib): nan
+ADI, Close: nan, RSI(talib): nan
+CSX, Close: nan, RSI(talib): nan
+LRCX, Close: nan, RSI(talib): nan
+GILD, Close: nan, RSI(talib): nan
+MRNA, Close: nan, RSI(talib): nan
+ABNB, Close: nan, RSI(talib): nan
+MRVL, Close: nan, RSI(talib): nan
+ASML, Close: nan, RSI(talib): nan
+MAR, Close: nan, RSI(talib): nan
+KLAC, Close: nan, RSI(talib): nan
+ILMN, Close: nan, RSI(talib): nan
+FTNT, Close: nan, RSI(talib): nan
+NXPI, Close: nan, RSI(talib): nan
+AEP, Close: nan, RSI(talib): nan
+MCHP, Close: nan, RSI(talib): nan
+MNST, Close: nan, RSI(talib): nan
+AZN, Close: nan, RSI(talib): nan
+EA, Close: nan, RSI(talib): nan
+ALGN, Close: nan, RSI(talib): nan
+EBAY, Close: nan, RSI(talib): nan
+ROST, Close: nan, RSI(talib): nan
+PCAR, Close: nan, RSI(talib): nan
+BIIB, Close: nan, RSI(talib): nan
+ZM, Close: nan, RSI(talib): nan
+JNJ, Close: nan, RSI(talib): nan
+BA, Close: nan, RSI(talib): nan
+BMY, Close: nan, RSI(talib): nan
+CVX, Close: nan, RSI(talib): nan
+DAL, Close: nan, RSI(talib): nan
+KO, Close: nan, RSI(talib): nan
+MRK, Close: nan, RSI(talib): nan
+VZ, Close: nan, RSI(talib): nan
+WMT, Close: nan, RSI(talib): nan
+XOM, Close: nan, RSI(talib): nan
+CL, Close: nan, RSI(talib): nan
+ON, Close: nan, RSI(talib): nan
+GFS, Close: nan, RSI(talib): nan
+BKR, Close: nan, RSI(talib): nan
+FANG, Close: nan, RSI(talib): nan
+ODFL, Close: nan, RSI(talib): nan
+LHX, Close: nan, RSI(talib): nan
+RKLB, Close: nan, RSI(talib): nan
+LUNR, Close: nan, RSI(talib): nan
+HWM, Close: nan, RSI(talib): nan
+CAT, Close: nan, RSI(talib): nan
+IBKR, Close: nan, RSI(talib): nan
+--------------
+HON failed (Can't get stock info: HON, Current Price: nan, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 216.7874505486287, 200 Day Average: None, RSI: nan).
+KHC failed (Can't get stock info: KHC, Current Price: nan, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 22.953694477887222, 200 Day Average: None, RSI: nan).
+ORLY failed (Can't get stock info: ORLY, Current Price: nan, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 93.75499967118384, 200 Day Average: None, RSI: nan).
+ROKU failed (Can't get stock info: ROKU, Current Price: nan, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 105.51940149656484, 200 Day Average: None, RSI: nan).
+ENPH failed (Can't get stock info: ENPH, Current Price: nan, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 39.683169029128386, 200 Day Average: None, RSI: nan).

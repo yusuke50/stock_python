@@ -1,0 +1,9 @@
+--------------
+Thu Jun 18 19:05:46 2026 US Stock List
+--------------
+AMAT, Close: 592.92, RSI(talib): 73.27
+LRCX, Close: 374.18, RSI(talib): 65.40
+MRNA, Close: 61.80, RSI(talib): 71.46
+HWM, Close: 283.23, RSI(talib): 66.32
+IBKR, Close: 95.09, RSI(talib): 68.66
+--------------

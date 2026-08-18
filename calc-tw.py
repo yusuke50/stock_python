@@ -111,7 +111,7 @@ async def process_stock(stock_name, semaphore):
                     flag_check = False
                 elif current_price < fifty_two_week_high * 0.75:
                     flag_check = False
-                elif RSI_value < 60:
+                elif RSI_value < 65:
                     flag_check = False
             else:
                 flag_check = False

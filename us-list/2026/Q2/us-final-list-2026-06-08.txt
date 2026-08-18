@@ -1,0 +1,10 @@
+--------------
+Mon Jun  8 19:05:48 2026 US Stock List
+--------------
+MRVL, Close: 263.47, RSI(talib): 65.30
+MAR, Close: 392.51, RSI(talib): 69.82
+ILMN, Close: 162.32, RSI(talib): 66.00
+FTNT, Close: 144.68, RSI(talib): 73.14  !
+MNST, Close: 89.55, RSI(talib): 66.59   !
+ODFL, Close: 242.57, RSI(talib): 74.24
+--------------

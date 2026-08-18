@@ -1,0 +1,26 @@
+--------------
+Mon Jun  1 19:05:49 2026 US Stock List
+--------------
+AAPL, Close: 312.06, RSI(talib): 79.62
+AVGO, Close: 446.77, RSI(talib): 68.72
+CSCO, Close: 120.42, RSI(talib): 76.72
+AMD, Close: 516.10, RSI(talib): 76.88
+HON, Close: 237.86, RSI(talib): 71.33
+MU, Close: 971.00, RSI(talib): 79.07
+LRCX, Close: 318.18, RSI(talib): 68.11
+MRVL, Close: 205.00, RSI(talib): 70.52
+ILMN, Close: 162.96, RSI(talib): 78.95
+FTNT, Close: 137.97, RSI(talib): 80.06
+NXPI, Close: 321.35, RSI(talib): 66.58
+CRWD, Close: 731.00, RSI(talib): 83.95
+MNST, Close: 88.08, RSI(talib): 67.11
+DDOG, Close: 247.35, RSI(talib): 87.54
+ODFL, Close: 225.15, RSI(talib): 68.27
+DAL, Close: 82.48, RSI(talib): 74.84
+ROKU, Close: 130.18, RSI(talib): 66.66
+ON, Close: 120.62, RSI(talib): 66.16
+ENPH, Close: 68.36, RSI(talib): 78.18
+ODFL, Close: 225.15, RSI(talib): 68.27
+RKLB, Close: 143.48, RSI(talib): 68.68
+LUNR, Close: 43.83, RSI(talib): 69.16
+--------------

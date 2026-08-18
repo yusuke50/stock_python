@@ -1,0 +1,17 @@
+--------------
+Mon Jun 29 19:04:41 2026 US Stock List
+--------------
+MRNA, Close: 67.27, RSI(talib): 72.04
+ILMN, Close: 176.55, RSI(talib): 68.67
+FTNT, Close: 151.35, RSI(talib): 70.14
+KDP, Close: 33.40, RSI(talib): 74.11
+AEP, Close: 138.69, RSI(talib): 67.91
+MNST, Close: 96.38, RSI(talib): 75.62
+EA, Close: 205.25, RSI(talib): 69.53
+BIIB, Close: 216.03, RSI(talib): 69.94
+JNJ, Close: 254.66, RSI(talib): 72.29
+DAL, Close: 92.57, RSI(talib): 74.79
+LLY, Close: 1208.12, RSI(talib): 73.50
+MRK, Close: 128.66, RSI(talib): 72.44
+GE, Close: 369.00, RSI(talib): 73.18
+--------------

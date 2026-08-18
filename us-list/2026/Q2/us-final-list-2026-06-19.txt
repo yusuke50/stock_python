@@ -1,0 +1,13 @@
+--------------
+Fri Jun 19 19:05:43 2026 US Stock List
+--------------
+AMAT, Close: 617.11, RSI(talib): 75.89
+MU, Close: 1133.99, RSI(talib): 66.77
+LRCX, Close: 389.04, RSI(talib): 68.41
+MRNA, Close: 63.96, RSI(talib): 73.67
+ASML, Close: 1929.68, RSI(talib): 65.44
+KLAC, Close: 259.56, RSI(talib): 69.77
+CAT, Close: 985.82, RSI(talib): 65.84
+IBKR, Close: 96.00, RSI(talib): 69.94
+--------------
+GOOGL failed (Can't get stock info: GOOGL, Current Price: 368.0299987792969, 52 Week High: 408.61, 52 Week Low: 162.0, 50 Day Average: 367.37, 150 Day Average: 331.91638162252787, 200 Day Average: 311.1, RSI: None).

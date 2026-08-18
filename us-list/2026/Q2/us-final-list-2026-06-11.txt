@@ -1,0 +1,8 @@
+--------------
+Thu Jun 11 19:05:39 2026 US Stock List
+--------------
+KDP, Close: 31.70, RSI(talib): 75.88
+MNST, Close: 91.21, RSI(talib): 68.77
+KO, Close: 83.59, RSI(talib): 65.75
+--------------
+ADSK failed (Can't get stock info: ADSK, Current Price: 221.27999877929688, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 257.3818883295659, 200 Day Average: None, RSI: 39.915413445710385).

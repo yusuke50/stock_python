@@ -1,0 +1,21 @@
+--------------
+Tue Jun 30 19:04:36 2026 US Stock List
+--------------
+AMAT, Close: 694.64, RSI(talib): 70.41
+MRNA, Close: 69.70, RSI(talib): 74.16
+KLAC, Close: 278.39, RSI(talib): 66.54
+ILMN, Close: 181.10, RSI(talib): 70.68
+FTNT, Close: 155.42, RSI(talib): 73.12
+KDP, Close: 33.50, RSI(talib): 74.96
+AEP, Close: 137.97, RSI(talib): 65.23
+MNST, Close: 97.64, RSI(talib): 77.71
+EA, Close: 205.05, RSI(talib): 67.45
+BIIB, Close: 216.63, RSI(talib): 70.62
+SIRI, Close: 29.24, RSI(talib): 65.31
+OKTA, Close: 131.31, RSI(talib): 69.82
+JNJ, Close: 258.51, RSI(talib): 75.01
+DAL, Close: 93.17, RSI(talib): 75.20
+LLY, Close: 1229.93, RSI(talib): 75.21
+MRK, Close: 129.38, RSI(talib): 72.65
+GE, Close: 373.71, RSI(talib): 75.13
+--------------

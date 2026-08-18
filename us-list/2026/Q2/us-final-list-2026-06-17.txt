@@ -1,0 +1,22 @@
+--------------
+Wed Jun 17 19:05:35 2026 US Stock List
+--------------
+GOOG, Close: nan, RSI(talib): nan
+AMAT, Close: 568.23, RSI(talib): 70.19
+MRNA, Close: nan, RSI(talib): nan
+ABNB, Close: nan, RSI(talib): nan
+FTNT, Close: 147.02, RSI(talib): 68.03
+KDP, Close: 32.00, RSI(talib): 72.81
+MNST, Close: 92.95, RSI(talib): 70.15
+ROKU, Close: nan, RSI(talib): nan
+GFS, Close: nan, RSI(talib): nan
+FANG, Close: nan, RSI(talib): nan
+ENPH, Close: nan, RSI(talib): nan
+RKLB, Close: nan, RSI(talib): nan
+LUNR, Close: nan, RSI(talib): nan
+IBKR, Close: 93.10, RSI(talib): 65.70
+--------------
+ZM failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/ZM/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/ZM/key-statistics", waiting until "domcontentloaded"
+).
