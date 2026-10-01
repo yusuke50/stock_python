@@ -1,0 +1,7 @@
+--------------
+Wed Jul 22 19:09:35 2026 US Stock List
+--------------
+EA, Close: 209.04, RSI(talib): 79.34
+CVX, Close: 191.07, RSI(talib): 68.94
+XOM, Close: 151.71, RSI(talib): 66.64
+--------------

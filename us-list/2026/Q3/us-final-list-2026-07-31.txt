@@ -1,0 +1,11 @@
+--------------
+Fri Jul 31 19:08:55 2026 US Stock List
+--------------
+AMGN, Close: 387.64, RSI(talib): 68.33
+ILMN, Close: 205.09, RSI(talib): 66.20
+EA, Close: 209.59, RSI(talib): 78.24
+ROST, Close: 252.57, RSI(talib): 73.12
+BMY, Close: 64.86, RSI(talib): 70.96
+GM, Close: 88.40, RSI(talib): 66.91
+KO, Close: 88.49, RSI(talib): 66.49
+--------------

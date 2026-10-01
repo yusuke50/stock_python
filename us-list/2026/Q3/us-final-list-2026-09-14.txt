@@ -1,0 +1,6 @@
+--------------
+Mon Sep 14 19:10:01 2026 US Stock List
+--------------
+SWKS, Close: 88.35, RSI(talib): 84.95
+CVX, Close: 214.06, RSI(talib): 70.15
+--------------

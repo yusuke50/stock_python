@@ -1,0 +1,11 @@
+--------------
+Wed Sep  9 23:26:20 2026 US Stock List
+--------------
+SWKS, Close: 74.42, RSI(talib): 72.44
+CVX, Close: 213.09, RSI(talib): 67.31
+--------------
+HII failed (Can't get stock info: HII, Current Price: 284.6000061035156, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 339.64460923936633, 200 Day Average: None, RSI: 40.27470132712219).
+PANW failed (Can't get stock info: PANW, Current Price: 334.07000732421875, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 252.85201379987927, 200 Day Average: None, RSI: 44.407809404150164).
+MAR failed (Can't get stock info: MAR, Current Price: 328.010009765625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 356.783866458469, 200 Day Average: None, RSI: 30.381578157706546).
+CRM failed (Can't get stock info: CRM, Current Price: 248.47000122070312, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 185.38883802625867, 200 Day Average: None, RSI: 67.34885195437622).
+XYZ failed (Can't get stock info: XYZ, Current Price: 78.625, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 70.90236065122816, 200 Day Average: None, RSI: 47.42571429110819).

@@ -1,0 +1,25 @@
+--------------
+Fri Jul  3 19:04:55 2026 US Stock List
+--------------
+CSX, Close: 48.89, RSI(talib): 66.09
+MRNA, Close: 79.76, RSI(talib): 80.86
+ILMN, Close: 188.68, RSI(talib): 71.10
+FTNT, Close: 156.25, RSI(talib): 68.98
+KDP, Close: 33.30, RSI(talib): 68.26
+MNST, Close: 97.60, RSI(talib): 74.00
+EA, Close: 205.21, RSI(talib): 66.94
+BIIB, Close: 216.12, RSI(talib): 65.37
+SIRI, Close: 30.51, RSI(talib): 74.88
+OKTA, Close: 141.42, RSI(talib): 75.15
+JNJ, Close: 263.04, RSI(talib): 74.19
+DAL, Close: 92.75, RSI(talib): 72.52
+KO, Close: 84.14, RSI(talib): 65.59
+LLY, Close: 1213.91, RSI(talib): 67.74
+MRK, Close: 129.56, RSI(talib): 67.12
+CL, Close: 95.13, RSI(talib): 67.50
+GE, Close: 377.52, RSI(talib): 77.30
+--------------
+IDXX failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/IDXX/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/IDXX/key-statistics", waiting until "domcontentloaded"
+).

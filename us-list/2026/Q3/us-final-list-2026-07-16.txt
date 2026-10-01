@@ -1,0 +1,10 @@
+--------------
+Thu Jul 16 19:09:21 2026 US Stock List
+--------------
+AAPL, Close: 327.50, RSI(talib): 68.89
+PANW, Close: 354.02, RSI(talib): 65.56
+CRWD, Close: 206.77, RSI(talib): 65.77
+EA, Close: 207.27, RSI(talib): 74.56
+SIRI, Close: 30.65, RSI(talib): 68.26
+OKTA, Close: 150.86, RSI(talib): 67.94
+--------------

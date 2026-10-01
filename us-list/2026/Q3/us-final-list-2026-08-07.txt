@@ -1,0 +1,18 @@
+--------------
+Fri Aug  7 19:10:13 2026 US Stock List
+--------------
+RTX, Close: 223.25, RSI(talib): 76.61
+AMGN, Close: 404.85, RSI(talib): 69.45
+FAST, Close: 50.80, RSI(talib): 69.25
+ROST, Close: 254.31, RSI(talib): 70.56
+ROKU, Close: 150.07, RSI(talib): 73.50
+--------------
+AAPL failed (Can't get stock info: AAPL, Current Price: None, 52 Week High: 344.57, 52 Week Low: 216.58, 50 Day Average: 309.65, 150 Day Average: 281.8830735948351, 200 Day Average: 278.86, RSI: 46.247651631584276).
+DXCM failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/DXCM/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/DXCM/key-statistics", waiting until "domcontentloaded"
+).
+NKE failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/NKE/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NKE/key-statistics", waiting until "domcontentloaded"
+).

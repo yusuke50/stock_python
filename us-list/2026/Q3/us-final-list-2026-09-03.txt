@@ -1,0 +1,16 @@
+--------------
+Thu Sep  3 19:09:40 2026 US Stock List
+--------------
+AMGN, Close: 442.84, RSI(talib): 68.07
+SWKS, Close: 71.67, RSI(talib): 65.25
+CVX, Close: 211.78, RSI(talib): 74.76
+MRK, Close: 151.64, RSI(talib): 65.02
+--------------
+AEP failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/AEP/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AEP/key-statistics", waiting until "domcontentloaded"
+).
+DLTR failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/DLTR/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/DLTR/key-statistics", waiting until "domcontentloaded"
+).

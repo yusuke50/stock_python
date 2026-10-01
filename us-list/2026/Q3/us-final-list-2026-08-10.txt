@@ -1,0 +1,14 @@
+--------------
+Mon Aug 10 19:09:32 2026 US Stock List
+--------------
+RTX, Close: 223.03, RSI(talib): 75.89
+AVGO, Close: 427.76, RSI(talib): 65.58
+AMGN, Close: 410.95, RSI(talib): 71.72
+ABNB, Close: 178.07, RSI(talib): 79.87
+CRWD, Close: 214.42, RSI(talib): 66.75
+MNST, Close: nan, RSI(talib): nan
+ROST, Close: 255.23, RSI(talib): 68.18
+ZM, Close: 104.50, RSI(talib): 70.45
+ROKU, Close: 153.11, RSI(talib): 79.91
+--------------
+FAST failed (Can't get stock info: FAST, Current Price: 51.84000015258789, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 45.3324433432685, 200 Day Average: None, RSI: 72.3631553355524).

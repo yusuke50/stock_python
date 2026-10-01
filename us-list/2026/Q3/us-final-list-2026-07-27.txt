@@ -1,0 +1,11 @@
+--------------
+Mon Jul 27 19:09:29 2026 US Stock List
+--------------
+CSX, Close: 53.23, RSI(talib): 76.77
+EA, Close: 209.06, RSI(talib): 78.68
+CVX, Close: 194.79, RSI(talib): 72.65
+XOM, Close: 156.94, RSI(talib): 73.08
+FANG, Close: 204.68, RSI(talib): 66.49
+GD, Close: 386.75, RSI(talib): 69.68
+HWM, Close: 289.26, RSI(talib): 65.87
+--------------

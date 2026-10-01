@@ -1,0 +1,24 @@
+--------------
+Mon Jul  6 19:04:35 2026 US Stock List
+--------------
+CSX, Close: 48.89, RSI(talib): 67.09
+MRNA, Close: 79.76, RSI(talib): 80.36
+ILMN, Close: 188.68, RSI(talib): 71.59
+FTNT, Close: 156.25, RSI(talib): 67.57
+KDP, Close: 33.30, RSI(talib): 68.79
+MNST, Close: 97.60, RSI(talib): 74.72
+EA, Close: 205.21, RSI(talib): 68.25
+SIRI, Close: 30.51, RSI(talib): 75.44
+OKTA, Close: 141.42, RSI(talib): 74.84
+JNJ, Close: 263.04, RSI(talib): 74.62
+DAL, Close: 92.75, RSI(talib): 71.50
+KO, Close: 84.14, RSI(talib): 65.90
+LLY, Close: 1213.91, RSI(talib): 68.03
+MRK, Close: 129.56, RSI(talib): 67.52
+CL, Close: 95.13, RSI(talib): 67.24
+GE, Close: 377.52, RSI(talib): 75.96
+--------------
+MCHP failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/MCHP/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MCHP/key-statistics", waiting until "domcontentloaded"
+).

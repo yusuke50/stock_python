@@ -1,0 +1,10 @@
+--------------
+Fri Sep 18 19:09:53 2026 US Stock List
+--------------
+MRNA, Close: 158.07, RSI(talib): 66.06
+ILMN, Close: 245.18, RSI(talib): 70.43
+CRWD, Close: 245.70, RSI(talib): 65.06
+OKTA, Close: 190.02, RSI(talib): 67.53
+SWKS, Close: 91.32, RSI(talib): 68.95
+DBX, Close: 37.61, RSI(talib): 65.69
+--------------

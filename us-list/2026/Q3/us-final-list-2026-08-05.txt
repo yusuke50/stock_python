@@ -1,0 +1,23 @@
+--------------
+Wed Aug  5 19:14:42 2026 US Stock List
+--------------
+AMZN, Close: 277.42, RSI(talib): 66.96
+PANW, Close: 366.34, RSI(talib): 67.07
+FTNT, Close: 168.29, RSI(talib): 65.19
+DXCM, Close: 86.94, RSI(talib): 70.00
+CRWD, Close: 211.22, RSI(talib): 66.92
+DDOG, Close: 288.15, RSI(talib): 70.37
+EA, Close: 209.70, RSI(talib): 74.80
+FAST, Close: 49.71, RSI(talib): 65.49
+ROST, Close: 251.06, RSI(talib): 68.07
+MTCH, Close: 41.24, RSI(talib): 68.86
+ZM, Close: 102.12, RSI(talib): 66.95
+VRSN, Close: 299.20, RSI(talib): 66.11
+BMY, Close: 65.89, RSI(talib): 73.31
+ROKU, Close: 147.33, RSI(talib): 69.81
+GE, Close: 377.28, RSI(talib): 65.66
+--------------
+QCOM failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/QCOM/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/QCOM/key-statistics", waiting until "domcontentloaded"
+).

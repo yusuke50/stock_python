@@ -1,0 +1,11 @@
+--------------
+Wed Sep 16 19:09:38 2026 US Stock List
+--------------
+MTCH, Close: 44.40, RSI(talib): 68.85
+OKTA, Close: 190.45, RSI(talib): 68.72
+SWKS, Close: 90.00, RSI(talib): 71.76
+CVX, Close: 217.77, RSI(talib): 70.37
+VZ, Close: 51.45, RSI(talib): 69.82
+XOM, Close: 169.32, RSI(talib): 66.26
+DBX, Close: 37.63, RSI(talib): 66.26
+--------------

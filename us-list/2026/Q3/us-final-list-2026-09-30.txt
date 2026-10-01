@@ -1,0 +1,10 @@
+--------------
+Wed Sep 30 19:09:28 2026 US Stock List
+--------------
+AMD, Close: 607.57, RSI(talib): 66.11
+MRNA, Close: 203.46, RSI(talib): 77.13
+ASML, Close: 1834.39, RSI(talib): 65.21
+ILMN, Close: 272.00, RSI(talib): 73.93
+CRWD, Close: 262.74, RSI(talib): 66.00
+OKTA, Close: 204.88, RSI(talib): 66.25
+--------------

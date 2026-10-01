@@ -1,0 +1,11 @@
+--------------
+Tue Sep 22 19:09:54 2026 US Stock List
+--------------
+INTC, Close: 121.78, RSI(talib): 72.48
+AMD, Close: 615.52, RSI(talib): 71.84
+MRNA, Close: 172.94, RSI(talib): 70.00
+CRWD, Close: 249.35, RSI(talib): 65.67
+VRSN, Close: 308.18, RSI(talib): 67.76
+OKTA, Close: 191.33, RSI(talib): 66.22
+SWKS, Close: 88.74, RSI(talib): 65.39
+--------------

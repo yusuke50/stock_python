@@ -1,0 +1,19 @@
+--------------
+Thu Jul  2 19:04:55 2026 US Stock List
+--------------
+MRNA, Close: 72.50, RSI(talib): 76.07
+ILMN, Close: 183.89, RSI(talib): 68.42
+FTNT, Close: 158.98, RSI(talib): 73.61
+KDP, Close: 33.37, RSI(talib): 69.10
+MNST, Close: 97.35, RSI(talib): 73.53
+EA, Close: 205.45, RSI(talib): 70.09
+SIRI, Close: 29.95, RSI(talib): 71.53
+OKTA, Close: 140.46, RSI(talib): 74.67
+JNJ, Close: 253.98, RSI(talib): 68.60
+DAL, Close: 93.06, RSI(talib): 73.70
+GE, Close: 374.94, RSI(talib): 76.35
+--------------
+AMAT failed (Page.goto: net::ERR_SOCKET_NOT_CONNECTED at https://finance.yahoo.com/quote/AMAT/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMAT/key-statistics", waiting until "domcontentloaded"
+).

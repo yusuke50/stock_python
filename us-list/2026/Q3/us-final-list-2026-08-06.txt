@@ -1,0 +1,12 @@
+--------------
+Thu Aug  6 19:09:32 2026 US Stock List
+--------------
+AMGN, Close: 407.83, RSI(talib): 72.14
+CRWD, Close: 209.86, RSI(talib): 65.58
+DDOG, Close: 283.17, RSI(talib): 65.96
+FAST, Close: 49.99, RSI(talib): 66.48
+ROST, Close: 253.22, RSI(talib): 69.73
+GM, Close: 89.16, RSI(talib): 65.37
+ROKU, Close: 146.96, RSI(talib): 68.30
+GE, Close: 381.22, RSI(talib): 67.32
+--------------

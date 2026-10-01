@@ -1,0 +1,15 @@
+--------------
+Fri Aug 14 19:09:01 2026 US Stock List
+--------------
+RTX, Close: 220.48, RSI(talib): 67.60
+AMGN, Close: 417.84, RSI(talib): 73.01
+ABNB, Close: 185.13, RSI(talib): 76.65
+PANW, Close: 396.00, RSI(talib): 73.38
+DXCM, Close: 91.48, RSI(talib): 71.12
+CRWD, Close: 225.53, RSI(talib): 70.32
+FAST, Close: 51.34, RSI(talib): 65.83
+ZM, Close: 109.84, RSI(talib): 72.10
+OKTA, Close: 154.95, RSI(talib): 65.42
+MRK, Close: 135.55, RSI(talib): 70.20
+ROKU, Close: 154.08, RSI(talib): 72.96
+--------------

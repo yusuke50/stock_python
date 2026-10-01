@@ -1,0 +1,16 @@
+--------------
+Tue Jul  7 19:04:44 2026 US Stock List
+--------------
+CSX, Close: 48.81, RSI(talib): 65.87
+MRNA, Close: 81.80, RSI(talib): 80.73
+ILMN, Close: 194.33, RSI(talib): 74.20
+FTNT, Close: 162.35, RSI(talib): 71.38
+MNST, Close: 97.37, RSI(talib): 69.69
+EA, Close: 205.21, RSI(talib): 69.06
+SIRI, Close: 30.75, RSI(talib): 76.42
+OKTA, Close: 148.60, RSI(talib): 77.87
+JNJ, Close: 259.33, RSI(talib): 69.47
+DAL, Close: 91.68, RSI(talib): 67.46
+LLY, Close: 1200.06, RSI(talib): 65.73
+GE, Close: 378.68, RSI(talib): 77.61
+--------------

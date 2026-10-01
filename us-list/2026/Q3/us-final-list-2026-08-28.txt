@@ -1,0 +1,15 @@
+--------------
+Fri Aug 28 19:11:35 2026 US Stock List
+--------------
+AMGN, Close: 436.99, RSI(talib): 68.67
+MRNA, Close: 142.77, RSI(talib): 65.32
+ILMN, Close: 227.69, RSI(talib): 72.89
+OKTA, Close: 172.91, RSI(talib): 70.49
+--------------
+MSFT failed (Can't get stock info: MSFT, Current Price: 505.05999755859375, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 411.17039794921874, 200 Day Average: None, RSI: 72.9163762971124).
+AEP failed (Can't get stock info: AEP, Current Price: 122.70999908447266, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 128.83002661343278, 200 Day Average: None, RSI: 37.027946708375396).
+EA failed (Can't get stock info: EA, Current Price: 209.6999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.56666310628256, 200 Day Average: None, RSI: nan).
+XYZ failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/XYZ/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/XYZ/key-statistics", waiting until "domcontentloaded"
+).

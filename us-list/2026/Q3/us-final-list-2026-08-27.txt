@@ -1,0 +1,12 @@
+--------------
+Thu Aug 27 19:11:45 2026 US Stock List
+--------------
+AMGN, Close: 440.34, RSI(talib): 71.96
+MRNA, Close: 149.66, RSI(talib): 68.23
+ABNB, Close: 188.07, RSI(talib): 68.95
+ILMN, Close: 224.84, RSI(talib): 71.48
+MTCH, Close: 42.07, RSI(talib): 65.71
+MRK, Close: 153.10, RSI(talib): 69.72
+ROKU, Close: 158.60, RSI(talib): 73.49
+--------------
+EA failed (Can't get stock info: EA, Current Price: 209.6999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.56666310628256, 200 Day Average: None, RSI: nan).

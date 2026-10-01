@@ -162,7 +162,7 @@ async def main():
         divisor = 100
 
         for stock in stock_names:
-            if re.search(r"^00\w+\.TW$", stock):
+            if re.search(r"^00\w+\.TWO?$", stock):
                 exception_list.append(f"{stock} (Exception)")
             else:
                 result = await process_stock(stock, semaphore)

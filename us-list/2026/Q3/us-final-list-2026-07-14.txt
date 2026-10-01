@@ -1,0 +1,11 @@
+--------------
+Tue Jul 14 19:09:56 2026 US Stock List
+--------------
+CSX, Close: 49.64, RSI(talib): 68.54
+ILMN, Close: 190.05, RSI(talib): 65.67
+DXCM, Close: 76.35, RSI(talib): 65.44
+EA, Close: 206.35, RSI(talib): 70.34
+SIRI, Close: 30.67, RSI(talib): 71.13
+GD, Close: 372.78, RSI(talib): 65.32
+--------------
+AZN failed (Can't get stock info: AZN, Current Price: 169.47000122070312, 52 Week High: 212.71, 52 Week Low: 137.22, 50 Day Average: 183.63, 150 Day Average: 188.9375561996245, 200 Day Average: 184.24, RSI: None).

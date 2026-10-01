@@ -1,0 +1,13 @@
+--------------
+Tue Jul 28 19:09:43 2026 US Stock List
+--------------
+AAPL, Close: 336.91, RSI(talib): 65.04
+EA, Close: 209.07, RSI(talib): 78.22
+ROST, Close: 243.35, RSI(talib): 65.89
+JNJ, Close: 265.95, RSI(talib): 65.54
+BMY, Close: 62.56, RSI(talib): 65.10
+GM, Close: 87.04, RSI(talib): 68.66
+XOM, Close: 154.77, RSI(talib): 67.31
+GD, Close: 389.14, RSI(talib): 71.31
+--------------
+LULU failed (Can't get stock info: LULU, Current Price: 117.83000183105469, 52 Week High: 225.98, 52 Week Low: 104.44, 50 Day Average: 118.74, 150 Day Average: 151.95958016135475, 200 Day Average: 160.13, RSI: None).

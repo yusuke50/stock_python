@@ -1,0 +1,19 @@
+--------------
+Fri Sep 25 19:15:34 2026 US Stock List
+--------------
+INTC, Close: 127.39, RSI(talib): 74.40
+AMD, Close: 629.26, RSI(talib): 72.58
+MRNA, Close: 194.82, RSI(talib): 75.44
+ILMN, Close: 273.90, RSI(talib): 76.41
+FTNT, Close: 178.67, RSI(talib): 65.54
+CRWD, Close: 259.67, RSI(talib): 68.14
+OKTA, Close: 206.64, RSI(talib): 72.14
+--------------
+MELI failed (Page.goto: net::ERR_CONNECTION_RESET at https://finance.yahoo.com/quote/MELI/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/MELI/key-statistics", waiting until "domcontentloaded"
+).
+DAL failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/DAL/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/DAL/key-statistics", waiting until "domcontentloaded"
+).

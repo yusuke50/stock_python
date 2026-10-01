@@ -1,0 +1,14 @@
+--------------
+Mon Aug 17 19:09:32 2026 US Stock List
+--------------
+RTX, Close: 222.97, RSI(talib): 71.89
+AMGN, Close: 415.21, RSI(talib): 72.06
+ABNB, Close: 184.06, RSI(talib): 74.55
+PANW, Close: 384.27, RSI(talib): 66.07
+DXCM, Close: 89.75, RSI(talib): 66.97
+MRK, Close: 135.84, RSI(talib): 71.22
+ROKU, Close: 157.68, RSI(talib): 79.01
+GD, Close: 395.78, RSI(talib): 66.81
+--------------
+INTU failed (Can't get stock info: INTU, Current Price: 345.6600036621094, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 370.5448124143812, 200 Day Average: None, RSI: 65.80809677517001).
+EA failed (Can't get stock info: EA, Current Price: 209.6999969482422, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 209.56666310628256, 200 Day Average: None, RSI: nan).

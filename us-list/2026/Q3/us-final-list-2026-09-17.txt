@@ -1,0 +1,6 @@
+--------------
+Thu Sep 17 19:09:37 2026 US Stock List
+--------------
+OKTA, Close: 188.12, RSI(talib): 66.68
+DBX, Close: 37.74, RSI(talib): 66.66
+--------------

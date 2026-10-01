@@ -1,0 +1,7 @@
+--------------
+Wed Sep  2 19:10:24 2026 US Stock List
+--------------
+AMGN, Close: 438.12, RSI(talib): 65.96
+MRNA, Close: 154.27, RSI(talib): 66.59
+CVX, Close: 211.05, RSI(talib): 74.18
+--------------

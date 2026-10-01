@@ -1,0 +1,16 @@
+--------------
+Thu Aug 13 19:09:24 2026 US Stock List
+--------------
+RTX, Close: 222.76, RSI(talib): 73.24
+AMGN, Close: 416.18, RSI(talib): 72.35
+VRTX, Close: 525.73, RSI(talib): 70.36
+ABNB, Close: 180.10, RSI(talib): 74.30
+PANW, Close: 387.01, RSI(talib): 71.08
+DXCM, Close: 90.80, RSI(talib): 70.36
+CRWD, Close: 221.78, RSI(talib): 68.51
+FAST, Close: 52.22, RSI(talib): 72.90
+ZM, Close: 105.13, RSI(talib): 66.74
+MRK, Close: 132.92, RSI(talib): 65.93
+ROKU, Close: 151.79, RSI(talib): 68.90
+--------------
+HWM failed (Can't get stock info: HWM, Current Price: 281.6300048828125, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 253.81624200608996, 200 Day Average: None, RSI: 51.25848011194114).

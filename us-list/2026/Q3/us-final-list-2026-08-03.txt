@@ -1,0 +1,11 @@
+--------------
+Mon Aug  3 19:09:38 2026 US Stock List
+--------------
+AMZN, Close: 271.58, RSI(talib): 67.24
+ILMN, Close: 205.10, RSI(talib): 65.82
+DXCM, Close: 83.45, RSI(talib): 67.92
+EA, Close: 209.86, RSI(talib): 77.83
+ROST, Close: 251.07, RSI(talib): 69.41
+BMY, Close: 65.31, RSI(talib): 71.01
+GM, Close: 88.86, RSI(talib): 66.99
+--------------

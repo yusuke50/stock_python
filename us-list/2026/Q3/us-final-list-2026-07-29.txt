@@ -1,0 +1,15 @@
+--------------
+Wed Jul 29 19:09:22 2026 US Stock List
+--------------
+AAPL, Close: 340.08, RSI(talib): 67.32
+AMGN, Close: 393.10, RSI(talib): 74.23
+EA, Close: 208.87, RSI(talib): 74.43
+ROST, Close: 251.03, RSI(talib): 72.25
+SIRI, Close: 31.68, RSI(talib): 65.65
+JNJ, Close: 266.73, RSI(talib): 66.39
+BMY, Close: 63.60, RSI(talib): 69.33
+GM, Close: 90.30, RSI(talib): 73.07
+KO, Close: 88.27, RSI(talib): 67.38
+VZ, Close: 48.19, RSI(talib): 69.28
+GD, Close: 393.19, RSI(talib): 74.69
+--------------

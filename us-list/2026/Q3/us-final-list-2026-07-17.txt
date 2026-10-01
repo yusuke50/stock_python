@@ -1,0 +1,10 @@
+--------------
+Fri Jul 17 19:09:25 2026 US Stock List
+--------------
+AAPL, Close: 333.26, RSI(talib): 71.54
+CSX, Close: 50.89, RSI(talib): 71.40
+PANW, Close: 353.99, RSI(talib): 65.54
+MNST, Close: 99.94, RSI(talib): 68.74
+EA, Close: 207.84, RSI(talib): 76.97
+SIRI, Close: 31.22, RSI(talib): 72.00
+--------------

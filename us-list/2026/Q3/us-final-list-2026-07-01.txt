@@ -1,0 +1,22 @@
+--------------
+Wed Jul  1 19:04:28 2026 US Stock List
+--------------
+AMD, Close: 580.91, RSI(talib): 65.49
+AMAT, Close: 723.00, RSI(talib): 72.46
+LRCX, Close: 433.33, RSI(talib): 67.44
+MRNA, Close: 70.03, RSI(talib): 74.01
+KLAC, Close: 301.71, RSI(talib): 71.05
+FTNT, Close: 153.62, RSI(talib): 69.92
+KDP, Close: 32.73, RSI(talib): 65.52
+MNST, Close: 96.12, RSI(talib): 71.15
+EA, Close: 205.04, RSI(talib): 67.67
+BIIB, Close: 216.06, RSI(talib): 69.55
+SIRI, Close: 29.54, RSI(talib): 68.70
+OKTA, Close: 136.45, RSI(talib): 72.62
+JNJ, Close: 253.97, RSI(talib): 68.60
+DAL, Close: 93.66, RSI(talib): 75.93
+LLY, Close: 1199.43, RSI(talib): 66.77
+MRK, Close: 128.50, RSI(talib): 69.82
+GE, Close: 373.73, RSI(talib): 75.92
+--------------
+AXP failed (Can't get stock info: AXP, Current Price: 338.25, 52 Week High: None, 52 Week Low: None, 50 Day Average: None, 150 Day Average: 333.66044840779335, 200 Day Average: None, RSI: 61.42091758401455).

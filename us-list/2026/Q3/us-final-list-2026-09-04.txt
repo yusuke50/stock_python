@@ -1,0 +1,15 @@
+--------------
+Fri Sep  4 19:09:55 2026 US Stock List
+--------------
+AMGN, Close: 444.12, RSI(talib): 68.91
+CVX, Close: 211.32, RSI(talib): 73.63
+MRK, Close: 152.34, RSI(talib): 65.96
+--------------
+AMD failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/AMD/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/AMD/key-statistics", waiting until "domcontentloaded"
+).
+NOC failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/NOC/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/NOC/key-statistics", waiting until "domcontentloaded"
+).

@@ -1,0 +1,17 @@
+--------------
+Thu Jul 30 19:09:13 2026 US Stock List
+--------------
+AAPL, Close: 338.19, RSI(talib): 65.31
+AMGN, Close: 387.64, RSI(talib): 68.33
+MDLZ, Close: 64.99, RSI(talib): 66.48
+EA, Close: 208.91, RSI(talib): 74.66
+ROST, Close: 251.96, RSI(talib): 72.77
+SIRI, Close: 32.59, RSI(talib): 71.00
+BMY, Close: 63.10, RSI(talib): 66.56
+GM, Close: 89.40, RSI(talib): 70.13
+KO, Close: 89.08, RSI(talib): 68.86
+--------------
+WFC failed (Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://finance.yahoo.com/quote/WFC/key-statistics
+Call log:
+  - navigating to "https://finance.yahoo.com/quote/WFC/key-statistics", waiting until "domcontentloaded"
+).
