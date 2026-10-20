@@ -3,17 +3,41 @@ import asyncio
 from playwright.async_api import async_playwright
 
 
+_playwright = None
+_browser = None
+_browser_lock = asyncio.Lock()
+
+
+async def _get_browser():
+    global _playwright, _browser
+    async with _browser_lock:
+        if _browser is None or not _browser.is_connected():
+            if _playwright is None:
+                _playwright = await async_playwright().start()
+            _browser = await _playwright.chromium.launch(channel="msedge", headless=True)
+    return _browser
+
+
+async def close_browser():
+    global _playwright, _browser
+    if _browser is not None:
+        await _browser.close()
+        _browser = None
+    if _playwright is not None:
+        await _playwright.stop()
+        _playwright = None
+
+
 async def get_stock_info(stock_name):
     url = f"https://finance.yahoo.com/quote/{stock_name}/key-statistics"
 
-    async with async_playwright() as p:
-        browser = await p.chromium.launch(channel="msedge", headless=True)
-        page = await browser.new_page()
-        try:
-            await page.goto(url, timeout=60000, wait_until="domcontentloaded")
-            content = await page.content()
-        finally:
-            await browser.close()
+    browser = await _get_browser()
+    page = await browser.new_page()
+    try:
+        await page.goto(url, timeout=60000, wait_until="domcontentloaded")
+        content = await page.content()
+    finally:
+        await page.close()
 
     html = HTML(html=content)
 

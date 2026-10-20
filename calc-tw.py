@@ -6,7 +6,7 @@ import time
 import re
 import talib
 import numpy as np
-from yf_parser_module import get_stock_info
+from yf_parser_module import get_stock_info, close_browser
 import asyncio
 
 """ CHECK START """
@@ -185,7 +185,10 @@ async def main():
         return process_results
 
     start_time = time.time()
-    results = await process_with_sleep()
+    try:
+        results = await process_with_sleep()
+    finally:
+        await close_browser()
     end_time = time.time()
     print(f"Total time taken: {end_time - start_time:.2f} seconds")
 
