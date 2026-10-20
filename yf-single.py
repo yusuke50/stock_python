@@ -110,7 +110,7 @@ async def process_stock(stock_name, semaphore):
                     flag_check = False
                 elif current_price < fifty_two_week_high * 0.75:
                     flag_check = False
-                elif RSI_value < 60:
+                elif RSI_value < 65:
                     flag_check = False
             else:
                 flag_check = False
@@ -160,7 +160,7 @@ async def main():
         divisor = 100
 
         for stock in stock_names:
-            if re.search(r"^00\w+\.TW$", stock):
+            if re.search(r"^00\w+\.TWO?$", stock):
                 exception_list.append(f"{stock} (Exception)")
             else:
                 result = await process_stock(stock, semaphore)
