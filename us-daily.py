@@ -6,7 +6,6 @@ import time
 import re
 import talib
 import numpy as np
-from yf_parser_module import get_stock_info
 import asyncio
 
 """ CHECK START """
@@ -15,6 +14,28 @@ one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
 sixty_day = today - timedelta(60)
 number_regex = re.compile(",")
+
+
+async def get_price_stats(stock_name):
+    """Compute 52-week high/low and 50/200-day averages from yf.download.
+
+    Returns None when fewer than 200 trading days are available.
+    """
+    download_data = await asyncio.to_thread(
+        yf.download, stock_name, period="2y", auto_adjust=True, progress=False
+    )
+    high = download_data["High"].squeeze().dropna()
+    low = download_data["Low"].squeeze().dropna()
+    close = download_data["Close"].squeeze().dropna()
+    if len(close) < 200:
+        return None
+
+    return {
+        "fifty_two_week_high": high.iloc[-252:].max(),
+        "fifty_two_week_low": low.iloc[-252:].min(),
+        "fifty_day_average": close.iloc[-50:].mean(),
+        "two_hundred_day_average": close.iloc[-200:].mean(),
+    }
 
 
 async def process_stock(stock_name, semaphore):
@@ -52,7 +73,7 @@ async def process_stock(stock_name, semaphore):
                     f"IndexError: Unable to access the current price for {stock_name}."
                 )
 
-            stock_info = await get_stock_info(stock_name)
+            stock_info = await get_price_stats(stock_name)
             if stock_info is None:
                 raise ValueError("Can't get stock info")
 
