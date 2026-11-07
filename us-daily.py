@@ -47,7 +47,7 @@ async def process_stock(stock_name, semaphore):
             tar = yf.Ticker(stock_name)
 
             def float_convert(value):
-                if value is None:
+                if value is None or pd.isna(value):
                     return None
 
                 try:
@@ -94,7 +94,7 @@ async def process_stock(stock_name, semaphore):
             close_prices = download_data["Close"].values
             download_data["RSI"] = talib.RSI(np.ravel(close_prices), 14)
             try:
-                RSI_value = download_data["RSI"].iloc[-1]
+                RSI_value = float_convert(download_data["RSI"].iloc[-1])
             except:
                 RSI_value = None
                 print(

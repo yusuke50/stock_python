@@ -21,11 +21,13 @@ IF /I "%~1"=="US" (
   ECHO Daily TW
   python .\daily-tw-edit.py || (ECHO Error running daily-tw-edit.py & EXIT /B 1)
   python .\calc-tw.py || (ECHO Error running calc-tw.py & EXIT /B 1)
+  python .\tw-daily-minervini.py || (ECHO Error running tw-daily-minervini.py & EXIT /B 1)
 ) ELSE IF /I "%~1"=="ALL" (
   python .\us-daily.py || (ECHO Error running us-daily.py & EXIT /B 1)
   python .\us-daily-minervini.py || (ECHO Error running us-daily-minervini.py & EXIT /B 1)
   python .\daily-tw-edit.py || (ECHO Error running daily-tw-edit.py & EXIT /B 1)
   python .\calc-tw.py || (ECHO Error running calc-tw.py & EXIT /B 1)
+  python .\tw-daily-minervini.py || (ECHO Error running tw-daily-minervini.py & EXIT /B 1)
   python .\positions-monitor.py || (ECHO Error running positions-monitor.py & EXIT /B 1)
 ) ELSE (
   ECHO Invalid task: %1

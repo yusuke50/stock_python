@@ -6,6 +6,7 @@ import time
 import re
 import talib
 import numpy as np
+from yf_parser_module import get_stock_info, close_browser
 import asyncio
 
 """ CHECK START """
@@ -14,28 +15,6 @@ one_hundred_fifty_day = timedelta(210)
 that_day = today - one_hundred_fifty_day
 sixty_day = today - timedelta(60)
 no_data_count = 0
-
-
-async def get_price_stats(stock_name):
-    """Compute 52-week high/low and 50/200-day averages from yf.download.
-
-    Returns None when fewer than 200 trading days are available.
-    """
-    download_data = await asyncio.to_thread(
-        yf.download, stock_name, period="2y", auto_adjust=True, progress=False
-    )
-    high = download_data["High"].squeeze().dropna()
-    low = download_data["Low"].squeeze().dropna()
-    close = download_data["Close"].squeeze().dropna()
-    if len(close) < 200:
-        return None
-
-    return {
-        "fifty_two_week_high": high.iloc[-252:].max(),
-        "fifty_two_week_low": low.iloc[-252:].min(),
-        "fifty_day_average": close.iloc[-50:].mean(),
-        "two_hundred_day_average": close.iloc[-200:].mean(),
-    }
 
 
 async def process_stock(stock_name, semaphore):
@@ -48,7 +27,7 @@ async def process_stock(stock_name, semaphore):
             tar = yf.Ticker(stock_name)
 
             def float_convert(value):
-                if value is None:
+                if value is None or pd.isna(value):
                     return None
 
                 try:
@@ -74,7 +53,7 @@ async def process_stock(stock_name, semaphore):
                     f"IndexError: Unable to access the current price for {stock_name}."
                 )
 
-            stock_info = await get_price_stats(stock_name)
+            stock_info = await get_stock_info(stock_name)
             if stock_info is None:
                 raise ValueError(f"Can't get stock info {stock_name}")
 
@@ -101,7 +80,7 @@ async def process_stock(stock_name, semaphore):
             close_prices = download_data["Close"].values
             download_data["RSI"] = talib.RSI(np.ravel(close_prices), 14)
             try:
-                RSI_value = download_data["RSI"].iloc[-1]
+                RSI_value = float_convert(download_data["RSI"].iloc[-1])
             except:
                 RSI_value = None
                 print(
@@ -206,7 +185,10 @@ async def main():
         return process_results
 
     start_time = time.time()
-    results = await process_with_sleep()
+    try:
+        results = await process_with_sleep()
+    finally:
+        await close_browser()
     end_time = time.time()
     print(f"Total time taken: {end_time - start_time:.2f} seconds")
 
@@ -242,8 +224,6 @@ async def main():
         final_file.write("\n".join(err_list))
         final_file.write("\n")
         final_file.write("--------------\n")
-        final_file.write("Exception Stocks:\n")
-        final_file.write("\n".join(exception_list))
 
 
 if __name__ == "__main__":
